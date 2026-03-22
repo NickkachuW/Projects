@@ -14,6 +14,10 @@ from data_A_D import WORDS as WORDS_AD
 from data_E_K import WORDS as WORDS_EK
 from data_L_R import WORDS as WORDS_LR
 from data_S_Z import WORDS as WORDS_SZ
+from data_A_D_extra import WORDS as WORDS_AD2
+from data_E_K_extra import WORDS as WORDS_EK2
+from data_L_R_extra import WORDS as WORDS_LR2
+from data_S_Z_extra import WORDS as WORDS_SZ2
 
 # Merge all word dictionaries
 ALL_WORDS = {}
@@ -21,6 +25,10 @@ ALL_WORDS.update(WORDS_AD)
 ALL_WORDS.update(WORDS_EK)
 ALL_WORDS.update(WORDS_LR)
 ALL_WORDS.update(WORDS_SZ)
+ALL_WORDS.update(WORDS_AD2)
+ALL_WORDS.update(WORDS_EK2)
+ALL_WORDS.update(WORDS_LR2)
+ALL_WORDS.update(WORDS_SZ2)
 
 print(f"Total words loaded: {len(ALL_WORDS)}")
 

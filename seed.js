@@ -128,6234 +128,12276 @@ const SEED_DATA = {
     },
     {
       "id": "n22",
+      "word": "aanvang",
+      "translation": "start, beginning",
+      "article": "de"
+    },
+    {
+      "id": "n23",
       "word": "aanvulling",
       "translation": "supplement, addition",
       "article": "de"
     },
     {
-      "id": "n23",
+      "id": "n24",
       "word": "aanwezigheid",
       "translation": "presence",
       "article": "de"
     },
     {
-      "id": "n24",
+      "id": "n25",
       "word": "aanwijzing",
       "translation": "instruction, indication",
       "article": "de"
     },
     {
-      "id": "n25",
+      "id": "n26",
+      "word": "aanzet",
+      "translation": "impetus, start",
+      "article": "de"
+    },
+    {
+      "id": "n27",
       "word": "aanzien",
       "translation": "prestige; appearance",
       "article": "het"
     },
     {
-      "id": "n26",
+      "id": "n28",
+      "word": "aap",
+      "translation": "monkey",
+      "article": "de"
+    },
+    {
+      "id": "n29",
       "word": "aard",
       "translation": "nature, character",
       "article": "de"
     },
     {
-      "id": "n27",
+      "id": "n30",
       "word": "aardappel",
       "translation": "potato",
       "article": "de"
     },
     {
-      "id": "n28",
+      "id": "n31",
       "word": "aarde",
       "translation": "earth",
       "article": "de"
     },
     {
-      "id": "n29",
+      "id": "n32",
+      "word": "aarzeling",
+      "translation": "hesitation",
+      "article": "de"
+    },
+    {
+      "id": "n33",
+      "word": "academie",
+      "translation": "academy",
+      "article": "de"
+    },
+    {
+      "id": "n34",
       "word": "accent",
       "translation": "accent",
       "article": "het"
     },
     {
-      "id": "n30",
+      "id": "n35",
+      "word": "achtergrond",
+      "translation": "background",
+      "article": "de"
+    },
+    {
+      "id": "n36",
+      "word": "achterkant",
+      "translation": "back side",
+      "article": "de"
+    },
+    {
+      "id": "n37",
+      "word": "acteur",
+      "translation": "actor",
+      "article": "de"
+    },
+    {
+      "id": "n38",
       "word": "actie",
       "translation": "action",
       "article": "de"
     },
     {
-      "id": "n31",
+      "id": "n39",
       "word": "activiteit",
       "translation": "activity",
       "article": "de"
     },
     {
-      "id": "n32",
+      "id": "n40",
+      "word": "adel",
+      "translation": "nobility",
+      "article": "de"
+    },
+    {
+      "id": "n41",
       "word": "adem",
       "translation": "breath",
       "article": "de"
     },
     {
-      "id": "n33",
+      "id": "n42",
+      "word": "ademhaling",
+      "translation": "breathing, respiration",
+      "article": "de"
+    },
+    {
+      "id": "n43",
+      "word": "ader",
+      "translation": "vein",
+      "article": "de"
+    },
+    {
+      "id": "n44",
+      "word": "administratie",
+      "translation": "administration",
+      "article": "de"
+    },
+    {
+      "id": "n45",
+      "word": "adolescent",
+      "translation": "adolescent",
+      "article": "de"
+    },
+    {
+      "id": "n46",
       "word": "adres",
       "translation": "address",
       "article": "het"
     },
     {
-      "id": "n34",
+      "id": "n47",
+      "word": "advertentie",
+      "translation": "advertisement",
+      "article": "de"
+    },
+    {
+      "id": "n48",
       "word": "advies",
       "translation": "advice",
       "article": "het"
     },
     {
-      "id": "n35",
+      "id": "n49",
+      "word": "adviseur",
+      "translation": "advisor",
+      "article": "de"
+    },
+    {
+      "id": "n50",
       "word": "advocaat",
       "translation": "lawyer",
       "article": "de"
     },
     {
-      "id": "n36",
+      "id": "n51",
+      "word": "afbeelding",
+      "translation": "image, illustration",
+      "article": "de"
+    },
+    {
+      "id": "n52",
       "word": "afdeling",
       "translation": "department",
       "article": "de"
     },
     {
-      "id": "n37",
+      "id": "n53",
+      "word": "affaire",
+      "translation": "affair",
+      "article": "de"
+    },
+    {
+      "id": "n54",
+      "word": "afgevaardigde",
+      "translation": "delegate",
+      "article": "de"
+    },
+    {
+      "id": "n55",
+      "word": "afgrond",
+      "translation": "abyss",
+      "article": "de"
+    },
+    {
+      "id": "n56",
       "word": "afkeer",
       "translation": "aversion",
       "article": "de"
     },
     {
-      "id": "n38",
+      "id": "n57",
+      "word": "afkomst",
+      "translation": "origin, descent",
+      "article": "de"
+    },
+    {
+      "id": "n58",
       "word": "afloop",
       "translation": "end, outcome",
       "article": "de"
     },
     {
-      "id": "n39",
+      "id": "n59",
+      "word": "afmeting",
+      "translation": "dimension, measurement",
+      "article": "de"
+    },
+    {
+      "id": "n60",
       "word": "afscheid",
       "translation": "farewell",
       "article": "het"
     },
     {
-      "id": "n40",
+      "id": "n61",
       "word": "afspraak",
       "translation": "appointment, agreement",
       "article": "de"
     },
     {
-      "id": "n41",
+      "id": "n62",
       "word": "afstand",
       "translation": "distance",
       "article": "de"
     },
     {
-      "id": "n42",
+      "id": "n63",
+      "word": "afval",
+      "translation": "waste, garbage",
+      "article": "het"
+    },
+    {
+      "id": "n64",
       "word": "afwijking",
       "translation": "deviation",
       "article": "de"
     },
     {
-      "id": "n43",
+      "id": "n65",
       "word": "agent",
       "translation": "police officer; agent",
       "article": "de"
     },
     {
-      "id": "n44",
+      "id": "n66",
+      "word": "agressie",
+      "translation": "aggression",
+      "article": "de"
+    },
+    {
+      "id": "n67",
+      "word": "akker",
+      "translation": "field (agricultural)",
+      "article": "de"
+    },
+    {
+      "id": "n68",
+      "word": "akkoord",
+      "translation": "agreement",
+      "article": "het"
+    },
+    {
+      "id": "n69",
+      "word": "akte",
+      "translation": "deed, certificate",
+      "article": "de"
+    },
+    {
+      "id": "n70",
       "word": "alcohol",
       "translation": "alcohol",
       "article": "de"
     },
     {
-      "id": "n45",
+      "id": "n71",
+      "word": "altaar",
+      "translation": "altar",
+      "article": "het"
+    },
+    {
+      "id": "n72",
       "word": "alternatief",
       "translation": "alternative",
       "article": "het"
     },
     {
-      "id": "n46",
+      "id": "n73",
+      "word": "ambassade",
+      "translation": "embassy",
+      "article": "de"
+    },
+    {
+      "id": "n74",
+      "word": "ambassadeur",
+      "translation": "ambassador",
+      "article": "de"
+    },
+    {
+      "id": "n75",
+      "word": "ambitie",
+      "translation": "ambition",
+      "article": "de"
+    },
+    {
+      "id": "n76",
+      "word": "ambt",
+      "translation": "office, position",
+      "article": "het"
+    },
+    {
+      "id": "n77",
       "word": "ambtenaar",
       "translation": "civil servant",
       "article": "de"
     },
     {
-      "id": "n47",
+      "id": "n78",
       "word": "analyse",
       "translation": "analysis",
       "article": "de"
     },
     {
-      "id": "n48",
+      "id": "n79",
       "word": "angst",
       "translation": "fear, anxiety",
       "article": "de"
     },
     {
-      "id": "n49",
+      "id": "n80",
       "word": "antwoord",
       "translation": "answer",
       "article": "het"
     },
     {
-      "id": "n50",
+      "id": "n81",
       "word": "apparaat",
       "translation": "device, apparatus",
       "article": "het"
     },
     {
-      "id": "n51",
+      "id": "n82",
+      "word": "apparatuur",
+      "translation": "equipment",
+      "article": "de"
+    },
+    {
+      "id": "n83",
+      "word": "appartement",
+      "translation": "apartment",
+      "article": "het"
+    },
+    {
+      "id": "n84",
       "word": "appel",
       "translation": "apple",
       "article": "de"
     },
     {
-      "id": "n52",
+      "id": "n85",
       "word": "arbeid",
       "translation": "labor, work",
       "article": "de"
     },
     {
-      "id": "n53",
+      "id": "n86",
       "word": "arbeider",
       "translation": "worker",
       "article": "de"
     },
     {
-      "id": "n54",
+      "id": "n87",
+      "word": "arbeidsmarkt",
+      "translation": "labor market",
+      "article": "de"
+    },
+    {
+      "id": "n88",
+      "word": "architect",
+      "translation": "architect",
+      "article": "de"
+    },
+    {
+      "id": "n89",
       "word": "argument",
       "translation": "argument",
       "article": "het"
     },
     {
-      "id": "n55",
+      "id": "n90",
       "word": "arm",
       "translation": "arm",
       "article": "de"
     },
     {
-      "id": "n56",
+      "id": "n91",
+      "word": "armoede",
+      "translation": "poverty",
+      "article": "de"
+    },
+    {
+      "id": "n92",
       "word": "artikel",
       "translation": "article",
       "article": "het"
     },
     {
-      "id": "n57",
+      "id": "n93",
       "word": "arts",
       "translation": "doctor",
       "article": "de"
     },
     {
-      "id": "n58",
+      "id": "n94",
+      "word": "asbak",
+      "translation": "ashtray",
+      "article": "de"
+    },
+    {
+      "id": "n95",
       "word": "aspect",
       "translation": "aspect",
       "article": "het"
     },
     {
-      "id": "n59",
+      "id": "n96",
+      "word": "assistent",
+      "translation": "assistant",
+      "article": "de"
+    },
+    {
+      "id": "n97",
+      "word": "atelier",
+      "translation": "studio, workshop",
+      "article": "het"
+    },
+    {
+      "id": "n98",
+      "word": "atmosfeer",
+      "translation": "atmosphere",
+      "article": "de"
+    },
+    {
+      "id": "n99",
+      "word": "attitude",
+      "translation": "attitude",
+      "article": "de"
+    },
+    {
+      "id": "n100",
       "word": "auteur",
       "translation": "author",
       "article": "de"
     },
     {
-      "id": "n60",
+      "id": "n101",
       "word": "auto",
       "translation": "car",
       "article": "de"
     },
     {
-      "id": "n61",
+      "id": "n102",
+      "word": "autonomie",
+      "translation": "autonomy",
+      "article": "de"
+    },
+    {
+      "id": "n103",
       "word": "autoriteit",
       "translation": "authority",
       "article": "de"
     },
     {
-      "id": "n62",
+      "id": "n104",
       "word": "avond",
       "translation": "evening",
       "article": "de"
     },
     {
-      "id": "n63",
+      "id": "n105",
       "word": "avontuur",
       "translation": "adventure",
       "article": "het"
     },
     {
-      "id": "n64",
+      "id": "n106",
+      "word": "baai",
+      "translation": "bay",
+      "article": "de"
+    },
+    {
+      "id": "n107",
       "word": "baan",
       "translation": "job; lane",
       "article": "de"
     },
     {
-      "id": "n65",
+      "id": "n108",
+      "word": "baard",
+      "translation": "beard",
+      "article": "de"
+    },
+    {
+      "id": "n109",
       "word": "baas",
       "translation": "boss",
       "article": "de"
     },
     {
-      "id": "n66",
+      "id": "n110",
+      "word": "baat",
+      "translation": "benefit",
+      "article": "de"
+    },
+    {
+      "id": "n111",
       "word": "baby",
       "translation": "baby",
       "article": "de"
     },
     {
-      "id": "n67",
+      "id": "n112",
+      "word": "bacterie",
+      "translation": "bacteria",
+      "article": "de"
+    },
+    {
+      "id": "n113",
       "word": "bad",
       "translation": "bath",
       "article": "het"
     },
     {
-      "id": "n68",
+      "id": "n114",
       "word": "badkamer",
       "translation": "bathroom",
       "article": "de"
     },
     {
-      "id": "n69",
+      "id": "n115",
+      "word": "bagage",
+      "translation": "luggage",
+      "article": "de"
+    },
+    {
+      "id": "n116",
+      "word": "bak",
+      "translation": "container; tray",
+      "article": "de"
+    },
+    {
+      "id": "n117",
+      "word": "bakker",
+      "translation": "baker",
+      "article": "de"
+    },
+    {
+      "id": "n118",
       "word": "bal",
       "translation": "ball",
       "article": "de"
     },
     {
-      "id": "n70",
+      "id": "n119",
+      "word": "balans",
+      "translation": "balance",
+      "article": "de"
+    },
+    {
+      "id": "n120",
+      "word": "balk",
+      "translation": "beam",
+      "article": "de"
+    },
+    {
+      "id": "n121",
+      "word": "balkon",
+      "translation": "balcony",
+      "article": "het"
+    },
+    {
+      "id": "n122",
       "word": "band",
       "translation": "band; tire; bond",
       "article": "de"
     },
     {
-      "id": "n71",
+      "id": "n123",
       "word": "bank",
       "translation": "bank; couch",
       "article": "de"
     },
     {
-      "id": "n72",
+      "id": "n124",
+      "word": "bankier",
+      "translation": "banker",
+      "article": "de"
+    },
+    {
+      "id": "n125",
+      "word": "baron",
+      "translation": "baron",
+      "article": "de"
+    },
+    {
+      "id": "n126",
       "word": "basis",
       "translation": "basis, foundation",
       "article": "de"
     },
     {
-      "id": "n73",
+      "id": "n127",
       "word": "bed",
       "translation": "bed",
       "article": "het"
     },
     {
-      "id": "n74",
+      "id": "n128",
+      "word": "bediende",
+      "translation": "servant, employee",
+      "article": "de"
+    },
+    {
+      "id": "n129",
       "word": "bedoeling",
       "translation": "intention, purpose",
       "article": "de"
     },
     {
-      "id": "n75",
+      "id": "n130",
       "word": "bedrag",
       "translation": "amount",
       "article": "het"
     },
     {
-      "id": "n76",
+      "id": "n131",
       "word": "bedreiging",
       "translation": "threat",
       "article": "de"
     },
     {
-      "id": "n77",
+      "id": "n132",
       "word": "bedrijf",
       "translation": "company, business",
       "article": "het"
     },
     {
-      "id": "n78",
+      "id": "n133",
+      "word": "bedrijfsleven",
+      "translation": "business world",
+      "article": "het"
+    },
+    {
+      "id": "n134",
+      "word": "bedrog",
+      "translation": "deception, fraud",
+      "article": "het"
+    },
+    {
+      "id": "n135",
+      "word": "beek",
+      "translation": "stream, brook",
+      "article": "de"
+    },
+    {
+      "id": "n136",
       "word": "beeld",
       "translation": "image, picture",
       "article": "het"
     },
     {
-      "id": "n79",
+      "id": "n137",
       "word": "been",
       "translation": "leg; bone",
       "article": "het"
     },
     {
-      "id": "n80",
+      "id": "n138",
+      "word": "beer",
+      "translation": "bear",
+      "article": "de"
+    },
+    {
+      "id": "n139",
       "word": "beest",
       "translation": "beast, animal",
       "article": "het"
     },
     {
-      "id": "n81",
+      "id": "n140",
       "word": "beet",
       "translation": "bite",
       "article": "de"
     },
     {
-      "id": "n82",
+      "id": "n141",
       "word": "beetje",
       "translation": "a little bit",
       "article": "het"
     },
     {
-      "id": "n83",
+      "id": "n142",
+      "word": "begeerte",
+      "translation": "desire",
+      "article": "de"
+    },
+    {
+      "id": "n143",
+      "word": "begeleiding",
+      "translation": "guidance, accompaniment",
+      "article": "de"
+    },
+    {
+      "id": "n144",
       "word": "begin",
       "translation": "beginning",
       "article": "het"
     },
     {
-      "id": "n84",
+      "id": "n145",
       "word": "beginsel",
       "translation": "principle",
       "article": "het"
     },
     {
-      "id": "n85",
+      "id": "n146",
+      "word": "beginselen",
+      "translation": "principles",
+      "article": "de"
+    },
+    {
+      "id": "n147",
       "word": "begrafenis",
       "translation": "funeral",
       "article": "de"
     },
     {
-      "id": "n86",
+      "id": "n148",
       "word": "begrip",
       "translation": "concept; understanding",
       "article": "het"
     },
     {
-      "id": "n87",
+      "id": "n149",
       "word": "behandeling",
       "translation": "treatment",
       "article": "de"
     },
     {
-      "id": "n88",
+      "id": "n150",
+      "word": "beheer",
+      "translation": "management, administration",
+      "article": "het"
+    },
+    {
+      "id": "n151",
       "word": "behoefte",
       "translation": "need",
       "article": "de"
     },
     {
-      "id": "n89",
+      "id": "n152",
+      "word": "behoud",
+      "translation": "preservation",
+      "article": "het"
+    },
+    {
+      "id": "n153",
       "word": "bejaarde",
       "translation": "elderly person",
       "article": "de"
     },
     {
-      "id": "n90",
+      "id": "n154",
+      "word": "bek",
+      "translation": "mouth (animal); beak",
+      "article": "de"
+    },
+    {
+      "id": "n155",
+      "word": "beker",
+      "translation": "cup, mug",
+      "article": "de"
+    },
+    {
+      "id": "n156",
       "word": "bel",
       "translation": "bell",
       "article": "de"
     },
     {
-      "id": "n91",
+      "id": "n157",
       "word": "belang",
       "translation": "interest, importance",
       "article": "het"
     },
     {
-      "id": "n92",
+      "id": "n158",
       "word": "belangstelling",
       "translation": "interest",
       "article": "de"
     },
     {
-      "id": "n93",
+      "id": "n159",
       "word": "belasting",
       "translation": "tax",
       "article": "de"
     },
     {
-      "id": "n94",
+      "id": "n160",
       "word": "beleid",
       "translation": "policy",
       "article": "het"
     },
     {
-      "id": "n95",
+      "id": "n161",
       "word": "belofte",
       "translation": "promise",
       "article": "de"
     },
     {
-      "id": "n96",
+      "id": "n162",
+      "word": "beloning",
+      "translation": "reward",
+      "article": "de"
+    },
+    {
+      "id": "n163",
       "word": "bemanning",
       "translation": "crew",
       "article": "de"
     },
     {
-      "id": "n97",
+      "id": "n164",
+      "word": "benaming",
+      "translation": "name, designation",
+      "article": "de"
+    },
+    {
+      "id": "n165",
+      "word": "bende",
+      "translation": "gang; mess",
+      "article": "de"
+    },
+    {
+      "id": "n166",
+      "word": "benoeming",
+      "translation": "appointment",
+      "article": "de"
+    },
+    {
+      "id": "n167",
       "word": "bepaling",
       "translation": "regulation; determination",
       "article": "de"
     },
     {
-      "id": "n98",
+      "id": "n168",
       "word": "beperking",
       "translation": "limitation, restriction",
       "article": "de"
     },
     {
-      "id": "n99",
+      "id": "n169",
+      "word": "bereik",
+      "translation": "reach, range",
+      "article": "het"
+    },
+    {
+      "id": "n170",
+      "word": "berekening",
+      "translation": "calculation",
+      "article": "de"
+    },
+    {
+      "id": "n171",
       "word": "berg",
       "translation": "mountain",
       "article": "de"
     },
     {
-      "id": "n100",
+      "id": "n172",
       "word": "bericht",
       "translation": "message, report",
       "article": "het"
     },
     {
-      "id": "n101",
+      "id": "n173",
       "word": "beroep",
       "translation": "profession; appeal",
       "article": "het"
     },
     {
-      "id": "n102",
+      "id": "n174",
       "word": "beschaving",
       "translation": "civilization",
       "article": "de"
     },
     {
-      "id": "n103",
+      "id": "n175",
       "word": "bescherming",
       "translation": "protection",
       "article": "de"
     },
     {
-      "id": "n104",
+      "id": "n176",
       "word": "beschikking",
       "translation": "disposal; decree",
       "article": "de"
     },
     {
-      "id": "n105",
+      "id": "n177",
       "word": "beschouwing",
       "translation": "consideration, reflection",
       "article": "de"
     },
     {
-      "id": "n106",
+      "id": "n178",
       "word": "beschrijving",
       "translation": "description",
       "article": "de"
     },
     {
-      "id": "n107",
+      "id": "n179",
+      "word": "beschuldiging",
+      "translation": "accusation",
+      "article": "de"
+    },
+    {
+      "id": "n180",
       "word": "besef",
       "translation": "realization, awareness",
       "article": "het"
     },
     {
-      "id": "n108",
+      "id": "n181",
       "word": "beslag",
       "translation": "seizure; batter",
       "article": "het"
     },
     {
-      "id": "n109",
+      "id": "n182",
       "word": "beslissing",
       "translation": "decision",
       "article": "de"
     },
     {
-      "id": "n110",
+      "id": "n183",
       "word": "besluit",
       "translation": "decision, resolution",
       "article": "het"
     },
     {
-      "id": "n111",
+      "id": "n184",
+      "word": "besluitvorming",
+      "translation": "decision-making",
+      "article": "de"
+    },
+    {
+      "id": "n185",
       "word": "bespreking",
       "translation": "discussion, review",
       "article": "de"
     },
     {
-      "id": "n112",
+      "id": "n186",
+      "word": "bestand",
+      "translation": "file; truce",
+      "article": "het"
+    },
+    {
+      "id": "n187",
+      "word": "bestanddeel",
+      "translation": "component, ingredient",
+      "article": "het"
+    },
+    {
+      "id": "n188",
+      "word": "bestel",
+      "translation": "system, order",
+      "article": "het"
+    },
+    {
+      "id": "n189",
+      "word": "bestemming",
+      "translation": "destination",
+      "article": "de"
+    },
+    {
+      "id": "n190",
       "word": "bestuur",
       "translation": "management, board",
       "article": "het"
     },
     {
-      "id": "n113",
+      "id": "n191",
+      "word": "bestuurder",
+      "translation": "driver; administrator",
+      "article": "de"
+    },
+    {
+      "id": "n192",
       "word": "bestuursdwang",
       "translation": "administrative enforcement",
       "article": "de"
     },
     {
-      "id": "n114",
+      "id": "n193",
       "word": "betekenis",
       "translation": "meaning, significance",
       "article": "de"
     },
     {
-      "id": "n115",
+      "id": "n194",
+      "word": "betoog",
+      "translation": "argument, discourse",
+      "article": "het"
+    },
+    {
+      "id": "n195",
       "word": "betrekking",
       "translation": "position; relation",
       "article": "de"
     },
     {
-      "id": "n116",
+      "id": "n196",
       "word": "betrokkene",
       "translation": "person involved",
       "article": "de"
     },
     {
-      "id": "n117",
+      "id": "n197",
       "word": "beurt",
       "translation": "turn",
       "article": "de"
     },
     {
-      "id": "n118",
+      "id": "n198",
       "word": "bevel",
       "translation": "command, order",
       "article": "het"
     },
     {
-      "id": "n119",
+      "id": "n199",
+      "word": "bevinding",
+      "translation": "finding",
+      "article": "de"
+    },
+    {
+      "id": "n200",
       "word": "bevolking",
       "translation": "population",
       "article": "de"
     },
     {
-      "id": "n120",
+      "id": "n201",
       "word": "bevrijding",
       "translation": "liberation",
       "article": "de"
     },
     {
-      "id": "n121",
+      "id": "n202",
       "word": "beweging",
       "translation": "movement",
       "article": "de"
     },
     {
-      "id": "n122",
+      "id": "n203",
+      "word": "bewering",
+      "translation": "claim, assertion",
+      "article": "de"
+    },
+    {
+      "id": "n204",
       "word": "bewijs",
       "translation": "proof, evidence",
       "article": "het"
     },
     {
-      "id": "n123",
+      "id": "n205",
+      "word": "bewind",
+      "translation": "rule, government",
+      "article": "het"
+    },
+    {
+      "id": "n206",
       "word": "bewondering",
       "translation": "admiration",
       "article": "de"
     },
     {
-      "id": "n124",
+      "id": "n207",
       "word": "bewoner",
       "translation": "resident, inhabitant",
       "article": "de"
     },
     {
-      "id": "n125",
+      "id": "n208",
       "word": "bewustzijn",
       "translation": "consciousness",
       "article": "het"
     },
     {
-      "id": "n126",
+      "id": "n209",
+      "word": "bezetting",
+      "translation": "occupation",
+      "article": "de"
+    },
+    {
+      "id": "n210",
+      "word": "bezigheid",
+      "translation": "activity, occupation",
+      "article": "de"
+    },
+    {
+      "id": "n211",
       "word": "bezit",
       "translation": "possession, property",
       "article": "het"
     },
     {
-      "id": "n127",
+      "id": "n212",
+      "word": "bezitting",
+      "translation": "possession",
+      "article": "de"
+    },
+    {
+      "id": "n213",
       "word": "bezoek",
       "translation": "visit",
       "article": "het"
     },
     {
-      "id": "n128",
+      "id": "n214",
       "word": "bezoeker",
       "translation": "visitor",
       "article": "de"
     },
     {
-      "id": "n129",
+      "id": "n215",
       "word": "bezwaar",
       "translation": "objection",
       "article": "het"
     },
     {
-      "id": "n130",
+      "id": "n216",
       "word": "bibliotheek",
       "translation": "library",
       "article": "de"
     },
     {
-      "id": "n131",
+      "id": "n217",
       "word": "bier",
       "translation": "beer",
       "article": "het"
     },
     {
-      "id": "n132",
+      "id": "n218",
       "word": "bijbel",
       "translation": "bible",
       "article": "de"
     },
     {
-      "id": "n133",
+      "id": "n219",
       "word": "bijdrage",
       "translation": "contribution",
       "article": "de"
     },
     {
-      "id": "n134",
+      "id": "n220",
       "word": "bijeenkomst",
       "translation": "meeting, gathering",
       "article": "de"
     },
     {
-      "id": "n135",
+      "id": "n221",
+      "word": "bijzonderheid",
+      "translation": "detail, particular",
+      "article": "de"
+    },
+    {
+      "id": "n222",
+      "word": "bil",
+      "translation": "buttock",
+      "article": "de"
+    },
+    {
+      "id": "n223",
+      "word": "binnenkant",
+      "translation": "inside",
+      "article": "de"
+    },
+    {
+      "id": "n224",
+      "word": "binnenplaats",
+      "translation": "courtyard",
+      "article": "de"
+    },
+    {
+      "id": "n225",
+      "word": "bioscoop",
+      "translation": "cinema",
+      "article": "de"
+    },
+    {
+      "id": "n226",
       "word": "bisschop",
       "translation": "bishop",
       "article": "de"
     },
     {
-      "id": "n136",
+      "id": "n227",
       "word": "blad",
       "translation": "leaf; sheet; magazine",
       "article": "het"
     },
     {
-      "id": "n137",
+      "id": "n228",
       "word": "bladzijde",
       "translation": "page",
       "article": "de"
     },
     {
-      "id": "n138",
+      "id": "n229",
+      "word": "blijk",
+      "translation": "sign, token",
+      "article": "het"
+    },
+    {
+      "id": "n230",
       "word": "blik",
       "translation": "glance; tin can",
       "article": "de"
     },
     {
-      "id": "n139",
+      "id": "n231",
+      "word": "bliksem",
+      "translation": "lightning",
+      "article": "de"
+    },
+    {
+      "id": "n232",
       "word": "bloed",
       "translation": "blood",
       "article": "het"
     },
     {
-      "id": "n140",
+      "id": "n233",
+      "word": "bloei",
+      "translation": "bloom, flourishing",
+      "article": "de"
+    },
+    {
+      "id": "n234",
       "word": "bloem",
       "translation": "flower",
       "article": "de"
     },
     {
-      "id": "n141",
+      "id": "n235",
       "word": "blok",
       "translation": "block",
       "article": "het"
     },
     {
-      "id": "n142",
+      "id": "n236",
       "word": "bocht",
       "translation": "curve, bend",
       "article": "de"
     },
     {
-      "id": "n143",
+      "id": "n237",
       "word": "bodem",
       "translation": "bottom; soil",
       "article": "de"
     },
     {
-      "id": "n144",
+      "id": "n238",
       "word": "boek",
       "translation": "book",
       "article": "het"
     },
     {
-      "id": "n145",
+      "id": "n239",
       "word": "boel",
       "translation": "a lot; mess",
       "article": "de"
     },
     {
-      "id": "n146",
+      "id": "n240",
       "word": "boer",
       "translation": "farmer",
       "article": "de"
     },
     {
-      "id": "n147",
+      "id": "n241",
       "word": "boerderij",
       "translation": "farm",
       "article": "de"
     },
     {
-      "id": "n148",
+      "id": "n242",
+      "word": "boerin",
+      "translation": "farmer's wife",
+      "article": "de"
+    },
+    {
+      "id": "n243",
+      "word": "bol",
+      "translation": "sphere; ball",
+      "article": "de"
+    },
+    {
+      "id": "n244",
+      "word": "bom",
+      "translation": "bomb",
+      "article": "de"
+    },
+    {
+      "id": "n245",
+      "word": "bond",
+      "translation": "union, league",
+      "article": "de"
+    },
+    {
+      "id": "n246",
       "word": "boodschap",
       "translation": "message; errand",
       "article": "de"
     },
     {
-      "id": "n149",
+      "id": "n247",
       "word": "boog",
       "translation": "arch; bow",
       "article": "de"
     },
     {
-      "id": "n150",
+      "id": "n248",
       "word": "boom",
       "translation": "tree",
       "article": "de"
     },
     {
-      "id": "n151",
+      "id": "n249",
+      "word": "boon",
+      "translation": "bean",
+      "article": "de"
+    },
+    {
+      "id": "n250",
       "word": "boord",
       "translation": "board; collar",
       "article": "het"
     },
     {
-      "id": "n152",
+      "id": "n251",
       "word": "boot",
       "translation": "boat",
       "article": "de"
     },
     {
-      "id": "n153",
+      "id": "n252",
       "word": "bord",
       "translation": "plate; sign",
       "article": "het"
     },
     {
-      "id": "n154",
+      "id": "n253",
+      "word": "borrel",
+      "translation": "drink (alcoholic)",
+      "article": "de"
+    },
+    {
+      "id": "n254",
       "word": "borst",
       "translation": "chest, breast",
       "article": "de"
     },
     {
-      "id": "n155",
+      "id": "n255",
       "word": "bos",
       "translation": "forest; bunch",
       "article": "het"
     },
     {
-      "id": "n156",
+      "id": "n256",
       "word": "boter",
       "translation": "butter",
       "article": "de"
     },
     {
-      "id": "n157",
+      "id": "n257",
+      "word": "boterham",
+      "translation": "sandwich, slice of bread",
+      "article": "de"
+    },
+    {
+      "id": "n258",
+      "word": "botsing",
+      "translation": "collision, crash",
+      "article": "de"
+    },
+    {
+      "id": "n259",
+      "word": "bouw",
+      "translation": "construction",
+      "article": "de"
+    },
+    {
+      "id": "n260",
+      "word": "bouwwerk",
+      "translation": "building, structure",
+      "article": "het"
+    },
+    {
+      "id": "n261",
       "word": "brand",
       "translation": "fire",
       "article": "de"
     },
     {
-      "id": "n158",
+      "id": "n262",
+      "word": "brein",
+      "translation": "brain, mind",
+      "article": "het"
+    },
+    {
+      "id": "n263",
+      "word": "breuk",
+      "translation": "fracture; fraction",
+      "article": "de"
+    },
+    {
+      "id": "n264",
       "word": "brief",
       "translation": "letter",
       "article": "de"
     },
     {
-      "id": "n159",
+      "id": "n265",
       "word": "bril",
       "translation": "glasses",
       "article": "de"
     },
     {
-      "id": "n160",
+      "id": "n266",
       "word": "broeder",
       "translation": "brother (formal)",
       "article": "de"
     },
     {
-      "id": "n161",
+      "id": "n267",
       "word": "broek",
       "translation": "pants",
       "article": "de"
     },
     {
-      "id": "n162",
+      "id": "n268",
       "word": "broer",
       "translation": "brother",
       "article": "de"
     },
     {
-      "id": "n163",
+      "id": "n269",
+      "word": "brok",
+      "translation": "chunk, piece",
+      "article": "de"
+    },
+    {
+      "id": "n270",
       "word": "bron",
       "translation": "source",
       "article": "de"
     },
     {
-      "id": "n164",
+      "id": "n271",
       "word": "brood",
       "translation": "bread",
       "article": "het"
     },
     {
-      "id": "n165",
+      "id": "n272",
+      "word": "brouwerij",
+      "translation": "brewery",
+      "article": "de"
+    },
+    {
+      "id": "n273",
       "word": "brug",
       "translation": "bridge",
       "article": "de"
     },
     {
-      "id": "n166",
+      "id": "n274",
+      "word": "bui",
+      "translation": "shower (rain); mood",
+      "article": "de"
+    },
+    {
+      "id": "n275",
       "word": "buik",
       "translation": "belly, stomach",
       "article": "de"
     },
     {
-      "id": "n167",
+      "id": "n276",
+      "word": "buit",
+      "translation": "loot, booty",
+      "article": "de"
+    },
+    {
+      "id": "n277",
+      "word": "buitenland",
+      "translation": "abroad, foreign country",
+      "article": "het"
+    },
+    {
+      "id": "n278",
+      "word": "buitenlander",
+      "translation": "foreigner",
+      "article": "de"
+    },
+    {
+      "id": "n279",
+      "word": "buitenstaander",
+      "translation": "outsider",
+      "article": "de"
+    },
+    {
+      "id": "n280",
+      "word": "buitenwereld",
+      "translation": "outside world",
+      "article": "de"
+    },
+    {
+      "id": "n281",
       "word": "bundel",
       "translation": "bundle; volume",
       "article": "de"
     },
     {
-      "id": "n168",
+      "id": "n282",
       "word": "bureau",
       "translation": "desk; office",
       "article": "het"
     },
     {
-      "id": "n169",
+      "id": "n283",
       "word": "burgemeester",
       "translation": "mayor",
       "article": "de"
     },
     {
-      "id": "n170",
+      "id": "n284",
       "word": "burger",
       "translation": "citizen",
       "article": "de"
     },
     {
-      "id": "n171",
+      "id": "n285",
       "word": "bus",
       "translation": "bus",
       "article": "de"
     },
     {
-      "id": "n172",
+      "id": "n286",
       "word": "buur",
       "translation": "neighbor",
       "article": "de"
     },
     {
-      "id": "n173",
+      "id": "n287",
+      "word": "buurman",
+      "translation": "neighbor (male)",
+      "article": "de"
+    },
+    {
+      "id": "n288",
       "word": "buurt",
       "translation": "neighborhood",
       "article": "de"
     },
     {
-      "id": "n174",
+      "id": "n289",
+      "word": "cabine",
+      "translation": "cabin",
+      "article": "de"
+    },
+    {
+      "id": "n290",
+      "word": "cadeau",
+      "translation": "gift, present",
+      "article": "het"
+    },
+    {
+      "id": "n291",
+      "word": "café",
+      "translation": "café, pub",
+      "article": "het"
+    },
+    {
+      "id": "n292",
+      "word": "camera",
+      "translation": "camera",
+      "article": "de"
+    },
+    {
+      "id": "n293",
+      "word": "capaciteit",
+      "translation": "capacity",
+      "article": "de"
+    },
+    {
+      "id": "n294",
+      "word": "carrière",
+      "translation": "career",
+      "article": "de"
+    },
+    {
+      "id": "n295",
       "word": "categorie",
       "translation": "category",
       "article": "de"
     },
     {
-      "id": "n175",
+      "id": "n296",
       "word": "cel",
       "translation": "cell",
       "article": "de"
     },
     {
-      "id": "n176",
+      "id": "n297",
       "word": "cent",
       "translation": "cent",
       "article": "de"
     },
     {
-      "id": "n177",
+      "id": "n298",
       "word": "centimeter",
       "translation": "centimeter",
       "article": "de"
     },
     {
-      "id": "n178",
+      "id": "n299",
       "word": "centrum",
       "translation": "center",
       "article": "het"
     },
     {
-      "id": "n179",
+      "id": "n300",
       "word": "champagne",
       "translation": "champagne",
       "article": "de"
     },
     {
-      "id": "n180",
+      "id": "n301",
+      "word": "chaos",
+      "translation": "chaos",
+      "article": "de"
+    },
+    {
+      "id": "n302",
+      "word": "charme",
+      "translation": "charm",
+      "article": "de"
+    },
+    {
+      "id": "n303",
       "word": "chauffeur",
       "translation": "driver",
       "article": "de"
     },
     {
-      "id": "n181",
+      "id": "n304",
       "word": "chef",
       "translation": "chef; boss",
       "article": "de"
     },
     {
-      "id": "n182",
+      "id": "n305",
       "word": "christen",
       "translation": "Christian",
       "article": "de"
     },
     {
-      "id": "n183",
+      "id": "n306",
       "word": "christendom",
       "translation": "Christianity",
       "article": "het"
     },
     {
-      "id": "n184",
+      "id": "n307",
       "word": "cijfer",
       "translation": "number; grade",
       "article": "het"
     },
     {
-      "id": "n185",
+      "id": "n308",
       "word": "cirkel",
       "translation": "circle",
       "article": "de"
     },
     {
-      "id": "n186",
+      "id": "n309",
+      "word": "citaat",
+      "translation": "quote, citation",
+      "article": "het"
+    },
+    {
+      "id": "n310",
+      "word": "citroen",
+      "translation": "lemon",
+      "article": "de"
+    },
+    {
+      "id": "n311",
+      "word": "cliënt",
+      "translation": "client",
+      "article": "de"
+    },
+    {
+      "id": "n312",
+      "word": "club",
+      "translation": "club",
+      "article": "de"
+    },
+    {
+      "id": "n313",
+      "word": "code",
+      "translation": "code",
+      "article": "de"
+    },
+    {
+      "id": "n314",
+      "word": "collectie",
+      "translation": "collection",
+      "article": "de"
+    },
+    {
+      "id": "n315",
+      "word": "collega",
+      "translation": "colleague",
+      "article": "de"
+    },
+    {
+      "id": "n316",
       "word": "college",
       "translation": "lecture; board",
       "article": "het"
     },
     {
-      "id": "n187",
+      "id": "n317",
       "word": "combinatie",
       "translation": "combination",
       "article": "de"
     },
     {
-      "id": "n188",
+      "id": "n318",
+      "word": "comité",
+      "translation": "committee",
+      "article": "het"
+    },
+    {
+      "id": "n319",
       "word": "commandant",
       "translation": "commander",
       "article": "de"
     },
     {
-      "id": "n189",
+      "id": "n320",
       "word": "commentaar",
       "translation": "commentary",
       "article": "het"
     },
     {
-      "id": "n190",
+      "id": "n321",
       "word": "commissaris",
       "translation": "commissioner",
       "article": "de"
     },
     {
-      "id": "n191",
+      "id": "n322",
       "word": "commissie",
       "translation": "committee",
       "article": "de"
     },
     {
-      "id": "n192",
+      "id": "n323",
       "word": "communicatie",
       "translation": "communication",
       "article": "de"
     },
     {
-      "id": "n193",
+      "id": "n324",
+      "word": "communisme",
+      "translation": "communism",
+      "article": "het"
+    },
+    {
+      "id": "n325",
+      "word": "communist",
+      "translation": "communist",
+      "article": "de"
+    },
+    {
+      "id": "n326",
+      "word": "compagnie",
+      "translation": "company",
+      "article": "de"
+    },
+    {
+      "id": "n327",
+      "word": "compliment",
+      "translation": "compliment",
+      "article": "het"
+    },
+    {
+      "id": "n328",
+      "word": "component",
+      "translation": "component",
+      "article": "de"
+    },
+    {
+      "id": "n329",
+      "word": "componist",
+      "translation": "composer",
+      "article": "de"
+    },
+    {
+      "id": "n330",
+      "word": "compromis",
+      "translation": "compromise",
+      "article": "het"
+    },
+    {
+      "id": "n331",
       "word": "computer",
       "translation": "computer",
       "article": "de"
     },
     {
-      "id": "n194",
+      "id": "n332",
+      "word": "concentratie",
+      "translation": "concentration",
+      "article": "de"
+    },
+    {
+      "id": "n333",
+      "word": "concept",
+      "translation": "concept; draft",
+      "article": "het"
+    },
+    {
+      "id": "n334",
+      "word": "concert",
+      "translation": "concert",
+      "article": "het"
+    },
+    {
+      "id": "n335",
       "word": "conclusie",
       "translation": "conclusion",
       "article": "de"
     },
     {
-      "id": "n195",
+      "id": "n336",
+      "word": "concurrentie",
+      "translation": "competition",
+      "article": "de"
+    },
+    {
+      "id": "n337",
+      "word": "conditie",
+      "translation": "condition, fitness",
+      "article": "de"
+    },
+    {
+      "id": "n338",
+      "word": "conferentie",
+      "translation": "conference",
+      "article": "de"
+    },
+    {
+      "id": "n339",
       "word": "conflict",
       "translation": "conflict",
       "article": "het"
     },
     {
-      "id": "n196",
+      "id": "n340",
+      "word": "confrontatie",
+      "translation": "confrontation",
+      "article": "de"
+    },
+    {
+      "id": "n341",
+      "word": "congres",
+      "translation": "congress",
+      "article": "het"
+    },
+    {
+      "id": "n342",
       "word": "consequentie",
       "translation": "consequence",
       "article": "de"
     },
     {
-      "id": "n197",
+      "id": "n343",
+      "word": "constructie",
+      "translation": "construction",
+      "article": "de"
+    },
+    {
+      "id": "n344",
       "word": "consument",
       "translation": "consumer",
       "article": "de"
     },
     {
-      "id": "n198",
+      "id": "n345",
+      "word": "consumptie",
+      "translation": "consumption",
+      "article": "de"
+    },
+    {
+      "id": "n346",
       "word": "contact",
       "translation": "contact",
       "article": "het"
     },
     {
-      "id": "n199",
+      "id": "n347",
+      "word": "context",
+      "translation": "context",
+      "article": "de"
+    },
+    {
+      "id": "n348",
+      "word": "continent",
+      "translation": "continent",
+      "article": "het"
+    },
+    {
+      "id": "n349",
+      "word": "contract",
+      "translation": "contract",
+      "article": "het"
+    },
+    {
+      "id": "n350",
+      "word": "contrast",
+      "translation": "contrast",
+      "article": "het"
+    },
+    {
+      "id": "n351",
       "word": "controle",
       "translation": "control; check",
       "article": "de"
     },
     {
-      "id": "n200",
+      "id": "n352",
+      "word": "coördinatie",
+      "translation": "coordination",
+      "article": "de"
+    },
+    {
+      "id": "n353",
       "word": "crisis",
       "translation": "crisis",
       "article": "de"
     },
     {
-      "id": "n201",
+      "id": "n354",
       "word": "criterium",
       "translation": "criterion",
       "article": "het"
     },
     {
-      "id": "n202",
+      "id": "n355",
       "word": "criticus",
       "translation": "critic",
       "article": "de"
     },
     {
-      "id": "n203",
+      "id": "n356",
       "word": "cultuur",
       "translation": "culture",
       "article": "de"
     },
     {
-      "id": "n204",
+      "id": "n357",
+      "word": "cursus",
+      "translation": "course",
+      "article": "de"
+    },
+    {
+      "id": "n358",
       "word": "daad",
       "translation": "deed, act",
       "article": "de"
     },
     {
-      "id": "n205",
+      "id": "n359",
+      "word": "dader",
+      "translation": "perpetrator",
+      "article": "de"
+    },
+    {
+      "id": "n360",
       "word": "dag",
       "translation": "day",
       "article": "de"
     },
     {
-      "id": "n206",
+      "id": "n361",
+      "word": "dagblad",
+      "translation": "daily newspaper",
+      "article": "het"
+    },
+    {
+      "id": "n362",
       "word": "dagboek",
       "translation": "diary",
       "article": "het"
     },
     {
-      "id": "n207",
+      "id": "n363",
+      "word": "daglicht",
+      "translation": "daylight",
+      "article": "het"
+    },
+    {
+      "id": "n364",
       "word": "dak",
       "translation": "roof",
       "article": "het"
     },
     {
-      "id": "n208",
+      "id": "n365",
       "word": "dal",
       "translation": "valley",
       "article": "het"
     },
     {
-      "id": "n209",
+      "id": "n366",
       "word": "dame",
       "translation": "lady",
       "article": "de"
     },
     {
-      "id": "n210",
+      "id": "n367",
       "word": "dank",
       "translation": "thanks",
       "article": "de"
     },
     {
-      "id": "n211",
+      "id": "n368",
+      "word": "dans",
+      "translation": "dance",
+      "article": "de"
+    },
+    {
+      "id": "n369",
+      "word": "darm",
+      "translation": "intestine",
+      "article": "de"
+    },
+    {
+      "id": "n370",
+      "word": "datum",
+      "translation": "date",
+      "article": "de"
+    },
+    {
+      "id": "n371",
+      "word": "debat",
+      "translation": "debate",
+      "article": "het"
+    },
+    {
+      "id": "n372",
+      "word": "decennium",
+      "translation": "decade",
+      "article": "het"
+    },
+    {
+      "id": "n373",
       "word": "deel",
       "translation": "part",
       "article": "het"
     },
     {
-      "id": "n212",
+      "id": "n374",
       "word": "deelnemer",
       "translation": "participant",
       "article": "de"
     },
     {
-      "id": "n213",
+      "id": "n375",
       "word": "definitie",
       "translation": "definition",
       "article": "de"
     },
     {
-      "id": "n214",
+      "id": "n376",
+      "word": "dek",
+      "translation": "deck; blanket",
+      "article": "het"
+    },
+    {
+      "id": "n377",
       "word": "deken",
       "translation": "blanket; dean",
       "article": "de"
     },
     {
-      "id": "n215",
+      "id": "n378",
+      "word": "deksel",
+      "translation": "lid, cover",
+      "article": "het"
+    },
+    {
+      "id": "n379",
+      "word": "delegatie",
+      "translation": "delegation",
+      "article": "de"
+    },
+    {
+      "id": "n380",
       "word": "democratie",
       "translation": "democracy",
       "article": "de"
     },
     {
-      "id": "n216",
+      "id": "n381",
+      "word": "demonstratie",
+      "translation": "demonstration",
+      "article": "de"
+    },
+    {
+      "id": "n382",
       "word": "denkbeeld",
       "translation": "idea, notion",
       "article": "het"
     },
     {
-      "id": "n217",
+      "id": "n383",
+      "word": "departement",
+      "translation": "department",
+      "article": "het"
+    },
+    {
+      "id": "n384",
+      "word": "depressie",
+      "translation": "depression",
+      "article": "de"
+    },
+    {
+      "id": "n385",
       "word": "deskundige",
       "translation": "expert",
       "article": "de"
     },
     {
-      "id": "n218",
+      "id": "n386",
       "word": "detail",
       "translation": "detail",
       "article": "het"
     },
     {
-      "id": "n219",
+      "id": "n387",
+      "word": "deugd",
+      "translation": "virtue",
+      "article": "de"
+    },
+    {
+      "id": "n388",
       "word": "deur",
       "translation": "door",
       "article": "de"
     },
     {
-      "id": "n220",
+      "id": "n389",
+      "word": "deuropening",
+      "translation": "doorway",
+      "article": "de"
+    },
+    {
+      "id": "n390",
       "word": "diagnose",
       "translation": "diagnosis",
       "article": "de"
     },
     {
-      "id": "n221",
+      "id": "n391",
+      "word": "dialoog",
+      "translation": "dialogue",
+      "article": "de"
+    },
+    {
+      "id": "n392",
       "word": "dichter",
       "translation": "poet",
       "article": "de"
     },
     {
-      "id": "n222",
+      "id": "n393",
+      "word": "dictatuur",
+      "translation": "dictatorship",
+      "article": "de"
+    },
+    {
+      "id": "n394",
+      "word": "dieet",
+      "translation": "diet",
+      "article": "het"
+    },
+    {
+      "id": "n395",
+      "word": "dief",
+      "translation": "thief",
+      "article": "de"
+    },
+    {
+      "id": "n396",
       "word": "dienst",
       "translation": "service",
       "article": "de"
     },
     {
-      "id": "n223",
+      "id": "n397",
+      "word": "dienstverlening",
+      "translation": "service delivery",
+      "article": "de"
+    },
+    {
+      "id": "n398",
       "word": "diepte",
       "translation": "depth",
       "article": "de"
     },
     {
-      "id": "n224",
+      "id": "n399",
       "word": "dier",
       "translation": "animal",
       "article": "het"
     },
     {
-      "id": "n225",
+      "id": "n400",
+      "word": "dierenarts",
+      "translation": "veterinarian",
+      "article": "de"
+    },
+    {
+      "id": "n401",
       "word": "dimensie",
       "translation": "dimension",
       "article": "de"
     },
     {
-      "id": "n226",
+      "id": "n402",
+      "word": "diner",
+      "translation": "dinner",
+      "article": "het"
+    },
+    {
+      "id": "n403",
       "word": "ding",
       "translation": "thing",
       "article": "het"
     },
     {
-      "id": "n227",
+      "id": "n404",
       "word": "directeur",
       "translation": "director",
       "article": "de"
     },
     {
-      "id": "n228",
+      "id": "n405",
       "word": "directie",
       "translation": "management, direction",
       "article": "de"
     },
     {
-      "id": "n229",
+      "id": "n406",
+      "word": "discipline",
+      "translation": "discipline",
+      "article": "de"
+    },
+    {
+      "id": "n407",
       "word": "discussie",
       "translation": "discussion",
       "article": "de"
     },
     {
-      "id": "n230",
+      "id": "n408",
+      "word": "district",
+      "translation": "district",
+      "article": "het"
+    },
+    {
+      "id": "n409",
+      "word": "docent",
+      "translation": "teacher, lecturer",
+      "article": "de"
+    },
+    {
+      "id": "n410",
       "word": "dochter",
       "translation": "daughter",
       "article": "de"
     },
     {
-      "id": "n231",
+      "id": "n411",
       "word": "document",
       "translation": "document",
       "article": "het"
     },
     {
-      "id": "n232",
+      "id": "n412",
       "word": "dode",
       "translation": "dead person",
       "article": "de"
     },
     {
-      "id": "n233",
+      "id": "n413",
       "word": "doek",
       "translation": "cloth; canvas",
       "article": "het"
     },
     {
-      "id": "n234",
+      "id": "n414",
       "word": "doel",
       "translation": "goal, purpose",
       "article": "het"
     },
     {
-      "id": "n235",
+      "id": "n415",
       "word": "doeleinde",
       "translation": "purpose, objective",
       "article": "het"
     },
     {
-      "id": "n236",
+      "id": "n416",
       "word": "doelstelling",
       "translation": "objective",
       "article": "de"
     },
     {
-      "id": "n237",
+      "id": "n417",
       "word": "dokter",
       "translation": "doctor",
       "article": "de"
     },
     {
-      "id": "n238",
+      "id": "n418",
       "word": "dollar",
       "translation": "dollar",
       "article": "de"
     },
     {
-      "id": "n239",
+      "id": "n419",
+      "word": "domein",
+      "translation": "domain",
+      "article": "het"
+    },
+    {
+      "id": "n420",
+      "word": "dominee",
+      "translation": "minister, pastor",
+      "article": "de"
+    },
+    {
+      "id": "n421",
+      "word": "donder",
+      "translation": "thunder",
+      "article": "de"
+    },
+    {
+      "id": "n422",
       "word": "dood",
       "translation": "death",
       "article": "de"
     },
     {
-      "id": "n240",
+      "id": "n423",
       "word": "doos",
       "translation": "box",
       "article": "de"
     },
     {
-      "id": "n241",
+      "id": "n424",
       "word": "dorp",
       "translation": "village",
       "article": "het"
     },
     {
-      "id": "n242",
+      "id": "n425",
+      "word": "dorst",
+      "translation": "thirst",
+      "article": "de"
+    },
+    {
+      "id": "n426",
+      "word": "dosis",
+      "translation": "dose",
+      "article": "de"
+    },
+    {
+      "id": "n427",
+      "word": "dossier",
+      "translation": "file, dossier",
+      "article": "het"
+    },
+    {
+      "id": "n428",
+      "word": "douche",
+      "translation": "shower",
+      "article": "de"
+    },
+    {
+      "id": "n429",
+      "word": "dozijn",
+      "translation": "dozen",
+      "article": "het"
+    },
+    {
+      "id": "n430",
       "word": "draad",
       "translation": "thread; wire",
       "article": "de"
     },
     {
-      "id": "n243",
+      "id": "n431",
+      "word": "drama",
+      "translation": "drama",
+      "article": "het"
+    },
+    {
+      "id": "n432",
+      "word": "drang",
+      "translation": "urge",
+      "article": "de"
+    },
+    {
+      "id": "n433",
       "word": "drank",
       "translation": "drink; alcohol",
       "article": "de"
     },
     {
-      "id": "n244",
+      "id": "n434",
+      "word": "dreiging",
+      "translation": "threat",
+      "article": "de"
+    },
+    {
+      "id": "n435",
+      "word": "drempel",
+      "translation": "threshold",
+      "article": "de"
+    },
+    {
+      "id": "n436",
+      "word": "drift",
+      "translation": "anger; drift",
+      "article": "de"
+    },
+    {
+      "id": "n437",
       "word": "drom",
       "translation": "crowd",
       "article": "de"
     },
     {
-      "id": "n245",
+      "id": "n438",
+      "word": "dromer",
+      "translation": "dreamer",
+      "article": "de"
+    },
+    {
+      "id": "n439",
       "word": "droom",
       "translation": "dream",
       "article": "de"
     },
     {
-      "id": "n246",
+      "id": "n440",
+      "word": "drug",
+      "translation": "drug",
+      "article": "de"
+    },
+    {
+      "id": "n441",
       "word": "druif",
       "translation": "grape",
       "article": "de"
     },
     {
-      "id": "n247",
+      "id": "n442",
+      "word": "drukte",
+      "translation": "bustle, busyness",
+      "article": "de"
+    },
+    {
+      "id": "n443",
       "word": "druppel",
       "translation": "drop",
       "article": "de"
     },
     {
-      "id": "n248",
+      "id": "n444",
+      "word": "duif",
+      "translation": "pigeon, dove",
+      "article": "de"
+    },
+    {
+      "id": "n445",
       "word": "duim",
       "translation": "thumb",
       "article": "de"
     },
     {
-      "id": "n249",
+      "id": "n446",
+      "word": "duin",
+      "translation": "dune",
+      "article": "het"
+    },
+    {
+      "id": "n447",
       "word": "duisternis",
       "translation": "darkness",
       "article": "de"
     },
     {
-      "id": "n250",
+      "id": "n448",
+      "word": "duivel",
+      "translation": "devil",
+      "article": "de"
+    },
+    {
+      "id": "n449",
+      "word": "dwang",
+      "translation": "coercion",
+      "article": "de"
+    },
+    {
+      "id": "n450",
+      "word": "echo",
+      "translation": "echo",
+      "article": "de"
+    },
+    {
+      "id": "n451",
       "word": "echtgenoot",
       "translation": "husband, spouse",
       "article": "de"
     },
     {
-      "id": "n251",
+      "id": "n452",
+      "word": "echtpaar",
+      "translation": "married couple",
+      "article": "het"
+    },
+    {
+      "id": "n453",
+      "word": "echtscheiding",
+      "translation": "divorce",
+      "article": "de"
+    },
+    {
+      "id": "n454",
       "word": "economie",
       "translation": "economy",
       "article": "de"
     },
     {
-      "id": "n252",
+      "id": "n455",
+      "word": "econoom",
+      "translation": "economist",
+      "article": "de"
+    },
+    {
+      "id": "n456",
       "word": "eend",
       "translation": "duck",
       "article": "de"
     },
     {
-      "id": "n253",
+      "id": "n457",
+      "word": "eenheid",
+      "translation": "unit; unity",
+      "article": "de"
+    },
+    {
+      "id": "n458",
       "word": "eentje",
       "translation": "one (informal)",
       "article": "het"
     },
     {
-      "id": "n254",
+      "id": "n459",
       "word": "eenzaamheid",
       "translation": "loneliness",
       "article": "de"
     },
     {
-      "id": "n255",
+      "id": "n460",
       "word": "eer",
       "translation": "honor",
       "article": "de"
     },
     {
-      "id": "n256",
+      "id": "n461",
+      "word": "eerbied",
+      "translation": "respect, reverence",
+      "article": "de"
+    },
+    {
+      "id": "n462",
+      "word": "eeuw",
+      "translation": "century",
+      "article": "de"
+    },
+    {
+      "id": "n463",
       "word": "eeuwen",
       "translation": "century",
       "article": "de"
     },
     {
-      "id": "n257",
+      "id": "n464",
       "word": "effect",
       "translation": "effect",
       "article": "het"
     },
     {
-      "id": "n258",
+      "id": "n465",
+      "word": "eigenaar",
+      "translation": "owner",
+      "article": "de"
+    },
+    {
+      "id": "n466",
       "word": "eigendom",
       "translation": "property, ownership",
       "article": "het"
     },
     {
-      "id": "n259",
+      "id": "n467",
+      "word": "eigenschap",
+      "translation": "quality, property",
+      "article": "de"
+    },
+    {
+      "id": "n468",
+      "word": "eik",
+      "translation": "oak",
+      "article": "de"
+    },
+    {
+      "id": "n469",
+      "word": "eiland",
+      "translation": "island",
+      "article": "het"
+    },
+    {
+      "id": "n470",
+      "word": "eind",
+      "translation": "end",
+      "article": "het"
+    },
+    {
+      "id": "n471",
       "word": "einde",
       "translation": "end",
       "article": "het"
     },
     {
-      "id": "n260",
+      "id": "n472",
       "word": "eis",
       "translation": "demand, requirement",
       "article": "de"
     },
     {
-      "id": "n261",
+      "id": "n473",
       "word": "element",
       "translation": "element",
       "article": "het"
     },
     {
-      "id": "n262",
+      "id": "n474",
+      "word": "elite",
+      "translation": "elite",
+      "article": "de"
+    },
+    {
+      "id": "n475",
+      "word": "elleboog",
+      "translation": "elbow",
+      "article": "de"
+    },
+    {
+      "id": "n476",
       "word": "ellende",
       "translation": "misery",
       "article": "de"
     },
     {
-      "id": "n263",
+      "id": "n477",
+      "word": "emancipatie",
+      "translation": "emancipation",
+      "article": "de"
+    },
+    {
+      "id": "n478",
+      "word": "emmer",
+      "translation": "bucket",
+      "article": "de"
+    },
+    {
+      "id": "n479",
+      "word": "emotie",
+      "translation": "emotion",
+      "article": "de"
+    },
+    {
+      "id": "n480",
+      "word": "energie",
+      "translation": "energy",
+      "article": "de"
+    },
+    {
+      "id": "n481",
       "word": "engel",
       "translation": "angel",
       "article": "de"
     },
     {
-      "id": "n264",
+      "id": "n482",
+      "word": "enkeling",
+      "translation": "individual",
+      "article": "de"
+    },
+    {
+      "id": "n483",
+      "word": "enthousiasme",
+      "translation": "enthusiasm",
+      "article": "het"
+    },
+    {
+      "id": "n484",
+      "word": "envelop",
+      "translation": "envelope",
+      "article": "de"
+    },
+    {
+      "id": "n485",
+      "word": "erf",
+      "translation": "yard, grounds",
+      "article": "het"
+    },
+    {
+      "id": "n486",
+      "word": "erfenis",
+      "translation": "inheritance",
+      "article": "de"
+    },
+    {
+      "id": "n487",
+      "word": "ergernis",
+      "translation": "irritation, annoyance",
+      "article": "de"
+    },
+    {
+      "id": "n488",
       "word": "erkenning",
       "translation": "recognition",
       "article": "de"
     },
     {
-      "id": "n265",
+      "id": "n489",
       "word": "ernst",
       "translation": "seriousness",
       "article": "de"
     },
     {
-      "id": "n266",
+      "id": "n490",
       "word": "ervaring",
       "translation": "experience",
       "article": "de"
     },
     {
-      "id": "n267",
+      "id": "n491",
+      "word": "etalage",
+      "translation": "shop window",
+      "article": "de"
+    },
+    {
+      "id": "n492",
+      "word": "ethiek",
+      "translation": "ethics",
+      "article": "de"
+    },
+    {
+      "id": "n493",
+      "word": "evaluatie",
+      "translation": "evaluation",
+      "article": "de"
+    },
+    {
+      "id": "n494",
+      "word": "evangelie",
+      "translation": "gospel",
+      "article": "het"
+    },
+    {
+      "id": "n495",
+      "word": "evenwicht",
+      "translation": "balance, equilibrium",
+      "article": "het"
+    },
+    {
+      "id": "n496",
+      "word": "evolutie",
+      "translation": "evolution",
+      "article": "de"
+    },
+    {
+      "id": "n497",
+      "word": "examen",
+      "translation": "exam",
+      "article": "het"
+    },
+    {
+      "id": "n498",
+      "word": "excuus",
+      "translation": "excuse, apology",
+      "article": "het"
+    },
+    {
+      "id": "n499",
       "word": "exemplaar",
       "translation": "copy; specimen",
       "article": "het"
     },
     {
-      "id": "n268",
+      "id": "n500",
+      "word": "expeditie",
+      "translation": "expedition",
+      "article": "de"
+    },
+    {
+      "id": "n501",
+      "word": "experiment",
+      "translation": "experiment",
+      "article": "het"
+    },
+    {
+      "id": "n502",
+      "word": "explosie",
+      "translation": "explosion",
+      "article": "de"
+    },
+    {
+      "id": "n503",
+      "word": "ezel",
+      "translation": "donkey",
+      "article": "de"
+    },
+    {
+      "id": "n504",
+      "word": "fabriek",
+      "translation": "factory",
+      "article": "de"
+    },
+    {
+      "id": "n505",
+      "word": "fabrikant",
+      "translation": "manufacturer",
+      "article": "de"
+    },
+    {
+      "id": "n506",
+      "word": "factor",
+      "translation": "factor",
+      "article": "de"
+    },
+    {
+      "id": "n507",
+      "word": "faculteit",
+      "translation": "faculty",
+      "article": "de"
+    },
+    {
+      "id": "n508",
       "word": "familie",
       "translation": "family",
       "article": "de"
     },
     {
-      "id": "n269",
+      "id": "n509",
       "word": "familielid",
       "translation": "family member",
       "article": "het"
     },
     {
-      "id": "n270",
+      "id": "n510",
       "word": "fantasie",
       "translation": "fantasy, imagination",
       "article": "de"
     },
     {
-      "id": "n271",
+      "id": "n511",
       "word": "fase",
       "translation": "phase",
       "article": "de"
     },
     {
-      "id": "n272",
+      "id": "n512",
+      "word": "feest",
+      "translation": "party, celebration",
+      "article": "het"
+    },
+    {
+      "id": "n513",
       "word": "feit",
       "translation": "fact",
       "article": "het"
     },
     {
-      "id": "n273",
+      "id": "n514",
+      "word": "fenomeen",
+      "translation": "phenomenon",
+      "article": "het"
+    },
+    {
+      "id": "n515",
+      "word": "fiets",
+      "translation": "bicycle",
+      "article": "de"
+    },
+    {
+      "id": "n516",
       "word": "figuur",
       "translation": "figure",
       "article": "het"
     },
     {
-      "id": "n274",
+      "id": "n517",
+      "word": "film",
+      "translation": "film, movie",
+      "article": "de"
+    },
+    {
+      "id": "n518",
       "word": "filosofie",
       "translation": "philosophy",
       "article": "de"
     },
     {
-      "id": "n275",
+      "id": "n519",
       "word": "filosoof",
       "translation": "philosopher",
       "article": "de"
     },
     {
-      "id": "n276",
+      "id": "n520",
       "word": "firma",
       "translation": "firm, company",
       "article": "de"
     },
     {
-      "id": "n277",
+      "id": "n521",
       "word": "flat",
       "translation": "apartment",
       "article": "de"
     },
     {
-      "id": "n278",
+      "id": "n522",
+      "word": "fles",
+      "translation": "bottle",
+      "article": "de"
+    },
+    {
+      "id": "n523",
+      "word": "fonds",
+      "translation": "fund",
+      "article": "het"
+    },
+    {
+      "id": "n524",
+      "word": "formule",
+      "translation": "formula",
+      "article": "de"
+    },
+    {
+      "id": "n525",
+      "word": "formulering",
+      "translation": "wording, formulation",
+      "article": "de"
+    },
+    {
+      "id": "n526",
+      "word": "fort",
+      "translation": "fort",
+      "article": "het"
+    },
+    {
+      "id": "n527",
       "word": "foto",
       "translation": "photo",
       "article": "de"
     },
     {
-      "id": "n279",
+      "id": "n528",
+      "word": "fotograaf",
+      "translation": "photographer",
+      "article": "de"
+    },
+    {
+      "id": "n529",
       "word": "fout",
       "translation": "mistake, error",
       "article": "de"
     },
     {
-      "id": "n280",
+      "id": "n530",
       "word": "fractie",
       "translation": "fraction; political faction",
       "article": "de"
     },
     {
-      "id": "n281",
+      "id": "n531",
+      "word": "fragment",
+      "translation": "fragment",
+      "article": "het"
+    },
+    {
+      "id": "n532",
       "word": "front",
       "translation": "front",
       "article": "het"
     },
     {
-      "id": "n282",
+      "id": "n533",
+      "word": "fruit",
+      "translation": "fruit",
+      "article": "het"
+    },
+    {
+      "id": "n534",
+      "word": "frustratie",
+      "translation": "frustration",
+      "article": "de"
+    },
+    {
+      "id": "n535",
       "word": "functie",
       "translation": "function, position",
       "article": "de"
     },
     {
-      "id": "n283",
+      "id": "n536",
+      "word": "functionaris",
+      "translation": "official, functionary",
+      "article": "de"
+    },
+    {
+      "id": "n537",
       "word": "gang",
       "translation": "corridor; course; pace",
       "article": "de"
     },
     {
-      "id": "n284",
+      "id": "n538",
+      "word": "gans",
+      "translation": "goose",
+      "article": "de"
+    },
+    {
+      "id": "n539",
+      "word": "garage",
+      "translation": "garage",
+      "article": "de"
+    },
+    {
+      "id": "n540",
+      "word": "garantie",
+      "translation": "guarantee",
+      "article": "de"
+    },
+    {
+      "id": "n541",
       "word": "gas",
       "translation": "gas",
       "article": "het"
     },
     {
-      "id": "n285",
+      "id": "n542",
       "word": "gast",
       "translation": "guest",
       "article": "de"
     },
     {
-      "id": "n286",
+      "id": "n543",
+      "word": "gat",
+      "translation": "hole",
+      "article": "het"
+    },
+    {
+      "id": "n544",
+      "word": "gave",
+      "translation": "gift, talent",
+      "article": "de"
+    },
+    {
+      "id": "n545",
+      "word": "gebaar",
+      "translation": "gesture",
+      "article": "het"
+    },
+    {
+      "id": "n546",
       "word": "gebed",
       "translation": "prayer",
       "article": "het"
     },
     {
-      "id": "n287",
+      "id": "n547",
       "word": "gebeurtenis",
       "translation": "event",
       "article": "de"
     },
     {
-      "id": "n288",
+      "id": "n548",
       "word": "gebied",
       "translation": "area, territory",
       "article": "het"
     },
     {
-      "id": "n289",
+      "id": "n549",
+      "word": "gebit",
+      "translation": "teeth; dentures",
+      "article": "het"
+    },
+    {
+      "id": "n550",
+      "word": "gebod",
+      "translation": "commandment",
+      "article": "het"
+    },
+    {
+      "id": "n551",
+      "word": "geboorte",
+      "translation": "birth",
+      "article": "de"
+    },
+    {
+      "id": "n552",
       "word": "gebouw",
       "translation": "building",
       "article": "het"
     },
     {
-      "id": "n290",
+      "id": "n553",
       "word": "gebrek",
       "translation": "lack; defect",
       "article": "het"
     },
     {
-      "id": "n291",
+      "id": "n554",
       "word": "gebruik",
       "translation": "use",
       "article": "het"
     },
     {
-      "id": "n292",
+      "id": "n555",
       "word": "gebruiker",
       "translation": "user",
       "article": "de"
     },
     {
-      "id": "n293",
+      "id": "n556",
+      "word": "gedaante",
+      "translation": "shape, form",
+      "article": "de"
+    },
+    {
+      "id": "n557",
       "word": "gedachte",
       "translation": "thought",
       "article": "de"
     },
     {
-      "id": "n294",
+      "id": "n558",
       "word": "gedeelte",
       "translation": "part, portion",
       "article": "het"
     },
     {
-      "id": "n295",
+      "id": "n559",
+      "word": "gedicht",
+      "translation": "poem",
+      "article": "het"
+    },
+    {
+      "id": "n560",
+      "word": "geding",
+      "translation": "legal case; issue",
+      "article": "het"
+    },
+    {
+      "id": "n561",
+      "word": "gedoe",
+      "translation": "fuss, hassle",
+      "article": "het"
+    },
+    {
+      "id": "n562",
       "word": "gedrag",
       "translation": "behavior",
       "article": "het"
     },
     {
-      "id": "n296",
+      "id": "n563",
       "word": "geduld",
       "translation": "patience",
       "article": "het"
     },
     {
-      "id": "n297",
+      "id": "n564",
       "word": "geest",
       "translation": "spirit, mind",
       "article": "de"
     },
     {
-      "id": "n298",
+      "id": "n565",
       "word": "gegeven",
       "translation": "fact, datum",
       "article": "het"
     },
     {
-      "id": "n299",
+      "id": "n566",
       "word": "geheel",
       "translation": "whole, entirety",
       "article": "het"
     },
     {
-      "id": "n300",
+      "id": "n567",
       "word": "geheim",
       "translation": "secret",
       "article": "het"
     },
     {
-      "id": "n301",
+      "id": "n568",
+      "word": "geheugen",
+      "translation": "memory",
+      "article": "het"
+    },
+    {
+      "id": "n569",
+      "word": "gehoor",
+      "translation": "hearing; audience",
+      "article": "het"
+    },
+    {
+      "id": "n570",
+      "word": "geit",
+      "translation": "goat",
+      "article": "de"
+    },
+    {
+      "id": "n571",
+      "word": "gelaat",
+      "translation": "face, countenance",
+      "article": "het"
+    },
+    {
+      "id": "n572",
       "word": "geld",
       "translation": "money",
       "article": "het"
     },
     {
-      "id": "n302",
+      "id": "n573",
+      "word": "geleerde",
+      "translation": "scholar",
+      "article": "de"
+    },
+    {
+      "id": "n574",
       "word": "gelegenheid",
       "translation": "opportunity; occasion",
       "article": "de"
     },
     {
-      "id": "n303",
+      "id": "n575",
+      "word": "gelijkenis",
+      "translation": "resemblance; parable",
+      "article": "de"
+    },
+    {
+      "id": "n576",
       "word": "geloof",
       "translation": "faith, belief",
       "article": "het"
     },
     {
-      "id": "n304",
+      "id": "n577",
+      "word": "gelovige",
+      "translation": "believer",
+      "article": "de"
+    },
+    {
+      "id": "n578",
       "word": "geluid",
       "translation": "sound",
       "article": "het"
     },
     {
-      "id": "n305",
+      "id": "n579",
       "word": "geluk",
       "translation": "happiness; luck",
       "article": "het"
     },
     {
-      "id": "n306",
+      "id": "n580",
+      "word": "gemak",
+      "translation": "ease, comfort",
+      "article": "het"
+    },
+    {
+      "id": "n581",
+      "word": "gemeenschap",
+      "translation": "community",
+      "article": "de"
+    },
+    {
+      "id": "n582",
       "word": "gemeente",
       "translation": "municipality",
       "article": "de"
     },
     {
-      "id": "n307",
+      "id": "n583",
+      "word": "gemeenteraad",
+      "translation": "city council",
+      "article": "de"
+    },
+    {
+      "id": "n584",
+      "word": "gemiddelde",
+      "translation": "average",
+      "article": "het"
+    },
+    {
+      "id": "n585",
+      "word": "genade",
+      "translation": "mercy, grace",
+      "article": "de"
+    },
+    {
+      "id": "n586",
+      "word": "geneeskunde",
+      "translation": "medicine (science)",
+      "article": "de"
+    },
+    {
+      "id": "n587",
       "word": "geneesmiddel",
       "translation": "medicine, drug",
       "article": "het"
     },
     {
-      "id": "n308",
+      "id": "n588",
+      "word": "genegenheid",
+      "translation": "affection",
+      "article": "de"
+    },
+    {
+      "id": "n589",
+      "word": "generaal",
+      "translation": "general",
+      "article": "de"
+    },
+    {
+      "id": "n590",
       "word": "generatie",
       "translation": "generation",
       "article": "de"
     },
     {
-      "id": "n309",
+      "id": "n591",
+      "word": "genie",
+      "translation": "genius",
+      "article": "het"
+    },
+    {
+      "id": "n592",
       "word": "genoegen",
       "translation": "pleasure",
       "article": "het"
     },
     {
-      "id": "n310",
+      "id": "n593",
       "word": "genot",
       "translation": "enjoyment, pleasure",
       "article": "het"
     },
     {
-      "id": "n311",
+      "id": "n594",
       "word": "gerecht",
       "translation": "dish; court",
       "article": "het"
     },
     {
-      "id": "n312",
+      "id": "n595",
+      "word": "gereedschap",
+      "translation": "tools",
+      "article": "het"
+    },
+    {
+      "id": "n596",
+      "word": "gerucht",
+      "translation": "rumor",
+      "article": "het"
+    },
+    {
+      "id": "n597",
+      "word": "geschenk",
+      "translation": "gift, present",
+      "article": "het"
+    },
+    {
+      "id": "n598",
       "word": "geschiedenis",
       "translation": "history",
       "article": "de"
     },
     {
-      "id": "n313",
+      "id": "n599",
       "word": "geschrift",
       "translation": "writing, document",
       "article": "het"
     },
     {
-      "id": "n314",
+      "id": "n600",
       "word": "geslacht",
       "translation": "gender; generation",
       "article": "het"
     },
     {
-      "id": "n315",
+      "id": "n601",
       "word": "gesprek",
       "translation": "conversation",
       "article": "het"
     },
     {
-      "id": "n316",
+      "id": "n602",
       "word": "gestalte",
       "translation": "figure, shape",
       "article": "de"
     },
     {
-      "id": "n317",
+      "id": "n603",
       "word": "getal",
       "translation": "number",
       "article": "het"
     },
     {
-      "id": "n318",
+      "id": "n604",
       "word": "getuige",
       "translation": "witness",
       "article": "de"
     },
     {
-      "id": "n319",
+      "id": "n605",
+      "word": "getuigenis",
+      "translation": "testimony",
+      "article": "de"
+    },
+    {
+      "id": "n606",
+      "word": "geur",
+      "translation": "scent, smell",
+      "article": "de"
+    },
+    {
+      "id": "n607",
       "word": "gevaar",
       "translation": "danger",
       "article": "het"
     },
     {
-      "id": "n320",
+      "id": "n608",
       "word": "geval",
       "translation": "case",
       "article": "het"
     },
     {
-      "id": "n321",
+      "id": "n609",
       "word": "gevangene",
       "translation": "prisoner",
       "article": "de"
     },
     {
-      "id": "n322",
+      "id": "n610",
       "word": "gevangenis",
       "translation": "prison",
       "article": "de"
     },
     {
-      "id": "n323",
+      "id": "n611",
       "word": "gevecht",
       "translation": "fight, battle",
       "article": "het"
     },
     {
-      "id": "n324",
+      "id": "n612",
+      "word": "gevel",
+      "translation": "facade",
+      "article": "de"
+    },
+    {
+      "id": "n613",
       "word": "gevoel",
       "translation": "feeling",
       "article": "het"
     },
     {
-      "id": "n325",
+      "id": "n614",
       "word": "gevolg",
       "translation": "consequence",
       "article": "het"
     },
     {
-      "id": "n326",
+      "id": "n615",
+      "word": "gewaarwording",
+      "translation": "sensation, perception",
+      "article": "de"
+    },
+    {
+      "id": "n616",
+      "word": "geweer",
+      "translation": "rifle",
+      "article": "het"
+    },
+    {
+      "id": "n617",
       "word": "geweld",
       "translation": "violence",
       "article": "het"
     },
     {
-      "id": "n327",
+      "id": "n618",
+      "word": "gewest",
+      "translation": "region, province",
+      "article": "het"
+    },
+    {
+      "id": "n619",
       "word": "geweten",
       "translation": "conscience",
       "article": "het"
     },
     {
-      "id": "n328",
+      "id": "n620",
       "word": "gewicht",
       "translation": "weight",
       "article": "het"
     },
     {
-      "id": "n329",
+      "id": "n621",
       "word": "gewoonte",
       "translation": "habit, custom",
       "article": "de"
     },
     {
-      "id": "n330",
+      "id": "n622",
       "word": "gezag",
       "translation": "authority",
       "article": "het"
     },
     {
-      "id": "n331",
+      "id": "n623",
+      "word": "gezelschap",
+      "translation": "company, group",
+      "article": "het"
+    },
+    {
+      "id": "n624",
       "word": "gezicht",
       "translation": "face",
       "article": "het"
     },
     {
-      "id": "n332",
+      "id": "n625",
+      "word": "gezichtspunt",
+      "translation": "point of view",
+      "article": "het"
+    },
+    {
+      "id": "n626",
       "word": "gezin",
       "translation": "family (nuclear)",
       "article": "het"
     },
     {
-      "id": "n333",
+      "id": "n627",
       "word": "gezondheid",
       "translation": "health",
       "article": "de"
     },
     {
-      "id": "n334",
+      "id": "n628",
+      "word": "gezondheidszorg",
+      "translation": "healthcare",
+      "article": "de"
+    },
+    {
+      "id": "n629",
+      "word": "gids",
+      "translation": "guide",
+      "article": "de"
+    },
+    {
+      "id": "n630",
+      "word": "glans",
+      "translation": "shine, luster",
+      "article": "de"
+    },
+    {
+      "id": "n631",
       "word": "glas",
       "translation": "glass",
       "article": "het"
     },
     {
-      "id": "n335",
+      "id": "n632",
+      "word": "glimlach",
+      "translation": "smile",
+      "article": "de"
+    },
+    {
+      "id": "n633",
+      "word": "gloed",
+      "translation": "glow",
+      "article": "de"
+    },
+    {
+      "id": "n634",
+      "word": "glorie",
+      "translation": "glory",
+      "article": "de"
+    },
+    {
+      "id": "n635",
       "word": "god",
       "translation": "god",
       "article": "de"
     },
     {
-      "id": "n336",
+      "id": "n636",
+      "word": "godheid",
+      "translation": "deity",
+      "article": "de"
+    },
+    {
+      "id": "n637",
+      "word": "godsdienst",
+      "translation": "religion",
+      "article": "de"
+    },
+    {
+      "id": "n638",
+      "word": "goederen",
+      "translation": "goods",
+      "article": "de"
+    },
+    {
+      "id": "n639",
+      "word": "goedheid",
+      "translation": "goodness",
+      "article": "de"
+    },
+    {
+      "id": "n640",
+      "word": "goedkeuring",
+      "translation": "approval",
+      "article": "de"
+    },
+    {
+      "id": "n641",
+      "word": "golf",
+      "translation": "wave; golf",
+      "article": "de"
+    },
+    {
+      "id": "n642",
+      "word": "gordijn",
+      "translation": "curtain",
+      "article": "het"
+    },
+    {
+      "id": "n643",
       "word": "goud",
       "translation": "gold",
       "article": "het"
     },
     {
-      "id": "n337",
+      "id": "n644",
+      "word": "gouverneur",
+      "translation": "governor",
+      "article": "de"
+    },
+    {
+      "id": "n645",
       "word": "graad",
       "translation": "degree",
       "article": "de"
     },
     {
-      "id": "n338",
+      "id": "n646",
       "word": "graaf",
       "translation": "count (nobility)",
       "article": "de"
     },
     {
-      "id": "n339",
+      "id": "n647",
+      "word": "graan",
+      "translation": "grain",
+      "article": "het"
+    },
+    {
+      "id": "n648",
+      "word": "gracht",
+      "translation": "canal (city)",
+      "article": "de"
+    },
+    {
+      "id": "n649",
       "word": "graf",
       "translation": "grave",
       "article": "het"
     },
     {
-      "id": "n340",
+      "id": "n650",
       "word": "grap",
       "translation": "joke",
       "article": "de"
     },
     {
-      "id": "n341",
+      "id": "n651",
+      "word": "gras",
+      "translation": "grass",
+      "article": "het"
+    },
+    {
+      "id": "n652",
+      "word": "greep",
+      "translation": "grip; handle",
+      "article": "de"
+    },
+    {
+      "id": "n653",
       "word": "grens",
       "translation": "border, limit",
       "article": "de"
     },
     {
-      "id": "n342",
+      "id": "n654",
+      "word": "grijns",
+      "translation": "grin",
+      "article": "de"
+    },
+    {
+      "id": "n655",
       "word": "groei",
       "translation": "growth",
       "article": "de"
     },
     {
-      "id": "n343",
+      "id": "n656",
       "word": "groente",
       "translation": "vegetable",
       "article": "de"
     },
     {
-      "id": "n344",
+      "id": "n657",
       "word": "groep",
       "translation": "group",
       "article": "de"
     },
     {
-      "id": "n345",
+      "id": "n658",
+      "word": "groepering",
+      "translation": "grouping",
+      "article": "de"
+    },
+    {
+      "id": "n659",
+      "word": "groet",
+      "translation": "greeting",
+      "article": "de"
+    },
+    {
+      "id": "n660",
       "word": "grond",
       "translation": "ground; reason",
       "article": "de"
     },
     {
-      "id": "n346",
+      "id": "n661",
+      "word": "grondslag",
+      "translation": "foundation, basis",
+      "article": "de"
+    },
+    {
+      "id": "n662",
+      "word": "grondstof",
+      "translation": "raw material",
+      "article": "de"
+    },
+    {
+      "id": "n663",
+      "word": "grondwet",
+      "translation": "constitution",
+      "article": "de"
+    },
+    {
+      "id": "n664",
       "word": "grootmoeder",
       "translation": "grandmother",
       "article": "de"
     },
     {
-      "id": "n347",
+      "id": "n665",
       "word": "grootte",
       "translation": "size",
       "article": "de"
     },
     {
-      "id": "n348",
+      "id": "n666",
       "word": "grootvader",
       "translation": "grandfather",
       "article": "de"
     },
     {
-      "id": "n349",
+      "id": "n667",
+      "word": "grot",
+      "translation": "cave",
+      "article": "de"
+    },
+    {
+      "id": "n668",
       "word": "gulden",
       "translation": "guilder",
       "article": "de"
     },
     {
-      "id": "n350",
+      "id": "n669",
       "word": "gunst",
       "translation": "favor",
       "article": "de"
     },
     {
-      "id": "n351",
+      "id": "n670",
+      "word": "haak",
+      "translation": "hook",
+      "article": "de"
+    },
+    {
+      "id": "n671",
+      "word": "haan",
+      "translation": "rooster",
+      "article": "de"
+    },
+    {
+      "id": "n672",
       "word": "haar",
       "translation": "hair",
       "article": "het"
     },
     {
-      "id": "n352",
+      "id": "n673",
+      "word": "haard",
+      "translation": "fireplace; hearth",
+      "article": "de"
+    },
+    {
+      "id": "n674",
+      "word": "haast",
+      "translation": "haste, hurry",
+      "article": "de"
+    },
+    {
+      "id": "n675",
       "word": "haat",
       "translation": "hatred",
       "article": "de"
     },
     {
-      "id": "n353",
+      "id": "n676",
+      "word": "hak",
+      "translation": "heel; chop",
+      "article": "de"
+    },
+    {
+      "id": "n677",
       "word": "hal",
       "translation": "hall",
       "article": "de"
     },
     {
-      "id": "n354",
+      "id": "n678",
+      "word": "hals",
+      "translation": "neck",
+      "article": "de"
+    },
+    {
+      "id": "n679",
       "word": "hand",
       "translation": "hand",
       "article": "de"
     },
     {
-      "id": "n355",
+      "id": "n680",
+      "word": "handdoek",
+      "translation": "towel",
+      "article": "de"
+    },
+    {
+      "id": "n681",
+      "word": "handel",
+      "translation": "trade, commerce",
+      "article": "de"
+    },
+    {
+      "id": "n682",
+      "word": "handelaar",
+      "translation": "trader, merchant",
+      "article": "de"
+    },
+    {
+      "id": "n683",
       "word": "handeling",
       "translation": "action; plot",
       "article": "de"
     },
     {
-      "id": "n356",
+      "id": "n684",
+      "word": "handschoen",
+      "translation": "glove",
+      "article": "de"
+    },
+    {
+      "id": "n685",
+      "word": "handschrift",
+      "translation": "handwriting",
+      "article": "het"
+    },
+    {
+      "id": "n686",
+      "word": "harmonie",
+      "translation": "harmony",
+      "article": "de"
+    },
+    {
+      "id": "n687",
       "word": "hart",
       "translation": "heart",
       "article": "het"
     },
     {
-      "id": "n357",
+      "id": "n688",
+      "word": "hartstocht",
+      "translation": "passion",
+      "article": "de"
+    },
+    {
+      "id": "n689",
       "word": "haven",
       "translation": "harbor, port",
       "article": "de"
     },
     {
-      "id": "n358",
+      "id": "n690",
+      "word": "heden",
+      "translation": "present (time)",
+      "article": "het"
+    },
+    {
+      "id": "n691",
+      "word": "heelal",
+      "translation": "universe",
+      "article": "het"
+    },
+    {
+      "id": "n692",
+      "word": "heer",
+      "translation": "gentleman; lord",
+      "article": "de"
+    },
+    {
+      "id": "n693",
+      "word": "heil",
+      "translation": "salvation",
+      "article": "het"
+    },
+    {
+      "id": "n694",
+      "word": "heimwee",
+      "translation": "homesickness",
+      "article": "het"
+    },
+    {
+      "id": "n695",
       "word": "hek",
       "translation": "fence, gate",
       "article": "het"
     },
     {
-      "id": "n359",
+      "id": "n696",
+      "word": "hekel",
+      "translation": "dislike",
+      "article": "de"
+    },
+    {
+      "id": "n697",
+      "word": "heks",
+      "translation": "witch",
+      "article": "de"
+    },
+    {
+      "id": "n698",
+      "word": "hel",
+      "translation": "hell",
+      "article": "de"
+    },
+    {
+      "id": "n699",
       "word": "held",
       "translation": "hero",
       "article": "de"
     },
     {
-      "id": "n360",
+      "id": "n700",
       "word": "helft",
       "translation": "half",
       "article": "de"
     },
     {
-      "id": "n361",
+      "id": "n701",
       "word": "helling",
       "translation": "slope",
       "article": "de"
     },
     {
-      "id": "n362",
+      "id": "n702",
+      "word": "helm",
+      "translation": "helmet",
+      "article": "de"
+    },
+    {
+      "id": "n703",
       "word": "hemd",
       "translation": "shirt, undershirt",
       "article": "het"
     },
     {
-      "id": "n363",
+      "id": "n704",
       "word": "hemel",
       "translation": "sky, heaven",
       "article": "de"
     },
     {
-      "id": "n364",
+      "id": "n705",
+      "word": "herfst",
+      "translation": "autumn, fall",
+      "article": "de"
+    },
+    {
+      "id": "n706",
+      "word": "herhaling",
+      "translation": "repetition, repeat",
+      "article": "de"
+    },
+    {
+      "id": "n707",
       "word": "herinnering",
       "translation": "memory, recollection",
       "article": "de"
     },
     {
-      "id": "n365",
+      "id": "n708",
+      "word": "herkomst",
+      "translation": "origin",
+      "article": "de"
+    },
+    {
+      "id": "n709",
       "word": "hersenen",
       "translation": "brain",
       "article": "de"
     },
     {
-      "id": "n366",
+      "id": "n710",
       "word": "herstel",
       "translation": "recovery",
       "article": "het"
     },
     {
-      "id": "n367",
+      "id": "n711",
       "word": "hertog",
       "translation": "duke",
       "article": "de"
     },
     {
-      "id": "n368",
+      "id": "n712",
+      "word": "hervorming",
+      "translation": "reform",
+      "article": "de"
+    },
+    {
+      "id": "n713",
       "word": "heup",
       "translation": "hip",
       "article": "de"
     },
     {
-      "id": "n369",
+      "id": "n714",
+      "word": "heuvel",
+      "translation": "hill",
+      "article": "de"
+    },
+    {
+      "id": "n715",
+      "word": "historicus",
+      "translation": "historian",
+      "article": "de"
+    },
+    {
+      "id": "n716",
       "word": "historie",
       "translation": "history",
       "article": "de"
     },
     {
-      "id": "n370",
+      "id": "n717",
       "word": "hitte",
       "translation": "heat",
       "article": "de"
     },
     {
-      "id": "n371",
+      "id": "n718",
+      "word": "hoed",
+      "translation": "hat",
+      "article": "de"
+    },
+    {
+      "id": "n719",
       "word": "hoek",
       "translation": "corner; angle",
       "article": "de"
     },
     {
-      "id": "n372",
+      "id": "n720",
+      "word": "hoer",
+      "translation": "prostitute",
+      "article": "de"
+    },
+    {
+      "id": "n721",
+      "word": "hoeveelheid",
+      "translation": "quantity, amount",
+      "article": "de"
+    },
+    {
+      "id": "n722",
       "word": "hof",
       "translation": "court; garden",
       "article": "het"
     },
     {
-      "id": "n373",
+      "id": "n723",
+      "word": "hok",
+      "translation": "cage; shed",
+      "article": "het"
+    },
+    {
+      "id": "n724",
       "word": "hol",
       "translation": "cave; hollow",
       "article": "het"
     },
     {
-      "id": "n374",
+      "id": "n725",
       "word": "hond",
       "translation": "dog",
       "article": "de"
     },
     {
-      "id": "n375",
+      "id": "n726",
       "word": "honger",
       "translation": "hunger",
       "article": "de"
     },
     {
-      "id": "n376",
+      "id": "n727",
       "word": "hoofd",
       "translation": "head",
       "article": "het"
     },
     {
-      "id": "n377",
+      "id": "n728",
+      "word": "hoofdpijn",
+      "translation": "headache",
+      "article": "de"
+    },
+    {
+      "id": "n729",
       "word": "hoofdstad",
       "translation": "capital city",
       "article": "de"
     },
     {
-      "id": "n378",
+      "id": "n730",
       "word": "hoofdstuk",
       "translation": "chapter",
       "article": "het"
     },
     {
-      "id": "n379",
+      "id": "n731",
       "word": "hoofdzaak",
       "translation": "main thing",
       "article": "de"
     },
     {
-      "id": "n380",
+      "id": "n732",
+      "word": "hoogleraar",
+      "translation": "professor",
+      "article": "de"
+    },
+    {
+      "id": "n733",
       "word": "hoogte",
       "translation": "height",
       "article": "de"
     },
     {
-      "id": "n381",
+      "id": "n734",
+      "word": "hoogtepunt",
+      "translation": "highlight, peak",
+      "article": "het"
+    },
+    {
+      "id": "n735",
       "word": "hoop",
       "translation": "hope; heap",
       "article": "de"
     },
     {
-      "id": "n382",
+      "id": "n736",
       "word": "horizon",
       "translation": "horizon",
       "article": "de"
     },
     {
-      "id": "n383",
+      "id": "n737",
       "word": "horloge",
       "translation": "watch",
       "article": "het"
     },
     {
-      "id": "n384",
+      "id": "n738",
       "word": "hotel",
       "translation": "hotel",
       "article": "het"
     },
     {
-      "id": "n385",
+      "id": "n739",
       "word": "houding",
       "translation": "attitude, posture",
       "article": "de"
     },
     {
-      "id": "n386",
+      "id": "n740",
       "word": "hout",
       "translation": "wood",
       "article": "het"
     },
     {
-      "id": "n387",
+      "id": "n741",
+      "word": "houvast",
+      "translation": "grip; support",
+      "article": "het"
+    },
+    {
+      "id": "n742",
+      "word": "huid",
+      "translation": "skin",
+      "article": "de"
+    },
+    {
+      "id": "n743",
       "word": "huis",
       "translation": "house",
       "article": "het"
     },
     {
-      "id": "n388",
+      "id": "n744",
+      "word": "huisarts",
+      "translation": "family doctor",
+      "article": "de"
+    },
+    {
+      "id": "n745",
+      "word": "huiskamer",
+      "translation": "living room",
+      "article": "de"
+    },
+    {
+      "id": "n746",
       "word": "hulp",
       "translation": "help",
       "article": "de"
     },
     {
-      "id": "n389",
+      "id": "n747",
+      "word": "hulpmiddel",
+      "translation": "tool, aid",
+      "article": "het"
+    },
+    {
+      "id": "n748",
+      "word": "hulpverlener",
+      "translation": "aid worker",
+      "article": "de"
+    },
+    {
+      "id": "n749",
       "word": "hulpverlening",
       "translation": "assistance, aid",
       "article": "de"
     },
     {
-      "id": "n390",
+      "id": "n750",
       "word": "humeur",
       "translation": "mood",
       "article": "het"
     },
     {
-      "id": "n391",
+      "id": "n751",
+      "word": "humor",
+      "translation": "humor",
+      "article": "de"
+    },
+    {
+      "id": "n752",
       "word": "hut",
       "translation": "hut; cabin",
       "article": "de"
     },
     {
-      "id": "n392",
+      "id": "n753",
+      "word": "huur",
+      "translation": "rent",
+      "article": "de"
+    },
+    {
+      "id": "n754",
       "word": "huwelijk",
       "translation": "marriage",
       "article": "het"
     },
     {
-      "id": "n393",
+      "id": "n755",
+      "word": "hypothese",
+      "translation": "hypothesis",
+      "article": "de"
+    },
+    {
+      "id": "n756",
       "word": "idee",
       "translation": "idea",
       "article": "het"
     },
     {
-      "id": "n394",
+      "id": "n757",
       "word": "identiteit",
       "translation": "identity",
       "article": "de"
     },
     {
-      "id": "n395",
+      "id": "n758",
+      "word": "ideologie",
+      "translation": "ideology",
+      "article": "de"
+    },
+    {
+      "id": "n759",
       "word": "ijs",
       "translation": "ice; ice cream",
       "article": "het"
     },
     {
-      "id": "n396",
+      "id": "n760",
       "word": "illusie",
       "translation": "illusion",
       "article": "de"
     },
     {
-      "id": "n397",
+      "id": "n761",
+      "word": "illustratie",
+      "translation": "illustration",
+      "article": "de"
+    },
+    {
+      "id": "n762",
+      "word": "impuls",
+      "translation": "impulse",
+      "article": "de"
+    },
+    {
+      "id": "n763",
+      "word": "incident",
+      "translation": "incident",
+      "article": "het"
+    },
+    {
+      "id": "n764",
       "word": "indeling",
       "translation": "classification, layout",
       "article": "de"
     },
     {
-      "id": "n398",
+      "id": "n765",
+      "word": "individu",
+      "translation": "individual",
+      "article": "het"
+    },
+    {
+      "id": "n766",
       "word": "indruk",
       "translation": "impression",
       "article": "de"
     },
     {
-      "id": "n399",
+      "id": "n767",
       "word": "industrie",
       "translation": "industry",
       "article": "de"
     },
     {
-      "id": "n400",
+      "id": "n768",
+      "word": "infectie",
+      "translation": "infection",
+      "article": "de"
+    },
+    {
+      "id": "n769",
       "word": "informatie",
       "translation": "information",
       "article": "de"
     },
     {
-      "id": "n401",
+      "id": "n770",
       "word": "ingang",
       "translation": "entrance",
       "article": "de"
     },
     {
-      "id": "n402",
+      "id": "n771",
+      "word": "ingenieur",
+      "translation": "engineer",
+      "article": "de"
+    },
+    {
+      "id": "n772",
+      "word": "ingreep",
+      "translation": "intervention; operation",
+      "article": "de"
+    },
+    {
+      "id": "n773",
       "word": "inhoud",
       "translation": "content",
       "article": "de"
     },
     {
-      "id": "n403",
+      "id": "n774",
+      "word": "initiatief",
+      "translation": "initiative",
+      "article": "het"
+    },
+    {
+      "id": "n775",
       "word": "inkomen",
       "translation": "income",
       "article": "het"
     },
     {
-      "id": "n404",
+      "id": "n776",
+      "word": "inkomsten",
+      "translation": "income, revenue",
+      "article": "de"
+    },
+    {
+      "id": "n777",
       "word": "inleiding",
       "translation": "introduction",
       "article": "de"
     },
     {
-      "id": "n405",
+      "id": "n778",
+      "word": "inlichting",
+      "translation": "information",
+      "article": "de"
+    },
+    {
+      "id": "n779",
+      "word": "inrichting",
+      "translation": "institution; layout",
+      "article": "de"
+    },
+    {
+      "id": "n780",
+      "word": "insect",
+      "translation": "insect",
+      "article": "het"
+    },
+    {
+      "id": "n781",
       "word": "inspanning",
       "translation": "effort",
       "article": "de"
     },
     {
-      "id": "n406",
+      "id": "n782",
+      "word": "inspecteur",
+      "translation": "inspector",
+      "article": "de"
+    },
+    {
+      "id": "n783",
+      "word": "inspiratie",
+      "translation": "inspiration",
+      "article": "de"
+    },
+    {
+      "id": "n784",
+      "word": "inspraak",
+      "translation": "voice, say",
+      "article": "de"
+    },
+    {
+      "id": "n785",
+      "word": "instantie",
+      "translation": "authority, instance",
+      "article": "de"
+    },
+    {
+      "id": "n786",
       "word": "instelling",
       "translation": "institution; setting",
       "article": "de"
     },
     {
-      "id": "n407",
+      "id": "n787",
+      "word": "instemming",
+      "translation": "approval, agreement",
+      "article": "de"
+    },
+    {
+      "id": "n788",
+      "word": "instinct",
+      "translation": "instinct",
+      "article": "het"
+    },
+    {
+      "id": "n789",
       "word": "instituut",
       "translation": "institute",
       "article": "het"
     },
     {
-      "id": "n408",
+      "id": "n790",
       "word": "instructie",
       "translation": "instruction",
       "article": "de"
     },
     {
-      "id": "n409",
+      "id": "n791",
+      "word": "instrument",
+      "translation": "instrument",
+      "article": "het"
+    },
+    {
+      "id": "n792",
+      "word": "integratie",
+      "translation": "integration",
+      "article": "de"
+    },
+    {
+      "id": "n793",
       "word": "intelligentie",
       "translation": "intelligence",
       "article": "de"
     },
     {
-      "id": "n410",
+      "id": "n794",
+      "word": "intensiteit",
+      "translation": "intensity",
+      "article": "de"
+    },
+    {
+      "id": "n795",
+      "word": "interactie",
+      "translation": "interaction",
+      "article": "de"
+    },
+    {
+      "id": "n796",
       "word": "interesse",
       "translation": "interest",
       "article": "de"
     },
     {
-      "id": "n411",
+      "id": "n797",
       "word": "interpretatie",
       "translation": "interpretation",
       "article": "de"
     },
     {
-      "id": "n412",
+      "id": "n798",
       "word": "interview",
       "translation": "interview",
       "article": "het"
     },
     {
-      "id": "n413",
+      "id": "n799",
+      "word": "intuïtie",
+      "translation": "intuition",
+      "article": "de"
+    },
+    {
+      "id": "n800",
+      "word": "inval",
+      "translation": "raid; idea",
+      "article": "de"
+    },
+    {
+      "id": "n801",
+      "word": "investering",
+      "translation": "investment",
+      "article": "de"
+    },
+    {
+      "id": "n802",
       "word": "invloed",
       "translation": "influence",
       "article": "de"
     },
     {
-      "id": "n414",
+      "id": "n803",
       "word": "inwoner",
       "translation": "inhabitant, resident",
       "article": "de"
     },
     {
-      "id": "n415",
+      "id": "n804",
       "word": "inzet",
       "translation": "effort; stake",
       "article": "de"
     },
     {
-      "id": "n416",
+      "id": "n805",
       "word": "inzicht",
       "translation": "insight",
       "article": "het"
     },
     {
-      "id": "n417",
+      "id": "n806",
+      "word": "ironie",
+      "translation": "irony",
+      "article": "de"
+    },
+    {
+      "id": "n807",
+      "word": "islam",
+      "translation": "Islam",
+      "article": "de"
+    },
+    {
+      "id": "n808",
       "word": "jaar",
       "translation": "year",
       "article": "het"
     },
     {
-      "id": "n418",
+      "id": "n809",
       "word": "jacht",
       "translation": "hunt",
       "article": "de"
     },
     {
-      "id": "n419",
+      "id": "n810",
+      "word": "jager",
+      "translation": "hunter",
+      "article": "de"
+    },
+    {
+      "id": "n811",
+      "word": "jaloezie",
+      "translation": "jealousy",
+      "article": "de"
+    },
+    {
+      "id": "n812",
+      "word": "jas",
+      "translation": "coat",
+      "article": "de"
+    },
+    {
+      "id": "n813",
       "word": "jasje",
       "translation": "jacket",
       "article": "het"
     },
     {
-      "id": "n420",
+      "id": "n814",
       "word": "jeugd",
       "translation": "youth",
       "article": "de"
     },
     {
-      "id": "n421",
+      "id": "n815",
       "word": "jongen",
       "translation": "boy",
       "article": "de"
     },
     {
-      "id": "n422",
+      "id": "n816",
       "word": "jongere",
       "translation": "young person",
       "article": "de"
     },
     {
-      "id": "n423",
+      "id": "n817",
       "word": "journalist",
       "translation": "journalist",
       "article": "de"
     },
     {
-      "id": "n424",
+      "id": "n818",
+      "word": "jurk",
+      "translation": "dress",
+      "article": "de"
+    },
+    {
+      "id": "n819",
       "word": "justitie",
       "translation": "justice",
       "article": "de"
     },
     {
-      "id": "n425",
+      "id": "n820",
+      "word": "juweel",
+      "translation": "jewel",
+      "article": "het"
+    },
+    {
+      "id": "n821",
+      "word": "kaak",
+      "translation": "jaw",
+      "article": "de"
+    },
+    {
+      "id": "n822",
+      "word": "kaars",
+      "translation": "candle",
+      "article": "de"
+    },
+    {
+      "id": "n823",
       "word": "kaart",
       "translation": "card; map",
       "article": "de"
     },
     {
-      "id": "n426",
+      "id": "n824",
+      "word": "kaas",
+      "translation": "cheese",
+      "article": "de"
+    },
+    {
+      "id": "n825",
+      "word": "kabel",
+      "translation": "cable",
+      "article": "de"
+    },
+    {
+      "id": "n826",
       "word": "kabinet",
       "translation": "cabinet (government)",
       "article": "het"
     },
     {
-      "id": "n427",
+      "id": "n827",
+      "word": "kachel",
+      "translation": "stove, heater",
+      "article": "de"
+    },
+    {
+      "id": "n828",
+      "word": "kade",
+      "translation": "quay",
+      "article": "de"
+    },
+    {
+      "id": "n829",
+      "word": "kader",
+      "translation": "framework",
+      "article": "het"
+    },
+    {
+      "id": "n830",
       "word": "kamer",
       "translation": "room",
       "article": "de"
     },
     {
-      "id": "n428",
+      "id": "n831",
       "word": "kameraad",
       "translation": "comrade",
       "article": "de"
     },
     {
-      "id": "n429",
+      "id": "n832",
       "word": "kamp",
       "translation": "camp",
       "article": "het"
     },
     {
-      "id": "n430",
+      "id": "n833",
       "word": "kanaal",
       "translation": "channel; canal",
       "article": "het"
     },
     {
-      "id": "n431",
+      "id": "n834",
+      "word": "kandidaat",
+      "translation": "candidate",
+      "article": "de"
+    },
+    {
+      "id": "n835",
+      "word": "kanker",
+      "translation": "cancer",
+      "article": "de"
+    },
+    {
+      "id": "n836",
+      "word": "kanon",
+      "translation": "cannon",
+      "article": "het"
+    },
+    {
+      "id": "n837",
       "word": "kans",
       "translation": "chance, opportunity",
       "article": "de"
     },
     {
-      "id": "n432",
+      "id": "n838",
       "word": "kant",
       "translation": "side",
       "article": "de"
     },
     {
-      "id": "n433",
+      "id": "n839",
       "word": "kantoor",
       "translation": "office",
       "article": "het"
     },
     {
-      "id": "n434",
+      "id": "n840",
+      "word": "kapel",
+      "translation": "chapel",
+      "article": "de"
+    },
+    {
+      "id": "n841",
       "word": "kapitaal",
       "translation": "capital",
       "article": "het"
     },
     {
-      "id": "n435",
+      "id": "n842",
+      "word": "kapitalisme",
+      "translation": "capitalism",
+      "article": "het"
+    },
+    {
+      "id": "n843",
+      "word": "kapitein",
+      "translation": "captain",
+      "article": "de"
+    },
+    {
+      "id": "n844",
+      "word": "kar",
+      "translation": "cart",
+      "article": "de"
+    },
+    {
+      "id": "n845",
       "word": "karakter",
       "translation": "character",
       "article": "het"
     },
     {
-      "id": "n436",
+      "id": "n846",
+      "word": "kas",
+      "translation": "greenhouse; cash register",
+      "article": "de"
+    },
+    {
+      "id": "n847",
+      "word": "kast",
+      "translation": "closet, cabinet",
+      "article": "de"
+    },
+    {
+      "id": "n848",
       "word": "kasteel",
       "translation": "castle",
       "article": "het"
     },
     {
-      "id": "n437",
+      "id": "n849",
       "word": "kat",
       "translation": "cat",
       "article": "de"
     },
     {
-      "id": "n438",
+      "id": "n850",
+      "word": "kathedraal",
+      "translation": "cathedral",
+      "article": "de"
+    },
+    {
+      "id": "n851",
+      "word": "keel",
+      "translation": "throat",
+      "article": "de"
+    },
+    {
+      "id": "n852",
+      "word": "keer",
+      "translation": "time (occasion)",
+      "article": "de"
+    },
+    {
+      "id": "n853",
+      "word": "kei",
+      "translation": "boulder; ace",
+      "article": "de"
+    },
+    {
+      "id": "n854",
       "word": "keizer",
       "translation": "emperor",
       "article": "de"
     },
     {
-      "id": "n439",
+      "id": "n855",
       "word": "kelder",
       "translation": "basement, cellar",
       "article": "de"
     },
     {
-      "id": "n440",
+      "id": "n856",
+      "word": "kelner",
+      "translation": "waiter",
+      "article": "de"
+    },
+    {
+      "id": "n857",
+      "word": "kenmerk",
+      "translation": "characteristic, feature",
+      "article": "het"
+    },
+    {
+      "id": "n858",
       "word": "kennis",
       "translation": "knowledge; acquaintance",
       "article": "de"
     },
     {
-      "id": "n441",
+      "id": "n859",
+      "word": "kerel",
+      "translation": "fellow, guy",
+      "article": "de"
+    },
+    {
+      "id": "n860",
       "word": "kerk",
       "translation": "church",
       "article": "de"
     },
     {
-      "id": "n442",
+      "id": "n861",
+      "word": "kerkhof",
+      "translation": "cemetery",
+      "article": "het"
+    },
+    {
+      "id": "n862",
       "word": "kern",
       "translation": "core, nucleus",
       "article": "de"
     },
     {
-      "id": "n443",
+      "id": "n863",
+      "word": "keten",
+      "translation": "chain",
+      "article": "de"
+    },
+    {
+      "id": "n864",
+      "word": "ketting",
+      "translation": "chain; necklace",
+      "article": "de"
+    },
+    {
+      "id": "n865",
       "word": "keuken",
       "translation": "kitchen",
       "article": "de"
     },
     {
-      "id": "n444",
+      "id": "n866",
       "word": "keuze",
       "translation": "choice",
       "article": "de"
     },
     {
-      "id": "n445",
+      "id": "n867",
+      "word": "kiezer",
+      "translation": "voter",
+      "article": "de"
+    },
+    {
+      "id": "n868",
+      "word": "kijker",
+      "translation": "viewer; binoculars",
+      "article": "de"
+    },
+    {
+      "id": "n869",
+      "word": "kilo",
+      "translation": "kilo",
+      "article": "de"
+    },
+    {
+      "id": "n870",
+      "word": "kilometer",
+      "translation": "kilometer",
+      "article": "de"
+    },
+    {
+      "id": "n871",
+      "word": "kin",
+      "translation": "chin",
+      "article": "de"
+    },
+    {
+      "id": "n872",
       "word": "kind",
       "translation": "child",
       "article": "het"
     },
     {
-      "id": "n446",
+      "id": "n873",
+      "word": "kip",
+      "translation": "chicken",
+      "article": "de"
+    },
+    {
+      "id": "n874",
+      "word": "kist",
+      "translation": "box; coffin",
+      "article": "de"
+    },
+    {
+      "id": "n875",
       "word": "klacht",
       "translation": "complaint",
       "article": "de"
     },
     {
-      "id": "n447",
+      "id": "n876",
       "word": "klank",
       "translation": "sound",
       "article": "de"
     },
     {
-      "id": "n448",
+      "id": "n877",
       "word": "klant",
       "translation": "customer",
       "article": "de"
     },
     {
-      "id": "n449",
+      "id": "n878",
       "word": "klap",
       "translation": "blow; clap",
       "article": "de"
     },
     {
-      "id": "n450",
+      "id": "n879",
       "word": "klas",
       "translation": "class",
       "article": "de"
     },
     {
-      "id": "n451",
+      "id": "n880",
       "word": "klasse",
       "translation": "class",
       "article": "de"
     },
     {
-      "id": "n452",
+      "id": "n881",
       "word": "kleding",
       "translation": "clothing",
       "article": "de"
     },
     {
-      "id": "n453",
+      "id": "n882",
       "word": "kleed",
       "translation": "rug; garment",
       "article": "het"
     },
     {
-      "id": "n454",
+      "id": "n883",
+      "word": "kleren",
+      "translation": "clothes",
+      "article": "de"
+    },
+    {
+      "id": "n884",
       "word": "kleur",
       "translation": "color",
       "article": "de"
     },
     {
-      "id": "n455",
+      "id": "n885",
+      "word": "kleuter",
+      "translation": "toddler",
+      "article": "de"
+    },
+    {
+      "id": "n886",
       "word": "klimaat",
       "translation": "climate",
       "article": "het"
     },
     {
-      "id": "n456",
+      "id": "n887",
+      "word": "kliniek",
+      "translation": "clinic",
+      "article": "de"
+    },
+    {
+      "id": "n888",
+      "word": "klok",
+      "translation": "clock; bell",
+      "article": "de"
+    },
+    {
+      "id": "n889",
       "word": "klomp",
       "translation": "clog; lump",
       "article": "de"
     },
     {
-      "id": "n457",
+      "id": "n890",
+      "word": "kloof",
+      "translation": "gap; gorge",
+      "article": "de"
+    },
+    {
+      "id": "n891",
       "word": "klooster",
       "translation": "monastery",
       "article": "het"
     },
     {
-      "id": "n458",
+      "id": "n892",
+      "word": "knaap",
+      "translation": "boy, lad",
+      "article": "de"
+    },
+    {
+      "id": "n893",
+      "word": "knecht",
+      "translation": "servant",
+      "article": "de"
+    },
+    {
+      "id": "n894",
       "word": "knie",
       "translation": "knee",
       "article": "de"
     },
     {
-      "id": "n459",
+      "id": "n895",
       "word": "knoop",
       "translation": "button; knot",
       "article": "de"
     },
     {
-      "id": "n460",
+      "id": "n896",
+      "word": "knop",
+      "translation": "button; bud",
+      "article": "de"
+    },
+    {
+      "id": "n897",
+      "word": "koe",
+      "translation": "cow",
+      "article": "de"
+    },
+    {
+      "id": "n898",
+      "word": "koepel",
+      "translation": "dome",
+      "article": "de"
+    },
+    {
+      "id": "n899",
       "word": "koers",
       "translation": "course; rate",
       "article": "de"
     },
     {
-      "id": "n461",
+      "id": "n900",
+      "word": "koffer",
+      "translation": "suitcase",
+      "article": "de"
+    },
+    {
+      "id": "n901",
+      "word": "koffie",
+      "translation": "coffee",
+      "article": "de"
+    },
+    {
+      "id": "n902",
+      "word": "kogel",
+      "translation": "bullet",
+      "article": "de"
+    },
+    {
+      "id": "n903",
+      "word": "kolonel",
+      "translation": "colonel",
+      "article": "de"
+    },
+    {
+      "id": "n904",
       "word": "kolonie",
       "translation": "colony",
       "article": "de"
     },
     {
-      "id": "n462",
+      "id": "n905",
+      "word": "kom",
+      "translation": "bowl",
+      "article": "de"
+    },
+    {
+      "id": "n906",
+      "word": "komst",
+      "translation": "coming, arrival",
+      "article": "de"
+    },
+    {
+      "id": "n907",
+      "word": "konijn",
+      "translation": "rabbit",
+      "article": "het"
+    },
+    {
+      "id": "n908",
       "word": "koning",
       "translation": "king",
       "article": "de"
     },
     {
-      "id": "n463",
+      "id": "n909",
+      "word": "koningin",
+      "translation": "queen",
+      "article": "de"
+    },
+    {
+      "id": "n910",
       "word": "koninkrijk",
       "translation": "kingdom",
       "article": "het"
     },
     {
-      "id": "n464",
+      "id": "n911",
+      "word": "kooi",
+      "translation": "cage",
+      "article": "de"
+    },
+    {
+      "id": "n912",
+      "word": "koop",
+      "translation": "purchase",
+      "article": "de"
+    },
+    {
+      "id": "n913",
+      "word": "koor",
+      "translation": "choir",
+      "article": "het"
+    },
+    {
+      "id": "n914",
+      "word": "koorts",
+      "translation": "fever",
+      "article": "de"
+    },
+    {
+      "id": "n915",
       "word": "kop",
       "translation": "head; cup",
       "article": "de"
     },
     {
-      "id": "n465",
+      "id": "n916",
+      "word": "koper",
+      "translation": "buyer; copper",
+      "article": "de"
+    },
+    {
+      "id": "n917",
+      "word": "kopie",
+      "translation": "copy",
+      "article": "de"
+    },
+    {
+      "id": "n918",
       "word": "kopje",
       "translation": "small cup",
       "article": "het"
     },
     {
-      "id": "n466",
+      "id": "n919",
       "word": "kosten",
       "translation": "costs",
       "article": "de"
     },
     {
-      "id": "n467",
+      "id": "n920",
+      "word": "kostuum",
+      "translation": "suit; costume",
+      "article": "het"
+    },
+    {
+      "id": "n921",
+      "word": "kou",
+      "translation": "cold",
+      "article": "de"
+    },
+    {
+      "id": "n922",
+      "word": "kraag",
+      "translation": "collar",
+      "article": "de"
+    },
+    {
+      "id": "n923",
+      "word": "kraan",
+      "translation": "tap; crane",
+      "article": "de"
+    },
+    {
+      "id": "n924",
       "word": "kracht",
       "translation": "strength, power",
       "article": "de"
     },
     {
-      "id": "n468",
+      "id": "n925",
       "word": "krant",
       "translation": "newspaper",
       "article": "de"
     },
     {
-      "id": "n469",
+      "id": "n926",
+      "word": "kreet",
+      "translation": "cry, shout",
+      "article": "de"
+    },
+    {
+      "id": "n927",
+      "word": "krijger",
+      "translation": "warrior",
+      "article": "de"
+    },
+    {
+      "id": "n928",
+      "word": "kring",
+      "translation": "circle",
+      "article": "de"
+    },
+    {
+      "id": "n929",
       "word": "kritiek",
       "translation": "criticism",
       "article": "de"
     },
     {
-      "id": "n470",
+      "id": "n930",
+      "word": "kroeg",
+      "translation": "pub, bar",
+      "article": "de"
+    },
+    {
+      "id": "n931",
       "word": "kroon",
       "translation": "crown",
       "article": "de"
     },
     {
-      "id": "n471",
+      "id": "n932",
+      "word": "kruid",
+      "translation": "herb",
+      "article": "het"
+    },
+    {
+      "id": "n933",
       "word": "kruis",
       "translation": "cross",
       "article": "het"
     },
     {
-      "id": "n472",
+      "id": "n934",
+      "word": "kudde",
+      "translation": "herd, flock",
+      "article": "de"
+    },
+    {
+      "id": "n935",
+      "word": "kuil",
+      "translation": "pit, hole",
+      "article": "de"
+    },
+    {
+      "id": "n936",
       "word": "kunst",
       "translation": "art",
       "article": "de"
     },
     {
-      "id": "n473",
+      "id": "n937",
       "word": "kunstenaar",
       "translation": "artist",
       "article": "de"
     },
     {
-      "id": "n474",
+      "id": "n938",
+      "word": "kunstwerk",
+      "translation": "work of art",
+      "article": "het"
+    },
+    {
+      "id": "n939",
+      "word": "kus",
+      "translation": "kiss",
+      "article": "de"
+    },
+    {
+      "id": "n940",
       "word": "kust",
       "translation": "coast",
       "article": "de"
     },
     {
-      "id": "n475",
+      "id": "n941",
+      "word": "kwaal",
+      "translation": "ailment",
+      "article": "de"
+    },
+    {
+      "id": "n942",
       "word": "kwaliteit",
       "translation": "quality",
       "article": "de"
     },
     {
-      "id": "n476",
+      "id": "n943",
       "word": "kwartier",
       "translation": "quarter (of an hour)",
       "article": "het"
     },
     {
-      "id": "n477",
+      "id": "n944",
       "word": "kwestie",
       "translation": "matter, issue",
       "article": "de"
     },
     {
-      "id": "n478",
+      "id": "n945",
       "word": "laan",
       "translation": "avenue",
       "article": "de"
     },
     {
-      "id": "n479",
+      "id": "n946",
+      "word": "laars",
+      "translation": "boot",
+      "article": "de"
+    },
+    {
+      "id": "n947",
+      "word": "laboratorium",
+      "translation": "laboratory",
+      "article": "het"
+    },
+    {
+      "id": "n948",
       "word": "lach",
       "translation": "laugh, smile",
       "article": "de"
     },
     {
-      "id": "n480",
+      "id": "n949",
+      "word": "ladder",
+      "translation": "ladder",
+      "article": "de"
+    },
+    {
+      "id": "n950",
+      "word": "lading",
+      "translation": "cargo; charge",
+      "article": "de"
+    },
+    {
+      "id": "n951",
+      "word": "laken",
+      "translation": "sheet; cloth",
+      "article": "het"
+    },
+    {
+      "id": "n952",
+      "word": "lamp",
+      "translation": "lamp",
+      "article": "de"
+    },
+    {
+      "id": "n953",
       "word": "land",
       "translation": "country; land",
       "article": "het"
     },
     {
-      "id": "n481",
+      "id": "n954",
+      "word": "landbouw",
+      "translation": "agriculture",
+      "article": "de"
+    },
+    {
+      "id": "n955",
+      "word": "landschap",
+      "translation": "landscape",
+      "article": "het"
+    },
+    {
+      "id": "n956",
       "word": "lap",
       "translation": "patch, piece of cloth",
       "article": "de"
     },
     {
-      "id": "n482",
+      "id": "n957",
       "word": "last",
       "translation": "burden; trouble",
       "article": "de"
     },
     {
-      "id": "n483",
+      "id": "n958",
+      "word": "lawaai",
+      "translation": "noise",
+      "article": "het"
+    },
+    {
+      "id": "n959",
       "word": "leed",
       "translation": "suffering, sorrow",
       "article": "het"
     },
     {
-      "id": "n484",
+      "id": "n960",
       "word": "leeftijd",
       "translation": "age",
       "article": "de"
     },
     {
-      "id": "n485",
+      "id": "n961",
+      "word": "leegte",
+      "translation": "emptiness, void",
+      "article": "de"
+    },
+    {
+      "id": "n962",
+      "word": "leek",
+      "translation": "layman",
+      "article": "de"
+    },
+    {
+      "id": "n963",
       "word": "leer",
       "translation": "leather; doctrine",
       "article": "het"
     },
     {
-      "id": "n486",
+      "id": "n964",
       "word": "leerling",
       "translation": "pupil, student",
       "article": "de"
     },
     {
-      "id": "n487",
+      "id": "n965",
       "word": "leeuw",
       "translation": "lion",
       "article": "de"
     },
     {
-      "id": "n488",
+      "id": "n966",
+      "word": "legende",
+      "translation": "legend",
+      "article": "de"
+    },
+    {
+      "id": "n967",
       "word": "leger",
       "translation": "army",
       "article": "het"
     },
     {
-      "id": "n489",
+      "id": "n968",
       "word": "leider",
       "translation": "leader",
       "article": "de"
     },
     {
-      "id": "n490",
+      "id": "n969",
       "word": "leiding",
       "translation": "leadership; pipe",
       "article": "de"
     },
     {
-      "id": "n491",
+      "id": "n970",
       "word": "lengte",
       "translation": "length",
       "article": "de"
     },
     {
-      "id": "n492",
+      "id": "n971",
+      "word": "lente",
+      "translation": "spring (season)",
+      "article": "de"
+    },
+    {
+      "id": "n972",
+      "word": "lepel",
+      "translation": "spoon",
+      "article": "de"
+    },
+    {
+      "id": "n973",
+      "word": "leraar",
+      "translation": "teacher",
+      "article": "de"
+    },
+    {
+      "id": "n974",
       "word": "les",
       "translation": "lesson",
       "article": "de"
     },
     {
-      "id": "n493",
+      "id": "n975",
       "word": "letter",
       "translation": "letter (alphabet)",
       "article": "de"
     },
     {
-      "id": "n494",
+      "id": "n976",
+      "word": "leugen",
+      "translation": "lie",
+      "article": "de"
+    },
+    {
+      "id": "n977",
       "word": "leven",
       "translation": "life",
       "article": "het"
     },
     {
-      "id": "n495",
+      "id": "n978",
+      "word": "lever",
+      "translation": "liver",
+      "article": "de"
+    },
+    {
+      "id": "n979",
+      "word": "leverancier",
+      "translation": "supplier",
+      "article": "de"
+    },
+    {
+      "id": "n980",
       "word": "lezer",
       "translation": "reader",
       "article": "de"
     },
     {
-      "id": "n496",
+      "id": "n981",
+      "word": "lezing",
+      "translation": "lecture; reading",
+      "article": "de"
+    },
+    {
+      "id": "n982",
       "word": "lichaam",
       "translation": "body",
       "article": "het"
     },
     {
-      "id": "n497",
+      "id": "n983",
       "word": "licht",
       "translation": "light",
       "article": "het"
     },
     {
-      "id": "n498",
+      "id": "n984",
       "word": "lid",
       "translation": "member",
       "article": "het"
     },
     {
-      "id": "n499",
+      "id": "n985",
+      "word": "lied",
+      "translation": "song",
+      "article": "het"
+    },
+    {
+      "id": "n986",
+      "word": "lieden",
+      "translation": "people",
+      "article": "de"
+    },
+    {
+      "id": "n987",
       "word": "liefde",
       "translation": "love",
       "article": "de"
     },
     {
-      "id": "n500",
+      "id": "n988",
       "word": "liefhebber",
       "translation": "lover, enthusiast",
       "article": "de"
     },
     {
-      "id": "n501",
+      "id": "n989",
+      "word": "liefje",
+      "translation": "sweetheart",
+      "article": "het"
+    },
+    {
+      "id": "n990",
+      "word": "lift",
+      "translation": "elevator",
+      "article": "de"
+    },
+    {
+      "id": "n991",
       "word": "lijf",
       "translation": "body",
       "article": "het"
     },
     {
-      "id": "n502",
+      "id": "n992",
       "word": "lijk",
       "translation": "corpse",
       "article": "het"
     },
     {
-      "id": "n503",
+      "id": "n993",
       "word": "lijn",
       "translation": "line",
       "article": "de"
     },
     {
-      "id": "n504",
+      "id": "n994",
       "word": "lijst",
       "translation": "list; frame",
       "article": "de"
     },
     {
-      "id": "n505",
+      "id": "n995",
       "word": "lip",
       "translation": "lip",
       "article": "de"
     },
     {
-      "id": "n506",
+      "id": "n996",
+      "word": "liter",
+      "translation": "liter",
+      "article": "de"
+    },
+    {
+      "id": "n997",
       "word": "literatuur",
       "translation": "literature",
       "article": "de"
     },
     {
-      "id": "n507",
+      "id": "n998",
+      "word": "litteken",
+      "translation": "scar",
+      "article": "het"
+    },
+    {
+      "id": "n999",
       "word": "lof",
       "translation": "praise",
       "article": "de"
     },
     {
-      "id": "n508",
+      "id": "n1000",
+      "word": "logica",
+      "translation": "logic",
+      "article": "de"
+    },
+    {
+      "id": "n1001",
+      "word": "long",
+      "translation": "lung",
+      "article": "de"
+    },
+    {
+      "id": "n1002",
       "word": "lood",
       "translation": "lead (metal)",
       "article": "het"
     },
     {
-      "id": "n509",
+      "id": "n1003",
       "word": "loon",
       "translation": "wage",
       "article": "het"
     },
     {
-      "id": "n510",
+      "id": "n1004",
       "word": "loop",
       "translation": "course; walk",
       "article": "de"
     },
     {
-      "id": "n511",
+      "id": "n1005",
       "word": "lot",
       "translation": "fate; lottery ticket",
       "article": "het"
     },
     {
-      "id": "n512",
+      "id": "n1006",
       "word": "lucht",
       "translation": "air; sky",
       "article": "de"
     },
     {
-      "id": "n513",
+      "id": "n1007",
       "word": "luchtvaart",
       "translation": "aviation",
       "article": "de"
     },
     {
-      "id": "n514",
+      "id": "n1008",
+      "word": "luik",
+      "translation": "shutter; hatch",
+      "article": "het"
+    },
+    {
+      "id": "n1009",
+      "word": "luitenant",
+      "translation": "lieutenant",
+      "article": "de"
+    },
+    {
+      "id": "n1010",
       "word": "lust",
       "translation": "desire; pleasure",
       "article": "de"
     },
     {
-      "id": "n515",
+      "id": "n1011",
+      "word": "luxe",
+      "translation": "luxury",
+      "article": "de"
+    },
+    {
+      "id": "n1012",
+      "word": "maag",
+      "translation": "stomach",
+      "article": "de"
+    },
+    {
+      "id": "n1013",
       "word": "maal",
       "translation": "time (occasion); meal",
       "article": "het"
     },
     {
-      "id": "n516",
+      "id": "n1014",
+      "word": "maaltijd",
+      "translation": "meal",
+      "article": "de"
+    },
+    {
+      "id": "n1015",
+      "word": "maan",
+      "translation": "moon",
+      "article": "de"
+    },
+    {
+      "id": "n1016",
       "word": "maand",
       "translation": "month",
       "article": "de"
     },
     {
-      "id": "n517",
+      "id": "n1017",
       "word": "maandag",
       "translation": "Monday",
       "article": "de"
     },
     {
-      "id": "n518",
+      "id": "n1018",
+      "word": "maat",
+      "translation": "measure; size; mate",
+      "article": "de"
+    },
+    {
+      "id": "n1019",
       "word": "maatregel",
       "translation": "measure",
       "article": "de"
     },
     {
-      "id": "n519",
+      "id": "n1020",
+      "word": "maatschappij",
+      "translation": "society; company",
+      "article": "de"
+    },
+    {
+      "id": "n1021",
+      "word": "maatstaf",
+      "translation": "standard, criterion",
+      "article": "de"
+    },
+    {
+      "id": "n1022",
+      "word": "machine",
+      "translation": "machine",
+      "article": "de"
+    },
+    {
+      "id": "n1023",
       "word": "macht",
       "translation": "power",
       "article": "de"
     },
     {
-      "id": "n520",
+      "id": "n1024",
+      "word": "majesteit",
+      "translation": "majesty",
+      "article": "de"
+    },
+    {
+      "id": "n1025",
       "word": "man",
       "translation": "man; husband",
       "article": "de"
     },
     {
-      "id": "n521",
+      "id": "n1026",
+      "word": "mand",
+      "translation": "basket",
+      "article": "de"
+    },
+    {
+      "id": "n1027",
       "word": "manier",
       "translation": "way, manner",
       "article": "de"
     },
     {
-      "id": "n522",
+      "id": "n1028",
       "word": "manifestatie",
       "translation": "manifestation",
       "article": "de"
     },
     {
-      "id": "n523",
+      "id": "n1029",
+      "word": "mannetje",
+      "translation": "little man; male animal",
+      "article": "het"
+    },
+    {
+      "id": "n1030",
+      "word": "mantel",
+      "translation": "coat; cloak",
+      "article": "de"
+    },
+    {
+      "id": "n1031",
+      "word": "manuscript",
+      "translation": "manuscript",
+      "article": "het"
+    },
+    {
+      "id": "n1032",
+      "word": "markt",
+      "translation": "market",
+      "article": "de"
+    },
+    {
+      "id": "n1033",
+      "word": "masker",
+      "translation": "mask",
+      "article": "het"
+    },
+    {
+      "id": "n1034",
       "word": "massa",
       "translation": "mass, crowd",
       "article": "de"
     },
     {
-      "id": "n524",
+      "id": "n1035",
+      "word": "mate",
+      "translation": "degree, extent",
+      "article": "de"
+    },
+    {
+      "id": "n1036",
       "word": "materiaal",
       "translation": "material",
       "article": "het"
     },
     {
-      "id": "n525",
+      "id": "n1037",
+      "word": "materie",
+      "translation": "matter",
+      "article": "de"
+    },
+    {
+      "id": "n1038",
+      "word": "matras",
+      "translation": "mattress",
+      "article": "de"
+    },
+    {
+      "id": "n1039",
       "word": "mechanisme",
       "translation": "mechanism",
       "article": "het"
     },
     {
-      "id": "n526",
+      "id": "n1040",
       "word": "medaille",
       "translation": "medal",
       "article": "de"
     },
     {
-      "id": "n527",
+      "id": "n1041",
       "word": "mededeling",
       "translation": "announcement",
       "article": "de"
     },
     {
-      "id": "n528",
+      "id": "n1042",
+      "word": "medelijden",
+      "translation": "pity, compassion",
+      "article": "het"
+    },
+    {
+      "id": "n1043",
+      "word": "medemens",
+      "translation": "fellow human",
+      "article": "de"
+    },
+    {
+      "id": "n1044",
       "word": "medewerker",
       "translation": "employee, colleague",
       "article": "de"
     },
     {
-      "id": "n529",
+      "id": "n1045",
       "word": "medewerking",
       "translation": "cooperation",
       "article": "de"
     },
     {
-      "id": "n530",
+      "id": "n1046",
+      "word": "media",
+      "translation": "media",
+      "article": "de"
+    },
+    {
+      "id": "n1047",
       "word": "medicijn",
       "translation": "medicine",
       "article": "het"
     },
     {
-      "id": "n531",
+      "id": "n1048",
+      "word": "meer",
+      "translation": "lake",
+      "article": "het"
+    },
+    {
+      "id": "n1049",
       "word": "meerderheid",
       "translation": "majority",
       "article": "de"
     },
     {
-      "id": "n532",
+      "id": "n1050",
       "word": "meester",
       "translation": "master; teacher",
       "article": "de"
     },
     {
-      "id": "n533",
+      "id": "n1051",
+      "word": "meid",
+      "translation": "girl; maid",
+      "article": "de"
+    },
+    {
+      "id": "n1052",
       "word": "meisje",
       "translation": "girl",
       "article": "het"
     },
     {
-      "id": "n534",
+      "id": "n1053",
+      "word": "melding",
+      "translation": "report, notification",
+      "article": "de"
+    },
+    {
+      "id": "n1054",
       "word": "melk",
       "translation": "milk",
       "article": "de"
     },
     {
-      "id": "n535",
+      "id": "n1055",
+      "word": "melodie",
+      "translation": "melody",
+      "article": "de"
+    },
+    {
+      "id": "n1056",
+      "word": "meneer",
+      "translation": "sir, mister",
+      "article": "de"
+    },
+    {
+      "id": "n1057",
+      "word": "mengsel",
+      "translation": "mixture",
+      "article": "het"
+    },
+    {
+      "id": "n1058",
+      "word": "menigte",
+      "translation": "crowd",
+      "article": "de"
+    },
+    {
+      "id": "n1059",
       "word": "mening",
       "translation": "opinion",
       "article": "de"
     },
     {
-      "id": "n536",
+      "id": "n1060",
       "word": "mens",
       "translation": "human, person",
       "article": "de"
     },
     {
-      "id": "n537",
+      "id": "n1061",
       "word": "mensenrecht",
       "translation": "human right",
       "article": "het"
     },
     {
-      "id": "n538",
+      "id": "n1062",
+      "word": "mensheid",
+      "translation": "humanity, mankind",
+      "article": "de"
+    },
+    {
+      "id": "n1063",
+      "word": "mentaliteit",
+      "translation": "mentality",
+      "article": "de"
+    },
+    {
+      "id": "n1064",
+      "word": "merendeel",
+      "translation": "majority",
+      "article": "het"
+    },
+    {
+      "id": "n1065",
+      "word": "merk",
+      "translation": "brand",
+      "article": "het"
+    },
+    {
+      "id": "n1066",
       "word": "mes",
       "translation": "knife",
       "article": "het"
     },
     {
-      "id": "n539",
+      "id": "n1067",
+      "word": "metaal",
+      "translation": "metal",
+      "article": "het"
+    },
+    {
+      "id": "n1068",
+      "word": "meter",
+      "translation": "meter",
+      "article": "de"
+    },
+    {
+      "id": "n1069",
       "word": "methode",
       "translation": "method",
       "article": "de"
     },
     {
-      "id": "n540",
+      "id": "n1070",
+      "word": "meubel",
+      "translation": "piece of furniture",
+      "article": "het"
+    },
+    {
+      "id": "n1071",
+      "word": "mevrouw",
+      "translation": "madam, Mrs.",
+      "article": "de"
+    },
+    {
+      "id": "n1072",
       "word": "middag",
       "translation": "afternoon",
       "article": "de"
     },
     {
-      "id": "n541",
+      "id": "n1073",
       "word": "middel",
       "translation": "means; waist",
       "article": "het"
     },
     {
-      "id": "n542",
+      "id": "n1074",
+      "word": "middeleeuwen",
+      "translation": "Middle Ages",
+      "article": "de"
+    },
+    {
+      "id": "n1075",
+      "word": "middelpunt",
+      "translation": "center point",
+      "article": "het"
+    },
+    {
+      "id": "n1076",
       "word": "midden",
       "translation": "middle, center",
       "article": "het"
     },
     {
-      "id": "n543",
+      "id": "n1077",
+      "word": "middernacht",
+      "translation": "midnight",
+      "article": "de"
+    },
+    {
+      "id": "n1078",
       "word": "milieu",
       "translation": "environment",
       "article": "het"
     },
     {
-      "id": "n544",
+      "id": "n1079",
       "word": "miljoen",
       "translation": "million",
       "article": "het"
     },
     {
-      "id": "n545",
+      "id": "n1080",
       "word": "minachting",
       "translation": "contempt",
       "article": "de"
     },
     {
-      "id": "n546",
+      "id": "n1081",
+      "word": "minderheid",
+      "translation": "minority",
+      "article": "de"
+    },
+    {
+      "id": "n1082",
       "word": "mineraal",
       "translation": "mineral",
       "article": "het"
     },
     {
-      "id": "n547",
+      "id": "n1083",
+      "word": "minimum",
+      "translation": "minimum",
+      "article": "het"
+    },
+    {
+      "id": "n1084",
       "word": "minister",
       "translation": "minister",
       "article": "de"
     },
     {
-      "id": "n548",
+      "id": "n1085",
       "word": "ministerie",
       "translation": "ministry",
       "article": "het"
     },
     {
-      "id": "n549",
+      "id": "n1086",
+      "word": "minnaar",
+      "translation": "lover",
+      "article": "de"
+    },
+    {
+      "id": "n1087",
+      "word": "minuut",
+      "translation": "minute",
+      "article": "de"
+    },
+    {
+      "id": "n1088",
+      "word": "misbruik",
+      "translation": "abuse, misuse",
+      "article": "het"
+    },
+    {
+      "id": "n1089",
+      "word": "misdaad",
+      "translation": "crime",
+      "article": "de"
+    },
+    {
+      "id": "n1090",
+      "word": "misdadiger",
+      "translation": "criminal",
+      "article": "de"
+    },
+    {
+      "id": "n1091",
+      "word": "mislukking",
+      "translation": "failure",
+      "article": "de"
+    },
+    {
+      "id": "n1092",
+      "word": "missie",
+      "translation": "mission",
+      "article": "de"
+    },
+    {
+      "id": "n1093",
+      "word": "mist",
+      "translation": "fog",
+      "article": "de"
+    },
+    {
+      "id": "n1094",
+      "word": "misverstand",
+      "translation": "misunderstanding",
+      "article": "het"
+    },
+    {
+      "id": "n1095",
+      "word": "modder",
+      "translation": "mud",
+      "article": "de"
+    },
+    {
+      "id": "n1096",
+      "word": "mode",
+      "translation": "fashion",
+      "article": "de"
+    },
+    {
+      "id": "n1097",
+      "word": "model",
+      "translation": "model",
+      "article": "het"
+    },
+    {
+      "id": "n1098",
+      "word": "moed",
+      "translation": "courage",
+      "article": "de"
+    },
+    {
+      "id": "n1099",
       "word": "moeder",
       "translation": "mother",
       "article": "de"
     },
     {
-      "id": "n550",
+      "id": "n1100",
       "word": "moeilijkheden",
       "translation": "difficulties",
       "article": "de"
     },
     {
-      "id": "n551",
+      "id": "n1101",
       "word": "moeilijkheid",
       "translation": "difficulty",
       "article": "de"
     },
     {
-      "id": "n552",
+      "id": "n1102",
       "word": "moeite",
       "translation": "effort, trouble",
       "article": "de"
     },
     {
-      "id": "n553",
+      "id": "n1103",
+      "word": "moeras",
+      "translation": "swamp, marsh",
+      "article": "het"
+    },
+    {
+      "id": "n1104",
       "word": "mogelijkheid",
       "translation": "possibility",
       "article": "de"
     },
     {
-      "id": "n554",
+      "id": "n1105",
       "word": "moment",
       "translation": "moment",
       "article": "het"
     },
     {
-      "id": "n555",
+      "id": "n1106",
       "word": "mond",
       "translation": "mouth",
       "article": "de"
     },
     {
-      "id": "n556",
+      "id": "n1107",
+      "word": "monnik",
+      "translation": "monk",
+      "article": "de"
+    },
+    {
+      "id": "n1108",
       "word": "monniken",
       "translation": "monks",
       "article": "de"
     },
     {
-      "id": "n557",
+      "id": "n1109",
+      "word": "monster",
+      "translation": "monster; sample",
+      "article": "het"
+    },
+    {
+      "id": "n1110",
+      "word": "monument",
+      "translation": "monument",
+      "article": "het"
+    },
+    {
+      "id": "n1111",
       "word": "moord",
       "translation": "murder",
       "article": "de"
     },
     {
-      "id": "n558",
+      "id": "n1112",
+      "word": "moordenaar",
+      "translation": "murderer",
+      "article": "de"
+    },
+    {
+      "id": "n1113",
       "word": "moraal",
       "translation": "morality; moral",
       "article": "de"
     },
     {
-      "id": "n559",
+      "id": "n1114",
       "word": "morgen",
       "translation": "morning; tomorrow",
       "article": "de"
     },
     {
-      "id": "n560",
+      "id": "n1115",
       "word": "moslim",
       "translation": "Muslim",
       "article": "de"
     },
     {
-      "id": "n561",
+      "id": "n1116",
+      "word": "motief",
+      "translation": "motive",
+      "article": "het"
+    },
+    {
+      "id": "n1117",
+      "word": "motivatie",
+      "translation": "motivation",
+      "article": "de"
+    },
+    {
+      "id": "n1118",
       "word": "motor",
       "translation": "engine; motorcycle",
       "article": "de"
     },
     {
-      "id": "n562",
+      "id": "n1119",
       "word": "mouw",
       "translation": "sleeve",
       "article": "de"
     },
     {
-      "id": "n563",
+      "id": "n1120",
+      "word": "muis",
+      "translation": "mouse",
+      "article": "de"
+    },
+    {
+      "id": "n1121",
       "word": "munt",
       "translation": "coin; currency",
       "article": "de"
     },
     {
-      "id": "n564",
+      "id": "n1122",
+      "word": "museum",
+      "translation": "museum",
+      "article": "het"
+    },
+    {
+      "id": "n1123",
       "word": "muur",
       "translation": "wall",
       "article": "de"
     },
     {
-      "id": "n565",
+      "id": "n1124",
       "word": "muziek",
       "translation": "music",
       "article": "de"
     },
     {
-      "id": "n566",
+      "id": "n1125",
+      "word": "mysterie",
+      "translation": "mystery",
+      "article": "het"
+    },
+    {
+      "id": "n1126",
+      "word": "mythe",
+      "translation": "myth",
+      "article": "de"
+    },
+    {
+      "id": "n1127",
+      "word": "naald",
+      "translation": "needle",
+      "article": "de"
+    },
+    {
+      "id": "n1128",
       "word": "naam",
       "translation": "name",
       "article": "de"
     },
     {
-      "id": "n567",
+      "id": "n1129",
+      "word": "nabijheid",
+      "translation": "proximity",
+      "article": "de"
+    },
+    {
+      "id": "n1130",
       "word": "nacht",
       "translation": "night",
       "article": "de"
     },
     {
-      "id": "n568",
+      "id": "n1131",
+      "word": "nachtmerrie",
+      "translation": "nightmare",
+      "article": "de"
+    },
+    {
+      "id": "n1132",
+      "word": "nadeel",
+      "translation": "disadvantage",
+      "article": "het"
+    },
+    {
+      "id": "n1133",
       "word": "nadruk",
       "translation": "emphasis",
       "article": "de"
     },
     {
-      "id": "n569",
+      "id": "n1134",
+      "word": "nagel",
+      "translation": "nail",
+      "article": "de"
+    },
+    {
+      "id": "n1135",
+      "word": "natie",
+      "translation": "nation",
+      "article": "de"
+    },
+    {
+      "id": "n1136",
       "word": "natuur",
       "translation": "nature",
       "article": "de"
     },
     {
-      "id": "n570",
+      "id": "n1137",
+      "word": "nederlaag",
+      "translation": "defeat",
+      "article": "de"
+    },
+    {
+      "id": "n1138",
+      "word": "neef",
+      "translation": "cousin; nephew",
+      "article": "de"
+    },
+    {
+      "id": "n1139",
       "word": "neiging",
       "translation": "tendency, inclination",
       "article": "de"
     },
     {
-      "id": "n571",
+      "id": "n1140",
+      "word": "nek",
+      "translation": "neck (back)",
+      "article": "de"
+    },
+    {
+      "id": "n1141",
+      "word": "nest",
+      "translation": "nest",
+      "article": "het"
+    },
+    {
+      "id": "n1142",
+      "word": "netwerk",
+      "translation": "network",
+      "article": "het"
+    },
+    {
+      "id": "n1143",
       "word": "neus",
       "translation": "nose",
       "article": "de"
     },
     {
-      "id": "n572",
+      "id": "n1144",
+      "word": "nevel",
+      "translation": "mist, haze",
+      "article": "de"
+    },
+    {
+      "id": "n1145",
+      "word": "nicht",
+      "translation": "cousin (female); niece",
+      "article": "de"
+    },
+    {
+      "id": "n1146",
+      "word": "nier",
+      "translation": "kidney",
+      "article": "de"
+    },
+    {
+      "id": "n1147",
       "word": "nieuws",
       "translation": "news",
       "article": "het"
     },
     {
-      "id": "n573",
+      "id": "n1148",
       "word": "niveau",
       "translation": "level",
       "article": "het"
     },
     {
-      "id": "n574",
+      "id": "n1149",
       "word": "nood",
       "translation": "need, emergency",
       "article": "de"
     },
     {
-      "id": "n575",
+      "id": "n1150",
+      "word": "noodlot",
+      "translation": "fate, destiny",
+      "article": "het"
+    },
+    {
+      "id": "n1151",
       "word": "noodzaak",
       "translation": "necessity",
       "article": "de"
     },
     {
-      "id": "n576",
+      "id": "n1152",
+      "word": "noorden",
+      "translation": "north",
+      "article": "het"
+    },
+    {
+      "id": "n1153",
+      "word": "noot",
+      "translation": "note (music); nut",
+      "article": "de"
+    },
+    {
+      "id": "n1154",
       "word": "norm",
       "translation": "norm, standard",
       "article": "de"
     },
     {
-      "id": "n577",
+      "id": "n1155",
       "word": "nota",
       "translation": "note; bill",
       "article": "de"
     },
     {
-      "id": "n578",
+      "id": "n1156",
+      "word": "notaris",
+      "translation": "notary",
+      "article": "de"
+    },
+    {
+      "id": "n1157",
       "word": "nummer",
       "translation": "number",
       "article": "het"
     },
     {
-      "id": "n579",
+      "id": "n1158",
       "word": "nut",
       "translation": "use, benefit",
       "article": "het"
     },
     {
-      "id": "n580",
+      "id": "n1159",
+      "word": "object",
+      "translation": "object",
+      "article": "het"
+    },
+    {
+      "id": "n1160",
+      "word": "observatie",
+      "translation": "observation",
+      "article": "de"
+    },
+    {
+      "id": "n1161",
+      "word": "oceaan",
+      "translation": "ocean",
+      "article": "de"
+    },
+    {
+      "id": "n1162",
       "word": "ochtend",
       "translation": "morning",
       "article": "de"
     },
     {
-      "id": "n581",
+      "id": "n1163",
       "word": "oefening",
       "translation": "exercise",
       "article": "de"
     },
     {
-      "id": "n582",
+      "id": "n1164",
       "word": "oever",
       "translation": "bank (river)",
       "article": "de"
     },
     {
-      "id": "n583",
+      "id": "n1165",
       "word": "offer",
       "translation": "sacrifice",
       "article": "het"
     },
     {
-      "id": "n584",
+      "id": "n1166",
       "word": "officier",
       "translation": "officer",
       "article": "de"
     },
     {
-      "id": "n585",
+      "id": "n1167",
+      "word": "ogenblik",
+      "translation": "moment",
+      "article": "het"
+    },
+    {
+      "id": "n1168",
+      "word": "olie",
+      "translation": "oil",
+      "article": "de"
+    },
+    {
+      "id": "n1169",
+      "word": "oma",
+      "translation": "grandmother",
+      "article": "de"
+    },
+    {
+      "id": "n1170",
       "word": "omgang",
       "translation": "interaction",
       "article": "de"
     },
     {
-      "id": "n586",
+      "id": "n1171",
       "word": "omgeving",
       "translation": "surroundings, environment",
       "article": "de"
     },
     {
-      "id": "n587",
+      "id": "n1172",
+      "word": "omroep",
+      "translation": "broadcasting",
+      "article": "de"
+    },
+    {
+      "id": "n1173",
+      "word": "omschrijving",
+      "translation": "description",
+      "article": "de"
+    },
+    {
+      "id": "n1174",
       "word": "omstandigheid",
       "translation": "circumstance",
       "article": "de"
     },
     {
-      "id": "n588",
+      "id": "n1175",
       "word": "omvang",
       "translation": "size, extent",
       "article": "de"
     },
     {
-      "id": "n589",
+      "id": "n1176",
+      "word": "omweg",
+      "translation": "detour",
+      "article": "de"
+    },
+    {
+      "id": "n1177",
+      "word": "onderdak",
+      "translation": "shelter",
+      "article": "het"
+    },
+    {
+      "id": "n1178",
       "word": "onderdeel",
       "translation": "part, component",
       "article": "het"
     },
     {
-      "id": "n590",
+      "id": "n1179",
       "word": "ondergang",
       "translation": "downfall",
       "article": "de"
     },
     {
-      "id": "n591",
+      "id": "n1180",
+      "word": "onderhandeling",
+      "translation": "negotiation",
+      "article": "de"
+    },
+    {
+      "id": "n1181",
+      "word": "onderhoud",
+      "translation": "maintenance",
+      "article": "het"
+    },
+    {
+      "id": "n1182",
       "word": "ondernemer",
       "translation": "entrepreneur",
       "article": "de"
     },
     {
-      "id": "n592",
+      "id": "n1183",
       "word": "onderneming",
       "translation": "enterprise, company",
       "article": "de"
     },
     {
-      "id": "n593",
+      "id": "n1184",
       "word": "onderscheid",
       "translation": "distinction",
       "article": "het"
     },
     {
-      "id": "n594",
+      "id": "n1185",
+      "word": "onderscheiding",
+      "translation": "distinction; decoration",
+      "article": "de"
+    },
+    {
+      "id": "n1186",
       "word": "ondersteuning",
       "translation": "support",
       "article": "de"
     },
     {
-      "id": "n595",
+      "id": "n1187",
       "word": "onderwerp",
       "translation": "subject, topic",
       "article": "het"
     },
     {
-      "id": "n596",
+      "id": "n1188",
       "word": "onderwijs",
       "translation": "education",
       "article": "het"
     },
     {
-      "id": "n597",
+      "id": "n1189",
       "word": "onderwijzer",
       "translation": "teacher",
       "article": "de"
     },
     {
-      "id": "n598",
+      "id": "n1190",
       "word": "onderzoek",
       "translation": "research, investigation",
       "article": "het"
     },
     {
-      "id": "n599",
+      "id": "n1191",
       "word": "onderzoeker",
       "translation": "researcher",
       "article": "de"
     },
     {
-      "id": "n600",
+      "id": "n1192",
+      "word": "ongelijk",
+      "translation": "wrong; inequality",
+      "article": "het"
+    },
+    {
+      "id": "n1193",
       "word": "ongeluk",
       "translation": "accident; misfortune",
       "article": "het"
     },
     {
-      "id": "n601",
+      "id": "n1194",
+      "word": "onmacht",
+      "translation": "powerlessness",
+      "article": "de"
+    },
+    {
+      "id": "n1195",
       "word": "onrecht",
       "translation": "injustice",
       "article": "het"
     },
     {
-      "id": "n602",
+      "id": "n1196",
       "word": "onrust",
       "translation": "unrest",
       "article": "de"
     },
     {
-      "id": "n603",
+      "id": "n1197",
       "word": "onschuld",
       "translation": "innocence",
       "article": "de"
     },
     {
-      "id": "n604",
+      "id": "n1198",
+      "word": "ontbijt",
+      "translation": "breakfast",
+      "article": "het"
+    },
+    {
+      "id": "n1199",
       "word": "ontdekking",
       "translation": "discovery",
       "article": "de"
     },
     {
-      "id": "n605",
+      "id": "n1200",
       "word": "ontmoeting",
       "translation": "meeting, encounter",
       "article": "de"
     },
     {
-      "id": "n606",
+      "id": "n1201",
       "word": "ontslag",
       "translation": "dismissal, resignation",
       "article": "het"
     },
     {
-      "id": "n607",
+      "id": "n1202",
+      "word": "ontspanning",
+      "translation": "relaxation",
+      "article": "de"
+    },
+    {
+      "id": "n1203",
       "word": "ontvangst",
       "translation": "reception",
       "article": "de"
     },
     {
-      "id": "n608",
+      "id": "n1204",
       "word": "ontwerp",
       "translation": "design, plan",
       "article": "het"
     },
     {
-      "id": "n609",
+      "id": "n1205",
       "word": "ontwikkeling",
       "translation": "development",
       "article": "de"
     },
     {
-      "id": "n610",
+      "id": "n1206",
       "word": "onzekerheid",
       "translation": "uncertainty",
       "article": "de"
     },
     {
-      "id": "n611",
+      "id": "n1207",
+      "word": "onzin",
+      "translation": "nonsense",
+      "article": "de"
+    },
+    {
+      "id": "n1208",
       "word": "oog",
       "translation": "eye",
       "article": "het"
     },
     {
-      "id": "n612",
+      "id": "n1209",
+      "word": "oogst",
+      "translation": "harvest",
+      "article": "de"
+    },
+    {
+      "id": "n1210",
       "word": "oom",
       "translation": "uncle",
       "article": "de"
     },
     {
-      "id": "n613",
+      "id": "n1211",
       "word": "oor",
       "translation": "ear",
       "article": "het"
     },
     {
-      "id": "n614",
+      "id": "n1212",
       "word": "oordeel",
       "translation": "judgment",
       "article": "het"
     },
     {
-      "id": "n615",
+      "id": "n1213",
       "word": "oorlog",
       "translation": "war",
       "article": "de"
     },
     {
-      "id": "n616",
+      "id": "n1214",
+      "word": "oorsprong",
+      "translation": "origin",
+      "article": "de"
+    },
+    {
+      "id": "n1215",
       "word": "oorzaak",
       "translation": "cause",
       "article": "de"
     },
     {
-      "id": "n617",
+      "id": "n1216",
       "word": "oost",
       "translation": "east",
       "article": "het"
     },
     {
-      "id": "n618",
+      "id": "n1217",
+      "word": "oosten",
+      "translation": "east",
+      "article": "het"
+    },
+    {
+      "id": "n1218",
+      "word": "opa",
+      "translation": "grandfather",
+      "article": "de"
+    },
+    {
+      "id": "n1219",
+      "word": "opbouw",
+      "translation": "construction, structure",
+      "article": "de"
+    },
+    {
+      "id": "n1220",
+      "word": "opbrengst",
+      "translation": "yield, revenue",
+      "article": "de"
+    },
+    {
+      "id": "n1221",
       "word": "opdracht",
       "translation": "assignment, order",
       "article": "de"
     },
     {
-      "id": "n619",
+      "id": "n1222",
       "word": "opening",
       "translation": "opening",
       "article": "de"
     },
     {
-      "id": "n620",
+      "id": "n1223",
       "word": "operatie",
       "translation": "operation",
       "article": "de"
     },
     {
-      "id": "n621",
+      "id": "n1224",
       "word": "opgang",
       "translation": "rise",
       "article": "de"
     },
     {
-      "id": "n622",
+      "id": "n1225",
+      "word": "opgave",
+      "translation": "task; statement",
+      "article": "de"
+    },
+    {
+      "id": "n1226",
+      "word": "opinie",
+      "translation": "opinion",
+      "article": "de"
+    },
+    {
+      "id": "n1227",
+      "word": "opkomst",
+      "translation": "rise; turnout",
+      "article": "de"
+    },
+    {
+      "id": "n1228",
       "word": "opleiding",
       "translation": "education, training",
       "article": "de"
     },
     {
-      "id": "n623",
+      "id": "n1229",
       "word": "oplossing",
       "translation": "solution",
       "article": "de"
     },
     {
-      "id": "n624",
+      "id": "n1230",
+      "word": "opluchting",
+      "translation": "relief",
+      "article": "de"
+    },
+    {
+      "id": "n1231",
       "word": "opmerking",
       "translation": "remark",
       "article": "de"
     },
     {
-      "id": "n625",
+      "id": "n1232",
+      "word": "opname",
+      "translation": "recording; admission",
+      "article": "de"
+    },
+    {
+      "id": "n1233",
       "word": "oppervlak",
       "translation": "surface",
       "article": "het"
     },
     {
-      "id": "n626",
+      "id": "n1234",
+      "word": "oppervlakte",
+      "translation": "surface, area",
+      "article": "de"
+    },
+    {
+      "id": "n1235",
+      "word": "oppositie",
+      "translation": "opposition",
+      "article": "de"
+    },
+    {
+      "id": "n1236",
       "word": "oproep",
       "translation": "call, appeal",
       "article": "de"
     },
     {
-      "id": "n627",
+      "id": "n1237",
       "word": "opstand",
       "translation": "revolt, uprising",
       "article": "de"
     },
     {
-      "id": "n628",
+      "id": "n1238",
+      "word": "opstelling",
+      "translation": "lineup; attitude",
+      "article": "de"
+    },
+    {
+      "id": "n1239",
       "word": "opvatting",
       "translation": "view, opinion",
       "article": "de"
     },
     {
-      "id": "n629",
+      "id": "n1240",
       "word": "opvoeding",
       "translation": "upbringing, education",
       "article": "de"
     },
     {
-      "id": "n630",
+      "id": "n1241",
+      "word": "opvolger",
+      "translation": "successor",
+      "article": "de"
+    },
+    {
+      "id": "n1242",
+      "word": "opwinding",
+      "translation": "excitement",
+      "article": "de"
+    },
+    {
+      "id": "n1243",
+      "word": "opzet",
+      "translation": "intention; design",
+      "article": "het"
+    },
+    {
+      "id": "n1244",
       "word": "opzicht",
       "translation": "respect, regard",
       "article": "het"
     },
     {
-      "id": "n631",
+      "id": "n1245",
       "word": "orde",
       "translation": "order",
       "article": "de"
     },
     {
-      "id": "n632",
+      "id": "n1246",
+      "word": "ordening",
+      "translation": "arrangement, ordering",
+      "article": "de"
+    },
+    {
+      "id": "n1247",
+      "word": "order",
+      "translation": "order",
+      "article": "de"
+    },
+    {
+      "id": "n1248",
       "word": "orgaan",
       "translation": "organ; body",
       "article": "het"
     },
     {
-      "id": "n633",
+      "id": "n1249",
       "word": "organisatie",
       "translation": "organization",
       "article": "de"
     },
     {
-      "id": "n634",
+      "id": "n1250",
+      "word": "organisme",
+      "translation": "organism",
+      "article": "het"
+    },
+    {
+      "id": "n1251",
+      "word": "orkest",
+      "translation": "orchestra",
+      "article": "het"
+    },
+    {
+      "id": "n1252",
       "word": "ouder",
       "translation": "parent",
       "article": "de"
     },
     {
-      "id": "n635",
+      "id": "n1253",
+      "word": "ouderdom",
+      "translation": "old age",
+      "article": "de"
+    },
+    {
+      "id": "n1254",
+      "word": "ouderen",
+      "translation": "elderly people",
+      "article": "de"
+    },
+    {
+      "id": "n1255",
+      "word": "oudheid",
+      "translation": "antiquity",
+      "article": "de"
+    },
+    {
+      "id": "n1256",
+      "word": "oven",
+      "translation": "oven",
+      "article": "de"
+    },
+    {
+      "id": "n1257",
+      "word": "overdracht",
+      "translation": "transfer",
+      "article": "de"
+    },
+    {
+      "id": "n1258",
+      "word": "overeenkomst",
+      "translation": "agreement; similarity",
+      "article": "de"
+    },
+    {
+      "id": "n1259",
+      "word": "overeenstemming",
+      "translation": "agreement, consensus",
+      "article": "de"
+    },
+    {
+      "id": "n1260",
+      "word": "overgang",
+      "translation": "transition",
+      "article": "de"
+    },
+    {
+      "id": "n1261",
       "word": "overheid",
       "translation": "government",
       "article": "de"
     },
     {
-      "id": "n636",
+      "id": "n1262",
+      "word": "overhemd",
+      "translation": "shirt",
+      "article": "het"
+    },
+    {
+      "id": "n1263",
+      "word": "overkant",
+      "translation": "other side",
+      "article": "de"
+    },
+    {
+      "id": "n1264",
       "word": "overleg",
       "translation": "consultation",
       "article": "het"
     },
     {
-      "id": "n637",
+      "id": "n1265",
+      "word": "overtreding",
+      "translation": "violation, offense",
+      "article": "de"
+    },
+    {
+      "id": "n1266",
       "word": "overtuiging",
       "translation": "conviction",
       "article": "de"
     },
     {
-      "id": "n638",
+      "id": "n1267",
+      "word": "overvloed",
+      "translation": "abundance",
+      "article": "de"
+    },
+    {
+      "id": "n1268",
       "word": "overweging",
       "translation": "consideration",
       "article": "de"
     },
     {
-      "id": "n639",
+      "id": "n1269",
       "word": "overwinning",
       "translation": "victory",
       "article": "de"
     },
     {
-      "id": "n640",
+      "id": "n1270",
       "word": "overzicht",
       "translation": "overview",
       "article": "het"
     },
     {
-      "id": "n641",
+      "id": "n1271",
+      "word": "paal",
+      "translation": "pole, post",
+      "article": "de"
+    },
+    {
+      "id": "n1272",
       "word": "paar",
       "translation": "pair; a few",
       "article": "het"
     },
     {
-      "id": "n642",
+      "id": "n1273",
       "word": "paard",
       "translation": "horse",
       "article": "het"
     },
     {
-      "id": "n643",
+      "id": "n1274",
       "word": "pad",
       "translation": "path",
       "article": "het"
     },
     {
-      "id": "n644",
+      "id": "n1275",
       "word": "pagina",
       "translation": "page",
       "article": "de"
     },
     {
-      "id": "n645",
+      "id": "n1276",
       "word": "pak",
       "translation": "suit; package",
       "article": "het"
     },
     {
-      "id": "n646",
+      "id": "n1277",
+      "word": "pakje",
+      "translation": "package; little suit",
+      "article": "het"
+    },
+    {
+      "id": "n1278",
       "word": "paleis",
       "translation": "palace",
       "article": "het"
     },
     {
-      "id": "n647",
+      "id": "n1279",
+      "word": "palm",
+      "translation": "palm",
+      "article": "de"
+    },
+    {
+      "id": "n1280",
       "word": "pan",
       "translation": "pan",
       "article": "de"
     },
     {
-      "id": "n648",
+      "id": "n1281",
+      "word": "pand",
+      "translation": "building, premises",
+      "article": "het"
+    },
+    {
+      "id": "n1282",
       "word": "paniek",
       "translation": "panic",
       "article": "de"
     },
     {
-      "id": "n649",
+      "id": "n1283",
       "word": "papier",
       "translation": "paper",
       "article": "het"
     },
     {
-      "id": "n650",
+      "id": "n1284",
+      "word": "paradijs",
+      "translation": "paradise",
+      "article": "het"
+    },
+    {
+      "id": "n1285",
+      "word": "paragraaf",
+      "translation": "paragraph",
+      "article": "de"
+    },
+    {
+      "id": "n1286",
+      "word": "parfum",
+      "translation": "perfume",
+      "article": "het"
+    },
+    {
+      "id": "n1287",
+      "word": "park",
+      "translation": "park",
+      "article": "het"
+    },
+    {
+      "id": "n1288",
       "word": "parlement",
       "translation": "parliament",
       "article": "het"
     },
     {
-      "id": "n651",
+      "id": "n1289",
       "word": "partij",
       "translation": "party (political)",
       "article": "de"
     },
     {
-      "id": "n652",
+      "id": "n1290",
       "word": "partner",
       "translation": "partner",
       "article": "de"
     },
     {
-      "id": "n653",
+      "id": "n1291",
+      "word": "paspoort",
+      "translation": "passport",
+      "article": "het"
+    },
+    {
+      "id": "n1292",
+      "word": "passagier",
+      "translation": "passenger",
+      "article": "de"
+    },
+    {
+      "id": "n1293",
+      "word": "pastoor",
+      "translation": "parish priest",
+      "article": "de"
+    },
+    {
+      "id": "n1294",
       "word": "patient",
       "translation": "patient",
       "article": "de"
     },
     {
-      "id": "n654",
+      "id": "n1295",
+      "word": "patiënt",
+      "translation": "patient",
+      "article": "de"
+    },
+    {
+      "id": "n1296",
       "word": "patroon",
       "translation": "pattern; patron",
       "article": "het"
     },
     {
-      "id": "n655",
+      "id": "n1297",
       "word": "paus",
       "translation": "pope",
       "article": "de"
     },
     {
-      "id": "n656",
+      "id": "n1298",
+      "word": "pauze",
+      "translation": "break, pause",
+      "article": "de"
+    },
+    {
+      "id": "n1299",
+      "word": "peil",
+      "translation": "level",
+      "article": "het"
+    },
+    {
+      "id": "n1300",
       "word": "pen",
       "translation": "pen",
       "article": "de"
     },
     {
-      "id": "n657",
+      "id": "n1301",
+      "word": "pensioen",
+      "translation": "pension",
+      "article": "het"
+    },
+    {
+      "id": "n1302",
+      "word": "percentage",
+      "translation": "percentage",
+      "article": "het"
+    },
+    {
+      "id": "n1303",
       "word": "periode",
       "translation": "period",
       "article": "de"
     },
     {
-      "id": "n658",
+      "id": "n1304",
+      "word": "perron",
+      "translation": "platform (train)",
+      "article": "het"
+    },
+    {
+      "id": "n1305",
+      "word": "pers",
+      "translation": "press",
+      "article": "de"
+    },
+    {
+      "id": "n1306",
+      "word": "personage",
+      "translation": "character (in story)",
+      "article": "het"
+    },
+    {
+      "id": "n1307",
+      "word": "personeel",
+      "translation": "staff, personnel",
+      "article": "het"
+    },
+    {
+      "id": "n1308",
       "word": "persoon",
       "translation": "person",
       "article": "de"
     },
     {
-      "id": "n659",
+      "id": "n1309",
       "word": "persoonlijkheid",
       "translation": "personality",
       "article": "de"
     },
     {
-      "id": "n660",
+      "id": "n1310",
+      "word": "perspectief",
+      "translation": "perspective",
+      "article": "het"
+    },
+    {
+      "id": "n1311",
+      "word": "pet",
+      "translation": "cap",
+      "article": "de"
+    },
+    {
+      "id": "n1312",
+      "word": "piano",
+      "translation": "piano",
+      "article": "de"
+    },
+    {
+      "id": "n1313",
+      "word": "pijl",
+      "translation": "arrow",
+      "article": "de"
+    },
+    {
+      "id": "n1314",
       "word": "pijn",
       "translation": "pain",
       "article": "de"
     },
     {
-      "id": "n661",
+      "id": "n1315",
       "word": "pijp",
       "translation": "pipe",
       "article": "de"
     },
     {
-      "id": "n662",
+      "id": "n1316",
+      "word": "pil",
+      "translation": "pill",
+      "article": "de"
+    },
+    {
+      "id": "n1317",
+      "word": "piloot",
+      "translation": "pilot",
+      "article": "de"
+    },
+    {
+      "id": "n1318",
+      "word": "pistool",
+      "translation": "pistol",
+      "article": "het"
+    },
+    {
+      "id": "n1319",
       "word": "plaat",
       "translation": "plate; picture; record",
       "article": "de"
     },
     {
-      "id": "n663",
+      "id": "n1320",
       "word": "plaats",
       "translation": "place; city",
       "article": "de"
     },
     {
-      "id": "n664",
+      "id": "n1321",
+      "word": "plafond",
+      "translation": "ceiling",
+      "article": "het"
+    },
+    {
+      "id": "n1322",
       "word": "plan",
       "translation": "plan",
       "article": "het"
     },
     {
-      "id": "n665",
+      "id": "n1323",
+      "word": "planeet",
+      "translation": "planet",
+      "article": "de"
+    },
+    {
+      "id": "n1324",
       "word": "plank",
       "translation": "shelf; plank",
       "article": "de"
     },
     {
-      "id": "n666",
+      "id": "n1325",
+      "word": "planning",
+      "translation": "planning",
+      "article": "de"
+    },
+    {
+      "id": "n1326",
       "word": "plant",
       "translation": "plant",
       "article": "de"
     },
     {
-      "id": "n667",
+      "id": "n1327",
       "word": "platteland",
       "translation": "countryside",
       "article": "het"
     },
     {
-      "id": "n668",
+      "id": "n1328",
       "word": "plein",
       "translation": "square (public)",
       "article": "het"
     },
     {
-      "id": "n669",
+      "id": "n1329",
       "word": "plek",
       "translation": "spot, place",
       "article": "de"
     },
     {
-      "id": "n670",
+      "id": "n1330",
       "word": "plezier",
       "translation": "fun, pleasure",
       "article": "het"
     },
     {
-      "id": "n671",
+      "id": "n1331",
       "word": "plicht",
       "translation": "duty",
       "article": "de"
     },
     {
-      "id": "n672",
+      "id": "n1332",
       "word": "ploeg",
       "translation": "team; plow",
       "article": "de"
     },
     {
-      "id": "n673",
+      "id": "n1333",
+      "word": "podium",
+      "translation": "stage, podium",
+      "article": "het"
+    },
+    {
+      "id": "n1334",
       "word": "poes",
       "translation": "cat (informal)",
       "article": "de"
     },
     {
-      "id": "n674",
+      "id": "n1335",
       "word": "poging",
       "translation": "attempt",
       "article": "de"
     },
     {
-      "id": "n675",
+      "id": "n1336",
       "word": "politicus",
       "translation": "politician",
       "article": "de"
     },
     {
-      "id": "n676",
+      "id": "n1337",
       "word": "politie",
       "translation": "police",
       "article": "de"
     },
     {
-      "id": "n677",
+      "id": "n1338",
       "word": "politiek",
       "translation": "politics; policy",
       "article": "de"
     },
     {
-      "id": "n678",
+      "id": "n1339",
+      "word": "politieman",
+      "translation": "policeman",
+      "article": "de"
+    },
+    {
+      "id": "n1340",
+      "word": "pols",
+      "translation": "wrist; pulse",
+      "article": "de"
+    },
+    {
+      "id": "n1341",
       "word": "pond",
       "translation": "pound",
       "article": "het"
     },
     {
-      "id": "n679",
+      "id": "n1342",
       "word": "pont",
       "translation": "ferry",
       "article": "de"
     },
     {
-      "id": "n680",
+      "id": "n1343",
       "word": "poort",
       "translation": "gate",
       "article": "de"
     },
     {
-      "id": "n681",
+      "id": "n1344",
+      "word": "poot",
+      "translation": "paw; leg (furniture)",
+      "article": "de"
+    },
+    {
+      "id": "n1345",
       "word": "pop",
       "translation": "doll; puppet",
       "article": "de"
     },
     {
-      "id": "n682",
+      "id": "n1346",
+      "word": "portret",
+      "translation": "portrait",
+      "article": "het"
+    },
+    {
+      "id": "n1347",
       "word": "positie",
       "translation": "position",
       "article": "de"
     },
     {
-      "id": "n683",
+      "id": "n1348",
       "word": "post",
       "translation": "mail; post",
       "article": "de"
     },
     {
-      "id": "n684",
+      "id": "n1349",
       "word": "pot",
       "translation": "pot, jar",
       "article": "de"
     },
     {
-      "id": "n685",
+      "id": "n1350",
+      "word": "potlood",
+      "translation": "pencil",
+      "article": "het"
+    },
+    {
+      "id": "n1351",
+      "word": "poëzie",
+      "translation": "poetry",
+      "article": "de"
+    },
+    {
+      "id": "n1352",
+      "word": "praatje",
+      "translation": "chat; rumor",
+      "article": "het"
+    },
+    {
+      "id": "n1353",
       "word": "praktijk",
       "translation": "practice",
       "article": "de"
     },
     {
-      "id": "n686",
+      "id": "n1354",
+      "word": "predikant",
+      "translation": "preacher, minister",
+      "article": "de"
+    },
+    {
+      "id": "n1355",
+      "word": "premier",
+      "translation": "prime minister",
+      "article": "de"
+    },
+    {
+      "id": "n1356",
       "word": "president",
       "translation": "president",
       "article": "de"
     },
     {
-      "id": "n687",
+      "id": "n1357",
       "word": "prestatie",
       "translation": "achievement",
       "article": "de"
     },
     {
-      "id": "n688",
+      "id": "n1358",
       "word": "priester",
       "translation": "priest",
       "article": "de"
     },
     {
-      "id": "n689",
+      "id": "n1359",
+      "word": "prijs",
+      "translation": "price; prize",
+      "article": "de"
+    },
+    {
+      "id": "n1360",
+      "word": "prikkel",
+      "translation": "stimulus",
+      "article": "de"
+    },
+    {
+      "id": "n1361",
       "word": "principe",
       "translation": "principle",
       "article": "het"
     },
     {
-      "id": "n690",
+      "id": "n1362",
       "word": "prins",
       "translation": "prince",
       "article": "de"
     },
     {
-      "id": "n691",
+      "id": "n1363",
       "word": "prinses",
       "translation": "princess",
       "article": "de"
     },
     {
-      "id": "n692",
+      "id": "n1364",
       "word": "probleem",
       "translation": "problem",
       "article": "het"
     },
     {
-      "id": "n693",
+      "id": "n1365",
+      "word": "problematiek",
+      "translation": "set of problems",
+      "article": "de"
+    },
+    {
+      "id": "n1366",
       "word": "procedure",
       "translation": "procedure",
       "article": "de"
     },
     {
-      "id": "n694",
+      "id": "n1367",
+      "word": "procent",
+      "translation": "percent",
+      "article": "het"
+    },
+    {
+      "id": "n1368",
       "word": "proces",
       "translation": "process; trial",
       "article": "het"
     },
     {
-      "id": "n695",
+      "id": "n1369",
+      "word": "producent",
+      "translation": "producer",
+      "article": "de"
+    },
+    {
+      "id": "n1370",
       "word": "product",
       "translation": "product",
       "article": "het"
     },
     {
-      "id": "n696",
+      "id": "n1371",
       "word": "productie",
       "translation": "production",
       "article": "de"
     },
     {
-      "id": "n697",
+      "id": "n1372",
+      "word": "proef",
+      "translation": "test, experiment",
+      "article": "de"
+    },
+    {
+      "id": "n1373",
+      "word": "profeet",
+      "translation": "prophet",
+      "article": "de"
+    },
+    {
+      "id": "n1374",
       "word": "professor",
       "translation": "professor",
       "article": "de"
     },
     {
-      "id": "n698",
+      "id": "n1375",
       "word": "programma",
       "translation": "program",
       "article": "het"
     },
     {
-      "id": "n699",
+      "id": "n1376",
       "word": "project",
       "translation": "project",
       "article": "het"
     },
     {
-      "id": "n700",
+      "id": "n1377",
+      "word": "propaganda",
+      "translation": "propaganda",
+      "article": "de"
+    },
+    {
+      "id": "n1378",
       "word": "protest",
       "translation": "protest",
       "article": "het"
     },
     {
-      "id": "n701",
+      "id": "n1379",
       "word": "provincie",
       "translation": "province",
       "article": "de"
     },
     {
-      "id": "n702",
+      "id": "n1380",
+      "word": "proza",
+      "translation": "prose",
+      "article": "het"
+    },
+    {
+      "id": "n1381",
+      "word": "psychiater",
+      "translation": "psychiatrist",
+      "article": "de"
+    },
+    {
+      "id": "n1382",
+      "word": "psychologie",
+      "translation": "psychology",
+      "article": "de"
+    },
+    {
+      "id": "n1383",
+      "word": "psycholoog",
+      "translation": "psychologist",
+      "article": "de"
+    },
+    {
+      "id": "n1384",
+      "word": "publicatie",
+      "translation": "publication",
+      "article": "de"
+    },
+    {
+      "id": "n1385",
+      "word": "publiciteit",
+      "translation": "publicity",
+      "article": "de"
+    },
+    {
+      "id": "n1386",
       "word": "publiek",
       "translation": "public; audience",
       "article": "het"
     },
     {
-      "id": "n703",
+      "id": "n1387",
       "word": "punt",
       "translation": "point; period",
       "article": "het"
     },
     {
-      "id": "n704",
+      "id": "n1388",
       "word": "raad",
       "translation": "council; advice",
       "article": "de"
     },
     {
-      "id": "n705",
+      "id": "n1389",
+      "word": "raadsel",
+      "translation": "riddle, puzzle",
+      "article": "het"
+    },
+    {
+      "id": "n1390",
       "word": "raam",
       "translation": "window",
       "article": "het"
     },
     {
-      "id": "n706",
+      "id": "n1391",
+      "word": "radio",
+      "translation": "radio",
+      "article": "de"
+    },
+    {
+      "id": "n1392",
+      "word": "raket",
+      "translation": "rocket",
+      "article": "de"
+    },
+    {
+      "id": "n1393",
+      "word": "ramp",
+      "translation": "disaster",
+      "article": "de"
+    },
+    {
+      "id": "n1394",
       "word": "rand",
       "translation": "edge, margin",
       "article": "de"
     },
     {
-      "id": "n707",
+      "id": "n1395",
       "word": "rang",
       "translation": "rank",
       "article": "de"
     },
     {
-      "id": "n708",
+      "id": "n1396",
+      "word": "rapport",
+      "translation": "report; report card",
+      "article": "het"
+    },
+    {
+      "id": "n1397",
+      "word": "ras",
+      "translation": "race; breed",
+      "article": "het"
+    },
+    {
+      "id": "n1398",
       "word": "reactie",
       "translation": "reaction",
       "article": "de"
     },
     {
-      "id": "n709",
+      "id": "n1399",
+      "word": "realiteit",
+      "translation": "reality",
+      "article": "de"
+    },
+    {
+      "id": "n1400",
+      "word": "recept",
+      "translation": "recipe; prescription",
+      "article": "het"
+    },
+    {
+      "id": "n1401",
       "word": "recht",
       "translation": "right; law",
       "article": "het"
     },
     {
-      "id": "n710",
+      "id": "n1402",
+      "word": "rechtbank",
+      "translation": "court",
+      "article": "de"
+    },
+    {
+      "id": "n1403",
+      "word": "rechten",
+      "translation": "rights; law (study)",
+      "article": "de"
+    },
+    {
+      "id": "n1404",
       "word": "rechter",
       "translation": "judge",
       "article": "de"
     },
     {
-      "id": "n711",
+      "id": "n1405",
+      "word": "rechtspraak",
+      "translation": "justice, jurisdiction",
+      "article": "de"
+    },
+    {
+      "id": "n1406",
       "word": "rechtvaardigheid",
       "translation": "justice",
       "article": "de"
     },
     {
-      "id": "n712",
+      "id": "n1407",
+      "word": "reclame",
+      "translation": "advertising",
+      "article": "de"
+    },
+    {
+      "id": "n1408",
+      "word": "redacteur",
+      "translation": "editor",
+      "article": "de"
+    },
+    {
+      "id": "n1409",
+      "word": "redactie",
+      "translation": "editorial staff",
+      "article": "de"
+    },
+    {
+      "id": "n1410",
       "word": "rede",
       "translation": "reason; speech",
       "article": "de"
     },
     {
-      "id": "n713",
+      "id": "n1411",
       "word": "reden",
       "translation": "reason",
       "article": "de"
     },
     {
-      "id": "n714",
+      "id": "n1412",
+      "word": "redenering",
+      "translation": "reasoning",
+      "article": "de"
+    },
+    {
+      "id": "n1413",
       "word": "reeks",
       "translation": "series",
       "article": "de"
     },
     {
-      "id": "n715",
+      "id": "n1414",
       "word": "regel",
       "translation": "rule; line",
       "article": "de"
     },
     {
-      "id": "n716",
+      "id": "n1415",
       "word": "regeling",
       "translation": "arrangement, regulation",
       "article": "de"
     },
     {
-      "id": "n717",
+      "id": "n1416",
       "word": "regen",
       "translation": "rain",
       "article": "de"
     },
     {
-      "id": "n718",
+      "id": "n1417",
       "word": "regering",
       "translation": "government",
       "article": "de"
     },
     {
-      "id": "n719",
+      "id": "n1418",
       "word": "regime",
       "translation": "regime",
       "article": "het"
     },
     {
-      "id": "n720",
+      "id": "n1419",
       "word": "regio",
       "translation": "region",
       "article": "de"
     },
     {
-      "id": "n721",
+      "id": "n1420",
       "word": "reis",
       "translation": "journey, trip",
       "article": "de"
     },
     {
-      "id": "n722",
+      "id": "n1421",
+      "word": "reiziger",
+      "translation": "traveler",
+      "article": "de"
+    },
+    {
+      "id": "n1422",
       "word": "rekening",
       "translation": "bill; account",
       "article": "de"
     },
     {
-      "id": "n723",
+      "id": "n1423",
       "word": "relatie",
       "translation": "relationship",
       "article": "de"
     },
     {
-      "id": "n724",
+      "id": "n1424",
       "word": "religie",
       "translation": "religion",
       "article": "de"
     },
     {
-      "id": "n725",
+      "id": "n1425",
       "word": "rente",
       "translation": "interest (financial)",
       "article": "de"
     },
     {
-      "id": "n726",
+      "id": "n1426",
+      "word": "republiek",
+      "translation": "republic",
+      "article": "de"
+    },
+    {
+      "id": "n1427",
       "word": "reputatie",
       "translation": "reputation",
       "article": "de"
     },
     {
-      "id": "n727",
+      "id": "n1428",
       "word": "reserve",
       "translation": "reserve",
       "article": "de"
     },
     {
-      "id": "n728",
+      "id": "n1429",
       "word": "respect",
       "translation": "respect",
       "article": "het"
     },
     {
-      "id": "n729",
+      "id": "n1430",
       "word": "rest",
       "translation": "rest, remainder",
       "article": "de"
     },
     {
-      "id": "n730",
+      "id": "n1431",
       "word": "restaurant",
       "translation": "restaurant",
       "article": "het"
     },
     {
-      "id": "n731",
+      "id": "n1432",
       "word": "resultaat",
       "translation": "result",
       "article": "het"
     },
     {
-      "id": "n732",
+      "id": "n1433",
+      "word": "reus",
+      "translation": "giant",
+      "article": "de"
+    },
+    {
+      "id": "n1434",
+      "word": "revolutie",
+      "translation": "revolution",
+      "article": "de"
+    },
+    {
+      "id": "n1435",
       "word": "richting",
       "translation": "direction",
       "article": "de"
     },
     {
-      "id": "n733",
+      "id": "n1436",
+      "word": "richtlijn",
+      "translation": "guideline",
+      "article": "de"
+    },
+    {
+      "id": "n1437",
+      "word": "ridder",
+      "translation": "knight",
+      "article": "de"
+    },
+    {
+      "id": "n1438",
+      "word": "riem",
+      "translation": "belt; strap",
+      "article": "de"
+    },
+    {
+      "id": "n1439",
+      "word": "rij",
+      "translation": "row; line",
+      "article": "de"
+    },
+    {
+      "id": "n1440",
       "word": "rijkdom",
       "translation": "wealth",
       "article": "de"
     },
     {
-      "id": "n734",
+      "id": "n1441",
+      "word": "rimpel",
+      "translation": "wrinkle",
+      "article": "de"
+    },
+    {
+      "id": "n1442",
       "word": "ring",
       "translation": "ring",
       "article": "de"
     },
     {
-      "id": "n735",
+      "id": "n1443",
       "word": "risico",
       "translation": "risk",
       "article": "het"
     },
     {
-      "id": "n736",
+      "id": "n1444",
+      "word": "rit",
+      "translation": "ride, trip",
+      "article": "de"
+    },
+    {
+      "id": "n1445",
+      "word": "ritme",
+      "translation": "rhythm",
+      "article": "het"
+    },
+    {
+      "id": "n1446",
+      "word": "ritueel",
+      "translation": "ritual",
+      "article": "het"
+    },
+    {
+      "id": "n1447",
       "word": "rivier",
       "translation": "river",
       "article": "de"
     },
     {
-      "id": "n737",
+      "id": "n1448",
       "word": "roep",
       "translation": "call; reputation",
       "article": "de"
     },
     {
-      "id": "n738",
+      "id": "n1449",
       "word": "rok",
       "translation": "skirt",
       "article": "de"
     },
     {
-      "id": "n739",
+      "id": "n1450",
       "word": "rol",
       "translation": "role",
       "article": "de"
     },
     {
-      "id": "n740",
+      "id": "n1451",
       "word": "roman",
       "translation": "novel",
       "article": "de"
     },
     {
-      "id": "n741",
+      "id": "n1452",
+      "word": "rommel",
+      "translation": "mess, junk",
+      "article": "de"
+    },
+    {
+      "id": "n1453",
+      "word": "ronde",
+      "translation": "round",
+      "article": "de"
+    },
+    {
+      "id": "n1454",
       "word": "rook",
       "translation": "smoke",
       "article": "de"
     },
     {
-      "id": "n742",
+      "id": "n1455",
+      "word": "roos",
+      "translation": "rose",
+      "article": "de"
+    },
+    {
+      "id": "n1456",
+      "word": "rots",
+      "translation": "rock",
+      "article": "de"
+    },
+    {
+      "id": "n1457",
+      "word": "route",
+      "translation": "route",
+      "article": "de"
+    },
+    {
+      "id": "n1458",
       "word": "rug",
       "translation": "back",
       "article": "de"
     },
     {
-      "id": "n743",
+      "id": "n1459",
       "word": "ruimte",
       "translation": "space, room",
       "article": "de"
     },
     {
-      "id": "n744",
+      "id": "n1460",
+      "word": "ruit",
+      "translation": "window pane; diamond",
+      "article": "de"
+    },
+    {
+      "id": "n1461",
+      "word": "ruiter",
+      "translation": "rider, horseman",
+      "article": "de"
+    },
+    {
+      "id": "n1462",
       "word": "rust",
       "translation": "rest, peace",
       "article": "de"
     },
     {
-      "id": "n745",
+      "id": "n1463",
+      "word": "ruzie",
+      "translation": "quarrel, argument",
+      "article": "de"
+    },
+    {
+      "id": "n1464",
+      "word": "ruïne",
+      "translation": "ruin",
+      "article": "de"
+    },
+    {
+      "id": "n1465",
+      "word": "salaris",
+      "translation": "salary",
+      "article": "het"
+    },
+    {
+      "id": "n1466",
+      "word": "salon",
+      "translation": "salon, living room",
+      "article": "de"
+    },
+    {
+      "id": "n1467",
+      "word": "samenhang",
+      "translation": "coherence, connection",
+      "article": "de"
+    },
+    {
+      "id": "n1468",
       "word": "samenleving",
       "translation": "society",
       "article": "de"
     },
     {
-      "id": "n746",
+      "id": "n1469",
       "word": "samenstelling",
       "translation": "composition",
       "article": "de"
     },
     {
-      "id": "n747",
+      "id": "n1470",
       "word": "samenwerking",
       "translation": "cooperation",
       "article": "de"
     },
     {
-      "id": "n748",
+      "id": "n1471",
+      "word": "sanctie",
+      "translation": "sanction",
+      "article": "de"
+    },
+    {
+      "id": "n1472",
+      "word": "saus",
+      "translation": "sauce",
+      "article": "de"
+    },
+    {
+      "id": "n1473",
+      "word": "schaal",
+      "translation": "scale; bowl",
+      "article": "de"
+    },
+    {
+      "id": "n1474",
+      "word": "schaamte",
+      "translation": "shame",
+      "article": "de"
+    },
+    {
+      "id": "n1475",
+      "word": "schaap",
+      "translation": "sheep",
+      "article": "het"
+    },
+    {
+      "id": "n1476",
+      "word": "schade",
+      "translation": "damage",
+      "article": "de"
+    },
+    {
+      "id": "n1477",
       "word": "schaduw",
       "translation": "shadow",
       "article": "de"
     },
     {
-      "id": "n749",
+      "id": "n1478",
       "word": "schande",
       "translation": "shame, disgrace",
       "article": "de"
     },
     {
-      "id": "n750",
+      "id": "n1479",
       "word": "schat",
       "translation": "treasure; darling",
       "article": "de"
     },
     {
-      "id": "n751",
+      "id": "n1480",
+      "word": "schatting",
+      "translation": "estimate",
+      "article": "de"
+    },
+    {
+      "id": "n1481",
+      "word": "schedel",
+      "translation": "skull",
+      "article": "de"
+    },
+    {
+      "id": "n1482",
       "word": "scheiding",
       "translation": "separation; divorce",
       "article": "de"
     },
     {
-      "id": "n752",
+      "id": "n1483",
+      "word": "schema",
+      "translation": "scheme, schedule",
+      "article": "het"
+    },
+    {
+      "id": "n1484",
+      "word": "schemering",
+      "translation": "twilight, dusk",
+      "article": "de"
+    },
+    {
+      "id": "n1485",
+      "word": "schepping",
+      "translation": "creation",
+      "article": "de"
+    },
+    {
+      "id": "n1486",
+      "word": "scherm",
+      "translation": "screen",
+      "article": "het"
+    },
+    {
+      "id": "n1487",
+      "word": "schets",
+      "translation": "sketch",
+      "article": "de"
+    },
+    {
+      "id": "n1488",
+      "word": "schijn",
+      "translation": "appearance; shine",
+      "article": "de"
+    },
+    {
+      "id": "n1489",
+      "word": "schilder",
+      "translation": "painter",
+      "article": "de"
+    },
+    {
+      "id": "n1490",
       "word": "schilderij",
       "translation": "painting",
       "article": "het"
     },
     {
-      "id": "n753",
+      "id": "n1491",
+      "word": "schildering",
+      "translation": "painting, depiction",
+      "article": "de"
+    },
+    {
+      "id": "n1492",
       "word": "schip",
       "translation": "ship",
       "article": "het"
     },
     {
-      "id": "n754",
+      "id": "n1493",
+      "word": "schoen",
+      "translation": "shoe",
+      "article": "de"
+    },
+    {
+      "id": "n1494",
+      "word": "schok",
+      "translation": "shock",
+      "article": "de"
+    },
+    {
+      "id": "n1495",
       "word": "school",
       "translation": "school",
       "article": "de"
     },
     {
-      "id": "n755",
+      "id": "n1496",
       "word": "schoonheid",
       "translation": "beauty",
       "article": "de"
     },
     {
-      "id": "n756",
+      "id": "n1497",
+      "word": "schoot",
+      "translation": "lap",
+      "article": "de"
+    },
+    {
+      "id": "n1498",
       "word": "schop",
       "translation": "kick; shovel",
       "article": "de"
     },
     {
-      "id": "n757",
+      "id": "n1499",
+      "word": "schot",
+      "translation": "shot; partition",
+      "article": "het"
+    },
+    {
+      "id": "n1500",
+      "word": "schotel",
+      "translation": "dish, saucer",
+      "article": "de"
+    },
+    {
+      "id": "n1501",
       "word": "schouder",
       "translation": "shoulder",
       "article": "de"
     },
     {
-      "id": "n758",
+      "id": "n1502",
       "word": "schrift",
       "translation": "notebook; writing",
       "article": "het"
     },
     {
-      "id": "n759",
+      "id": "n1503",
       "word": "schrijver",
       "translation": "writer, author",
       "article": "de"
     },
     {
-      "id": "n760",
+      "id": "n1504",
+      "word": "schrik",
+      "translation": "fright",
+      "article": "de"
+    },
+    {
+      "id": "n1505",
+      "word": "schuilplaats",
+      "translation": "shelter",
+      "article": "de"
+    },
+    {
+      "id": "n1506",
       "word": "schuld",
       "translation": "debt; guilt",
       "article": "de"
     },
     {
-      "id": "n761",
+      "id": "n1507",
+      "word": "schuur",
+      "translation": "barn, shed",
+      "article": "de"
+    },
+    {
+      "id": "n1508",
+      "word": "seconde",
+      "translation": "second",
+      "article": "de"
+    },
+    {
+      "id": "n1509",
+      "word": "secretaresse",
+      "translation": "secretary (female)",
+      "article": "de"
+    },
+    {
+      "id": "n1510",
+      "word": "secretaris",
+      "translation": "secretary",
+      "article": "de"
+    },
+    {
+      "id": "n1511",
+      "word": "sectie",
+      "translation": "section",
+      "article": "de"
+    },
+    {
+      "id": "n1512",
       "word": "sector",
       "translation": "sector",
       "article": "de"
     },
     {
-      "id": "n762",
+      "id": "n1513",
+      "word": "seizoen",
+      "translation": "season",
+      "article": "het"
+    },
+    {
+      "id": "n1514",
+      "word": "seks",
+      "translation": "sex",
+      "article": "de"
+    },
+    {
+      "id": "n1515",
+      "word": "selectie",
+      "translation": "selection",
+      "article": "de"
+    },
+    {
+      "id": "n1516",
+      "word": "sensatie",
+      "translation": "sensation",
+      "article": "de"
+    },
+    {
+      "id": "n1517",
+      "word": "serie",
+      "translation": "series",
+      "article": "de"
+    },
+    {
+      "id": "n1518",
       "word": "sfeer",
       "translation": "atmosphere",
       "article": "de"
     },
     {
-      "id": "n763",
+      "id": "n1519",
+      "word": "sigaar",
+      "translation": "cigar",
+      "article": "de"
+    },
+    {
+      "id": "n1520",
+      "word": "sigaret",
+      "translation": "cigarette",
+      "article": "de"
+    },
+    {
+      "id": "n1521",
       "word": "signaal",
       "translation": "signal",
       "article": "het"
     },
     {
-      "id": "n764",
+      "id": "n1522",
       "word": "situatie",
       "translation": "situation",
       "article": "de"
     },
     {
-      "id": "n765",
+      "id": "n1523",
+      "word": "slaaf",
+      "translation": "slave",
+      "article": "de"
+    },
+    {
+      "id": "n1524",
       "word": "slaap",
       "translation": "sleep",
       "article": "de"
     },
     {
-      "id": "n766",
+      "id": "n1525",
+      "word": "slaapkamer",
+      "translation": "bedroom",
+      "article": "de"
+    },
+    {
+      "id": "n1526",
       "word": "slachtoffer",
       "translation": "victim",
       "article": "het"
     },
     {
-      "id": "n767",
+      "id": "n1527",
       "word": "slag",
       "translation": "blow; battle",
       "article": "de"
     },
     {
-      "id": "n768",
+      "id": "n1528",
+      "word": "slang",
+      "translation": "snake; hose",
+      "article": "de"
+    },
+    {
+      "id": "n1529",
+      "word": "slavernij",
+      "translation": "slavery",
+      "article": "de"
+    },
+    {
+      "id": "n1530",
       "word": "sleutel",
       "translation": "key",
       "article": "de"
     },
     {
-      "id": "n769",
+      "id": "n1531",
+      "word": "slok",
+      "translation": "sip, gulp",
+      "article": "de"
+    },
+    {
+      "id": "n1532",
+      "word": "sloot",
+      "translation": "ditch",
+      "article": "de"
+    },
+    {
+      "id": "n1533",
       "word": "slot",
       "translation": "lock; castle; conclusion",
       "article": "het"
     },
     {
-      "id": "n770",
+      "id": "n1534",
       "word": "smaak",
       "translation": "taste",
       "article": "de"
     },
     {
-      "id": "n771",
+      "id": "n1535",
       "word": "snee",
       "translation": "cut, slice",
       "article": "de"
     },
     {
-      "id": "n772",
+      "id": "n1536",
+      "word": "sneeuw",
+      "translation": "snow",
+      "article": "de"
+    },
+    {
+      "id": "n1537",
       "word": "snelheid",
       "translation": "speed",
       "article": "de"
     },
     {
-      "id": "n773",
+      "id": "n1538",
+      "word": "socialisme",
+      "translation": "socialism",
+      "article": "het"
+    },
+    {
+      "id": "n1539",
+      "word": "socialist",
+      "translation": "socialist",
+      "article": "de"
+    },
+    {
+      "id": "n1540",
+      "word": "soep",
+      "translation": "soup",
+      "article": "de"
+    },
+    {
+      "id": "n1541",
       "word": "soldaat",
       "translation": "soldier",
       "article": "de"
     },
     {
-      "id": "n774",
+      "id": "n1542",
+      "word": "solidariteit",
+      "translation": "solidarity",
+      "article": "de"
+    },
+    {
+      "id": "n1543",
+      "word": "som",
+      "translation": "sum",
+      "article": "de"
+    },
+    {
+      "id": "n1544",
       "word": "soort",
       "translation": "kind, type; species",
       "article": "de"
     },
     {
-      "id": "n775",
+      "id": "n1545",
       "word": "spanning",
       "translation": "tension; excitement",
       "article": "de"
     },
     {
-      "id": "n776",
+      "id": "n1546",
+      "word": "specialist",
+      "translation": "specialist",
+      "article": "de"
+    },
+    {
+      "id": "n1547",
+      "word": "speelgoed",
+      "translation": "toys",
+      "article": "het"
+    },
+    {
+      "id": "n1548",
       "word": "spel",
       "translation": "game",
       "article": "het"
     },
     {
-      "id": "n777",
+      "id": "n1549",
       "word": "speler",
       "translation": "player",
       "article": "de"
     },
     {
-      "id": "n778",
+      "id": "n1550",
       "word": "spiegel",
       "translation": "mirror",
       "article": "de"
     },
     {
-      "id": "n779",
+      "id": "n1551",
       "word": "spier",
       "translation": "muscle",
       "article": "de"
     },
     {
-      "id": "n780",
+      "id": "n1552",
       "word": "spijt",
       "translation": "regret",
       "article": "de"
     },
     {
-      "id": "n781",
+      "id": "n1553",
+      "word": "spook",
+      "translation": "ghost",
+      "article": "het"
+    },
+    {
+      "id": "n1554",
       "word": "spoor",
       "translation": "track; trace",
       "article": "het"
     },
     {
-      "id": "n782",
+      "id": "n1555",
       "word": "sport",
       "translation": "sport",
       "article": "de"
     },
     {
-      "id": "n783",
+      "id": "n1556",
+      "word": "spot",
+      "translation": "mockery",
+      "article": "de"
+    },
+    {
+      "id": "n1557",
       "word": "spraak",
       "translation": "speech",
       "article": "de"
     },
     {
-      "id": "n784",
+      "id": "n1558",
       "word": "sprake",
       "translation": "question (of); mention",
       "article": "de"
     },
     {
-      "id": "n785",
+      "id": "n1559",
       "word": "spreker",
       "translation": "speaker",
       "article": "de"
     },
     {
-      "id": "n786",
+      "id": "n1560",
+      "word": "sprong",
+      "translation": "jump, leap",
+      "article": "de"
+    },
+    {
+      "id": "n1561",
+      "word": "sprookje",
+      "translation": "fairy tale",
+      "article": "het"
+    },
+    {
+      "id": "n1562",
+      "word": "staal",
+      "translation": "steel",
+      "article": "het"
+    },
+    {
+      "id": "n1563",
       "word": "staart",
       "translation": "tail",
       "article": "de"
     },
     {
-      "id": "n787",
+      "id": "n1564",
       "word": "staat",
       "translation": "state",
       "article": "de"
     },
     {
-      "id": "n788",
+      "id": "n1565",
+      "word": "staatssecretaris",
+      "translation": "state secretary",
+      "article": "de"
+    },
+    {
+      "id": "n1566",
       "word": "stad",
       "translation": "city",
       "article": "de"
     },
     {
-      "id": "n789",
+      "id": "n1567",
       "word": "stadium",
       "translation": "stage; stadium",
       "article": "het"
     },
     {
-      "id": "n790",
+      "id": "n1568",
       "word": "staf",
       "translation": "staff",
       "article": "de"
     },
     {
-      "id": "n791",
+      "id": "n1569",
       "word": "staking",
       "translation": "strike",
       "article": "de"
     },
     {
-      "id": "n792",
+      "id": "n1570",
+      "word": "stal",
+      "translation": "stable",
+      "article": "de"
+    },
+    {
+      "id": "n1571",
       "word": "stam",
       "translation": "tribe; trunk",
       "article": "de"
     },
     {
-      "id": "n793",
+      "id": "n1572",
+      "word": "stand",
+      "translation": "position; score",
+      "article": "de"
+    },
+    {
+      "id": "n1573",
       "word": "standaard",
       "translation": "standard",
       "article": "de"
     },
     {
-      "id": "n794",
+      "id": "n1574",
       "word": "standpunt",
       "translation": "standpoint, viewpoint",
       "article": "het"
     },
     {
-      "id": "n795",
+      "id": "n1575",
+      "word": "stank",
+      "translation": "stench",
+      "article": "de"
+    },
+    {
+      "id": "n1576",
       "word": "stap",
       "translation": "step",
       "article": "de"
     },
     {
-      "id": "n796",
+      "id": "n1577",
+      "word": "stapel",
+      "translation": "pile, stack",
+      "article": "de"
+    },
+    {
+      "id": "n1578",
+      "word": "start",
+      "translation": "start",
+      "article": "de"
+    },
+    {
+      "id": "n1579",
+      "word": "station",
+      "translation": "station",
+      "article": "het"
+    },
+    {
+      "id": "n1580",
+      "word": "status",
+      "translation": "status",
+      "article": "de"
+    },
+    {
+      "id": "n1581",
+      "word": "steek",
+      "translation": "stitch; stab",
+      "article": "de"
+    },
+    {
+      "id": "n1582",
       "word": "steen",
       "translation": "stone",
       "article": "de"
     },
     {
-      "id": "n797",
+      "id": "n1583",
       "word": "steiger",
       "translation": "scaffold; pier",
       "article": "de"
     },
     {
-      "id": "n798",
+      "id": "n1584",
+      "word": "stel",
+      "translation": "couple; set",
+      "article": "het"
+    },
+    {
+      "id": "n1585",
       "word": "stelling",
       "translation": "statement; position",
       "article": "de"
     },
     {
-      "id": "n799",
+      "id": "n1586",
       "word": "stelsel",
       "translation": "system",
       "article": "het"
     },
     {
-      "id": "n800",
+      "id": "n1587",
       "word": "stem",
       "translation": "voice; vote",
       "article": "de"
     },
     {
-      "id": "n801",
+      "id": "n1588",
       "word": "stemming",
       "translation": "mood; vote",
       "article": "de"
     },
     {
-      "id": "n802",
+      "id": "n1589",
+      "word": "stempel",
+      "translation": "stamp",
+      "article": "de"
+    },
+    {
+      "id": "n1590",
       "word": "ster",
       "translation": "star",
       "article": "de"
     },
     {
-      "id": "n803",
+      "id": "n1591",
+      "word": "sterkte",
+      "translation": "strength",
+      "article": "de"
+    },
+    {
+      "id": "n1592",
       "word": "steun",
       "translation": "support",
       "article": "de"
     },
     {
-      "id": "n804",
+      "id": "n1593",
       "word": "stichting",
       "translation": "foundation (organization)",
       "article": "de"
     },
     {
-      "id": "n805",
+      "id": "n1594",
+      "word": "stier",
+      "translation": "bull",
+      "article": "de"
+    },
+    {
+      "id": "n1595",
       "word": "stijging",
       "translation": "rise, increase",
       "article": "de"
     },
     {
-      "id": "n806",
+      "id": "n1596",
       "word": "stijl",
       "translation": "style",
       "article": "de"
     },
     {
-      "id": "n807",
+      "id": "n1597",
+      "word": "stilstand",
+      "translation": "standstill",
+      "article": "de"
+    },
+    {
+      "id": "n1598",
       "word": "stilte",
       "translation": "silence",
       "article": "de"
     },
     {
-      "id": "n808",
+      "id": "n1599",
       "word": "stoel",
       "translation": "chair",
       "article": "de"
     },
     {
-      "id": "n809",
+      "id": "n1600",
+      "word": "stoep",
+      "translation": "sidewalk; doorstep",
+      "article": "de"
+    },
+    {
+      "id": "n1601",
       "word": "stof",
       "translation": "material; dust",
       "article": "de"
     },
     {
-      "id": "n810",
+      "id": "n1602",
       "word": "stok",
       "translation": "stick",
       "article": "de"
     },
     {
-      "id": "n811",
+      "id": "n1603",
+      "word": "stoornis",
+      "translation": "disorder",
+      "article": "de"
+    },
+    {
+      "id": "n1604",
       "word": "storm",
       "translation": "storm",
       "article": "de"
     },
     {
-      "id": "n812",
+      "id": "n1605",
+      "word": "straal",
+      "translation": "ray; beam; jet",
+      "article": "de"
+    },
+    {
+      "id": "n1606",
       "word": "straat",
       "translation": "street",
       "article": "de"
     },
     {
-      "id": "n813",
+      "id": "n1607",
       "word": "straf",
       "translation": "punishment",
       "article": "de"
     },
     {
-      "id": "n814",
+      "id": "n1608",
+      "word": "straling",
+      "translation": "radiation",
+      "article": "de"
+    },
+    {
+      "id": "n1609",
+      "word": "strand",
+      "translation": "beach",
+      "article": "het"
+    },
+    {
+      "id": "n1610",
       "word": "strategie",
       "translation": "strategy",
       "article": "de"
     },
     {
-      "id": "n815",
+      "id": "n1611",
       "word": "streek",
       "translation": "region; trick",
       "article": "de"
     },
     {
-      "id": "n816",
+      "id": "n1612",
+      "word": "streep",
+      "translation": "stripe; line",
+      "article": "de"
+    },
+    {
+      "id": "n1613",
+      "word": "strekking",
+      "translation": "purport, meaning",
+      "article": "de"
+    },
+    {
+      "id": "n1614",
       "word": "strijd",
       "translation": "struggle, fight",
       "article": "de"
     },
     {
-      "id": "n817",
+      "id": "n1615",
+      "word": "stroming",
+      "translation": "current; movement",
+      "article": "de"
+    },
+    {
+      "id": "n1616",
       "word": "stroom",
       "translation": "stream; electricity",
       "article": "de"
     },
     {
-      "id": "n818",
+      "id": "n1617",
       "word": "structuur",
       "translation": "structure",
       "article": "de"
     },
     {
-      "id": "n819",
+      "id": "n1618",
+      "word": "struik",
+      "translation": "bush, shrub",
+      "article": "de"
+    },
+    {
+      "id": "n1619",
       "word": "student",
       "translation": "student",
       "article": "de"
     },
     {
-      "id": "n820",
+      "id": "n1620",
       "word": "studie",
       "translation": "study",
       "article": "de"
     },
     {
-      "id": "n821",
+      "id": "n1621",
       "word": "stuk",
       "translation": "piece",
       "article": "het"
     },
     {
-      "id": "n822",
+      "id": "n1622",
+      "word": "stuur",
+      "translation": "steering wheel",
+      "article": "het"
+    },
+    {
+      "id": "n1623",
+      "word": "subsidie",
+      "translation": "subsidy",
+      "article": "de"
+    },
+    {
+      "id": "n1624",
       "word": "succes",
       "translation": "success",
       "article": "het"
     },
     {
-      "id": "n823",
+      "id": "n1625",
+      "word": "suggestie",
+      "translation": "suggestion",
+      "article": "de"
+    },
+    {
+      "id": "n1626",
+      "word": "suiker",
+      "translation": "sugar",
+      "article": "de"
+    },
+    {
+      "id": "n1627",
       "word": "symbool",
       "translation": "symbol",
       "article": "het"
     },
     {
-      "id": "n824",
+      "id": "n1628",
       "word": "sympathie",
       "translation": "sympathy",
       "article": "de"
     },
     {
-      "id": "n825",
+      "id": "n1629",
+      "word": "symptoom",
+      "translation": "symptom",
+      "article": "het"
+    },
+    {
+      "id": "n1630",
       "word": "systeem",
       "translation": "system",
       "article": "het"
     },
     {
-      "id": "n826",
+      "id": "n1631",
       "word": "taak",
       "translation": "task",
       "article": "de"
     },
     {
-      "id": "n827",
+      "id": "n1632",
       "word": "taal",
       "translation": "language",
       "article": "de"
     },
     {
-      "id": "n828",
+      "id": "n1633",
+      "word": "tabak",
+      "translation": "tobacco",
+      "article": "de"
+    },
+    {
+      "id": "n1634",
+      "word": "tabel",
+      "translation": "table, chart",
+      "article": "de"
+    },
+    {
+      "id": "n1635",
       "word": "tafel",
       "translation": "table",
       "article": "de"
     },
     {
-      "id": "n829",
+      "id": "n1636",
+      "word": "tafereel",
+      "translation": "scene",
+      "article": "het"
+    },
+    {
+      "id": "n1637",
       "word": "tak",
       "translation": "branch",
       "article": "de"
     },
     {
-      "id": "n830",
+      "id": "n1638",
+      "word": "tal",
+      "translation": "number (of)",
+      "article": "het"
+    },
+    {
+      "id": "n1639",
+      "word": "talent",
+      "translation": "talent",
+      "article": "het"
+    },
+    {
+      "id": "n1640",
       "word": "tand",
       "translation": "tooth",
       "article": "de"
     },
     {
-      "id": "n831",
+      "id": "n1641",
+      "word": "tandarts",
+      "translation": "dentist",
+      "article": "de"
+    },
+    {
+      "id": "n1642",
       "word": "tante",
       "translation": "aunt",
       "article": "de"
     },
     {
-      "id": "n832",
+      "id": "n1643",
+      "word": "tapijt",
+      "translation": "carpet",
+      "article": "het"
+    },
+    {
+      "id": "n1644",
+      "word": "tas",
+      "translation": "bag",
+      "article": "de"
+    },
+    {
+      "id": "n1645",
+      "word": "taxi",
+      "translation": "taxi",
+      "article": "de"
+    },
+    {
+      "id": "n1646",
+      "word": "team",
+      "translation": "team",
+      "article": "het"
+    },
+    {
+      "id": "n1647",
       "word": "techniek",
       "translation": "technique; technology",
       "article": "de"
     },
     {
-      "id": "n833",
+      "id": "n1648",
       "word": "technologie",
       "translation": "technology",
       "article": "de"
     },
     {
-      "id": "n834",
+      "id": "n1649",
       "word": "teen",
       "translation": "toe",
       "article": "de"
     },
     {
-      "id": "n835",
+      "id": "n1650",
+      "word": "tegendeel",
+      "translation": "opposite",
+      "article": "het"
+    },
+    {
+      "id": "n1651",
       "word": "tegenstand",
       "translation": "resistance",
       "article": "de"
     },
     {
-      "id": "n836",
+      "id": "n1652",
       "word": "tegenstander",
       "translation": "opponent",
       "article": "de"
     },
     {
-      "id": "n837",
+      "id": "n1653",
       "word": "tegenstelling",
       "translation": "contrast",
       "article": "de"
     },
     {
-      "id": "n838",
+      "id": "n1654",
+      "word": "tegenzin",
+      "translation": "reluctance",
+      "article": "de"
+    },
+    {
+      "id": "n1655",
       "word": "teken",
       "translation": "sign",
       "article": "het"
     },
     {
-      "id": "n839",
+      "id": "n1656",
       "word": "tekening",
       "translation": "drawing",
       "article": "de"
     },
     {
-      "id": "n840",
+      "id": "n1657",
       "word": "tekort",
       "translation": "shortage",
       "article": "het"
     },
     {
-      "id": "n841",
+      "id": "n1658",
       "word": "tekst",
       "translation": "text",
       "article": "de"
     },
     {
-      "id": "n842",
+      "id": "n1659",
       "word": "telefoon",
       "translation": "telephone",
       "article": "de"
     },
     {
-      "id": "n843",
+      "id": "n1660",
       "word": "teleurstelling",
       "translation": "disappointment",
       "article": "de"
     },
     {
-      "id": "n844",
+      "id": "n1661",
+      "word": "televisie",
+      "translation": "television",
+      "article": "de"
+    },
+    {
+      "id": "n1662",
       "word": "tempel",
       "translation": "temple",
       "article": "de"
     },
     {
-      "id": "n845",
+      "id": "n1663",
       "word": "temperatuur",
       "translation": "temperature",
       "article": "de"
     },
     {
-      "id": "n846",
+      "id": "n1664",
+      "word": "tempo",
+      "translation": "pace, tempo",
+      "article": "het"
+    },
+    {
+      "id": "n1665",
+      "word": "tendens",
+      "translation": "tendency, trend",
+      "article": "de"
+    },
+    {
+      "id": "n1666",
       "word": "tent",
       "translation": "tent",
       "article": "de"
     },
     {
-      "id": "n847",
+      "id": "n1667",
       "word": "tentoonstelling",
       "translation": "exhibition",
       "article": "de"
     },
     {
-      "id": "n848",
+      "id": "n1668",
+      "word": "term",
+      "translation": "term",
+      "article": "de"
+    },
+    {
+      "id": "n1669",
+      "word": "termijn",
+      "translation": "term, period",
+      "article": "de"
+    },
+    {
+      "id": "n1670",
+      "word": "terras",
+      "translation": "terrace",
+      "article": "het"
+    },
+    {
+      "id": "n1671",
       "word": "terrein",
       "translation": "terrain; field",
       "article": "het"
     },
     {
-      "id": "n849",
+      "id": "n1672",
       "word": "terreur",
       "translation": "terror",
       "article": "de"
     },
     {
-      "id": "n850",
+      "id": "n1673",
+      "word": "terugkeer",
+      "translation": "return",
+      "article": "de"
+    },
+    {
+      "id": "n1674",
+      "word": "test",
+      "translation": "test",
+      "article": "de"
+    },
+    {
+      "id": "n1675",
+      "word": "testament",
+      "translation": "testament, will",
+      "article": "het"
+    },
+    {
+      "id": "n1676",
       "word": "tevredenheid",
       "translation": "satisfaction",
       "article": "de"
     },
     {
-      "id": "n851",
+      "id": "n1677",
       "word": "theater",
       "translation": "theater",
       "article": "het"
     },
     {
-      "id": "n852",
+      "id": "n1678",
+      "word": "thee",
+      "translation": "tea",
+      "article": "de"
+    },
+    {
+      "id": "n1679",
       "word": "thema",
       "translation": "theme",
       "article": "het"
     },
     {
-      "id": "n853",
+      "id": "n1680",
+      "word": "theologie",
+      "translation": "theology",
+      "article": "de"
+    },
+    {
+      "id": "n1681",
       "word": "theorie",
       "translation": "theory",
       "article": "de"
     },
     {
-      "id": "n854",
+      "id": "n1682",
+      "word": "therapeut",
+      "translation": "therapist",
+      "article": "de"
+    },
+    {
+      "id": "n1683",
+      "word": "therapie",
+      "translation": "therapy",
+      "article": "de"
+    },
+    {
+      "id": "n1684",
       "word": "tij",
       "translation": "tide",
       "article": "het"
     },
     {
-      "id": "n855",
+      "id": "n1685",
       "word": "tijd",
       "translation": "time",
       "article": "de"
     },
     {
-      "id": "n856",
+      "id": "n1686",
       "word": "tijdperk",
       "translation": "era, period",
       "article": "het"
     },
     {
-      "id": "n857",
+      "id": "n1687",
       "word": "tijdschrift",
       "translation": "magazine",
       "article": "het"
     },
     {
-      "id": "n858",
+      "id": "n1688",
+      "word": "tijdstip",
+      "translation": "moment, point in time",
+      "article": "het"
+    },
+    {
+      "id": "n1689",
+      "word": "tint",
+      "translation": "tint, shade",
+      "article": "de"
+    },
+    {
+      "id": "n1690",
+      "word": "titel",
+      "translation": "title",
+      "article": "de"
+    },
+    {
+      "id": "n1691",
       "word": "tocht",
       "translation": "trip; draft (air)",
       "article": "de"
     },
     {
-      "id": "n859",
+      "id": "n1692",
       "word": "toegang",
       "translation": "access, entrance",
       "article": "de"
     },
     {
-      "id": "n860",
+      "id": "n1693",
       "word": "toekomst",
       "translation": "future",
       "article": "de"
     },
     {
-      "id": "n861",
+      "id": "n1694",
+      "word": "toelichting",
+      "translation": "explanation",
+      "article": "de"
+    },
+    {
+      "id": "n1695",
+      "word": "toename",
+      "translation": "increase",
+      "article": "de"
+    },
+    {
+      "id": "n1696",
       "word": "toepassing",
       "translation": "application",
       "article": "de"
     },
     {
-      "id": "n862",
+      "id": "n1697",
       "word": "toer",
       "translation": "tour; trick",
       "article": "de"
     },
     {
-      "id": "n863",
+      "id": "n1698",
+      "word": "toerist",
+      "translation": "tourist",
+      "article": "de"
+    },
+    {
+      "id": "n1699",
+      "word": "toeschouwer",
+      "translation": "spectator",
+      "article": "de"
+    },
+    {
+      "id": "n1700",
+      "word": "toespraak",
+      "translation": "speech",
+      "article": "de"
+    },
+    {
+      "id": "n1701",
       "word": "toestand",
       "translation": "situation, condition",
       "article": "de"
     },
     {
-      "id": "n864",
+      "id": "n1702",
+      "word": "toestel",
+      "translation": "device; phone",
+      "article": "het"
+    },
+    {
+      "id": "n1703",
       "word": "toestemming",
       "translation": "permission",
       "article": "de"
     },
     {
-      "id": "n865",
+      "id": "n1704",
+      "word": "toeval",
+      "translation": "coincidence, chance",
+      "article": "het"
+    },
+    {
+      "id": "n1705",
+      "word": "toezicht",
+      "translation": "supervision",
+      "article": "het"
+    },
+    {
+      "id": "n1706",
+      "word": "toilet",
+      "translation": "toilet",
+      "article": "het"
+    },
+    {
+      "id": "n1707",
       "word": "ton",
       "translation": "ton; barrel",
       "article": "de"
     },
     {
-      "id": "n866",
+      "id": "n1708",
       "word": "toneel",
       "translation": "stage; theater",
       "article": "het"
     },
     {
-      "id": "n867",
+      "id": "n1709",
       "word": "tong",
       "translation": "tongue",
       "article": "de"
     },
     {
-      "id": "n868",
+      "id": "n1710",
       "word": "toon",
       "translation": "tone",
       "article": "de"
     },
     {
-      "id": "n869",
+      "id": "n1711",
       "word": "top",
       "translation": "top; summit",
       "article": "de"
     },
     {
-      "id": "n870",
+      "id": "n1712",
       "word": "toren",
       "translation": "tower",
       "article": "de"
     },
     {
-      "id": "n871",
+      "id": "n1713",
+      "word": "touw",
+      "translation": "rope",
+      "article": "het"
+    },
+    {
+      "id": "n1714",
       "word": "traan",
       "translation": "tear",
       "article": "de"
     },
     {
-      "id": "n872",
+      "id": "n1715",
       "word": "traditie",
       "translation": "tradition",
       "article": "de"
     },
     {
-      "id": "n873",
+      "id": "n1716",
+      "word": "training",
+      "translation": "training",
+      "article": "de"
+    },
+    {
+      "id": "n1717",
+      "word": "tram",
+      "translation": "tram",
+      "article": "de"
+    },
+    {
+      "id": "n1718",
+      "word": "transport",
+      "translation": "transport",
+      "article": "het"
+    },
+    {
+      "id": "n1719",
+      "word": "trap",
+      "translation": "stairs; kick",
+      "article": "de"
+    },
+    {
+      "id": "n1720",
+      "word": "trein",
+      "translation": "train",
+      "article": "de"
+    },
+    {
+      "id": "n1721",
+      "word": "trek",
+      "translation": "appetite; trait",
+      "article": "de"
+    },
+    {
+      "id": "n1722",
       "word": "trend",
       "translation": "trend",
       "article": "de"
     },
     {
-      "id": "n874",
+      "id": "n1723",
+      "word": "triomf",
+      "translation": "triumph",
+      "article": "de"
+    },
+    {
+      "id": "n1724",
+      "word": "troep",
+      "translation": "mess; troop",
+      "article": "de"
+    },
+    {
+      "id": "n1725",
       "word": "troon",
       "translation": "throne",
       "article": "de"
     },
     {
-      "id": "n875",
+      "id": "n1726",
+      "word": "troost",
+      "translation": "comfort, consolation",
+      "article": "de"
+    },
+    {
+      "id": "n1727",
+      "word": "trottoir",
+      "translation": "sidewalk",
+      "article": "het"
+    },
+    {
+      "id": "n1728",
+      "word": "trui",
+      "translation": "sweater",
+      "article": "de"
+    },
+    {
+      "id": "n1729",
       "word": "tuin",
       "translation": "garden",
       "article": "de"
     },
     {
-      "id": "n876",
+      "id": "n1730",
       "word": "tunnel",
       "translation": "tunnel",
       "article": "de"
     },
     {
-      "id": "n877",
+      "id": "n1731",
       "word": "twijfel",
       "translation": "doubt",
       "article": "de"
     },
     {
-      "id": "n878",
+      "id": "n1732",
       "word": "type",
       "translation": "type",
       "article": "het"
     },
     {
-      "id": "n879",
+      "id": "n1733",
       "word": "uitbreiding",
       "translation": "expansion",
       "article": "de"
     },
     {
-      "id": "n880",
+      "id": "n1734",
       "word": "uitdaging",
       "translation": "challenge",
       "article": "de"
     },
     {
-      "id": "n881",
+      "id": "n1735",
       "word": "uitdrukking",
       "translation": "expression",
       "article": "de"
     },
     {
-      "id": "n882",
+      "id": "n1736",
+      "word": "uiteenzetting",
+      "translation": "explanation, exposition",
+      "article": "de"
+    },
+    {
+      "id": "n1737",
       "word": "uiterlijk",
       "translation": "appearance; at the latest",
       "article": "het"
     },
     {
-      "id": "n883",
+      "id": "n1738",
+      "word": "uitgang",
+      "translation": "exit",
+      "article": "de"
+    },
+    {
+      "id": "n1739",
       "word": "uitgangspunt",
       "translation": "starting point",
       "article": "het"
     },
     {
-      "id": "n884",
+      "id": "n1740",
       "word": "uitgave",
       "translation": "edition; expense",
       "article": "de"
     },
     {
-      "id": "n885",
+      "id": "n1741",
+      "word": "uitgever",
+      "translation": "publisher",
+      "article": "de"
+    },
+    {
+      "id": "n1742",
+      "word": "uiting",
+      "translation": "expression",
+      "article": "de"
+    },
+    {
+      "id": "n1743",
       "word": "uitkering",
       "translation": "benefit, payment",
       "article": "de"
     },
     {
-      "id": "n886",
+      "id": "n1744",
+      "word": "uitkomst",
+      "translation": "outcome, result",
+      "article": "de"
+    },
+    {
+      "id": "n1745",
+      "word": "uitleg",
+      "translation": "explanation",
+      "article": "de"
+    },
+    {
+      "id": "n1746",
+      "word": "uitnodiging",
+      "translation": "invitation",
+      "article": "de"
+    },
+    {
+      "id": "n1747",
       "word": "uitslag",
       "translation": "result; rash",
       "article": "de"
     },
     {
-      "id": "n887",
+      "id": "n1748",
       "word": "uitspraak",
       "translation": "pronunciation; verdict",
       "article": "de"
     },
     {
-      "id": "n888",
+      "id": "n1749",
+      "word": "uitvinding",
+      "translation": "invention",
+      "article": "de"
+    },
+    {
+      "id": "n1750",
       "word": "uitvoering",
       "translation": "execution; performance",
       "article": "de"
     },
     {
-      "id": "n889",
+      "id": "n1751",
+      "word": "uitweg",
+      "translation": "way out",
+      "article": "de"
+    },
+    {
+      "id": "n1752",
       "word": "uitwerking",
       "translation": "effect",
       "article": "de"
     },
     {
-      "id": "n890",
+      "id": "n1753",
+      "word": "uitzending",
+      "translation": "broadcast",
+      "article": "de"
+    },
+    {
+      "id": "n1754",
       "word": "uitzicht",
       "translation": "view; prospect",
       "article": "het"
     },
     {
-      "id": "n891",
+      "id": "n1755",
       "word": "uitzondering",
       "translation": "exception",
       "article": "de"
     },
     {
-      "id": "n892",
+      "id": "n1756",
+      "word": "unie",
+      "translation": "union",
+      "article": "de"
+    },
+    {
+      "id": "n1757",
+      "word": "uniform",
+      "translation": "uniform",
+      "article": "het"
+    },
+    {
+      "id": "n1758",
       "word": "universiteit",
       "translation": "university",
       "article": "de"
     },
     {
-      "id": "n893",
+      "id": "n1759",
       "word": "uur",
       "translation": "hour",
       "article": "het"
     },
     {
-      "id": "n894",
+      "id": "n1760",
       "word": "vaardigheid",
       "translation": "skill",
       "article": "de"
     },
     {
-      "id": "n895",
+      "id": "n1761",
+      "word": "vaart",
+      "translation": "speed; canal",
+      "article": "de"
+    },
+    {
+      "id": "n1762",
+      "word": "vaas",
+      "translation": "vase",
+      "article": "de"
+    },
+    {
+      "id": "n1763",
       "word": "vader",
       "translation": "father",
       "article": "de"
     },
     {
-      "id": "n896",
+      "id": "n1764",
+      "word": "vaderland",
+      "translation": "fatherland",
+      "article": "het"
+    },
+    {
+      "id": "n1765",
+      "word": "vak",
+      "translation": "subject; profession; compartment",
+      "article": "het"
+    },
+    {
+      "id": "n1766",
       "word": "vakantie",
       "translation": "vacation",
       "article": "de"
     },
     {
-      "id": "n897",
+      "id": "n1767",
       "word": "vakbond",
       "translation": "trade union",
       "article": "de"
     },
     {
-      "id": "n898",
+      "id": "n1768",
+      "word": "val",
+      "translation": "fall; trap",
+      "article": "de"
+    },
+    {
+      "id": "n1769",
+      "word": "variant",
+      "translation": "variant",
+      "article": "de"
+    },
+    {
+      "id": "n1770",
+      "word": "variatie",
+      "translation": "variation",
+      "article": "de"
+    },
+    {
+      "id": "n1771",
+      "word": "varken",
+      "translation": "pig",
+      "article": "het"
+    },
+    {
+      "id": "n1772",
+      "word": "vat",
+      "translation": "barrel; grip",
+      "article": "het"
+    },
+    {
+      "id": "n1773",
+      "word": "vee",
+      "translation": "cattle, livestock",
+      "article": "het"
+    },
+    {
+      "id": "n1774",
+      "word": "veer",
+      "translation": "feather; spring; ferry",
+      "article": "de"
+    },
+    {
+      "id": "n1775",
       "word": "veiligheid",
       "translation": "safety, security",
       "article": "de"
     },
     {
-      "id": "n899",
+      "id": "n1776",
+      "word": "vel",
+      "translation": "skin; sheet",
+      "article": "het"
+    },
+    {
+      "id": "n1777",
       "word": "veld",
       "translation": "field",
       "article": "het"
     },
     {
-      "id": "n900",
+      "id": "n1778",
+      "word": "venster",
+      "translation": "window",
+      "article": "het"
+    },
+    {
+      "id": "n1779",
+      "word": "vent",
+      "translation": "guy, fellow",
+      "article": "de"
+    },
+    {
+      "id": "n1780",
       "word": "verandering",
       "translation": "change",
       "article": "de"
     },
     {
-      "id": "n901",
+      "id": "n1781",
       "word": "verantwoordelijkheid",
       "translation": "responsibility",
       "article": "de"
     },
     {
-      "id": "n902",
+      "id": "n1782",
+      "word": "verantwoording",
+      "translation": "accountability",
+      "article": "de"
+    },
+    {
+      "id": "n1783",
       "word": "verband",
       "translation": "connection; bandage",
       "article": "het"
     },
     {
-      "id": "n903",
+      "id": "n1784",
+      "word": "verbazing",
+      "translation": "amazement",
+      "article": "de"
+    },
+    {
+      "id": "n1785",
       "word": "verbeelding",
       "translation": "imagination",
       "article": "de"
     },
     {
-      "id": "n904",
+      "id": "n1786",
       "word": "verbetering",
       "translation": "improvement",
       "article": "de"
     },
     {
-      "id": "n905",
+      "id": "n1787",
       "word": "verbinding",
       "translation": "connection",
       "article": "de"
     },
     {
-      "id": "n906",
+      "id": "n1788",
       "word": "verblijf",
       "translation": "stay; residence",
       "article": "het"
     },
     {
-      "id": "n907",
+      "id": "n1789",
+      "word": "verbod",
+      "translation": "ban, prohibition",
+      "article": "het"
+    },
+    {
+      "id": "n1790",
+      "word": "verbond",
+      "translation": "alliance, covenant",
+      "article": "het"
+    },
+    {
+      "id": "n1791",
       "word": "verdediging",
       "translation": "defense",
       "article": "de"
     },
     {
-      "id": "n908",
+      "id": "n1792",
+      "word": "verdienste",
+      "translation": "merit; earnings",
+      "article": "de"
+    },
+    {
+      "id": "n1793",
       "word": "verdieping",
       "translation": "floor, story",
       "article": "de"
     },
     {
-      "id": "n909",
+      "id": "n1794",
       "word": "verdrag",
       "translation": "treaty",
       "article": "het"
     },
     {
-      "id": "n910",
+      "id": "n1795",
+      "word": "verdriet",
+      "translation": "sorrow, grief",
+      "article": "het"
+    },
+    {
+      "id": "n1796",
+      "word": "vereiste",
+      "translation": "requirement",
+      "article": "de"
+    },
+    {
+      "id": "n1797",
       "word": "vereniging",
       "translation": "association, union",
       "article": "de"
     },
     {
-      "id": "n911",
+      "id": "n1798",
+      "word": "verf",
+      "translation": "paint",
+      "article": "de"
+    },
+    {
+      "id": "n1799",
       "word": "vergadering",
       "translation": "meeting",
       "article": "de"
     },
     {
-      "id": "n912",
+      "id": "n1800",
       "word": "vergelijking",
       "translation": "comparison",
       "article": "de"
     },
     {
-      "id": "n913",
+      "id": "n1801",
+      "word": "vergissing",
+      "translation": "mistake",
+      "article": "de"
+    },
+    {
+      "id": "n1802",
       "word": "vergoeding",
       "translation": "compensation",
       "article": "de"
     },
     {
-      "id": "n914",
+      "id": "n1803",
       "word": "vergunning",
       "translation": "permit",
       "article": "de"
     },
     {
-      "id": "n915",
+      "id": "n1804",
       "word": "verhaal",
       "translation": "story",
       "article": "het"
     },
     {
-      "id": "n916",
+      "id": "n1805",
+      "word": "verhoging",
+      "translation": "increase; platform",
+      "article": "de"
+    },
+    {
+      "id": "n1806",
+      "word": "verhoor",
+      "translation": "interrogation",
+      "article": "het"
+    },
+    {
+      "id": "n1807",
       "word": "verhouding",
       "translation": "ratio; relationship",
       "article": "de"
     },
     {
-      "id": "n917",
+      "id": "n1808",
+      "word": "verjaardag",
+      "translation": "birthday",
+      "article": "de"
+    },
+    {
+      "id": "n1809",
       "word": "verkeer",
       "translation": "traffic",
       "article": "het"
     },
     {
-      "id": "n918",
+      "id": "n1810",
       "word": "verkiezing",
       "translation": "election",
       "article": "de"
     },
     {
-      "id": "n919",
+      "id": "n1811",
       "word": "verklaring",
       "translation": "explanation; statement",
       "article": "de"
     },
     {
-      "id": "n920",
+      "id": "n1812",
+      "word": "verkoop",
+      "translation": "sale",
+      "article": "de"
+    },
+    {
+      "id": "n1813",
+      "word": "verkoper",
+      "translation": "seller, salesperson",
+      "article": "de"
+    },
+    {
+      "id": "n1814",
       "word": "verleden",
       "translation": "past",
       "article": "het"
     },
     {
-      "id": "n921",
+      "id": "n1815",
+      "word": "verleiding",
+      "translation": "temptation",
+      "article": "de"
+    },
+    {
+      "id": "n1816",
       "word": "verlies",
       "translation": "loss",
       "article": "het"
     },
     {
-      "id": "n922",
+      "id": "n1817",
+      "word": "verlof",
+      "translation": "leave, permission",
+      "article": "het"
+    },
+    {
+      "id": "n1818",
+      "word": "verloop",
+      "translation": "course; turnover",
+      "article": "het"
+    },
+    {
+      "id": "n1819",
+      "word": "vermindering",
+      "translation": "reduction",
+      "article": "de"
+    },
+    {
+      "id": "n1820",
       "word": "vermogen",
       "translation": "ability; fortune",
       "article": "het"
     },
     {
-      "id": "n923",
+      "id": "n1821",
+      "word": "vernieuwing",
+      "translation": "renewal, innovation",
+      "article": "de"
+    },
+    {
+      "id": "n1822",
+      "word": "verontwaardiging",
+      "translation": "indignation",
+      "article": "de"
+    },
+    {
+      "id": "n1823",
+      "word": "verovering",
+      "translation": "conquest",
+      "article": "de"
+    },
+    {
+      "id": "n1824",
       "word": "verplichting",
       "translation": "obligation",
       "article": "de"
     },
     {
-      "id": "n924",
+      "id": "n1825",
+      "word": "verraad",
+      "translation": "betrayal, treason",
+      "article": "het"
+    },
+    {
+      "id": "n1826",
       "word": "verrassing",
       "translation": "surprise",
       "article": "de"
     },
     {
-      "id": "n925",
+      "id": "n1827",
+      "word": "verscheidenheid",
+      "translation": "variety, diversity",
+      "article": "de"
+    },
+    {
+      "id": "n1828",
       "word": "verschijning",
       "translation": "appearance; phenomenon",
       "article": "de"
     },
     {
-      "id": "n926",
+      "id": "n1829",
       "word": "verschijnsel",
       "translation": "phenomenon",
       "article": "het"
     },
     {
-      "id": "n927",
+      "id": "n1830",
       "word": "verschil",
       "translation": "difference",
       "article": "het"
     },
     {
-      "id": "n928",
+      "id": "n1831",
+      "word": "verschuiving",
+      "translation": "shift",
+      "article": "de"
+    },
+    {
+      "id": "n1832",
+      "word": "versie",
+      "translation": "version",
+      "article": "de"
+    },
+    {
+      "id": "n1833",
       "word": "verslag",
       "translation": "report",
       "article": "het"
     },
     {
-      "id": "n929",
+      "id": "n1834",
       "word": "verstand",
       "translation": "mind; sense",
       "article": "het"
     },
     {
-      "id": "n930",
+      "id": "n1835",
+      "word": "versterking",
+      "translation": "reinforcement",
+      "article": "de"
+    },
+    {
+      "id": "n1836",
+      "word": "vertaling",
+      "translation": "translation",
+      "article": "de"
+    },
+    {
+      "id": "n1837",
+      "word": "verte",
+      "translation": "distance",
+      "article": "de"
+    },
+    {
+      "id": "n1838",
       "word": "vertegenwoordiger",
       "translation": "representative",
       "article": "de"
     },
     {
-      "id": "n931",
+      "id": "n1839",
+      "word": "vertrek",
+      "translation": "departure; room",
+      "article": "het"
+    },
+    {
+      "id": "n1840",
       "word": "vertrouwen",
       "translation": "trust, confidence",
       "article": "het"
     },
     {
-      "id": "n932",
+      "id": "n1841",
       "word": "vervoer",
       "translation": "transport",
       "article": "het"
     },
     {
-      "id": "n933",
+      "id": "n1842",
+      "word": "vervolg",
+      "translation": "continuation; sequel",
+      "article": "het"
+    },
+    {
+      "id": "n1843",
       "word": "verwachting",
       "translation": "expectation",
       "article": "de"
     },
     {
-      "id": "n934",
+      "id": "n1844",
+      "word": "verwantschap",
+      "translation": "kinship, affinity",
+      "article": "de"
+    },
+    {
+      "id": "n1845",
+      "word": "verwarring",
+      "translation": "confusion",
+      "article": "de"
+    },
+    {
+      "id": "n1846",
+      "word": "verwijt",
+      "translation": "reproach",
+      "article": "het"
+    },
+    {
+      "id": "n1847",
+      "word": "verwondering",
+      "translation": "wonder, surprise",
+      "article": "de"
+    },
+    {
+      "id": "n1848",
       "word": "verzameling",
       "translation": "collection",
       "article": "de"
     },
     {
-      "id": "n935",
+      "id": "n1849",
       "word": "verzekering",
       "translation": "insurance",
       "article": "de"
     },
     {
-      "id": "n936",
+      "id": "n1850",
       "word": "verzet",
       "translation": "resistance",
       "article": "het"
     },
     {
-      "id": "n937",
+      "id": "n1851",
       "word": "verzoek",
       "translation": "request",
       "article": "het"
     },
     {
-      "id": "n938",
+      "id": "n1852",
       "word": "verzorging",
       "translation": "care",
       "article": "de"
     },
     {
-      "id": "n939",
+      "id": "n1853",
       "word": "vest",
       "translation": "vest; waistcoat",
       "article": "het"
     },
     {
-      "id": "n940",
+      "id": "n1854",
+      "word": "vestiging",
+      "translation": "establishment; branch",
+      "article": "de"
+    },
+    {
+      "id": "n1855",
       "word": "vijand",
       "translation": "enemy",
       "article": "de"
     },
     {
-      "id": "n941",
+      "id": "n1856",
+      "word": "vijver",
+      "translation": "pond",
+      "article": "de"
+    },
+    {
+      "id": "n1857",
+      "word": "villa",
+      "translation": "villa",
+      "article": "de"
+    },
+    {
+      "id": "n1858",
       "word": "vinger",
       "translation": "finger",
       "article": "de"
     },
     {
-      "id": "n942",
+      "id": "n1859",
+      "word": "viool",
+      "translation": "violin",
+      "article": "de"
+    },
+    {
+      "id": "n1860",
+      "word": "vis",
+      "translation": "fish",
+      "article": "de"
+    },
+    {
+      "id": "n1861",
+      "word": "visie",
+      "translation": "vision, view",
+      "article": "de"
+    },
+    {
+      "id": "n1862",
+      "word": "visser",
+      "translation": "fisherman",
+      "article": "de"
+    },
+    {
+      "id": "n1863",
+      "word": "vlag",
+      "translation": "flag",
+      "article": "de"
+    },
+    {
+      "id": "n1864",
+      "word": "vlakte",
+      "translation": "plain",
+      "article": "de"
+    },
+    {
+      "id": "n1865",
       "word": "vlam",
       "translation": "flame",
       "article": "de"
     },
     {
-      "id": "n943",
+      "id": "n1866",
       "word": "vlees",
       "translation": "meat",
       "article": "het"
     },
     {
-      "id": "n944",
+      "id": "n1867",
+      "word": "vlek",
+      "translation": "stain, spot",
+      "article": "de"
+    },
+    {
+      "id": "n1868",
+      "word": "vleugel",
+      "translation": "wing",
+      "article": "de"
+    },
+    {
+      "id": "n1869",
       "word": "vliegtuig",
       "translation": "airplane",
       "article": "het"
     },
     {
-      "id": "n945",
+      "id": "n1870",
+      "word": "vliegveld",
+      "translation": "airport",
+      "article": "het"
+    },
+    {
+      "id": "n1871",
+      "word": "vloeistof",
+      "translation": "liquid",
+      "article": "de"
+    },
+    {
+      "id": "n1872",
       "word": "vloer",
       "translation": "floor",
       "article": "de"
     },
     {
-      "id": "n946",
+      "id": "n1873",
       "word": "vlucht",
       "translation": "flight; escape",
       "article": "de"
     },
     {
-      "id": "n947",
+      "id": "n1874",
       "word": "vluchteling",
       "translation": "refugee",
       "article": "de"
     },
     {
-      "id": "n948",
+      "id": "n1875",
+      "word": "vocht",
+      "translation": "moisture",
+      "article": "het"
+    },
+    {
+      "id": "n1876",
+      "word": "voeding",
+      "translation": "food, nutrition",
+      "article": "de"
+    },
+    {
+      "id": "n1877",
       "word": "voedsel",
       "translation": "food",
       "article": "het"
     },
     {
-      "id": "n949",
+      "id": "n1878",
+      "word": "voertuig",
+      "translation": "vehicle",
+      "article": "het"
+    },
+    {
+      "id": "n1879",
       "word": "voet",
       "translation": "foot",
       "article": "de"
     },
     {
-      "id": "n950",
+      "id": "n1880",
       "word": "voetbal",
       "translation": "football, soccer",
       "article": "het"
     },
     {
-      "id": "n951",
+      "id": "n1881",
       "word": "vogel",
       "translation": "bird",
       "article": "de"
     },
     {
-      "id": "n952",
+      "id": "n1882",
+      "word": "voldoening",
+      "translation": "satisfaction",
+      "article": "de"
+    },
+    {
+      "id": "n1883",
+      "word": "volgorde",
+      "translation": "order, sequence",
+      "article": "de"
+    },
+    {
+      "id": "n1884",
       "word": "volk",
       "translation": "people, nation",
       "article": "het"
     },
     {
-      "id": "n953",
+      "id": "n1885",
       "word": "volume",
       "translation": "volume",
       "article": "het"
     },
     {
-      "id": "n954",
+      "id": "n1886",
+      "word": "volwassene",
+      "translation": "adult",
+      "article": "de"
+    },
+    {
+      "id": "n1887",
+      "word": "vondst",
+      "translation": "find, discovery",
+      "article": "de"
+    },
+    {
+      "id": "n1888",
+      "word": "vonk",
+      "translation": "spark",
+      "article": "de"
+    },
+    {
+      "id": "n1889",
       "word": "vonnis",
       "translation": "verdict",
       "article": "het"
     },
     {
-      "id": "n955",
+      "id": "n1890",
       "word": "voorbeeld",
       "translation": "example",
       "article": "het"
     },
     {
-      "id": "n956",
+      "id": "n1891",
+      "word": "voorbereiding",
+      "translation": "preparation",
+      "article": "de"
+    },
+    {
+      "id": "n1892",
       "word": "voordeel",
       "translation": "advantage",
       "article": "het"
     },
     {
-      "id": "n957",
+      "id": "n1893",
+      "word": "voordeur",
+      "translation": "front door",
+      "article": "de"
+    },
+    {
+      "id": "n1894",
       "word": "voordracht",
       "translation": "presentation; nomination",
       "article": "de"
     },
     {
-      "id": "n958",
+      "id": "n1895",
+      "word": "voorganger",
+      "translation": "predecessor",
+      "article": "de"
+    },
+    {
+      "id": "n1896",
+      "word": "voorhoofd",
+      "translation": "forehead",
+      "article": "het"
+    },
+    {
+      "id": "n1897",
+      "word": "voorjaar",
+      "translation": "spring (season)",
+      "article": "het"
+    },
+    {
+      "id": "n1898",
+      "word": "voorkeur",
+      "translation": "preference",
+      "article": "de"
+    },
+    {
+      "id": "n1899",
+      "word": "voorlichting",
+      "translation": "information; education",
+      "article": "de"
+    },
+    {
+      "id": "n1900",
       "word": "voornemen",
       "translation": "intention",
       "article": "het"
     },
     {
-      "id": "n959",
+      "id": "n1901",
+      "word": "vooroordeel",
+      "translation": "prejudice",
+      "article": "het"
+    },
+    {
+      "id": "n1902",
+      "word": "voorraad",
+      "translation": "stock, supply",
+      "article": "de"
+    },
+    {
+      "id": "n1903",
+      "word": "voorschrift",
+      "translation": "regulation, prescription",
+      "article": "het"
+    },
+    {
+      "id": "n1904",
+      "word": "voorspelling",
+      "translation": "prediction",
+      "article": "de"
+    },
+    {
+      "id": "n1905",
       "word": "voorstander",
       "translation": "proponent",
       "article": "de"
     },
     {
-      "id": "n960",
+      "id": "n1906",
       "word": "voorstel",
       "translation": "proposal",
       "article": "het"
     },
     {
-      "id": "n961",
+      "id": "n1907",
       "word": "voorstelling",
       "translation": "performance; idea",
       "article": "de"
     },
     {
-      "id": "n962",
+      "id": "n1908",
+      "word": "voortbestaan",
+      "translation": "continued existence",
+      "article": "het"
+    },
+    {
+      "id": "n1909",
       "word": "voortgang",
       "translation": "progress",
       "article": "de"
     },
     {
-      "id": "n963",
+      "id": "n1910",
       "word": "vooruitgang",
       "translation": "progress",
       "article": "de"
     },
     {
-      "id": "n964",
+      "id": "n1911",
+      "word": "vooruitzicht",
+      "translation": "prospect",
+      "article": "het"
+    },
+    {
+      "id": "n1912",
+      "word": "voorval",
+      "translation": "incident",
+      "article": "het"
+    },
+    {
+      "id": "n1913",
       "word": "voorwaarde",
       "translation": "condition",
       "article": "de"
     },
     {
-      "id": "n965",
+      "id": "n1914",
       "word": "voorwerp",
       "translation": "object",
       "article": "het"
     },
     {
-      "id": "n966",
+      "id": "n1915",
+      "word": "voorziening",
+      "translation": "facility; provision",
+      "article": "de"
+    },
+    {
+      "id": "n1916",
       "word": "voorzitter",
       "translation": "chairman",
       "article": "de"
     },
     {
-      "id": "n967",
+      "id": "n1917",
       "word": "vordering",
       "translation": "progress; claim",
       "article": "de"
     },
     {
-      "id": "n968",
+      "id": "n1918",
+      "word": "vork",
+      "translation": "fork",
+      "article": "de"
+    },
+    {
+      "id": "n1919",
       "word": "vorm",
       "translation": "form, shape",
       "article": "de"
     },
     {
-      "id": "n969",
+      "id": "n1920",
+      "word": "vormgeving",
+      "translation": "design",
+      "article": "de"
+    },
+    {
+      "id": "n1921",
+      "word": "vorming",
+      "translation": "formation; education",
+      "article": "de"
+    },
+    {
+      "id": "n1922",
       "word": "vorst",
       "translation": "ruler; frost",
       "article": "de"
     },
     {
-      "id": "n970",
+      "id": "n1923",
       "word": "vraag",
       "translation": "question; demand",
       "article": "de"
     },
     {
-      "id": "n971",
+      "id": "n1924",
+      "word": "vraagstuk",
+      "translation": "problem, issue",
+      "article": "het"
+    },
+    {
+      "id": "n1925",
+      "word": "vrachtwagen",
+      "translation": "truck",
+      "article": "de"
+    },
+    {
+      "id": "n1926",
       "word": "vrede",
       "translation": "peace",
       "article": "de"
     },
     {
-      "id": "n972",
+      "id": "n1927",
       "word": "vreemde",
       "translation": "stranger",
       "article": "de"
     },
     {
-      "id": "n973",
+      "id": "n1928",
+      "word": "vreemdeling",
+      "translation": "stranger, foreigner",
+      "article": "de"
+    },
+    {
+      "id": "n1929",
       "word": "vreemden",
       "translation": "strangers",
       "article": "de"
     },
     {
-      "id": "n974",
+      "id": "n1930",
       "word": "vrees",
       "translation": "fear",
       "article": "de"
     },
     {
-      "id": "n975",
+      "id": "n1931",
+      "word": "vreugde",
+      "translation": "joy",
+      "article": "de"
+    },
+    {
+      "id": "n1932",
       "word": "vriend",
       "translation": "friend",
       "article": "de"
     },
     {
-      "id": "n976",
+      "id": "n1933",
+      "word": "vriendin",
+      "translation": "girlfriend; female friend",
+      "article": "de"
+    },
+    {
+      "id": "n1934",
       "word": "vriendschap",
       "translation": "friendship",
       "article": "de"
     },
     {
-      "id": "n977",
+      "id": "n1935",
       "word": "vrijdag",
       "translation": "Friday",
       "article": "de"
     },
     {
-      "id": "n978",
+      "id": "n1936",
       "word": "vrijheid",
       "translation": "freedom",
       "article": "de"
     },
     {
-      "id": "n979",
+      "id": "n1937",
+      "word": "vrijwilliger",
+      "translation": "volunteer",
+      "article": "de"
+    },
+    {
+      "id": "n1938",
       "word": "vrouw",
       "translation": "woman; wife",
       "article": "de"
     },
     {
-      "id": "n980",
+      "id": "n1939",
       "word": "vrucht",
       "translation": "fruit",
       "article": "de"
     },
     {
-      "id": "n981",
+      "id": "n1940",
+      "word": "vuist",
+      "translation": "fist",
+      "article": "de"
+    },
+    {
+      "id": "n1941",
       "word": "vuur",
       "translation": "fire",
       "article": "het"
     },
     {
-      "id": "n982",
+      "id": "n1942",
+      "word": "waanzin",
+      "translation": "madness",
+      "article": "de"
+    },
+    {
+      "id": "n1943",
       "word": "waarde",
       "translation": "value",
       "article": "de"
     },
     {
-      "id": "n983",
+      "id": "n1944",
       "word": "waardering",
       "translation": "appreciation",
       "article": "de"
     },
     {
-      "id": "n984",
+      "id": "n1945",
+      "word": "waardigheid",
+      "translation": "dignity",
+      "article": "de"
+    },
+    {
+      "id": "n1946",
       "word": "waarheid",
       "translation": "truth",
       "article": "de"
     },
     {
-      "id": "n985",
+      "id": "n1947",
       "word": "waarneming",
       "translation": "observation",
       "article": "de"
     },
     {
-      "id": "n986",
+      "id": "n1948",
       "word": "waarschuwing",
       "translation": "warning",
       "article": "de"
     },
     {
-      "id": "n987",
+      "id": "n1949",
+      "word": "wacht",
+      "translation": "guard; wait",
+      "article": "de"
+    },
+    {
+      "id": "n1950",
+      "word": "wal",
+      "translation": "embankment; shore",
+      "article": "de"
+    },
+    {
+      "id": "n1951",
       "word": "wand",
       "translation": "wall (interior)",
       "article": "de"
     },
     {
-      "id": "n988",
+      "id": "n1952",
+      "word": "wandeling",
+      "translation": "walk, stroll",
+      "article": "de"
+    },
+    {
+      "id": "n1953",
+      "word": "wang",
+      "translation": "cheek",
+      "article": "de"
+    },
+    {
+      "id": "n1954",
+      "word": "wanhoop",
+      "translation": "despair",
+      "article": "de"
+    },
+    {
+      "id": "n1955",
+      "word": "wantrouwen",
+      "translation": "distrust",
+      "article": "het"
+    },
+    {
+      "id": "n1956",
       "word": "wapen",
       "translation": "weapon",
       "article": "het"
     },
     {
-      "id": "n989",
+      "id": "n1957",
       "word": "warmte",
       "translation": "warmth, heat",
       "article": "de"
     },
     {
-      "id": "n990",
+      "id": "n1958",
       "word": "water",
       "translation": "water",
       "article": "het"
     },
     {
-      "id": "n991",
+      "id": "n1959",
       "word": "wedstrijd",
       "translation": "match, competition",
       "article": "de"
     },
     {
-      "id": "n992",
+      "id": "n1960",
+      "word": "weduwe",
+      "translation": "widow",
+      "article": "de"
+    },
+    {
+      "id": "n1961",
+      "word": "weefsel",
+      "translation": "tissue; fabric",
+      "article": "het"
+    },
+    {
+      "id": "n1962",
       "word": "week",
       "translation": "week",
       "article": "de"
     },
     {
-      "id": "n993",
+      "id": "n1963",
+      "word": "weekblad",
+      "translation": "weekly magazine",
+      "article": "het"
+    },
+    {
+      "id": "n1964",
+      "word": "weekend",
+      "translation": "weekend",
+      "article": "het"
+    },
+    {
+      "id": "n1965",
       "word": "weer",
       "translation": "weather; again",
       "article": "het"
     },
     {
-      "id": "n994",
+      "id": "n1966",
       "word": "weerstand",
       "translation": "resistance",
       "article": "de"
     },
     {
-      "id": "n995",
+      "id": "n1967",
       "word": "weg",
       "translation": "road, way",
       "article": "de"
     },
     {
-      "id": "n996",
+      "id": "n1968",
+      "word": "weigering",
+      "translation": "refusal",
+      "article": "de"
+    },
+    {
+      "id": "n1969",
+      "word": "weiland",
+      "translation": "meadow, pasture",
+      "article": "het"
+    },
+    {
+      "id": "n1970",
+      "word": "welvaart",
+      "translation": "prosperity",
+      "article": "de"
+    },
+    {
+      "id": "n1971",
+      "word": "welzijn",
+      "translation": "well-being, welfare",
+      "article": "het"
+    },
+    {
+      "id": "n1972",
       "word": "wens",
       "translation": "wish",
       "article": "de"
     },
     {
-      "id": "n997",
+      "id": "n1973",
       "word": "wereld",
       "translation": "world",
       "article": "de"
     },
     {
-      "id": "n998",
+      "id": "n1974",
       "word": "wereldoorlog",
       "translation": "world war",
       "article": "de"
     },
     {
-      "id": "n999",
+      "id": "n1975",
       "word": "werk",
       "translation": "work",
       "article": "het"
     },
     {
-      "id": "n1000",
+      "id": "n1976",
       "word": "werkelijkheid",
       "translation": "reality",
       "article": "de"
     },
     {
-      "id": "n1001",
+      "id": "n1977",
       "word": "werker",
       "translation": "worker",
       "article": "de"
     },
     {
-      "id": "n1002",
+      "id": "n1978",
+      "word": "werkgelegenheid",
+      "translation": "employment",
+      "article": "de"
+    },
+    {
+      "id": "n1979",
       "word": "werkgever",
       "translation": "employer",
       "article": "de"
     },
     {
-      "id": "n1003",
+      "id": "n1980",
       "word": "werking",
       "translation": "functioning, effect",
       "article": "de"
     },
     {
-      "id": "n1004",
+      "id": "n1981",
+      "word": "werkloosheid",
+      "translation": "unemployment",
+      "article": "de"
+    },
+    {
+      "id": "n1982",
       "word": "werknemer",
       "translation": "employee",
       "article": "de"
     },
     {
-      "id": "n1005",
+      "id": "n1983",
+      "word": "werkwijze",
+      "translation": "method, approach",
+      "article": "de"
+    },
+    {
+      "id": "n1984",
       "word": "werkzaamheid",
       "translation": "activity, work",
       "article": "de"
     },
     {
-      "id": "n1006",
+      "id": "n1985",
+      "word": "westen",
+      "translation": "west",
+      "article": "het"
+    },
+    {
+      "id": "n1986",
       "word": "wet",
       "translation": "law",
       "article": "de"
     },
     {
-      "id": "n1007",
+      "id": "n1987",
       "word": "wetenschap",
       "translation": "science",
       "article": "de"
     },
     {
-      "id": "n1008",
+      "id": "n1988",
       "word": "wetenschapper",
       "translation": "scientist",
       "article": "de"
     },
     {
-      "id": "n1009",
+      "id": "n1989",
       "word": "wetgeving",
       "translation": "legislation",
       "article": "de"
     },
     {
-      "id": "n1010",
+      "id": "n1990",
       "word": "wethouder",
       "translation": "alderman",
       "article": "de"
     },
     {
-      "id": "n1011",
+      "id": "n1991",
       "word": "wezen",
       "translation": "being; essence",
       "article": "het"
     },
     {
-      "id": "n1012",
+      "id": "n1992",
+      "word": "wiel",
+      "translation": "wheel",
+      "article": "het"
+    },
+    {
+      "id": "n1993",
       "word": "wijk",
       "translation": "neighborhood, district",
       "article": "de"
     },
     {
-      "id": "n1013",
+      "id": "n1994",
       "word": "wijn",
       "translation": "wine",
       "article": "de"
     },
     {
-      "id": "n1014",
+      "id": "n1995",
+      "word": "wijsheid",
+      "translation": "wisdom",
+      "article": "de"
+    },
+    {
+      "id": "n1996",
       "word": "wijze",
       "translation": "way, manner; wise person",
       "article": "de"
     },
     {
-      "id": "n1015",
+      "id": "n1997",
       "word": "wijziging",
       "translation": "change, modification",
       "article": "de"
     },
     {
-      "id": "n1016",
+      "id": "n1998",
       "word": "wil",
       "translation": "will",
       "article": "de"
     },
     {
-      "id": "n1017",
+      "id": "n1999",
       "word": "wind",
       "translation": "wind",
       "article": "de"
     },
     {
-      "id": "n1018",
+      "id": "n2000",
       "word": "winkel",
       "translation": "shop, store",
       "article": "de"
     },
     {
-      "id": "n1019",
+      "id": "n2001",
       "word": "winst",
       "translation": "profit",
       "article": "de"
     },
     {
-      "id": "n1020",
+      "id": "n2002",
       "word": "winter",
       "translation": "winter",
       "article": "de"
     },
     {
-      "id": "n1021",
+      "id": "n2003",
+      "word": "wiskunde",
+      "translation": "mathematics",
+      "article": "de"
+    },
+    {
+      "id": "n2004",
+      "word": "woede",
+      "translation": "rage, fury",
+      "article": "de"
+    },
+    {
+      "id": "n2005",
+      "word": "woestijn",
+      "translation": "desert",
+      "article": "de"
+    },
+    {
+      "id": "n2006",
+      "word": "wolf",
+      "translation": "wolf",
+      "article": "de"
+    },
+    {
+      "id": "n2007",
+      "word": "wolk",
+      "translation": "cloud",
+      "article": "de"
+    },
+    {
+      "id": "n2008",
+      "word": "wond",
+      "translation": "wound",
+      "article": "de"
+    },
+    {
+      "id": "n2009",
+      "word": "wonder",
+      "translation": "miracle, wonder",
+      "article": "het"
+    },
+    {
+      "id": "n2010",
       "word": "woning",
       "translation": "dwelling, house",
       "article": "de"
     },
     {
-      "id": "n1022",
+      "id": "n2011",
+      "word": "woonkamer",
+      "translation": "living room",
+      "article": "de"
+    },
+    {
+      "id": "n2012",
       "word": "woord",
       "translation": "word",
       "article": "het"
     },
     {
-      "id": "n1023",
+      "id": "n2013",
       "word": "woordvoerder",
       "translation": "spokesperson",
       "article": "de"
     },
     {
-      "id": "n1024",
+      "id": "n2014",
+      "word": "wortel",
+      "translation": "root; carrot",
+      "article": "de"
+    },
+    {
+      "id": "n2015",
       "word": "woud",
       "translation": "forest",
       "article": "het"
     },
     {
-      "id": "n1025",
+      "id": "n2016",
       "word": "wraak",
       "translation": "revenge",
       "article": "de"
     },
     {
-      "id": "n1026",
+      "id": "n2017",
+      "word": "zaad",
+      "translation": "seed",
+      "article": "het"
+    },
+    {
+      "id": "n2018",
       "word": "zaak",
       "translation": "matter; business; case",
       "article": "de"
     },
     {
-      "id": "n1027",
+      "id": "n2019",
       "word": "zaal",
       "translation": "hall, room",
       "article": "de"
     },
     {
-      "id": "n1028",
+      "id": "n2020",
+      "word": "zadel",
+      "translation": "saddle",
+      "article": "het"
+    },
+    {
+      "id": "n2021",
       "word": "zak",
       "translation": "bag; pocket",
       "article": "de"
     },
     {
-      "id": "n1029",
+      "id": "n2022",
+      "word": "zakdoek",
+      "translation": "handkerchief",
+      "article": "de"
+    },
+    {
+      "id": "n2023",
+      "word": "zakenman",
+      "translation": "businessman",
+      "article": "de"
+    },
+    {
+      "id": "n2024",
       "word": "zand",
       "translation": "sand",
       "article": "het"
     },
     {
-      "id": "n1030",
+      "id": "n2025",
+      "word": "zaterdag",
+      "translation": "Saturday",
+      "article": "de"
+    },
+    {
+      "id": "n2026",
       "word": "zee",
       "translation": "sea",
       "article": "de"
     },
     {
-      "id": "n1031",
+      "id": "n2027",
       "word": "zeeman",
       "translation": "sailor",
       "article": "de"
     },
     {
-      "id": "n1032",
+      "id": "n2028",
+      "word": "zeep",
+      "translation": "soap",
+      "article": "de"
+    },
+    {
+      "id": "n2029",
       "word": "zegen",
       "translation": "blessing",
       "article": "de"
     },
     {
-      "id": "n1033",
+      "id": "n2030",
       "word": "zeil",
       "translation": "sail",
       "article": "het"
     },
     {
-      "id": "n1034",
+      "id": "n2031",
       "word": "zekerheid",
       "translation": "certainty; security",
       "article": "de"
     },
     {
-      "id": "n1035",
+      "id": "n2032",
+      "word": "zelfmoord",
+      "translation": "suicide",
+      "article": "de"
+    },
+    {
+      "id": "n2033",
+      "word": "zelfvertrouwen",
+      "translation": "self-confidence",
+      "article": "het"
+    },
+    {
+      "id": "n2034",
+      "word": "zendeling",
+      "translation": "missionary",
+      "article": "de"
+    },
+    {
+      "id": "n2035",
+      "word": "zender",
+      "translation": "sender; transmitter",
+      "article": "de"
+    },
+    {
+      "id": "n2036",
+      "word": "zending",
+      "translation": "shipment; mission",
+      "article": "de"
+    },
+    {
+      "id": "n2037",
       "word": "zenuw",
       "translation": "nerve",
       "article": "de"
     },
     {
-      "id": "n1036",
+      "id": "n2038",
+      "word": "zetel",
+      "translation": "seat",
+      "article": "de"
+    },
+    {
+      "id": "n2039",
       "word": "zicht",
       "translation": "sight, view",
       "article": "het"
     },
     {
-      "id": "n1037",
+      "id": "n2040",
       "word": "zieke",
       "translation": "sick person",
       "article": "de"
     },
     {
-      "id": "n1038",
+      "id": "n2041",
       "word": "ziekenhuis",
       "translation": "hospital",
       "article": "het"
     },
     {
-      "id": "n1039",
+      "id": "n2042",
       "word": "ziekte",
       "translation": "illness, disease",
       "article": "de"
     },
     {
-      "id": "n1040",
+      "id": "n2043",
       "word": "ziel",
       "translation": "soul",
       "article": "de"
     },
     {
-      "id": "n1041",
+      "id": "n2044",
+      "word": "zijde",
+      "translation": "silk; side",
+      "article": "de"
+    },
+    {
+      "id": "n2045",
       "word": "zilver",
       "translation": "silver",
       "article": "het"
     },
     {
-      "id": "n1042",
+      "id": "n2046",
       "word": "zin",
       "translation": "sentence; sense; desire",
       "article": "de"
     },
     {
-      "id": "n1043",
+      "id": "n2047",
+      "word": "zintuig",
+      "translation": "sense (organ)",
+      "article": "het"
+    },
+    {
+      "id": "n2048",
+      "word": "zitting",
+      "translation": "session; seat",
+      "article": "de"
+    },
+    {
+      "id": "n2049",
+      "word": "zolder",
+      "translation": "attic",
+      "article": "de"
+    },
+    {
+      "id": "n2050",
       "word": "zomer",
       "translation": "summer",
       "article": "de"
     },
     {
-      "id": "n1044",
+      "id": "n2051",
       "word": "zon",
       "translation": "sun",
       "article": "de"
     },
     {
-      "id": "n1045",
+      "id": "n2052",
       "word": "zondag",
       "translation": "Sunday",
       "article": "de"
     },
     {
-      "id": "n1046",
+      "id": "n2053",
       "word": "zonde",
       "translation": "sin; pity",
       "article": "de"
     },
     {
-      "id": "n1047",
+      "id": "n2054",
       "word": "zonlicht",
       "translation": "sunlight",
       "article": "het"
     },
     {
-      "id": "n1048",
+      "id": "n2055",
       "word": "zoon",
       "translation": "son",
       "article": "de"
     },
     {
-      "id": "n1049",
+      "id": "n2056",
       "word": "zorg",
       "translation": "care; worry",
       "article": "de"
     },
     {
-      "id": "n1050",
+      "id": "n2057",
       "word": "zout",
       "translation": "salt",
       "article": "het"
     },
     {
-      "id": "n1051",
+      "id": "n2058",
       "word": "zucht",
       "translation": "sigh",
       "article": "de"
     },
     {
-      "id": "n1052",
+      "id": "n2059",
       "word": "zuiden",
       "translation": "south",
       "article": "het"
     },
     {
-      "id": "n1053",
+      "id": "n2060",
       "word": "zuigeling",
       "translation": "infant",
       "article": "de"
     },
     {
-      "id": "n1054",
+      "id": "n2061",
       "word": "zuil",
       "translation": "column, pillar",
       "article": "de"
     },
     {
-      "id": "n1055",
+      "id": "n2062",
       "word": "zuster",
       "translation": "sister; nurse",
       "article": "de"
     },
     {
-      "id": "n1056",
+      "id": "n2063",
       "word": "zuurstof",
       "translation": "oxygen",
       "article": "de"
     },
     {
-      "id": "n1057",
+      "id": "n2064",
       "word": "zwaard",
       "translation": "sword",
       "article": "het"
     },
     {
-      "id": "n1058",
+      "id": "n2065",
       "word": "zwangerschap",
       "translation": "pregnancy",
       "article": "de"
     },
     {
-      "id": "n1059",
+      "id": "n2066",
       "word": "zweet",
       "translation": "sweat",
       "article": "het"
     },
     {
-      "id": "n1060",
+      "id": "n2067",
       "word": "zwembad",
       "translation": "swimming pool",
       "article": "het"
@@ -7118,6 +13160,58 @@ const SEED_DATA = {
     },
     {
       "id": "v30",
+      "word": "aanvoelen",
+      "translation": "to sense, to feel",
+      "conjugations": {
+        "present": {
+          "ik": "aanvoel",
+          "jij": "aanvoelt",
+          "u": "aanvoelt",
+          "hij/zij": "aanvoelt",
+          "wij": "aanvoelen",
+          "jullie": "aanvoelen",
+          "zij_plural": "aanvoelen"
+        },
+        "past": {
+          "ik": "aanvoelde",
+          "jij": "aanvoelde",
+          "u": "aanvoelde",
+          "hij/zij": "aanvoelde",
+          "wij": "aanvoelden",
+          "jullie": "aanvoelden",
+          "zij_plural": "aanvoelden"
+        },
+        "perfect": "geaanvoeld"
+      }
+    },
+    {
+      "id": "v31",
+      "word": "aanvoeren",
+      "translation": "to lead; to supply; to argue",
+      "conjugations": {
+        "present": {
+          "ik": "aanvoer",
+          "jij": "aanvoert",
+          "u": "aanvoert",
+          "hij/zij": "aanvoert",
+          "wij": "aanvoeren",
+          "jullie": "aanvoeren",
+          "zij_plural": "aanvoeren"
+        },
+        "past": {
+          "ik": "aanvoerde",
+          "jij": "aanvoerde",
+          "u": "aanvoerde",
+          "hij/zij": "aanvoerde",
+          "wij": "aanvoerden",
+          "jullie": "aanvoerden",
+          "zij_plural": "aanvoerden"
+        },
+        "perfect": "geaanvoerd"
+      }
+    },
+    {
+      "id": "v32",
       "word": "aanvullen",
       "translation": "to supplement",
       "conjugations": {
@@ -7143,7 +13237,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v31",
+      "id": "v33",
+      "word": "aanwenden",
+      "translation": "to use, to apply",
+      "conjugations": {
+        "present": {
+          "ik": "aanwend",
+          "jij": "aanwendt",
+          "u": "aanwendt",
+          "hij/zij": "aanwendt",
+          "wij": "aanwenden",
+          "jullie": "aanwenden",
+          "zij_plural": "aanwenden"
+        },
+        "past": {
+          "ik": "aanwendde",
+          "jij": "aanwendde",
+          "u": "aanwendde",
+          "hij/zij": "aanwendde",
+          "wij": "aanwendden",
+          "jullie": "aanwendden",
+          "zij_plural": "aanwendden"
+        },
+        "perfect": "geaanwendd"
+      }
+    },
+    {
+      "id": "v34",
       "word": "aanwijzen",
       "translation": "to point out; to appoint",
       "conjugations": {
@@ -7169,7 +13289,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v32",
+      "id": "v35",
+      "word": "aanzetten",
+      "translation": "to turn on; to encourage",
+      "conjugations": {
+        "present": {
+          "ik": "aanzett",
+          "jij": "aanzett",
+          "u": "aanzett",
+          "hij/zij": "aanzett",
+          "wij": "aanzetten",
+          "jullie": "aanzetten",
+          "zij_plural": "aanzetten"
+        },
+        "past": {
+          "ik": "aanzettte",
+          "jij": "aanzettte",
+          "u": "aanzettte",
+          "hij/zij": "aanzettte",
+          "wij": "aanzettten",
+          "jullie": "aanzettten",
+          "zij_plural": "aanzettten"
+        },
+        "perfect": "geaanzettt"
+      }
+    },
+    {
+      "id": "v36",
       "word": "aarzelen",
       "translation": "to hesitate",
       "conjugations": {
@@ -7195,7 +13341,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v33",
+      "id": "v37",
       "word": "accepteren",
       "translation": "to accept",
       "conjugations": {
@@ -7221,7 +13367,137 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v34",
+      "id": "v38",
+      "word": "achten",
+      "translation": "to consider; to esteem",
+      "conjugations": {
+        "present": {
+          "ik": "acht",
+          "jij": "acht",
+          "u": "acht",
+          "hij/zij": "acht",
+          "wij": "achten",
+          "jullie": "achten",
+          "zij_plural": "achten"
+        },
+        "past": {
+          "ik": "achtte",
+          "jij": "achtte",
+          "u": "achtte",
+          "hij/zij": "achtte",
+          "wij": "achtten",
+          "jullie": "achtten",
+          "zij_plural": "achtten"
+        },
+        "perfect": "geachtt"
+      }
+    },
+    {
+      "id": "v39",
+      "word": "achterblijven",
+      "translation": "to stay behind; to lag",
+      "conjugations": {
+        "present": {
+          "ik": "achterblijf",
+          "jij": "achterblijft",
+          "u": "achterblijft",
+          "hij/zij": "achterblijft",
+          "wij": "achterblijven",
+          "jullie": "achterblijven",
+          "zij_plural": "achterblijven"
+        },
+        "past": {
+          "ik": "achterblijfte",
+          "jij": "achterblijfte",
+          "u": "achterblijfte",
+          "hij/zij": "achterblijfte",
+          "wij": "achterblijften",
+          "jullie": "achterblijften",
+          "zij_plural": "achterblijften"
+        },
+        "perfect": "geachterblijft"
+      }
+    },
+    {
+      "id": "v40",
+      "word": "achterhalen",
+      "translation": "to find out; to catch up",
+      "conjugations": {
+        "present": {
+          "ik": "achterhaal",
+          "jij": "achterhaalt",
+          "u": "achterhaalt",
+          "hij/zij": "achterhaalt",
+          "wij": "achterhalen",
+          "jullie": "achterhalen",
+          "zij_plural": "achterhalen"
+        },
+        "past": {
+          "ik": "achterhaalde",
+          "jij": "achterhaalde",
+          "u": "achterhaalde",
+          "hij/zij": "achterhaalde",
+          "wij": "achterhaalden",
+          "jullie": "achterhaalden",
+          "zij_plural": "achterhaalden"
+        },
+        "perfect": "geachterhaald"
+      }
+    },
+    {
+      "id": "v41",
+      "word": "achterlaten",
+      "translation": "to leave behind",
+      "conjugations": {
+        "present": {
+          "ik": "achterlaat",
+          "jij": "achterlaat",
+          "u": "achterlaat",
+          "hij/zij": "achterlaat",
+          "wij": "achterlaten",
+          "jullie": "achterlaten",
+          "zij_plural": "achterlaten"
+        },
+        "past": {
+          "ik": "achterlaatte",
+          "jij": "achterlaatte",
+          "u": "achterlaatte",
+          "hij/zij": "achterlaatte",
+          "wij": "achterlaatten",
+          "jullie": "achterlaatten",
+          "zij_plural": "achterlaatten"
+        },
+        "perfect": "geachterlaatt"
+      }
+    },
+    {
+      "id": "v42",
+      "word": "achtervolgen",
+      "translation": "to chase, to pursue",
+      "conjugations": {
+        "present": {
+          "ik": "achtervolg",
+          "jij": "achtervolgt",
+          "u": "achtervolgt",
+          "hij/zij": "achtervolgt",
+          "wij": "achtervolgen",
+          "jullie": "achtervolgen",
+          "zij_plural": "achtervolgen"
+        },
+        "past": {
+          "ik": "achtervolgde",
+          "jij": "achtervolgde",
+          "u": "achtervolgde",
+          "hij/zij": "achtervolgde",
+          "wij": "achtervolgden",
+          "jullie": "achtervolgden",
+          "zij_plural": "achtervolgden"
+        },
+        "perfect": "geachtervolgd"
+      }
+    },
+    {
+      "id": "v43",
       "word": "ademen",
       "translation": "to breathe",
       "conjugations": {
@@ -7247,7 +13523,189 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v35",
+      "id": "v44",
+      "word": "adviseren",
+      "translation": "to advise",
+      "conjugations": {
+        "present": {
+          "ik": "adviseer",
+          "jij": "adviseert",
+          "u": "adviseert",
+          "hij/zij": "adviseert",
+          "wij": "adviseren",
+          "jullie": "adviseren",
+          "zij_plural": "adviseren"
+        },
+        "past": {
+          "ik": "adviseerde",
+          "jij": "adviseerde",
+          "u": "adviseerde",
+          "hij/zij": "adviseerde",
+          "wij": "adviseerden",
+          "jullie": "adviseerden",
+          "zij_plural": "adviseerden"
+        },
+        "perfect": "geadviseerd"
+      }
+    },
+    {
+      "id": "v45",
+      "word": "afbeelden",
+      "translation": "to depict",
+      "conjugations": {
+        "present": {
+          "ik": "afbeeld",
+          "jij": "afbeeldt",
+          "u": "afbeeldt",
+          "hij/zij": "afbeeldt",
+          "wij": "afbeelden",
+          "jullie": "afbeelden",
+          "zij_plural": "afbeelden"
+        },
+        "past": {
+          "ik": "afbeeldde",
+          "jij": "afbeeldde",
+          "u": "afbeeldde",
+          "hij/zij": "afbeeldde",
+          "wij": "afbeeldden",
+          "jullie": "afbeeldden",
+          "zij_plural": "afbeeldden"
+        },
+        "perfect": "geafbeeldd"
+      }
+    },
+    {
+      "id": "v46",
+      "word": "afbreken",
+      "translation": "to demolish; to break off",
+      "conjugations": {
+        "present": {
+          "ik": "afbreek",
+          "jij": "afbreekt",
+          "u": "afbreekt",
+          "hij/zij": "afbreekt",
+          "wij": "afbreken",
+          "jullie": "afbreken",
+          "zij_plural": "afbreken"
+        },
+        "past": {
+          "ik": "afbreekte",
+          "jij": "afbreekte",
+          "u": "afbreekte",
+          "hij/zij": "afbreekte",
+          "wij": "afbreekten",
+          "jullie": "afbreekten",
+          "zij_plural": "afbreekten"
+        },
+        "perfect": "geafbreekt"
+      }
+    },
+    {
+      "id": "v47",
+      "word": "afdoen",
+      "translation": "to take off; to settle",
+      "conjugations": {
+        "present": {
+          "ik": "afdo",
+          "jij": "afdot",
+          "u": "afdot",
+          "hij/zij": "afdot",
+          "wij": "afdoen",
+          "jullie": "afdoen",
+          "zij_plural": "afdoen"
+        },
+        "past": {
+          "ik": "afdode",
+          "jij": "afdode",
+          "u": "afdode",
+          "hij/zij": "afdode",
+          "wij": "afdoden",
+          "jullie": "afdoden",
+          "zij_plural": "afdoden"
+        },
+        "perfect": "geafdod"
+      }
+    },
+    {
+      "id": "v48",
+      "word": "afgaan",
+      "translation": "to go off; to go down",
+      "conjugations": {
+        "present": {
+          "ik": "afgaa",
+          "jij": "afgaat",
+          "u": "afgaat",
+          "hij/zij": "afgaat",
+          "wij": "afgaan",
+          "jullie": "afgaan",
+          "zij_plural": "afgaan"
+        },
+        "past": {
+          "ik": "afgaade",
+          "jij": "afgaade",
+          "u": "afgaade",
+          "hij/zij": "afgaade",
+          "wij": "afgaaden",
+          "jullie": "afgaaden",
+          "zij_plural": "afgaaden"
+        },
+        "perfect": "geafgaad"
+      }
+    },
+    {
+      "id": "v49",
+      "word": "afhangen",
+      "translation": "to depend on",
+      "conjugations": {
+        "present": {
+          "ik": "afhang",
+          "jij": "afhangt",
+          "u": "afhangt",
+          "hij/zij": "afhangt",
+          "wij": "afhangen",
+          "jullie": "afhangen",
+          "zij_plural": "afhangen"
+        },
+        "past": {
+          "ik": "afhangde",
+          "jij": "afhangde",
+          "u": "afhangde",
+          "hij/zij": "afhangde",
+          "wij": "afhangden",
+          "jullie": "afhangden",
+          "zij_plural": "afhangden"
+        },
+        "perfect": "geafhangd"
+      }
+    },
+    {
+      "id": "v50",
+      "word": "afkomen",
+      "translation": "to come from; to come down",
+      "conjugations": {
+        "present": {
+          "ik": "afkoom",
+          "jij": "afkoomt",
+          "u": "afkoomt",
+          "hij/zij": "afkoomt",
+          "wij": "afkomen",
+          "jullie": "afkomen",
+          "zij_plural": "afkomen"
+        },
+        "past": {
+          "ik": "afkoomde",
+          "jij": "afkoomde",
+          "u": "afkoomde",
+          "hij/zij": "afkoomde",
+          "wij": "afkoomden",
+          "jullie": "afkoomden",
+          "zij_plural": "afkoomden"
+        },
+        "perfect": "geafkoomd"
+      }
+    },
+    {
+      "id": "v51",
       "word": "afleggen",
       "translation": "to cover (distance); to take (exam)",
       "conjugations": {
@@ -7273,7 +13731,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v36",
+      "id": "v52",
       "word": "afleiden",
       "translation": "to derive; to distract",
       "conjugations": {
@@ -7299,7 +13757,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v37",
+      "id": "v53",
       "word": "aflopen",
       "translation": "to end, to expire",
       "conjugations": {
@@ -7325,7 +13783,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v38",
+      "id": "v54",
+      "word": "afmaken",
+      "translation": "to finish; to kill",
+      "conjugations": {
+        "present": {
+          "ik": "afmaak",
+          "jij": "afmaakt",
+          "u": "afmaakt",
+          "hij/zij": "afmaakt",
+          "wij": "afmaken",
+          "jullie": "afmaken",
+          "zij_plural": "afmaken"
+        },
+        "past": {
+          "ik": "afmaakte",
+          "jij": "afmaakte",
+          "u": "afmaakte",
+          "hij/zij": "afmaakte",
+          "wij": "afmaakten",
+          "jullie": "afmaakten",
+          "zij_plural": "afmaakten"
+        },
+        "perfect": "geafmaakt"
+      }
+    },
+    {
+      "id": "v55",
       "word": "afnemen",
       "translation": "to decrease; to take away",
       "conjugations": {
@@ -7351,7 +13835,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v39",
+      "id": "v56",
+      "word": "afschaffen",
+      "translation": "to abolish",
+      "conjugations": {
+        "present": {
+          "ik": "afschaff",
+          "jij": "afschafft",
+          "u": "afschafft",
+          "hij/zij": "afschafft",
+          "wij": "afschaffen",
+          "jullie": "afschaffen",
+          "zij_plural": "afschaffen"
+        },
+        "past": {
+          "ik": "afschaffte",
+          "jij": "afschaffte",
+          "u": "afschaffte",
+          "hij/zij": "afschaffte",
+          "wij": "afschafften",
+          "jullie": "afschafften",
+          "zij_plural": "afschafften"
+        },
+        "perfect": "geafschafft"
+      }
+    },
+    {
+      "id": "v57",
       "word": "afsluiten",
       "translation": "to close; to conclude",
       "conjugations": {
@@ -7377,7 +13887,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v40",
+      "id": "v58",
+      "word": "afsnijden",
+      "translation": "to cut off",
+      "conjugations": {
+        "present": {
+          "ik": "afsnijd",
+          "jij": "afsnijdt",
+          "u": "afsnijdt",
+          "hij/zij": "afsnijdt",
+          "wij": "afsnijden",
+          "jullie": "afsnijden",
+          "zij_plural": "afsnijden"
+        },
+        "past": {
+          "ik": "afsnijdde",
+          "jij": "afsnijdde",
+          "u": "afsnijdde",
+          "hij/zij": "afsnijdde",
+          "wij": "afsnijdden",
+          "jullie": "afsnijdden",
+          "zij_plural": "afsnijdden"
+        },
+        "perfect": "geafsnijdd"
+      }
+    },
+    {
+      "id": "v59",
       "word": "afspelen",
       "translation": "to play; to take place",
       "conjugations": {
@@ -7403,7 +13939,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v41",
+      "id": "v60",
+      "word": "afspreken",
+      "translation": "to agree; to arrange",
+      "conjugations": {
+        "present": {
+          "ik": "afspreek",
+          "jij": "afspreekt",
+          "u": "afspreekt",
+          "hij/zij": "afspreekt",
+          "wij": "afspreken",
+          "jullie": "afspreken",
+          "zij_plural": "afspreken"
+        },
+        "past": {
+          "ik": "afspreekte",
+          "jij": "afspreekte",
+          "u": "afspreekte",
+          "hij/zij": "afspreekte",
+          "wij": "afspreekten",
+          "jullie": "afspreekten",
+          "zij_plural": "afspreekten"
+        },
+        "perfect": "geafspreekt"
+      }
+    },
+    {
+      "id": "v61",
+      "word": "afstemmen",
+      "translation": "to tune; to coordinate",
+      "conjugations": {
+        "present": {
+          "ik": "afstemm",
+          "jij": "afstemmt",
+          "u": "afstemmt",
+          "hij/zij": "afstemmt",
+          "wij": "afstemmen",
+          "jullie": "afstemmen",
+          "zij_plural": "afstemmen"
+        },
+        "past": {
+          "ik": "afstemmde",
+          "jij": "afstemmde",
+          "u": "afstemmde",
+          "hij/zij": "afstemmde",
+          "wij": "afstemmden",
+          "jullie": "afstemmden",
+          "zij_plural": "afstemmden"
+        },
+        "perfect": "geafstemmd"
+      }
+    },
+    {
+      "id": "v62",
       "word": "afvragen",
       "translation": "to wonder",
       "conjugations": {
@@ -7429,7 +14017,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v42",
+      "id": "v63",
+      "word": "afwachten",
+      "translation": "to wait and see",
+      "conjugations": {
+        "present": {
+          "ik": "afwacht",
+          "jij": "afwacht",
+          "u": "afwacht",
+          "hij/zij": "afwacht",
+          "wij": "afwachten",
+          "jullie": "afwachten",
+          "zij_plural": "afwachten"
+        },
+        "past": {
+          "ik": "afwachtte",
+          "jij": "afwachtte",
+          "u": "afwachtte",
+          "hij/zij": "afwachtte",
+          "wij": "afwachtten",
+          "jullie": "afwachtten",
+          "zij_plural": "afwachtten"
+        },
+        "perfect": "geafwachtt"
+      }
+    },
+    {
+      "id": "v64",
       "word": "afwijken",
       "translation": "to deviate",
       "conjugations": {
@@ -7455,7 +14069,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v43",
+      "id": "v65",
       "word": "afwijzen",
       "translation": "to reject",
       "conjugations": {
@@ -7481,7 +14095,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v44",
+      "id": "v66",
+      "word": "afzetten",
+      "translation": "to take off; to drop off; to depose",
+      "conjugations": {
+        "present": {
+          "ik": "afzett",
+          "jij": "afzett",
+          "u": "afzett",
+          "hij/zij": "afzett",
+          "wij": "afzetten",
+          "jullie": "afzetten",
+          "zij_plural": "afzetten"
+        },
+        "past": {
+          "ik": "afzettte",
+          "jij": "afzettte",
+          "u": "afzettte",
+          "hij/zij": "afzettte",
+          "wij": "afzettten",
+          "jullie": "afzettten",
+          "zij_plural": "afzettten"
+        },
+        "perfect": "geafzettt"
+      }
+    },
+    {
+      "id": "v67",
+      "word": "amuseren",
+      "translation": "to amuse",
+      "conjugations": {
+        "present": {
+          "ik": "amuseer",
+          "jij": "amuseert",
+          "u": "amuseert",
+          "hij/zij": "amuseert",
+          "wij": "amuseren",
+          "jullie": "amuseren",
+          "zij_plural": "amuseren"
+        },
+        "past": {
+          "ik": "amuseerde",
+          "jij": "amuseerde",
+          "u": "amuseerde",
+          "hij/zij": "amuseerde",
+          "wij": "amuseerden",
+          "jullie": "amuseerden",
+          "zij_plural": "amuseerden"
+        },
+        "perfect": "geamuseerd"
+      }
+    },
+    {
+      "id": "v68",
       "word": "analyseren",
       "translation": "to analyze",
       "conjugations": {
@@ -7507,7 +14173,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v45",
+      "id": "v69",
       "word": "antwoorden",
       "translation": "to answer",
       "conjugations": {
@@ -7533,7 +14199,163 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v46",
+      "id": "v70",
+      "word": "arresteren",
+      "translation": "to arrest",
+      "conjugations": {
+        "present": {
+          "ik": "arresteer",
+          "jij": "arresteert",
+          "u": "arresteert",
+          "hij/zij": "arresteert",
+          "wij": "arresteren",
+          "jullie": "arresteren",
+          "zij_plural": "arresteren"
+        },
+        "past": {
+          "ik": "arresteerde",
+          "jij": "arresteerde",
+          "u": "arresteerde",
+          "hij/zij": "arresteerde",
+          "wij": "arresteerden",
+          "jullie": "arresteerden",
+          "zij_plural": "arresteerden"
+        },
+        "perfect": "gearresteerd"
+      }
+    },
+    {
+      "id": "v71",
+      "word": "arriveren",
+      "translation": "to arrive",
+      "conjugations": {
+        "present": {
+          "ik": "arriveer",
+          "jij": "arriveert",
+          "u": "arriveert",
+          "hij/zij": "arriveert",
+          "wij": "arriveren",
+          "jullie": "arriveren",
+          "zij_plural": "arriveren"
+        },
+        "past": {
+          "ik": "arriveerde",
+          "jij": "arriveerde",
+          "u": "arriveerde",
+          "hij/zij": "arriveerde",
+          "wij": "arriveerden",
+          "jullie": "arriveerden",
+          "zij_plural": "arriveerden"
+        },
+        "perfect": "gearriveerd"
+      }
+    },
+    {
+      "id": "v72",
+      "word": "babbelen",
+      "translation": "to chat",
+      "conjugations": {
+        "present": {
+          "ik": "babbeel",
+          "jij": "babbeelt",
+          "u": "babbeelt",
+          "hij/zij": "babbeelt",
+          "wij": "babbelen",
+          "jullie": "babbelen",
+          "zij_plural": "babbelen"
+        },
+        "past": {
+          "ik": "babbeelde",
+          "jij": "babbeelde",
+          "u": "babbeelde",
+          "hij/zij": "babbeelde",
+          "wij": "babbeelden",
+          "jullie": "babbeelden",
+          "zij_plural": "babbeelden"
+        },
+        "perfect": "gebabbeeld"
+      }
+    },
+    {
+      "id": "v73",
+      "word": "baden",
+      "translation": "to bathe",
+      "conjugations": {
+        "present": {
+          "ik": "baad",
+          "jij": "baadt",
+          "u": "baadt",
+          "hij/zij": "baadt",
+          "wij": "baden",
+          "jullie": "baden",
+          "zij_plural": "baden"
+        },
+        "past": {
+          "ik": "baadde",
+          "jij": "baadde",
+          "u": "baadde",
+          "hij/zij": "baadde",
+          "wij": "baadden",
+          "jullie": "baadden",
+          "zij_plural": "baadden"
+        },
+        "perfect": "gebaadd"
+      }
+    },
+    {
+      "id": "v74",
+      "word": "bakken",
+      "translation": "to bake; to fry",
+      "conjugations": {
+        "present": {
+          "ik": "bakk",
+          "jij": "bakkt",
+          "u": "bakkt",
+          "hij/zij": "bakkt",
+          "wij": "bakken",
+          "jullie": "bakken",
+          "zij_plural": "bakken"
+        },
+        "past": {
+          "ik": "bakkte",
+          "jij": "bakkte",
+          "u": "bakkte",
+          "hij/zij": "bakkte",
+          "wij": "bakkten",
+          "jullie": "bakkten",
+          "zij_plural": "bakkten"
+        },
+        "perfect": "gebakkt"
+      }
+    },
+    {
+      "id": "v75",
+      "word": "baren",
+      "translation": "to give birth; to cause",
+      "conjugations": {
+        "present": {
+          "ik": "baar",
+          "jij": "baart",
+          "u": "baart",
+          "hij/zij": "baart",
+          "wij": "baren",
+          "jullie": "baren",
+          "zij_plural": "baren"
+        },
+        "past": {
+          "ik": "baarde",
+          "jij": "baarde",
+          "u": "baarde",
+          "hij/zij": "baarde",
+          "wij": "baarden",
+          "jullie": "baarden",
+          "zij_plural": "baarden"
+        },
+        "perfect": "gebaard"
+      }
+    },
+    {
+      "id": "v76",
       "word": "barsten",
       "translation": "to burst, to crack",
       "conjugations": {
@@ -7559,7 +14381,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v47",
+      "id": "v77",
       "word": "baseren",
       "translation": "to base",
       "conjugations": {
@@ -7585,7 +14407,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v48",
+      "id": "v78",
       "word": "beantwoorden",
       "translation": "to answer",
       "conjugations": {
@@ -7611,7 +14433,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v49",
+      "id": "v79",
       "word": "bedanken",
       "translation": "to thank; to decline",
       "conjugations": {
@@ -7637,7 +14459,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v50",
+      "id": "v80",
+      "word": "bedaren",
+      "translation": "to calm down",
+      "conjugations": {
+        "present": {
+          "ik": "bedaar",
+          "jij": "bedaart",
+          "u": "bedaart",
+          "hij/zij": "bedaart",
+          "wij": "bedaren",
+          "jullie": "bedaren",
+          "zij_plural": "bedaren"
+        },
+        "past": {
+          "ik": "bedaarde",
+          "jij": "bedaarde",
+          "u": "bedaarde",
+          "hij/zij": "bedaarde",
+          "wij": "bedaarden",
+          "jullie": "bedaarden",
+          "zij_plural": "bedaarden"
+        },
+        "perfect": "bedaard"
+      }
+    },
+    {
+      "id": "v81",
       "word": "bedekken",
       "translation": "to cover",
       "conjugations": {
@@ -7663,7 +14511,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v51",
+      "id": "v82",
       "word": "bedenken",
       "translation": "to think of; to consider",
       "conjugations": {
@@ -7689,7 +14537,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v52",
+      "id": "v83",
+      "word": "bederven",
+      "translation": "to spoil, to ruin",
+      "conjugations": {
+        "present": {
+          "ik": "bederf",
+          "jij": "bederft",
+          "u": "bederft",
+          "hij/zij": "bederft",
+          "wij": "bederven",
+          "jullie": "bederven",
+          "zij_plural": "bederven"
+        },
+        "past": {
+          "ik": "bederfte",
+          "jij": "bederfte",
+          "u": "bederfte",
+          "hij/zij": "bederfte",
+          "wij": "bederften",
+          "jullie": "bederften",
+          "zij_plural": "bederften"
+        },
+        "perfect": "bederft"
+      }
+    },
+    {
+      "id": "v84",
       "word": "bedienen",
       "translation": "to serve; to operate",
       "conjugations": {
@@ -7715,7 +14589,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v53",
+      "id": "v85",
       "word": "bedoelen",
       "translation": "to mean, to intend",
       "conjugations": {
@@ -7741,7 +14615,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v54",
+      "id": "v86",
       "word": "bedragen",
       "translation": "to amount to",
       "conjugations": {
@@ -7767,7 +14641,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v55",
+      "id": "v87",
       "word": "bedreigen",
       "translation": "to threaten",
       "conjugations": {
@@ -7793,7 +14667,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v56",
+      "id": "v88",
       "word": "bedriegen",
       "translation": "to deceive",
       "conjugations": {
@@ -7819,7 +14693,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v57",
+      "id": "v89",
       "word": "bedrijven",
       "translation": "to commit (a crime)",
       "conjugations": {
@@ -7845,7 +14719,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v58",
+      "id": "v90",
+      "word": "bedwingen",
+      "translation": "to control, to suppress",
+      "conjugations": {
+        "present": {
+          "ik": "bedwing",
+          "jij": "bedwingt",
+          "u": "bedwingt",
+          "hij/zij": "bedwingt",
+          "wij": "bedwingen",
+          "jullie": "bedwingen",
+          "zij_plural": "bedwingen"
+        },
+        "past": {
+          "ik": "bedwingde",
+          "jij": "bedwingde",
+          "u": "bedwingde",
+          "hij/zij": "bedwingde",
+          "wij": "bedwingden",
+          "jullie": "bedwingden",
+          "zij_plural": "bedwingden"
+        },
+        "perfect": "bedwingd"
+      }
+    },
+    {
+      "id": "v91",
+      "word": "begaan",
+      "translation": "to commit; to walk on",
+      "conjugations": {
+        "present": {
+          "ik": "begaa",
+          "jij": "begaat",
+          "u": "begaat",
+          "hij/zij": "begaat",
+          "wij": "begaan",
+          "jullie": "begaan",
+          "zij_plural": "begaan"
+        },
+        "past": {
+          "ik": "begaade",
+          "jij": "begaade",
+          "u": "begaade",
+          "hij/zij": "begaade",
+          "wij": "begaaden",
+          "jullie": "begaaden",
+          "zij_plural": "begaaden"
+        },
+        "perfect": "begaad"
+      }
+    },
+    {
+      "id": "v92",
       "word": "begeleiden",
       "translation": "to accompany; to guide",
       "conjugations": {
@@ -7871,7 +14797,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v59",
+      "id": "v93",
+      "word": "begeren",
+      "translation": "to desire",
+      "conjugations": {
+        "present": {
+          "ik": "begeer",
+          "jij": "begeert",
+          "u": "begeert",
+          "hij/zij": "begeert",
+          "wij": "begeren",
+          "jullie": "begeren",
+          "zij_plural": "begeren"
+        },
+        "past": {
+          "ik": "begeerde",
+          "jij": "begeerde",
+          "u": "begeerde",
+          "hij/zij": "begeerde",
+          "wij": "begeerden",
+          "jullie": "begeerden",
+          "zij_plural": "begeerden"
+        },
+        "perfect": "begeerd"
+      }
+    },
+    {
+      "id": "v94",
       "word": "begeven",
       "translation": "to give way; to go to",
       "conjugations": {
@@ -7897,7 +14849,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v60",
+      "id": "v95",
       "word": "beginnen",
       "translation": "to begin",
       "conjugations": {
@@ -7923,7 +14875,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v61",
+      "id": "v96",
       "word": "begraven",
       "translation": "to bury",
       "conjugations": {
@@ -7949,7 +14901,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v62",
+      "id": "v97",
       "word": "begrijpen",
       "translation": "to understand",
       "conjugations": {
@@ -7975,7 +14927,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v63",
+      "id": "v98",
       "word": "begroeten",
       "translation": "to greet",
       "conjugations": {
@@ -8001,7 +14953,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v64",
+      "id": "v99",
+      "word": "behalen",
+      "translation": "to achieve, to obtain",
+      "conjugations": {
+        "present": {
+          "ik": "behaal",
+          "jij": "behaalt",
+          "u": "behaalt",
+          "hij/zij": "behaalt",
+          "wij": "behalen",
+          "jullie": "behalen",
+          "zij_plural": "behalen"
+        },
+        "past": {
+          "ik": "behaalde",
+          "jij": "behaalde",
+          "u": "behaalde",
+          "hij/zij": "behaalde",
+          "wij": "behaalden",
+          "jullie": "behaalden",
+          "zij_plural": "behaalden"
+        },
+        "perfect": "behaald"
+      }
+    },
+    {
+      "id": "v100",
       "word": "behandelen",
       "translation": "to treat; to handle",
       "conjugations": {
@@ -8027,7 +15005,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v65",
+      "id": "v101",
       "word": "beheersen",
       "translation": "to control; to master",
       "conjugations": {
@@ -8053,7 +15031,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v66",
+      "id": "v102",
+      "word": "behoeven",
+      "translation": "to need",
+      "conjugations": {
+        "present": {
+          "ik": "behoef",
+          "jij": "behoeft",
+          "u": "behoeft",
+          "hij/zij": "behoeft",
+          "wij": "behoeven",
+          "jullie": "behoeven",
+          "zij_plural": "behoeven"
+        },
+        "past": {
+          "ik": "behoefte",
+          "jij": "behoefte",
+          "u": "behoefte",
+          "hij/zij": "behoefte",
+          "wij": "behoeften",
+          "jullie": "behoeften",
+          "zij_plural": "behoeften"
+        },
+        "perfect": "behoeft"
+      }
+    },
+    {
+      "id": "v103",
       "word": "behoren",
       "translation": "to belong to; ought to",
       "conjugations": {
@@ -8079,7 +15083,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v67",
+      "id": "v104",
       "word": "behouden",
       "translation": "to keep, to retain",
       "conjugations": {
@@ -8105,7 +15109,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v68",
+      "id": "v105",
       "word": "bekennen",
       "translation": "to confess",
       "conjugations": {
@@ -8131,7 +15135,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v69",
+      "id": "v106",
       "word": "bekijken",
       "translation": "to look at, to examine",
       "conjugations": {
@@ -8157,7 +15161,241 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v70",
+      "id": "v107",
+      "word": "beklagen",
+      "translation": "to pity; to complain",
+      "conjugations": {
+        "present": {
+          "ik": "beklaag",
+          "jij": "beklaagt",
+          "u": "beklaagt",
+          "hij/zij": "beklaagt",
+          "wij": "beklagen",
+          "jullie": "beklagen",
+          "zij_plural": "beklagen"
+        },
+        "past": {
+          "ik": "beklaagde",
+          "jij": "beklaagde",
+          "u": "beklaagde",
+          "hij/zij": "beklaagde",
+          "wij": "beklaagden",
+          "jullie": "beklaagden",
+          "zij_plural": "beklaagden"
+        },
+        "perfect": "beklaagd"
+      }
+    },
+    {
+      "id": "v108",
+      "word": "bekleden",
+      "translation": "to occupy (position); to cover",
+      "conjugations": {
+        "present": {
+          "ik": "bekleed",
+          "jij": "bekleedt",
+          "u": "bekleedt",
+          "hij/zij": "bekleedt",
+          "wij": "bekleden",
+          "jullie": "bekleden",
+          "zij_plural": "bekleden"
+        },
+        "past": {
+          "ik": "bekleedde",
+          "jij": "bekleedde",
+          "u": "bekleedde",
+          "hij/zij": "bekleedde",
+          "wij": "bekleedden",
+          "jullie": "bekleedden",
+          "zij_plural": "bekleedden"
+        },
+        "perfect": "bekleedd"
+      }
+    },
+    {
+      "id": "v109",
+      "word": "beklimmen",
+      "translation": "to climb",
+      "conjugations": {
+        "present": {
+          "ik": "beklimm",
+          "jij": "beklimmt",
+          "u": "beklimmt",
+          "hij/zij": "beklimmt",
+          "wij": "beklimmen",
+          "jullie": "beklimmen",
+          "zij_plural": "beklimmen"
+        },
+        "past": {
+          "ik": "beklimmde",
+          "jij": "beklimmde",
+          "u": "beklimmde",
+          "hij/zij": "beklimmde",
+          "wij": "beklimmden",
+          "jullie": "beklimmden",
+          "zij_plural": "beklimmden"
+        },
+        "perfect": "beklimmd"
+      }
+    },
+    {
+      "id": "v110",
+      "word": "bekommeren",
+      "translation": "to worry about",
+      "conjugations": {
+        "present": {
+          "ik": "bekommeer",
+          "jij": "bekommeert",
+          "u": "bekommeert",
+          "hij/zij": "bekommeert",
+          "wij": "bekommeren",
+          "jullie": "bekommeren",
+          "zij_plural": "bekommeren"
+        },
+        "past": {
+          "ik": "bekommeerde",
+          "jij": "bekommeerde",
+          "u": "bekommeerde",
+          "hij/zij": "bekommeerde",
+          "wij": "bekommeerden",
+          "jullie": "bekommeerden",
+          "zij_plural": "bekommeerden"
+        },
+        "perfect": "bekommeerd"
+      }
+    },
+    {
+      "id": "v111",
+      "word": "belanden",
+      "translation": "to end up",
+      "conjugations": {
+        "present": {
+          "ik": "beland",
+          "jij": "belandt",
+          "u": "belandt",
+          "hij/zij": "belandt",
+          "wij": "belanden",
+          "jullie": "belanden",
+          "zij_plural": "belanden"
+        },
+        "past": {
+          "ik": "belandde",
+          "jij": "belandde",
+          "u": "belandde",
+          "hij/zij": "belandde",
+          "wij": "belandden",
+          "jullie": "belandden",
+          "zij_plural": "belandden"
+        },
+        "perfect": "belandd"
+      }
+    },
+    {
+      "id": "v112",
+      "word": "belasten",
+      "translation": "to tax; to burden",
+      "conjugations": {
+        "present": {
+          "ik": "belast",
+          "jij": "belast",
+          "u": "belast",
+          "hij/zij": "belast",
+          "wij": "belasten",
+          "jullie": "belasten",
+          "zij_plural": "belasten"
+        },
+        "past": {
+          "ik": "belastte",
+          "jij": "belastte",
+          "u": "belastte",
+          "hij/zij": "belastte",
+          "wij": "belastten",
+          "jullie": "belastten",
+          "zij_plural": "belastten"
+        },
+        "perfect": "belastt"
+      }
+    },
+    {
+      "id": "v113",
+      "word": "beledigen",
+      "translation": "to insult, to offend",
+      "conjugations": {
+        "present": {
+          "ik": "belediig",
+          "jij": "belediigt",
+          "u": "belediigt",
+          "hij/zij": "belediigt",
+          "wij": "beledigen",
+          "jullie": "beledigen",
+          "zij_plural": "beledigen"
+        },
+        "past": {
+          "ik": "belediigde",
+          "jij": "belediigde",
+          "u": "belediigde",
+          "hij/zij": "belediigde",
+          "wij": "belediigden",
+          "jullie": "belediigden",
+          "zij_plural": "belediigden"
+        },
+        "perfect": "belediigd"
+      }
+    },
+    {
+      "id": "v114",
+      "word": "belemmeren",
+      "translation": "to hinder, to obstruct",
+      "conjugations": {
+        "present": {
+          "ik": "belemmeer",
+          "jij": "belemmeert",
+          "u": "belemmeert",
+          "hij/zij": "belemmeert",
+          "wij": "belemmeren",
+          "jullie": "belemmeren",
+          "zij_plural": "belemmeren"
+        },
+        "past": {
+          "ik": "belemmeerde",
+          "jij": "belemmeerde",
+          "u": "belemmeerde",
+          "hij/zij": "belemmeerde",
+          "wij": "belemmeerden",
+          "jullie": "belemmeerden",
+          "zij_plural": "belemmeerden"
+        },
+        "perfect": "belemmeerd"
+      }
+    },
+    {
+      "id": "v115",
+      "word": "beletten",
+      "translation": "to prevent",
+      "conjugations": {
+        "present": {
+          "ik": "belett",
+          "jij": "belett",
+          "u": "belett",
+          "hij/zij": "belett",
+          "wij": "beletten",
+          "jullie": "beletten",
+          "zij_plural": "beletten"
+        },
+        "past": {
+          "ik": "belettte",
+          "jij": "belettte",
+          "u": "belettte",
+          "hij/zij": "belettte",
+          "wij": "belettten",
+          "jullie": "belettten",
+          "zij_plural": "belettten"
+        },
+        "perfect": "belettt"
+      }
+    },
+    {
+      "id": "v116",
       "word": "beleven",
       "translation": "to experience",
       "conjugations": {
@@ -8183,7 +15421,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v71",
+      "id": "v117",
       "word": "bellen",
       "translation": "to call, to ring",
       "conjugations": {
@@ -8209,7 +15447,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v72",
+      "id": "v118",
+      "word": "belonen",
+      "translation": "to reward",
+      "conjugations": {
+        "present": {
+          "ik": "beloon",
+          "jij": "beloont",
+          "u": "beloont",
+          "hij/zij": "beloont",
+          "wij": "belonen",
+          "jullie": "belonen",
+          "zij_plural": "belonen"
+        },
+        "past": {
+          "ik": "beloonde",
+          "jij": "beloonde",
+          "u": "beloonde",
+          "hij/zij": "beloonde",
+          "wij": "beloonden",
+          "jullie": "beloonden",
+          "zij_plural": "beloonden"
+        },
+        "perfect": "beloond"
+      }
+    },
+    {
+      "id": "v119",
       "word": "beloven",
       "translation": "to promise",
       "conjugations": {
@@ -8235,7 +15499,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v73",
+      "id": "v120",
+      "word": "bemerken",
+      "translation": "to notice",
+      "conjugations": {
+        "present": {
+          "ik": "bemerk",
+          "jij": "bemerkt",
+          "u": "bemerkt",
+          "hij/zij": "bemerkt",
+          "wij": "bemerken",
+          "jullie": "bemerken",
+          "zij_plural": "bemerken"
+        },
+        "past": {
+          "ik": "bemerkte",
+          "jij": "bemerkte",
+          "u": "bemerkte",
+          "hij/zij": "bemerkte",
+          "wij": "bemerkten",
+          "jullie": "bemerkten",
+          "zij_plural": "bemerkten"
+        },
+        "perfect": "bemerkt"
+      }
+    },
+    {
+      "id": "v121",
       "word": "bemoeien",
       "translation": "to interfere",
       "conjugations": {
@@ -8261,7 +15551,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v74",
+      "id": "v122",
       "word": "benaderen",
       "translation": "to approach",
       "conjugations": {
@@ -8287,7 +15577,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v75",
+      "id": "v123",
+      "word": "benadrukken",
+      "translation": "to emphasize",
+      "conjugations": {
+        "present": {
+          "ik": "benadrukk",
+          "jij": "benadrukkt",
+          "u": "benadrukkt",
+          "hij/zij": "benadrukkt",
+          "wij": "benadrukken",
+          "jullie": "benadrukken",
+          "zij_plural": "benadrukken"
+        },
+        "past": {
+          "ik": "benadrukkte",
+          "jij": "benadrukkte",
+          "u": "benadrukkte",
+          "hij/zij": "benadrukkte",
+          "wij": "benadrukkten",
+          "jullie": "benadrukkten",
+          "zij_plural": "benadrukkten"
+        },
+        "perfect": "benadrukkt"
+      }
+    },
+    {
+      "id": "v124",
+      "word": "benutten",
+      "translation": "to utilize",
+      "conjugations": {
+        "present": {
+          "ik": "benutt",
+          "jij": "benutt",
+          "u": "benutt",
+          "hij/zij": "benutt",
+          "wij": "benutten",
+          "jullie": "benutten",
+          "zij_plural": "benutten"
+        },
+        "past": {
+          "ik": "benuttte",
+          "jij": "benuttte",
+          "u": "benuttte",
+          "hij/zij": "benuttte",
+          "wij": "benuttten",
+          "jullie": "benuttten",
+          "zij_plural": "benuttten"
+        },
+        "perfect": "benuttt"
+      }
+    },
+    {
+      "id": "v125",
+      "word": "beoefenen",
+      "translation": "to practice",
+      "conjugations": {
+        "present": {
+          "ik": "beoefeen",
+          "jij": "beoefeent",
+          "u": "beoefeent",
+          "hij/zij": "beoefeent",
+          "wij": "beoefenen",
+          "jullie": "beoefenen",
+          "zij_plural": "beoefenen"
+        },
+        "past": {
+          "ik": "beoefeende",
+          "jij": "beoefeende",
+          "u": "beoefeende",
+          "hij/zij": "beoefeende",
+          "wij": "beoefeenden",
+          "jullie": "beoefeenden",
+          "zij_plural": "beoefeenden"
+        },
+        "perfect": "beoefeend"
+      }
+    },
+    {
+      "id": "v126",
+      "word": "beogen",
+      "translation": "to aim at, to intend",
+      "conjugations": {
+        "present": {
+          "ik": "beog",
+          "jij": "beogt",
+          "u": "beogt",
+          "hij/zij": "beogt",
+          "wij": "beogen",
+          "jullie": "beogen",
+          "zij_plural": "beogen"
+        },
+        "past": {
+          "ik": "beogde",
+          "jij": "beogde",
+          "u": "beogde",
+          "hij/zij": "beogde",
+          "wij": "beogden",
+          "jullie": "beogden",
+          "zij_plural": "beogden"
+        },
+        "perfect": "beogd"
+      }
+    },
+    {
+      "id": "v127",
       "word": "beoordelen",
       "translation": "to judge, to assess",
       "conjugations": {
@@ -8313,7 +15707,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v76",
+      "id": "v128",
       "word": "bepalen",
       "translation": "to determine",
       "conjugations": {
@@ -8339,7 +15733,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v77",
+      "id": "v129",
       "word": "beperken",
       "translation": "to limit, to restrict",
       "conjugations": {
@@ -8365,7 +15759,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v78",
+      "id": "v130",
+      "word": "bepleiten",
+      "translation": "to advocate",
+      "conjugations": {
+        "present": {
+          "ik": "bepleit",
+          "jij": "bepleit",
+          "u": "bepleit",
+          "hij/zij": "bepleit",
+          "wij": "bepleiten",
+          "jullie": "bepleiten",
+          "zij_plural": "bepleiten"
+        },
+        "past": {
+          "ik": "bepleitte",
+          "jij": "bepleitte",
+          "u": "bepleitte",
+          "hij/zij": "bepleitte",
+          "wij": "bepleitten",
+          "jullie": "bepleitten",
+          "zij_plural": "bepleitten"
+        },
+        "perfect": "bepleitt"
+      }
+    },
+    {
+      "id": "v131",
       "word": "bereiden",
       "translation": "to prepare",
       "conjugations": {
@@ -8391,7 +15811,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v79",
+      "id": "v132",
       "word": "bereiken",
       "translation": "to reach, to achieve",
       "conjugations": {
@@ -8417,7 +15837,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v80",
+      "id": "v133",
+      "word": "berekenen",
+      "translation": "to calculate",
+      "conjugations": {
+        "present": {
+          "ik": "berekeen",
+          "jij": "berekeent",
+          "u": "berekeent",
+          "hij/zij": "berekeent",
+          "wij": "berekenen",
+          "jullie": "berekenen",
+          "zij_plural": "berekenen"
+        },
+        "past": {
+          "ik": "berekeende",
+          "jij": "berekeende",
+          "u": "berekeende",
+          "hij/zij": "berekeende",
+          "wij": "berekeenden",
+          "jullie": "berekeenden",
+          "zij_plural": "berekeenden"
+        },
+        "perfect": "berekeend"
+      }
+    },
+    {
+      "id": "v134",
+      "word": "bergen",
+      "translation": "to store; to salvage",
+      "conjugations": {
+        "present": {
+          "ik": "berg",
+          "jij": "bergt",
+          "u": "bergt",
+          "hij/zij": "bergt",
+          "wij": "bergen",
+          "jullie": "bergen",
+          "zij_plural": "bergen"
+        },
+        "past": {
+          "ik": "bergde",
+          "jij": "bergde",
+          "u": "bergde",
+          "hij/zij": "bergde",
+          "wij": "bergden",
+          "jullie": "bergden",
+          "zij_plural": "bergden"
+        },
+        "perfect": "bergd"
+      }
+    },
+    {
+      "id": "v135",
       "word": "beroemen",
       "translation": "to boast",
       "conjugations": {
@@ -8443,7 +15915,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v81",
+      "id": "v136",
+      "word": "beroepen",
+      "translation": "to appeal; to invoke",
+      "conjugations": {
+        "present": {
+          "ik": "beroep",
+          "jij": "beroept",
+          "u": "beroept",
+          "hij/zij": "beroept",
+          "wij": "beroepen",
+          "jullie": "beroepen",
+          "zij_plural": "beroepen"
+        },
+        "past": {
+          "ik": "beroepte",
+          "jij": "beroepte",
+          "u": "beroepte",
+          "hij/zij": "beroepte",
+          "wij": "beroepten",
+          "jullie": "beroepten",
+          "zij_plural": "beroepten"
+        },
+        "perfect": "beroept"
+      }
+    },
+    {
+      "id": "v137",
+      "word": "beroven",
+      "translation": "to rob",
+      "conjugations": {
+        "present": {
+          "ik": "beroof",
+          "jij": "berooft",
+          "u": "berooft",
+          "hij/zij": "berooft",
+          "wij": "beroven",
+          "jullie": "beroven",
+          "zij_plural": "beroven"
+        },
+        "past": {
+          "ik": "beroofte",
+          "jij": "beroofte",
+          "u": "beroofte",
+          "hij/zij": "beroofte",
+          "wij": "berooften",
+          "jullie": "berooften",
+          "zij_plural": "berooften"
+        },
+        "perfect": "berooft"
+      }
+    },
+    {
+      "id": "v138",
       "word": "berusten",
       "translation": "to rest on; to accept",
       "conjugations": {
@@ -8469,7 +15993,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v82",
+      "id": "v139",
       "word": "beschermen",
       "translation": "to protect",
       "conjugations": {
@@ -8495,7 +16019,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v83",
+      "id": "v140",
       "word": "beschikken",
       "translation": "to have at disposal",
       "conjugations": {
@@ -8521,7 +16045,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v84",
+      "id": "v141",
       "word": "beschouwen",
       "translation": "to consider, to regard",
       "conjugations": {
@@ -8547,7 +16071,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v85",
+      "id": "v142",
       "word": "beschrijven",
       "translation": "to describe",
       "conjugations": {
@@ -8573,7 +16097,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v86",
+      "id": "v143",
+      "word": "beschuldigen",
+      "translation": "to accuse",
+      "conjugations": {
+        "present": {
+          "ik": "beschuldiig",
+          "jij": "beschuldiigt",
+          "u": "beschuldiigt",
+          "hij/zij": "beschuldiigt",
+          "wij": "beschuldigen",
+          "jullie": "beschuldigen",
+          "zij_plural": "beschuldigen"
+        },
+        "past": {
+          "ik": "beschuldiigde",
+          "jij": "beschuldiigde",
+          "u": "beschuldiigde",
+          "hij/zij": "beschuldiigde",
+          "wij": "beschuldiigden",
+          "jullie": "beschuldiigden",
+          "zij_plural": "beschuldiigden"
+        },
+        "perfect": "beschuldiigd"
+      }
+    },
+    {
+      "id": "v144",
       "word": "beseffen",
       "translation": "to realize",
       "conjugations": {
@@ -8599,7 +16149,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v87",
+      "id": "v145",
       "word": "beslissen",
       "translation": "to decide",
       "conjugations": {
@@ -8625,7 +16175,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v88",
+      "id": "v146",
       "word": "besluiten",
       "translation": "to decide",
       "conjugations": {
@@ -8651,7 +16201,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v89",
+      "id": "v147",
+      "word": "besparen",
+      "translation": "to save (money/effort)",
+      "conjugations": {
+        "present": {
+          "ik": "bespaar",
+          "jij": "bespaart",
+          "u": "bespaart",
+          "hij/zij": "bespaart",
+          "wij": "besparen",
+          "jullie": "besparen",
+          "zij_plural": "besparen"
+        },
+        "past": {
+          "ik": "bespaarde",
+          "jij": "bespaarde",
+          "u": "bespaarde",
+          "hij/zij": "bespaarde",
+          "wij": "bespaarden",
+          "jullie": "bespaarden",
+          "zij_plural": "bespaarden"
+        },
+        "perfect": "bespaard"
+      }
+    },
+    {
+      "id": "v148",
+      "word": "bespeuren",
+      "translation": "to detect, to notice",
+      "conjugations": {
+        "present": {
+          "ik": "bespeur",
+          "jij": "bespeurt",
+          "u": "bespeurt",
+          "hij/zij": "bespeurt",
+          "wij": "bespeuren",
+          "jullie": "bespeuren",
+          "zij_plural": "bespeuren"
+        },
+        "past": {
+          "ik": "bespeurde",
+          "jij": "bespeurde",
+          "u": "bespeurde",
+          "hij/zij": "bespeurde",
+          "wij": "bespeurden",
+          "jullie": "bespeurden",
+          "zij_plural": "bespeurden"
+        },
+        "perfect": "bespeurd"
+      }
+    },
+    {
+      "id": "v149",
       "word": "bespreken",
       "translation": "to discuss",
       "conjugations": {
@@ -8677,7 +16279,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v90",
+      "id": "v150",
       "word": "bestaan",
       "translation": "to exist",
       "conjugations": {
@@ -8703,7 +16305,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v91",
+      "id": "v151",
       "word": "besteden",
       "translation": "to spend (time/money)",
       "conjugations": {
@@ -8729,7 +16331,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v92",
+      "id": "v152",
       "word": "bestellen",
       "translation": "to order",
       "conjugations": {
@@ -8755,7 +16357,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v93",
+      "id": "v153",
       "word": "bestemmen",
       "translation": "to destine",
       "conjugations": {
@@ -8781,7 +16383,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v94",
+      "id": "v154",
       "word": "bestrijden",
       "translation": "to fight, to combat",
       "conjugations": {
@@ -8807,7 +16409,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v95",
+      "id": "v155",
       "word": "bestuderen",
       "translation": "to study",
       "conjugations": {
@@ -8833,7 +16435,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v96",
+      "id": "v156",
+      "word": "besturen",
+      "translation": "to govern; to drive",
+      "conjugations": {
+        "present": {
+          "ik": "bestuur",
+          "jij": "bestuurt",
+          "u": "bestuurt",
+          "hij/zij": "bestuurt",
+          "wij": "besturen",
+          "jullie": "besturen",
+          "zij_plural": "besturen"
+        },
+        "past": {
+          "ik": "bestuurde",
+          "jij": "bestuurde",
+          "u": "bestuurde",
+          "hij/zij": "bestuurde",
+          "wij": "bestuurden",
+          "jullie": "bestuurden",
+          "zij_plural": "bestuurden"
+        },
+        "perfect": "bestuurd"
+      }
+    },
+    {
+      "id": "v157",
       "word": "betalen",
       "translation": "to pay",
       "conjugations": {
@@ -8859,7 +16487,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v97",
+      "id": "v158",
       "word": "betekenen",
       "translation": "to mean, to signify",
       "conjugations": {
@@ -8885,7 +16513,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v98",
+      "id": "v159",
+      "word": "betogen",
+      "translation": "to argue; to demonstrate",
+      "conjugations": {
+        "present": {
+          "ik": "betoog",
+          "jij": "betoogt",
+          "u": "betoogt",
+          "hij/zij": "betoogt",
+          "wij": "betogen",
+          "jullie": "betogen",
+          "zij_plural": "betogen"
+        },
+        "past": {
+          "ik": "betoogde",
+          "jij": "betoogde",
+          "u": "betoogde",
+          "hij/zij": "betoogde",
+          "wij": "betoogden",
+          "jullie": "betoogden",
+          "zij_plural": "betoogden"
+        },
+        "perfect": "betoogd"
+      }
+    },
+    {
+      "id": "v160",
+      "word": "betrappen",
+      "translation": "to catch (in the act)",
+      "conjugations": {
+        "present": {
+          "ik": "betrapp",
+          "jij": "betrappt",
+          "u": "betrappt",
+          "hij/zij": "betrappt",
+          "wij": "betrappen",
+          "jullie": "betrappen",
+          "zij_plural": "betrappen"
+        },
+        "past": {
+          "ik": "betrappte",
+          "jij": "betrappte",
+          "u": "betrappte",
+          "hij/zij": "betrappte",
+          "wij": "betrappten",
+          "jullie": "betrappten",
+          "zij_plural": "betrappten"
+        },
+        "perfect": "betrappt"
+      }
+    },
+    {
+      "id": "v161",
+      "word": "betreden",
+      "translation": "to enter",
+      "conjugations": {
+        "present": {
+          "ik": "betreed",
+          "jij": "betreedt",
+          "u": "betreedt",
+          "hij/zij": "betreedt",
+          "wij": "betreden",
+          "jullie": "betreden",
+          "zij_plural": "betreden"
+        },
+        "past": {
+          "ik": "betreedde",
+          "jij": "betreedde",
+          "u": "betreedde",
+          "hij/zij": "betreedde",
+          "wij": "betreedden",
+          "jullie": "betreedden",
+          "zij_plural": "betreedden"
+        },
+        "perfect": "betreedd"
+      }
+    },
+    {
+      "id": "v162",
       "word": "betreffen",
       "translation": "to concern",
       "conjugations": {
@@ -8911,7 +16617,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v99",
+      "id": "v163",
       "word": "betrekken",
       "translation": "to involve; to move into",
       "conjugations": {
@@ -8937,7 +16643,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v100",
+      "id": "v164",
+      "word": "betreuren",
+      "translation": "to regret",
+      "conjugations": {
+        "present": {
+          "ik": "betreur",
+          "jij": "betreurt",
+          "u": "betreurt",
+          "hij/zij": "betreurt",
+          "wij": "betreuren",
+          "jullie": "betreuren",
+          "zij_plural": "betreuren"
+        },
+        "past": {
+          "ik": "betreurde",
+          "jij": "betreurde",
+          "u": "betreurde",
+          "hij/zij": "betreurde",
+          "wij": "betreurden",
+          "jullie": "betreurden",
+          "zij_plural": "betreurden"
+        },
+        "perfect": "betreurd"
+      }
+    },
+    {
+      "id": "v165",
+      "word": "betwijfelen",
+      "translation": "to doubt",
+      "conjugations": {
+        "present": {
+          "ik": "betwijfeel",
+          "jij": "betwijfeelt",
+          "u": "betwijfeelt",
+          "hij/zij": "betwijfeelt",
+          "wij": "betwijfelen",
+          "jullie": "betwijfelen",
+          "zij_plural": "betwijfelen"
+        },
+        "past": {
+          "ik": "betwijfeelde",
+          "jij": "betwijfeelde",
+          "u": "betwijfeelde",
+          "hij/zij": "betwijfeelde",
+          "wij": "betwijfeelden",
+          "jullie": "betwijfeelden",
+          "zij_plural": "betwijfeelden"
+        },
+        "perfect": "betwijfeeld"
+      }
+    },
+    {
+      "id": "v166",
       "word": "bevallen",
       "translation": "to give birth; to please",
       "conjugations": {
@@ -8963,7 +16721,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v101",
+      "id": "v167",
       "word": "bevatten",
       "translation": "to contain",
       "conjugations": {
@@ -8989,7 +16747,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v102",
+      "id": "v168",
       "word": "bevelen",
       "translation": "to command",
       "conjugations": {
@@ -9015,7 +16773,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v103",
+      "id": "v169",
       "word": "beven",
       "translation": "to tremble",
       "conjugations": {
@@ -9041,7 +16799,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v104",
+      "id": "v170",
       "word": "bevestigen",
       "translation": "to confirm; to attach",
       "conjugations": {
@@ -9067,7 +16825,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v105",
+      "id": "v171",
       "word": "bevinden",
       "translation": "to be (located); to find",
       "conjugations": {
@@ -9093,7 +16851,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v106",
+      "id": "v172",
       "word": "bevorderen",
       "translation": "to promote",
       "conjugations": {
@@ -9119,7 +16877,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v107",
+      "id": "v173",
       "word": "bevredigen",
       "translation": "to satisfy",
       "conjugations": {
@@ -9145,7 +16903,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v108",
+      "id": "v174",
+      "word": "bevriezen",
+      "translation": "to freeze",
+      "conjugations": {
+        "present": {
+          "ik": "bevries",
+          "jij": "bevriest",
+          "u": "bevriest",
+          "hij/zij": "bevriest",
+          "wij": "bevriezen",
+          "jullie": "bevriezen",
+          "zij_plural": "bevriezen"
+        },
+        "past": {
+          "ik": "bevrieste",
+          "jij": "bevrieste",
+          "u": "bevrieste",
+          "hij/zij": "bevrieste",
+          "wij": "bevriesten",
+          "jullie": "bevriesten",
+          "zij_plural": "bevriesten"
+        },
+        "perfect": "bevriest"
+      }
+    },
+    {
+      "id": "v175",
       "word": "bevrijden",
       "translation": "to liberate",
       "conjugations": {
@@ -9171,7 +16955,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v109",
+      "id": "v176",
+      "word": "bewaken",
+      "translation": "to guard",
+      "conjugations": {
+        "present": {
+          "ik": "bewaak",
+          "jij": "bewaakt",
+          "u": "bewaakt",
+          "hij/zij": "bewaakt",
+          "wij": "bewaken",
+          "jullie": "bewaken",
+          "zij_plural": "bewaken"
+        },
+        "past": {
+          "ik": "bewaakte",
+          "jij": "bewaakte",
+          "u": "bewaakte",
+          "hij/zij": "bewaakte",
+          "wij": "bewaakten",
+          "jullie": "bewaakten",
+          "zij_plural": "bewaakten"
+        },
+        "perfect": "bewaakt"
+      }
+    },
+    {
+      "id": "v177",
       "word": "bewaren",
       "translation": "to keep, to preserve",
       "conjugations": {
@@ -9197,7 +17007,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v110",
+      "id": "v178",
       "word": "bewegen",
       "translation": "to move",
       "conjugations": {
@@ -9223,7 +17033,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v111",
+      "id": "v179",
       "word": "beweren",
       "translation": "to claim, to assert",
       "conjugations": {
@@ -9249,7 +17059,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v112",
+      "id": "v180",
+      "word": "bewerken",
+      "translation": "to edit; to work on",
+      "conjugations": {
+        "present": {
+          "ik": "bewerk",
+          "jij": "bewerkt",
+          "u": "bewerkt",
+          "hij/zij": "bewerkt",
+          "wij": "bewerken",
+          "jullie": "bewerken",
+          "zij_plural": "bewerken"
+        },
+        "past": {
+          "ik": "bewerkte",
+          "jij": "bewerkte",
+          "u": "bewerkte",
+          "hij/zij": "bewerkte",
+          "wij": "bewerkten",
+          "jullie": "bewerkten",
+          "zij_plural": "bewerkten"
+        },
+        "perfect": "bewerkt"
+      }
+    },
+    {
+      "id": "v181",
+      "word": "bewerkstelligen",
+      "translation": "to bring about",
+      "conjugations": {
+        "present": {
+          "ik": "bewerkstelliig",
+          "jij": "bewerkstelliigt",
+          "u": "bewerkstelliigt",
+          "hij/zij": "bewerkstelliigt",
+          "wij": "bewerkstelligen",
+          "jullie": "bewerkstelligen",
+          "zij_plural": "bewerkstelligen"
+        },
+        "past": {
+          "ik": "bewerkstelliigde",
+          "jij": "bewerkstelliigde",
+          "u": "bewerkstelliigde",
+          "hij/zij": "bewerkstelliigde",
+          "wij": "bewerkstelliigden",
+          "jullie": "bewerkstelliigden",
+          "zij_plural": "bewerkstelliigden"
+        },
+        "perfect": "bewerkstelliigd"
+      }
+    },
+    {
+      "id": "v182",
       "word": "bewijzen",
       "translation": "to prove",
       "conjugations": {
@@ -9275,7 +17137,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v113",
+      "id": "v183",
       "word": "bewonderen",
       "translation": "to admire",
       "conjugations": {
@@ -9301,7 +17163,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v114",
+      "id": "v184",
+      "word": "bewonen",
+      "translation": "to inhabit",
+      "conjugations": {
+        "present": {
+          "ik": "bewoon",
+          "jij": "bewoont",
+          "u": "bewoont",
+          "hij/zij": "bewoont",
+          "wij": "bewonen",
+          "jullie": "bewonen",
+          "zij_plural": "bewonen"
+        },
+        "past": {
+          "ik": "bewoonde",
+          "jij": "bewoonde",
+          "u": "bewoonde",
+          "hij/zij": "bewoonde",
+          "wij": "bewoonden",
+          "jullie": "bewoonden",
+          "zij_plural": "bewoonden"
+        },
+        "perfect": "bewoond"
+      }
+    },
+    {
+      "id": "v185",
+      "word": "bezetten",
+      "translation": "to occupy",
+      "conjugations": {
+        "present": {
+          "ik": "bezett",
+          "jij": "bezett",
+          "u": "bezett",
+          "hij/zij": "bezett",
+          "wij": "bezetten",
+          "jullie": "bezetten",
+          "zij_plural": "bezetten"
+        },
+        "past": {
+          "ik": "bezettte",
+          "jij": "bezettte",
+          "u": "bezettte",
+          "hij/zij": "bezettte",
+          "wij": "bezettten",
+          "jullie": "bezettten",
+          "zij_plural": "bezettten"
+        },
+        "perfect": "bezettt"
+      }
+    },
+    {
+      "id": "v186",
       "word": "bezien",
       "translation": "to look at, to consider",
       "conjugations": {
@@ -9327,7 +17241,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v115",
+      "id": "v187",
       "word": "bezighouden",
       "translation": "to keep busy; to occupy",
       "conjugations": {
@@ -9353,7 +17267,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v116",
+      "id": "v188",
       "word": "bezitten",
       "translation": "to own, to possess",
       "conjugations": {
@@ -9379,7 +17293,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v117",
+      "id": "v189",
       "word": "bezoeken",
       "translation": "to visit",
       "conjugations": {
@@ -9405,7 +17319,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v118",
+      "id": "v190",
       "word": "bezorgen",
       "translation": "to deliver; to cause",
       "conjugations": {
@@ -9431,7 +17345,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v119",
+      "id": "v191",
+      "word": "bezweren",
+      "translation": "to swear; to exorcise",
+      "conjugations": {
+        "present": {
+          "ik": "bezweer",
+          "jij": "bezweert",
+          "u": "bezweert",
+          "hij/zij": "bezweert",
+          "wij": "bezweren",
+          "jullie": "bezweren",
+          "zij_plural": "bezweren"
+        },
+        "past": {
+          "ik": "bezweerde",
+          "jij": "bezweerde",
+          "u": "bezweerde",
+          "hij/zij": "bezweerde",
+          "wij": "bezweerden",
+          "jullie": "bezweerden",
+          "zij_plural": "bezweerden"
+        },
+        "perfect": "bezweerd"
+      }
+    },
+    {
+      "id": "v192",
+      "word": "beëindigen",
+      "translation": "to end, to terminate",
+      "conjugations": {
+        "present": {
+          "ik": "beëindiig",
+          "jij": "beëindiigt",
+          "u": "beëindiigt",
+          "hij/zij": "beëindiigt",
+          "wij": "beëindigen",
+          "jullie": "beëindigen",
+          "zij_plural": "beëindigen"
+        },
+        "past": {
+          "ik": "beëindiigde",
+          "jij": "beëindiigde",
+          "u": "beëindiigde",
+          "hij/zij": "beëindiigde",
+          "wij": "beëindiigden",
+          "jullie": "beëindiigden",
+          "zij_plural": "beëindiigden"
+        },
+        "perfect": "beëindiigd"
+      }
+    },
+    {
+      "id": "v193",
+      "word": "beïnvloeden",
+      "translation": "to influence",
+      "conjugations": {
+        "present": {
+          "ik": "beïnvloed",
+          "jij": "beïnvloedt",
+          "u": "beïnvloedt",
+          "hij/zij": "beïnvloedt",
+          "wij": "beïnvloeden",
+          "jullie": "beïnvloeden",
+          "zij_plural": "beïnvloeden"
+        },
+        "past": {
+          "ik": "beïnvloedde",
+          "jij": "beïnvloedde",
+          "u": "beïnvloedde",
+          "hij/zij": "beïnvloedde",
+          "wij": "beïnvloedden",
+          "jullie": "beïnvloedden",
+          "zij_plural": "beïnvloedden"
+        },
+        "perfect": "beïnvloedd"
+      }
+    },
+    {
+      "id": "v194",
       "word": "bidden",
       "translation": "to pray",
       "conjugations": {
@@ -9457,7 +17449,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v120",
+      "id": "v195",
       "word": "bieden",
       "translation": "to offer",
       "conjugations": {
@@ -9483,7 +17475,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v121",
+      "id": "v196",
       "word": "bijdragen",
       "translation": "to contribute",
       "conjugations": {
@@ -9509,7 +17501,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v122",
+      "id": "v197",
       "word": "bijten",
       "translation": "to bite",
       "conjugations": {
@@ -9535,7 +17527,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v123",
+      "id": "v198",
       "word": "binden",
       "translation": "to bind, to tie",
       "conjugations": {
@@ -9561,7 +17553,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v124",
+      "id": "v199",
+      "word": "binnendringen",
+      "translation": "to penetrate, to intrude",
+      "conjugations": {
+        "present": {
+          "ik": "binnendring",
+          "jij": "binnendringt",
+          "u": "binnendringt",
+          "hij/zij": "binnendringt",
+          "wij": "binnendringen",
+          "jullie": "binnendringen",
+          "zij_plural": "binnendringen"
+        },
+        "past": {
+          "ik": "binnendringde",
+          "jij": "binnendringde",
+          "u": "binnendringde",
+          "hij/zij": "binnendringde",
+          "wij": "binnendringden",
+          "jullie": "binnendringden",
+          "zij_plural": "binnendringden"
+        },
+        "perfect": "gebinnendringd"
+      }
+    },
+    {
+      "id": "v200",
+      "word": "binnenkomen",
+      "translation": "to enter, to come in",
+      "conjugations": {
+        "present": {
+          "ik": "binnenkoom",
+          "jij": "binnenkoomt",
+          "u": "binnenkoomt",
+          "hij/zij": "binnenkoomt",
+          "wij": "binnenkomen",
+          "jullie": "binnenkomen",
+          "zij_plural": "binnenkomen"
+        },
+        "past": {
+          "ik": "binnenkoomde",
+          "jij": "binnenkoomde",
+          "u": "binnenkoomde",
+          "hij/zij": "binnenkoomde",
+          "wij": "binnenkoomden",
+          "jullie": "binnenkoomden",
+          "zij_plural": "binnenkoomden"
+        },
+        "perfect": "gebinnenkoomd"
+      }
+    },
+    {
+      "id": "v201",
+      "word": "bladeren",
+      "translation": "to browse, to leaf through",
+      "conjugations": {
+        "present": {
+          "ik": "bladeer",
+          "jij": "bladeert",
+          "u": "bladeert",
+          "hij/zij": "bladeert",
+          "wij": "bladeren",
+          "jullie": "bladeren",
+          "zij_plural": "bladeren"
+        },
+        "past": {
+          "ik": "bladeerde",
+          "jij": "bladeerde",
+          "u": "bladeerde",
+          "hij/zij": "bladeerde",
+          "wij": "bladeerden",
+          "jullie": "bladeerden",
+          "zij_plural": "bladeerden"
+        },
+        "perfect": "gebladeerd"
+      }
+    },
+    {
+      "id": "v202",
+      "word": "blaffen",
+      "translation": "to bark",
+      "conjugations": {
+        "present": {
+          "ik": "blaff",
+          "jij": "blafft",
+          "u": "blafft",
+          "hij/zij": "blafft",
+          "wij": "blaffen",
+          "jullie": "blaffen",
+          "zij_plural": "blaffen"
+        },
+        "past": {
+          "ik": "blaffte",
+          "jij": "blaffte",
+          "u": "blaffte",
+          "hij/zij": "blaffte",
+          "wij": "blafften",
+          "jullie": "blafften",
+          "zij_plural": "blafften"
+        },
+        "perfect": "geblafft"
+      }
+    },
+    {
+      "id": "v203",
       "word": "blazen",
       "translation": "to blow",
       "conjugations": {
@@ -9587,7 +17683,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v125",
+      "id": "v204",
       "word": "blijken",
       "translation": "to turn out, to appear",
       "conjugations": {
@@ -9613,7 +17709,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v126",
+      "id": "v205",
       "word": "blijven",
       "translation": "to stay, to remain",
       "conjugations": {
@@ -9639,7 +17735,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v127",
+      "id": "v206",
+      "word": "blinken",
+      "translation": "to shine",
+      "conjugations": {
+        "present": {
+          "ik": "blink",
+          "jij": "blinkt",
+          "u": "blinkt",
+          "hij/zij": "blinkt",
+          "wij": "blinken",
+          "jullie": "blinken",
+          "zij_plural": "blinken"
+        },
+        "past": {
+          "ik": "blinkte",
+          "jij": "blinkte",
+          "u": "blinkte",
+          "hij/zij": "blinkte",
+          "wij": "blinkten",
+          "jullie": "blinkten",
+          "zij_plural": "blinkten"
+        },
+        "perfect": "geblinkt"
+      }
+    },
+    {
+      "id": "v207",
+      "word": "bloeden",
+      "translation": "to bleed",
+      "conjugations": {
+        "present": {
+          "ik": "bloed",
+          "jij": "bloedt",
+          "u": "bloedt",
+          "hij/zij": "bloedt",
+          "wij": "bloeden",
+          "jullie": "bloeden",
+          "zij_plural": "bloeden"
+        },
+        "past": {
+          "ik": "bloedde",
+          "jij": "bloedde",
+          "u": "bloedde",
+          "hij/zij": "bloedde",
+          "wij": "bloedden",
+          "jullie": "bloedden",
+          "zij_plural": "bloedden"
+        },
+        "perfect": "gebloedd"
+      }
+    },
+    {
+      "id": "v208",
       "word": "bloeien",
       "translation": "to bloom, to flourish",
       "conjugations": {
@@ -9665,7 +17813,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v128",
+      "id": "v209",
+      "word": "blozen",
+      "translation": "to blush",
+      "conjugations": {
+        "present": {
+          "ik": "bloos",
+          "jij": "bloost",
+          "u": "bloost",
+          "hij/zij": "bloost",
+          "wij": "blozen",
+          "jullie": "blozen",
+          "zij_plural": "blozen"
+        },
+        "past": {
+          "ik": "blooste",
+          "jij": "blooste",
+          "u": "blooste",
+          "hij/zij": "blooste",
+          "wij": "bloosten",
+          "jullie": "bloosten",
+          "zij_plural": "bloosten"
+        },
+        "perfect": "gebloost"
+      }
+    },
+    {
+      "id": "v210",
       "word": "boeien",
       "translation": "to fascinate; to handcuff",
       "conjugations": {
@@ -9691,7 +17865,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v129",
+      "id": "v211",
+      "word": "boeken",
+      "translation": "to book, to reserve",
+      "conjugations": {
+        "present": {
+          "ik": "boek",
+          "jij": "boekt",
+          "u": "boekt",
+          "hij/zij": "boekt",
+          "wij": "boeken",
+          "jullie": "boeken",
+          "zij_plural": "boeken"
+        },
+        "past": {
+          "ik": "boekte",
+          "jij": "boekte",
+          "u": "boekte",
+          "hij/zij": "boekte",
+          "wij": "boekten",
+          "jullie": "boekten",
+          "zij_plural": "boekten"
+        },
+        "perfect": "geboekt"
+      }
+    },
+    {
+      "id": "v212",
+      "word": "boren",
+      "translation": "to drill",
+      "conjugations": {
+        "present": {
+          "ik": "boor",
+          "jij": "boort",
+          "u": "boort",
+          "hij/zij": "boort",
+          "wij": "boren",
+          "jullie": "boren",
+          "zij_plural": "boren"
+        },
+        "past": {
+          "ik": "boorde",
+          "jij": "boorde",
+          "u": "boorde",
+          "hij/zij": "boorde",
+          "wij": "boorden",
+          "jullie": "boorden",
+          "zij_plural": "boorden"
+        },
+        "perfect": "geboord"
+      }
+    },
+    {
+      "id": "v213",
+      "word": "botsen",
+      "translation": "to collide",
+      "conjugations": {
+        "present": {
+          "ik": "bots",
+          "jij": "botst",
+          "u": "botst",
+          "hij/zij": "botst",
+          "wij": "botsen",
+          "jullie": "botsen",
+          "zij_plural": "botsen"
+        },
+        "past": {
+          "ik": "botste",
+          "jij": "botste",
+          "u": "botste",
+          "hij/zij": "botste",
+          "wij": "botsten",
+          "jullie": "botsten",
+          "zij_plural": "botsten"
+        },
+        "perfect": "gebotst"
+      }
+    },
+    {
+      "id": "v214",
       "word": "bouwen",
       "translation": "to build",
       "conjugations": {
@@ -9717,7 +17969,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v130",
+      "id": "v215",
       "word": "branden",
       "translation": "to burn",
       "conjugations": {
@@ -9743,7 +17995,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v131",
+      "id": "v216",
+      "word": "breien",
+      "translation": "to knit",
+      "conjugations": {
+        "present": {
+          "ik": "brei",
+          "jij": "breit",
+          "u": "breit",
+          "hij/zij": "breit",
+          "wij": "breien",
+          "jullie": "breien",
+          "zij_plural": "breien"
+        },
+        "past": {
+          "ik": "breide",
+          "jij": "breide",
+          "u": "breide",
+          "hij/zij": "breide",
+          "wij": "breiden",
+          "jullie": "breiden",
+          "zij_plural": "breiden"
+        },
+        "perfect": "gebreid"
+      }
+    },
+    {
+      "id": "v217",
       "word": "breken",
       "translation": "to break",
       "conjugations": {
@@ -9769,7 +18047,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v132",
+      "id": "v218",
       "word": "brengen",
       "translation": "to bring",
       "conjugations": {
@@ -9795,7 +18073,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v133",
+      "id": "v219",
+      "word": "brommen",
+      "translation": "to hum; to grumble",
+      "conjugations": {
+        "present": {
+          "ik": "bromm",
+          "jij": "brommt",
+          "u": "brommt",
+          "hij/zij": "brommt",
+          "wij": "brommen",
+          "jullie": "brommen",
+          "zij_plural": "brommen"
+        },
+        "past": {
+          "ik": "brommde",
+          "jij": "brommde",
+          "u": "brommde",
+          "hij/zij": "brommde",
+          "wij": "brommden",
+          "jullie": "brommden",
+          "zij_plural": "brommden"
+        },
+        "perfect": "gebrommd"
+      }
+    },
+    {
+      "id": "v220",
       "word": "brullen",
       "translation": "to roar",
       "conjugations": {
@@ -9821,7 +18125,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v134",
+      "id": "v221",
       "word": "buigen",
       "translation": "to bend, to bow",
       "conjugations": {
@@ -9847,7 +18151,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v135",
+      "id": "v222",
+      "word": "bukken",
+      "translation": "to bend down",
+      "conjugations": {
+        "present": {
+          "ik": "bukk",
+          "jij": "bukkt",
+          "u": "bukkt",
+          "hij/zij": "bukkt",
+          "wij": "bukken",
+          "jullie": "bukken",
+          "zij_plural": "bukken"
+        },
+        "past": {
+          "ik": "bukkte",
+          "jij": "bukkte",
+          "u": "bukkte",
+          "hij/zij": "bukkte",
+          "wij": "bukkten",
+          "jullie": "bukkten",
+          "zij_plural": "bukkten"
+        },
+        "perfect": "gebukkt"
+      }
+    },
+    {
+      "id": "v223",
       "word": "citeren",
       "translation": "to quote",
       "conjugations": {
@@ -9873,7 +18203,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v136",
+      "id": "v224",
+      "word": "combineren",
+      "translation": "to combine",
+      "conjugations": {
+        "present": {
+          "ik": "combineer",
+          "jij": "combineert",
+          "u": "combineert",
+          "hij/zij": "combineert",
+          "wij": "combineren",
+          "jullie": "combineren",
+          "zij_plural": "combineren"
+        },
+        "past": {
+          "ik": "combineerde",
+          "jij": "combineerde",
+          "u": "combineerde",
+          "hij/zij": "combineerde",
+          "wij": "combineerden",
+          "jullie": "combineerden",
+          "zij_plural": "combineerden"
+        },
+        "perfect": "gecombineerd"
+      }
+    },
+    {
+      "id": "v225",
       "word": "concentreren",
       "translation": "to concentrate",
       "conjugations": {
@@ -9899,7 +18255,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v137",
+      "id": "v226",
       "word": "concluderen",
       "translation": "to conclude",
       "conjugations": {
@@ -9925,7 +18281,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v138",
+      "id": "v227",
       "word": "confronteren",
       "translation": "to confront",
       "conjugations": {
@@ -9951,7 +18307,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v139",
+      "id": "v228",
       "word": "constateren",
       "translation": "to establish, to observe",
       "conjugations": {
@@ -9977,7 +18333,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v140",
+      "id": "v229",
+      "word": "construeren",
+      "translation": "to construct",
+      "conjugations": {
+        "present": {
+          "ik": "construer",
+          "jij": "construert",
+          "u": "construert",
+          "hij/zij": "construert",
+          "wij": "construeren",
+          "jullie": "construeren",
+          "zij_plural": "construeren"
+        },
+        "past": {
+          "ik": "construerde",
+          "jij": "construerde",
+          "u": "construerde",
+          "hij/zij": "construerde",
+          "wij": "construerden",
+          "jullie": "construerden",
+          "zij_plural": "construerden"
+        },
+        "perfect": "geconstruerd"
+      }
+    },
+    {
+      "id": "v230",
       "word": "controleren",
       "translation": "to check, to control",
       "conjugations": {
@@ -10003,7 +18385,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v141",
+      "id": "v231",
+      "word": "corrigeren",
+      "translation": "to correct",
+      "conjugations": {
+        "present": {
+          "ik": "corrigeer",
+          "jij": "corrigeert",
+          "u": "corrigeert",
+          "hij/zij": "corrigeert",
+          "wij": "corrigeren",
+          "jullie": "corrigeren",
+          "zij_plural": "corrigeren"
+        },
+        "past": {
+          "ik": "corrigeerde",
+          "jij": "corrigeerde",
+          "u": "corrigeerde",
+          "hij/zij": "corrigeerde",
+          "wij": "corrigeerden",
+          "jullie": "corrigeerden",
+          "zij_plural": "corrigeerden"
+        },
+        "perfect": "gecorrigeerd"
+      }
+    },
+    {
+      "id": "v232",
+      "word": "creëren",
+      "translation": "to create",
+      "conjugations": {
+        "present": {
+          "ik": "creër",
+          "jij": "creërt",
+          "u": "creërt",
+          "hij/zij": "creërt",
+          "wij": "creëren",
+          "jullie": "creëren",
+          "zij_plural": "creëren"
+        },
+        "past": {
+          "ik": "creërde",
+          "jij": "creërde",
+          "u": "creërde",
+          "hij/zij": "creërde",
+          "wij": "creërden",
+          "jullie": "creërden",
+          "zij_plural": "creërden"
+        },
+        "perfect": "gecreërd"
+      }
+    },
+    {
+      "id": "v233",
       "word": "dalen",
       "translation": "to descend; to decrease",
       "conjugations": {
@@ -10029,7 +18463,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v142",
+      "id": "v234",
       "word": "danken",
       "translation": "to thank",
       "conjugations": {
@@ -10055,7 +18489,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v143",
+      "id": "v235",
       "word": "dansen",
       "translation": "to dance",
       "conjugations": {
@@ -10081,7 +18515,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v144",
+      "id": "v236",
+      "word": "dateren",
+      "translation": "to date",
+      "conjugations": {
+        "present": {
+          "ik": "dateer",
+          "jij": "dateert",
+          "u": "dateert",
+          "hij/zij": "dateert",
+          "wij": "dateren",
+          "jullie": "dateren",
+          "zij_plural": "dateren"
+        },
+        "past": {
+          "ik": "dateerde",
+          "jij": "dateerde",
+          "u": "dateerde",
+          "hij/zij": "dateerde",
+          "wij": "dateerden",
+          "jullie": "dateerden",
+          "zij_plural": "dateerden"
+        },
+        "perfect": "gedateerd"
+      }
+    },
+    {
+      "id": "v237",
       "word": "deelnemen",
       "translation": "to participate",
       "conjugations": {
@@ -10107,7 +18567,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v145",
+      "id": "v238",
+      "word": "definiëren",
+      "translation": "to define",
+      "conjugations": {
+        "present": {
+          "ik": "definiër",
+          "jij": "definiërt",
+          "u": "definiërt",
+          "hij/zij": "definiërt",
+          "wij": "definiëren",
+          "jullie": "definiëren",
+          "zij_plural": "definiëren"
+        },
+        "past": {
+          "ik": "definiërde",
+          "jij": "definiërde",
+          "u": "definiërde",
+          "hij/zij": "definiërde",
+          "wij": "definiërden",
+          "jullie": "definiërden",
+          "zij_plural": "definiërden"
+        },
+        "perfect": "gedefiniërd"
+      }
+    },
+    {
+      "id": "v239",
       "word": "dekken",
       "translation": "to cover; to set (table)",
       "conjugations": {
@@ -10133,7 +18619,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v146",
+      "id": "v240",
       "word": "delen",
       "translation": "to share; to divide",
       "conjugations": {
@@ -10159,7 +18645,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v147",
+      "id": "v241",
+      "word": "delven",
+      "translation": "to dig",
+      "conjugations": {
+        "present": {
+          "ik": "delf",
+          "jij": "delft",
+          "u": "delft",
+          "hij/zij": "delft",
+          "wij": "delven",
+          "jullie": "delven",
+          "zij_plural": "delven"
+        },
+        "past": {
+          "ik": "delfte",
+          "jij": "delfte",
+          "u": "delfte",
+          "hij/zij": "delfte",
+          "wij": "delften",
+          "jullie": "delften",
+          "zij_plural": "delften"
+        },
+        "perfect": "gedelft"
+      }
+    },
+    {
+      "id": "v242",
+      "word": "demonstreren",
+      "translation": "to demonstrate",
+      "conjugations": {
+        "present": {
+          "ik": "demonstreer",
+          "jij": "demonstreert",
+          "u": "demonstreert",
+          "hij/zij": "demonstreert",
+          "wij": "demonstreren",
+          "jullie": "demonstreren",
+          "zij_plural": "demonstreren"
+        },
+        "past": {
+          "ik": "demonstreerde",
+          "jij": "demonstreerde",
+          "u": "demonstreerde",
+          "hij/zij": "demonstreerde",
+          "wij": "demonstreerden",
+          "jullie": "demonstreerden",
+          "zij_plural": "demonstreerden"
+        },
+        "perfect": "gedemonstreerd"
+      }
+    },
+    {
+      "id": "v243",
+      "word": "dempen",
+      "translation": "to fill in; to dampen",
+      "conjugations": {
+        "present": {
+          "ik": "demp",
+          "jij": "dempt",
+          "u": "dempt",
+          "hij/zij": "dempt",
+          "wij": "dempen",
+          "jullie": "dempen",
+          "zij_plural": "dempen"
+        },
+        "past": {
+          "ik": "dempte",
+          "jij": "dempte",
+          "u": "dempte",
+          "hij/zij": "dempte",
+          "wij": "dempten",
+          "jullie": "dempten",
+          "zij_plural": "dempten"
+        },
+        "perfect": "gedempt"
+      }
+    },
+    {
+      "id": "v244",
       "word": "denken",
       "translation": "to think",
       "conjugations": {
@@ -10185,7 +18749,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v148",
+      "id": "v245",
+      "word": "deugen",
+      "translation": "to be good, to be fit",
+      "conjugations": {
+        "present": {
+          "ik": "deug",
+          "jij": "deugt",
+          "u": "deugt",
+          "hij/zij": "deugt",
+          "wij": "deugen",
+          "jullie": "deugen",
+          "zij_plural": "deugen"
+        },
+        "past": {
+          "ik": "deugde",
+          "jij": "deugde",
+          "u": "deugde",
+          "hij/zij": "deugde",
+          "wij": "deugden",
+          "jullie": "deugden",
+          "zij_plural": "deugden"
+        },
+        "perfect": "gedeugd"
+      }
+    },
+    {
+      "id": "v246",
       "word": "dienen",
       "translation": "to serve",
       "conjugations": {
@@ -10211,7 +18801,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v149",
+      "id": "v247",
       "word": "doden",
       "translation": "to kill",
       "conjugations": {
@@ -10237,7 +18827,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v150",
+      "id": "v248",
+      "word": "doelen",
+      "translation": "to aim at",
+      "conjugations": {
+        "present": {
+          "ik": "doel",
+          "jij": "doelt",
+          "u": "doelt",
+          "hij/zij": "doelt",
+          "wij": "doelen",
+          "jullie": "doelen",
+          "zij_plural": "doelen"
+        },
+        "past": {
+          "ik": "doelde",
+          "jij": "doelde",
+          "u": "doelde",
+          "hij/zij": "doelde",
+          "wij": "doelden",
+          "jullie": "doelden",
+          "zij_plural": "doelden"
+        },
+        "perfect": "gedoeld"
+      }
+    },
+    {
+      "id": "v249",
       "word": "doen",
       "translation": "to do",
       "conjugations": {
@@ -10263,7 +18879,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v151",
+      "id": "v250",
+      "word": "domineren",
+      "translation": "to dominate",
+      "conjugations": {
+        "present": {
+          "ik": "domineer",
+          "jij": "domineert",
+          "u": "domineert",
+          "hij/zij": "domineert",
+          "wij": "domineren",
+          "jullie": "domineren",
+          "zij_plural": "domineren"
+        },
+        "past": {
+          "ik": "domineerde",
+          "jij": "domineerde",
+          "u": "domineerde",
+          "hij/zij": "domineerde",
+          "wij": "domineerden",
+          "jullie": "domineerden",
+          "zij_plural": "domineerden"
+        },
+        "perfect": "gedomineerd"
+      }
+    },
+    {
+      "id": "v251",
+      "word": "donderen",
+      "translation": "to thunder",
+      "conjugations": {
+        "present": {
+          "ik": "dondeer",
+          "jij": "dondeert",
+          "u": "dondeert",
+          "hij/zij": "dondeert",
+          "wij": "donderen",
+          "jullie": "donderen",
+          "zij_plural": "donderen"
+        },
+        "past": {
+          "ik": "dondeerde",
+          "jij": "dondeerde",
+          "u": "dondeerde",
+          "hij/zij": "dondeerde",
+          "wij": "dondeerden",
+          "jullie": "dondeerden",
+          "zij_plural": "dondeerden"
+        },
+        "perfect": "gedondeerd"
+      }
+    },
+    {
+      "id": "v252",
+      "word": "doodgaan",
+      "translation": "to die",
+      "conjugations": {
+        "present": {
+          "ik": "doodgaa",
+          "jij": "doodgaat",
+          "u": "doodgaat",
+          "hij/zij": "doodgaat",
+          "wij": "doodgaan",
+          "jullie": "doodgaan",
+          "zij_plural": "doodgaan"
+        },
+        "past": {
+          "ik": "doodgaade",
+          "jij": "doodgaade",
+          "u": "doodgaade",
+          "hij/zij": "doodgaade",
+          "wij": "doodgaaden",
+          "jullie": "doodgaaden",
+          "zij_plural": "doodgaaden"
+        },
+        "perfect": "gedoodgaad"
+      }
+    },
+    {
+      "id": "v253",
       "word": "doorbreken",
       "translation": "to break through",
       "conjugations": {
@@ -10289,7 +18983,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v152",
+      "id": "v254",
       "word": "doorbrengen",
       "translation": "to spend (time)",
       "conjugations": {
@@ -10315,7 +19009,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v153",
+      "id": "v255",
       "word": "doordringen",
       "translation": "to penetrate; to realize",
       "conjugations": {
@@ -10341,7 +19035,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v154",
+      "id": "v256",
       "word": "doorgaan",
       "translation": "to continue",
       "conjugations": {
@@ -10367,7 +19061,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v155",
+      "id": "v257",
+      "word": "doorgeven",
+      "translation": "to pass on",
+      "conjugations": {
+        "present": {
+          "ik": "doorgeef",
+          "jij": "doorgeeft",
+          "u": "doorgeeft",
+          "hij/zij": "doorgeeft",
+          "wij": "doorgeven",
+          "jullie": "doorgeven",
+          "zij_plural": "doorgeven"
+        },
+        "past": {
+          "ik": "doorgeefte",
+          "jij": "doorgeefte",
+          "u": "doorgeefte",
+          "hij/zij": "doorgeefte",
+          "wij": "doorgeeften",
+          "jullie": "doorgeeften",
+          "zij_plural": "doorgeeften"
+        },
+        "perfect": "gedoorgeeft"
+      }
+    },
+    {
+      "id": "v258",
       "word": "doorlopen",
       "translation": "to walk through; to continue",
       "conjugations": {
@@ -10393,7 +19113,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v156",
+      "id": "v259",
+      "word": "doormaken",
+      "translation": "to go through, to experience",
+      "conjugations": {
+        "present": {
+          "ik": "doormaak",
+          "jij": "doormaakt",
+          "u": "doormaakt",
+          "hij/zij": "doormaakt",
+          "wij": "doormaken",
+          "jullie": "doormaken",
+          "zij_plural": "doormaken"
+        },
+        "past": {
+          "ik": "doormaakte",
+          "jij": "doormaakte",
+          "u": "doormaakte",
+          "hij/zij": "doormaakte",
+          "wij": "doormaakten",
+          "jullie": "doormaakten",
+          "zij_plural": "doormaakten"
+        },
+        "perfect": "gedoormaakt"
+      }
+    },
+    {
+      "id": "v260",
+      "word": "doorstaan",
+      "translation": "to endure",
+      "conjugations": {
+        "present": {
+          "ik": "doorstaa",
+          "jij": "doorstaat",
+          "u": "doorstaat",
+          "hij/zij": "doorstaat",
+          "wij": "doorstaan",
+          "jullie": "doorstaan",
+          "zij_plural": "doorstaan"
+        },
+        "past": {
+          "ik": "doorstaade",
+          "jij": "doorstaade",
+          "u": "doorstaade",
+          "hij/zij": "doorstaade",
+          "wij": "doorstaaden",
+          "jullie": "doorstaaden",
+          "zij_plural": "doorstaaden"
+        },
+        "perfect": "gedoorstaad"
+      }
+    },
+    {
+      "id": "v261",
+      "word": "dopen",
+      "translation": "to baptize; to dip",
+      "conjugations": {
+        "present": {
+          "ik": "doop",
+          "jij": "doopt",
+          "u": "doopt",
+          "hij/zij": "doopt",
+          "wij": "dopen",
+          "jullie": "dopen",
+          "zij_plural": "dopen"
+        },
+        "past": {
+          "ik": "doopte",
+          "jij": "doopte",
+          "u": "doopte",
+          "hij/zij": "doopte",
+          "wij": "doopten",
+          "jullie": "doopten",
+          "zij_plural": "doopten"
+        },
+        "perfect": "gedoopt"
+      }
+    },
+    {
+      "id": "v262",
+      "word": "doven",
+      "translation": "to extinguish",
+      "conjugations": {
+        "present": {
+          "ik": "doof",
+          "jij": "dooft",
+          "u": "dooft",
+          "hij/zij": "dooft",
+          "wij": "doven",
+          "jullie": "doven",
+          "zij_plural": "doven"
+        },
+        "past": {
+          "ik": "doofte",
+          "jij": "doofte",
+          "u": "doofte",
+          "hij/zij": "doofte",
+          "wij": "dooften",
+          "jullie": "dooften",
+          "zij_plural": "dooften"
+        },
+        "perfect": "gedooft"
+      }
+    },
+    {
+      "id": "v263",
       "word": "draaien",
       "translation": "to turn, to rotate",
       "conjugations": {
@@ -10419,7 +19243,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v157",
+      "id": "v264",
       "word": "dragen",
       "translation": "to carry; to wear",
       "conjugations": {
@@ -10445,7 +19269,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v158",
+      "id": "v265",
       "word": "dreigen",
       "translation": "to threaten",
       "conjugations": {
@@ -10471,7 +19295,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v159",
+      "id": "v266",
+      "word": "dreunen",
+      "translation": "to rumble, to boom",
+      "conjugations": {
+        "present": {
+          "ik": "dreun",
+          "jij": "dreunt",
+          "u": "dreunt",
+          "hij/zij": "dreunt",
+          "wij": "dreunen",
+          "jullie": "dreunen",
+          "zij_plural": "dreunen"
+        },
+        "past": {
+          "ik": "dreunde",
+          "jij": "dreunde",
+          "u": "dreunde",
+          "hij/zij": "dreunde",
+          "wij": "dreunden",
+          "jullie": "dreunden",
+          "zij_plural": "dreunden"
+        },
+        "perfect": "gedreund"
+      }
+    },
+    {
+      "id": "v267",
+      "word": "drijven",
+      "translation": "to float; to drive",
+      "conjugations": {
+        "present": {
+          "ik": "drijf",
+          "jij": "drijft",
+          "u": "drijft",
+          "hij/zij": "drijft",
+          "wij": "drijven",
+          "jullie": "drijven",
+          "zij_plural": "drijven"
+        },
+        "past": {
+          "ik": "dreef",
+          "jij": "dreef",
+          "u": "dreef",
+          "hij/zij": "dreef",
+          "wij": "dreven",
+          "jullie": "dreven",
+          "zij_plural": "dreven"
+        },
+        "perfect": "gedreven"
+      }
+    },
+    {
+      "id": "v268",
       "word": "dringen",
       "translation": "to push; to urge",
       "conjugations": {
@@ -10497,7 +19373,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v160",
+      "id": "v269",
       "word": "drinken",
       "translation": "to drink",
       "conjugations": {
@@ -10523,7 +19399,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v161",
+      "id": "v270",
       "word": "drogen",
       "translation": "to dry",
       "conjugations": {
@@ -10549,7 +19425,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v162",
+      "id": "v271",
       "word": "dromen",
       "translation": "to dream",
       "conjugations": {
@@ -10575,7 +19451,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v163",
+      "id": "v272",
       "word": "drukken",
       "translation": "to press; to print",
       "conjugations": {
@@ -10601,7 +19477,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v164",
+      "id": "v273",
       "word": "duiden",
       "translation": "to indicate; to interpret",
       "conjugations": {
@@ -10627,7 +19503,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v165",
+      "id": "v274",
+      "word": "duiken",
+      "translation": "to dive",
+      "conjugations": {
+        "present": {
+          "ik": "duik",
+          "jij": "duikt",
+          "u": "duikt",
+          "hij/zij": "duikt",
+          "wij": "duiken",
+          "jullie": "duiken",
+          "zij_plural": "duiken"
+        },
+        "past": {
+          "ik": "duikte",
+          "jij": "duikte",
+          "u": "duikte",
+          "hij/zij": "duikte",
+          "wij": "duikten",
+          "jullie": "duikten",
+          "zij_plural": "duikten"
+        },
+        "perfect": "geduikt"
+      }
+    },
+    {
+      "id": "v275",
+      "word": "dulden",
+      "translation": "to tolerate",
+      "conjugations": {
+        "present": {
+          "ik": "duld",
+          "jij": "duldt",
+          "u": "duldt",
+          "hij/zij": "duldt",
+          "wij": "dulden",
+          "jullie": "dulden",
+          "zij_plural": "dulden"
+        },
+        "past": {
+          "ik": "duldde",
+          "jij": "duldde",
+          "u": "duldde",
+          "hij/zij": "duldde",
+          "wij": "duldden",
+          "jullie": "duldden",
+          "zij_plural": "duldden"
+        },
+        "perfect": "geduldd"
+      }
+    },
+    {
+      "id": "v276",
       "word": "duren",
       "translation": "to last, to take (time)",
       "conjugations": {
@@ -10653,7 +19581,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v166",
+      "id": "v277",
       "word": "durven",
       "translation": "to dare",
       "conjugations": {
@@ -10679,7 +19607,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v167",
+      "id": "v278",
+      "word": "duwen",
+      "translation": "to push",
+      "conjugations": {
+        "present": {
+          "ik": "duuw",
+          "jij": "duuwt",
+          "u": "duuwt",
+          "hij/zij": "duuwt",
+          "wij": "duwen",
+          "jullie": "duwen",
+          "zij_plural": "duwen"
+        },
+        "past": {
+          "ik": "duuwde",
+          "jij": "duuwde",
+          "u": "duuwde",
+          "hij/zij": "duuwde",
+          "wij": "duuwden",
+          "jullie": "duuwden",
+          "zij_plural": "duuwden"
+        },
+        "perfect": "geduuwd"
+      }
+    },
+    {
+      "id": "v279",
+      "word": "dwalen",
+      "translation": "to wander; to err",
+      "conjugations": {
+        "present": {
+          "ik": "dwaal",
+          "jij": "dwaalt",
+          "u": "dwaalt",
+          "hij/zij": "dwaalt",
+          "wij": "dwalen",
+          "jullie": "dwalen",
+          "zij_plural": "dwalen"
+        },
+        "past": {
+          "ik": "dwaalde",
+          "jij": "dwaalde",
+          "u": "dwaalde",
+          "hij/zij": "dwaalde",
+          "wij": "dwaalden",
+          "jullie": "dwaalden",
+          "zij_plural": "dwaalden"
+        },
+        "perfect": "gedwaald"
+      }
+    },
+    {
+      "id": "v280",
       "word": "dwingen",
       "translation": "to force, to compel",
       "conjugations": {
@@ -10705,7 +19685,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v168",
+      "id": "v281",
+      "word": "eindigen",
+      "translation": "to end",
+      "conjugations": {
+        "present": {
+          "ik": "eindiig",
+          "jij": "eindiigt",
+          "u": "eindiigt",
+          "hij/zij": "eindiigt",
+          "wij": "eindigen",
+          "jullie": "eindigen",
+          "zij_plural": "eindigen"
+        },
+        "past": {
+          "ik": "eindiigde",
+          "jij": "eindiigde",
+          "u": "eindiigde",
+          "hij/zij": "eindiigde",
+          "wij": "eindiigden",
+          "jullie": "eindiigden",
+          "zij_plural": "eindiigden"
+        },
+        "perfect": "geeindiigd"
+      }
+    },
+    {
+      "id": "v282",
       "word": "eisen",
       "translation": "to demand",
       "conjugations": {
@@ -10731,7 +19737,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v169",
+      "id": "v283",
       "word": "ergeren",
       "translation": "to annoy, to irritate",
       "conjugations": {
@@ -10757,7 +19763,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v170",
+      "id": "v284",
       "word": "erkennen",
       "translation": "to acknowledge, to recognize",
       "conjugations": {
@@ -10783,7 +19789,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v171",
+      "id": "v285",
       "word": "ervaren",
       "translation": "to experience",
       "conjugations": {
@@ -10809,7 +19815,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v172",
+      "id": "v286",
+      "word": "experimenteren",
+      "translation": "to experiment",
+      "conjugations": {
+        "present": {
+          "ik": "experimenteer",
+          "jij": "experimenteert",
+          "u": "experimenteert",
+          "hij/zij": "experimenteert",
+          "wij": "experimenteren",
+          "jullie": "experimenteren",
+          "zij_plural": "experimenteren"
+        },
+        "past": {
+          "ik": "experimenteerde",
+          "jij": "experimenteerde",
+          "u": "experimenteerde",
+          "hij/zij": "experimenteerde",
+          "wij": "experimenteerden",
+          "jullie": "experimenteerden",
+          "zij_plural": "experimenteerden"
+        },
+        "perfect": "geexperimenteerd"
+      }
+    },
+    {
+      "id": "v287",
       "word": "falen",
       "translation": "to fail",
       "conjugations": {
@@ -10835,7 +19867,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v173",
+      "id": "v288",
+      "word": "fascineren",
+      "translation": "to fascinate",
+      "conjugations": {
+        "present": {
+          "ik": "fascineer",
+          "jij": "fascineert",
+          "u": "fascineert",
+          "hij/zij": "fascineert",
+          "wij": "fascineren",
+          "jullie": "fascineren",
+          "zij_plural": "fascineren"
+        },
+        "past": {
+          "ik": "fascineerde",
+          "jij": "fascineerde",
+          "u": "fascineerde",
+          "hij/zij": "fascineerde",
+          "wij": "fascineerden",
+          "jullie": "fascineerden",
+          "zij_plural": "fascineerden"
+        },
+        "perfect": "gefascineerd"
+      }
+    },
+    {
+      "id": "v289",
+      "word": "fietsen",
+      "translation": "to cycle",
+      "conjugations": {
+        "present": {
+          "ik": "fiets",
+          "jij": "fietst",
+          "u": "fietst",
+          "hij/zij": "fietst",
+          "wij": "fietsen",
+          "jullie": "fietsen",
+          "zij_plural": "fietsen"
+        },
+        "past": {
+          "ik": "fietste",
+          "jij": "fietste",
+          "u": "fietste",
+          "hij/zij": "fietste",
+          "wij": "fietsten",
+          "jullie": "fietsten",
+          "zij_plural": "fietsten"
+        },
+        "perfect": "gefietst"
+      }
+    },
+    {
+      "id": "v290",
+      "word": "fluisteren",
+      "translation": "to whisper",
+      "conjugations": {
+        "present": {
+          "ik": "fluisteer",
+          "jij": "fluisteert",
+          "u": "fluisteert",
+          "hij/zij": "fluisteert",
+          "wij": "fluisteren",
+          "jullie": "fluisteren",
+          "zij_plural": "fluisteren"
+        },
+        "past": {
+          "ik": "fluisteerde",
+          "jij": "fluisteerde",
+          "u": "fluisteerde",
+          "hij/zij": "fluisteerde",
+          "wij": "fluisteerden",
+          "jullie": "fluisteerden",
+          "zij_plural": "fluisteerden"
+        },
+        "perfect": "gefluisteerd"
+      }
+    },
+    {
+      "id": "v291",
       "word": "fluiten",
       "translation": "to whistle",
       "conjugations": {
@@ -10861,7 +19971,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v174",
+      "id": "v292",
       "word": "formuleren",
       "translation": "to formulate",
       "conjugations": {
@@ -10887,7 +19997,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v175",
+      "id": "v293",
+      "word": "fotograferen",
+      "translation": "to photograph",
+      "conjugations": {
+        "present": {
+          "ik": "fotografeer",
+          "jij": "fotografeert",
+          "u": "fotografeert",
+          "hij/zij": "fotografeert",
+          "wij": "fotograferen",
+          "jullie": "fotograferen",
+          "zij_plural": "fotograferen"
+        },
+        "past": {
+          "ik": "fotografeerde",
+          "jij": "fotografeerde",
+          "u": "fotografeerde",
+          "hij/zij": "fotografeerde",
+          "wij": "fotografeerden",
+          "jullie": "fotografeerden",
+          "zij_plural": "fotografeerden"
+        },
+        "perfect": "gefotografeerd"
+      }
+    },
+    {
+      "id": "v294",
       "word": "functioneren",
       "translation": "to function",
       "conjugations": {
@@ -10913,7 +20049,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v176",
+      "id": "v295",
+      "word": "fungeren",
+      "translation": "to function as",
+      "conjugations": {
+        "present": {
+          "ik": "fungeer",
+          "jij": "fungeert",
+          "u": "fungeert",
+          "hij/zij": "fungeert",
+          "wij": "fungeren",
+          "jullie": "fungeren",
+          "zij_plural": "fungeren"
+        },
+        "past": {
+          "ik": "fungeerde",
+          "jij": "fungeerde",
+          "u": "fungeerde",
+          "hij/zij": "fungeerde",
+          "wij": "fungeerden",
+          "jullie": "fungeerden",
+          "zij_plural": "fungeerden"
+        },
+        "perfect": "gefungeerd"
+      }
+    },
+    {
+      "id": "v296",
       "word": "gaan",
       "translation": "to go",
       "conjugations": {
@@ -10939,7 +20101,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v177",
+      "id": "v297",
+      "word": "gadeslaan",
+      "translation": "to observe, to watch",
+      "conjugations": {
+        "present": {
+          "ik": "gadeslaa",
+          "jij": "gadeslaat",
+          "u": "gadeslaat",
+          "hij/zij": "gadeslaat",
+          "wij": "gadeslaan",
+          "jullie": "gadeslaan",
+          "zij_plural": "gadeslaan"
+        },
+        "past": {
+          "ik": "gadeslaade",
+          "jij": "gadeslaade",
+          "u": "gadeslaade",
+          "hij/zij": "gadeslaade",
+          "wij": "gadeslaaden",
+          "jullie": "gadeslaaden",
+          "zij_plural": "gadeslaaden"
+        },
+        "perfect": "gegadeslaad"
+      }
+    },
+    {
+      "id": "v298",
+      "word": "gapen",
+      "translation": "to yawn",
+      "conjugations": {
+        "present": {
+          "ik": "gaap",
+          "jij": "gaapt",
+          "u": "gaapt",
+          "hij/zij": "gaapt",
+          "wij": "gapen",
+          "jullie": "gapen",
+          "zij_plural": "gapen"
+        },
+        "past": {
+          "ik": "gaapte",
+          "jij": "gaapte",
+          "u": "gaapte",
+          "hij/zij": "gaapte",
+          "wij": "gaapten",
+          "jullie": "gaapten",
+          "zij_plural": "gaapten"
+        },
+        "perfect": "gegaapt"
+      }
+    },
+    {
+      "id": "v299",
+      "word": "garanderen",
+      "translation": "to guarantee",
+      "conjugations": {
+        "present": {
+          "ik": "garandeer",
+          "jij": "garandeert",
+          "u": "garandeert",
+          "hij/zij": "garandeert",
+          "wij": "garanderen",
+          "jullie": "garanderen",
+          "zij_plural": "garanderen"
+        },
+        "past": {
+          "ik": "garandeerde",
+          "jij": "garandeerde",
+          "u": "garandeerde",
+          "hij/zij": "garandeerde",
+          "wij": "garandeerden",
+          "jullie": "garandeerden",
+          "zij_plural": "garandeerden"
+        },
+        "perfect": "gegarandeerd"
+      }
+    },
+    {
+      "id": "v300",
+      "word": "gebaren",
+      "translation": "to gesture",
+      "conjugations": {
+        "present": {
+          "ik": "gebaar",
+          "jij": "gebaart",
+          "u": "gebaart",
+          "hij/zij": "gebaart",
+          "wij": "gebaren",
+          "jullie": "gebaren",
+          "zij_plural": "gebaren"
+        },
+        "past": {
+          "ik": "gebaarde",
+          "jij": "gebaarde",
+          "u": "gebaarde",
+          "hij/zij": "gebaarde",
+          "wij": "gebaarden",
+          "jullie": "gebaarden",
+          "zij_plural": "gebaarden"
+        },
+        "perfect": "gebaard"
+      }
+    },
+    {
+      "id": "v301",
       "word": "gebeuren",
       "translation": "to happen",
       "conjugations": {
@@ -10965,7 +20231,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v178",
+      "id": "v302",
+      "word": "gebieden",
+      "translation": "to command; to demand",
+      "conjugations": {
+        "present": {
+          "ik": "gebied",
+          "jij": "gebiedt",
+          "u": "gebiedt",
+          "hij/zij": "gebiedt",
+          "wij": "gebieden",
+          "jullie": "gebieden",
+          "zij_plural": "gebieden"
+        },
+        "past": {
+          "ik": "gebiedde",
+          "jij": "gebiedde",
+          "u": "gebiedde",
+          "hij/zij": "gebiedde",
+          "wij": "gebiedden",
+          "jullie": "gebiedden",
+          "zij_plural": "gebiedden"
+        },
+        "perfect": "gebiedd"
+      }
+    },
+    {
+      "id": "v303",
       "word": "gebruiken",
       "translation": "to use",
       "conjugations": {
@@ -10991,7 +20283,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v179",
+      "id": "v304",
+      "word": "gedragen",
+      "translation": "to behave",
+      "conjugations": {
+        "present": {
+          "ik": "gedraag",
+          "jij": "gedraagt",
+          "u": "gedraagt",
+          "hij/zij": "gedraagt",
+          "wij": "gedragen",
+          "jullie": "gedragen",
+          "zij_plural": "gedragen"
+        },
+        "past": {
+          "ik": "gedraagde",
+          "jij": "gedraagde",
+          "u": "gedraagde",
+          "hij/zij": "gedraagde",
+          "wij": "gedraagden",
+          "jullie": "gedraagden",
+          "zij_plural": "gedraagden"
+        },
+        "perfect": "gedraagd"
+      }
+    },
+    {
+      "id": "v305",
+      "word": "gehoorzamen",
+      "translation": "to obey",
+      "conjugations": {
+        "present": {
+          "ik": "gehoorzaam",
+          "jij": "gehoorzaamt",
+          "u": "gehoorzaamt",
+          "hij/zij": "gehoorzaamt",
+          "wij": "gehoorzamen",
+          "jullie": "gehoorzamen",
+          "zij_plural": "gehoorzamen"
+        },
+        "past": {
+          "ik": "gehoorzaamde",
+          "jij": "gehoorzaamde",
+          "u": "gehoorzaamde",
+          "hij/zij": "gehoorzaamde",
+          "wij": "gehoorzaamden",
+          "jullie": "gehoorzaamden",
+          "zij_plural": "gehoorzaamden"
+        },
+        "perfect": "gehoorzaamd"
+      }
+    },
+    {
+      "id": "v306",
       "word": "gelden",
       "translation": "to apply, to be valid",
       "conjugations": {
@@ -11017,7 +20361,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v180",
+      "id": "v307",
+      "word": "gelijken",
+      "translation": "to resemble",
+      "conjugations": {
+        "present": {
+          "ik": "gelijk",
+          "jij": "gelijkt",
+          "u": "gelijkt",
+          "hij/zij": "gelijkt",
+          "wij": "gelijken",
+          "jullie": "gelijken",
+          "zij_plural": "gelijken"
+        },
+        "past": {
+          "ik": "gelijkte",
+          "jij": "gelijkte",
+          "u": "gelijkte",
+          "hij/zij": "gelijkte",
+          "wij": "gelijkten",
+          "jullie": "gelijkten",
+          "zij_plural": "gelijkten"
+        },
+        "perfect": "gelijkt"
+      }
+    },
+    {
+      "id": "v308",
       "word": "geloven",
       "translation": "to believe",
       "conjugations": {
@@ -11043,7 +20413,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v181",
+      "id": "v309",
+      "word": "genezen",
+      "translation": "to heal, to cure",
+      "conjugations": {
+        "present": {
+          "ik": "genees",
+          "jij": "geneest",
+          "u": "geneest",
+          "hij/zij": "geneest",
+          "wij": "genezen",
+          "jullie": "genezen",
+          "zij_plural": "genezen"
+        },
+        "past": {
+          "ik": "genas",
+          "jij": "genas",
+          "u": "genas",
+          "hij/zij": "genas",
+          "wij": "genazen",
+          "jullie": "genazen",
+          "zij_plural": "genazen"
+        },
+        "perfect": "genezen"
+      }
+    },
+    {
+      "id": "v310",
       "word": "genieten",
       "translation": "to enjoy",
       "conjugations": {
@@ -11069,7 +20465,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v182",
+      "id": "v311",
       "word": "geraken",
       "translation": "to get to; to become",
       "conjugations": {
@@ -11095,7 +20491,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v183",
+      "id": "v312",
+      "word": "geruststellen",
+      "translation": "to reassure",
+      "conjugations": {
+        "present": {
+          "ik": "geruststell",
+          "jij": "geruststellt",
+          "u": "geruststellt",
+          "hij/zij": "geruststellt",
+          "wij": "geruststellen",
+          "jullie": "geruststellen",
+          "zij_plural": "geruststellen"
+        },
+        "past": {
+          "ik": "geruststellde",
+          "jij": "geruststellde",
+          "u": "geruststellde",
+          "hij/zij": "geruststellde",
+          "wij": "geruststellden",
+          "jullie": "geruststellden",
+          "zij_plural": "geruststellden"
+        },
+        "perfect": "geruststelld"
+      }
+    },
+    {
+      "id": "v313",
       "word": "geschieden",
       "translation": "to happen, to occur",
       "conjugations": {
@@ -11121,7 +20543,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v184",
+      "id": "v314",
       "word": "getuigen",
       "translation": "to testify",
       "conjugations": {
@@ -11147,7 +20569,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v185",
+      "id": "v315",
+      "word": "geuren",
+      "translation": "to smell (good)",
+      "conjugations": {
+        "present": {
+          "ik": "geur",
+          "jij": "geurt",
+          "u": "geurt",
+          "hij/zij": "geurt",
+          "wij": "geuren",
+          "jullie": "geuren",
+          "zij_plural": "geuren"
+        },
+        "past": {
+          "ik": "geurde",
+          "jij": "geurde",
+          "u": "geurde",
+          "hij/zij": "geurde",
+          "wij": "geurden",
+          "jullie": "geurden",
+          "zij_plural": "geurden"
+        },
+        "perfect": "geurd"
+      }
+    },
+    {
+      "id": "v316",
       "word": "geven",
       "translation": "to give",
       "conjugations": {
@@ -11173,7 +20621,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v186",
+      "id": "v317",
       "word": "gieten",
       "translation": "to pour",
       "conjugations": {
@@ -11199,7 +20647,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v187",
+      "id": "v318",
       "word": "gillen",
       "translation": "to scream",
       "conjugations": {
@@ -11225,7 +20673,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v188",
+      "id": "v319",
+      "word": "glijden",
+      "translation": "to slide, to glide",
+      "conjugations": {
+        "present": {
+          "ik": "glijd",
+          "jij": "glijdt",
+          "u": "glijdt",
+          "hij/zij": "glijdt",
+          "wij": "glijden",
+          "jullie": "glijden",
+          "zij_plural": "glijden"
+        },
+        "past": {
+          "ik": "glijdde",
+          "jij": "glijdde",
+          "u": "glijdde",
+          "hij/zij": "glijdde",
+          "wij": "glijdden",
+          "jullie": "glijdden",
+          "zij_plural": "glijdden"
+        },
+        "perfect": "geglijdd"
+      }
+    },
+    {
+      "id": "v320",
       "word": "glimlachen",
       "translation": "to smile",
       "conjugations": {
@@ -11251,7 +20725,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v189",
+      "id": "v321",
       "word": "glimmen",
       "translation": "to shine, to gleam",
       "conjugations": {
@@ -11277,7 +20751,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v190",
+      "id": "v322",
+      "word": "glinsteren",
+      "translation": "to glitter, to sparkle",
+      "conjugations": {
+        "present": {
+          "ik": "glinsteer",
+          "jij": "glinsteert",
+          "u": "glinsteert",
+          "hij/zij": "glinsteert",
+          "wij": "glinsteren",
+          "jullie": "glinsteren",
+          "zij_plural": "glinsteren"
+        },
+        "past": {
+          "ik": "glinsteerde",
+          "jij": "glinsteerde",
+          "u": "glinsteerde",
+          "hij/zij": "glinsteerde",
+          "wij": "glinsteerden",
+          "jullie": "glinsteerden",
+          "zij_plural": "glinsteerden"
+        },
+        "perfect": "geglinsteerd"
+      }
+    },
+    {
+      "id": "v323",
       "word": "gloeien",
       "translation": "to glow",
       "conjugations": {
@@ -11303,7 +20803,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v191",
+      "id": "v324",
+      "word": "goedkeuren",
+      "translation": "to approve",
+      "conjugations": {
+        "present": {
+          "ik": "goedkeur",
+          "jij": "goedkeurt",
+          "u": "goedkeurt",
+          "hij/zij": "goedkeurt",
+          "wij": "goedkeuren",
+          "jullie": "goedkeuren",
+          "zij_plural": "goedkeuren"
+        },
+        "past": {
+          "ik": "goedkeurde",
+          "jij": "goedkeurde",
+          "u": "goedkeurde",
+          "hij/zij": "goedkeurde",
+          "wij": "goedkeurden",
+          "jullie": "goedkeurden",
+          "zij_plural": "goedkeurden"
+        },
+        "perfect": "gegoedkeurd"
+      }
+    },
+    {
+      "id": "v325",
+      "word": "golven",
+      "translation": "to wave, to undulate",
+      "conjugations": {
+        "present": {
+          "ik": "golf",
+          "jij": "golft",
+          "u": "golft",
+          "hij/zij": "golft",
+          "wij": "golven",
+          "jullie": "golven",
+          "zij_plural": "golven"
+        },
+        "past": {
+          "ik": "golfte",
+          "jij": "golfte",
+          "u": "golfte",
+          "hij/zij": "golfte",
+          "wij": "golften",
+          "jullie": "golften",
+          "zij_plural": "golften"
+        },
+        "perfect": "gegolft"
+      }
+    },
+    {
+      "id": "v326",
+      "word": "gooien",
+      "translation": "to throw",
+      "conjugations": {
+        "present": {
+          "ik": "gooi",
+          "jij": "gooit",
+          "u": "gooit",
+          "hij/zij": "gooit",
+          "wij": "gooien",
+          "jullie": "gooien",
+          "zij_plural": "gooien"
+        },
+        "past": {
+          "ik": "gooide",
+          "jij": "gooide",
+          "u": "gooide",
+          "hij/zij": "gooide",
+          "wij": "gooiden",
+          "jullie": "gooiden",
+          "zij_plural": "gooiden"
+        },
+        "perfect": "gegooid"
+      }
+    },
+    {
+      "id": "v327",
       "word": "graven",
       "translation": "to dig",
       "conjugations": {
@@ -11329,7 +20907,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v192",
+      "id": "v328",
+      "word": "grenzen",
+      "translation": "to border on",
+      "conjugations": {
+        "present": {
+          "ik": "grens",
+          "jij": "grenst",
+          "u": "grenst",
+          "hij/zij": "grenst",
+          "wij": "grenzen",
+          "jullie": "grenzen",
+          "zij_plural": "grenzen"
+        },
+        "past": {
+          "ik": "grenste",
+          "jij": "grenste",
+          "u": "grenste",
+          "hij/zij": "grenste",
+          "wij": "grensten",
+          "jullie": "grensten",
+          "zij_plural": "grensten"
+        },
+        "perfect": "gegrenst"
+      }
+    },
+    {
+      "id": "v329",
       "word": "grijnzen",
       "translation": "to grin",
       "conjugations": {
@@ -11355,7 +20959,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v193",
+      "id": "v330",
+      "word": "grijpen",
+      "translation": "to grab, to seize",
+      "conjugations": {
+        "present": {
+          "ik": "grijp",
+          "jij": "grijpt",
+          "u": "grijpt",
+          "hij/zij": "grijpt",
+          "wij": "grijpen",
+          "jullie": "grijpen",
+          "zij_plural": "grijpen"
+        },
+        "past": {
+          "ik": "greep",
+          "jij": "greep",
+          "u": "greep",
+          "hij/zij": "greep",
+          "wij": "grepen",
+          "jullie": "grepen",
+          "zij_plural": "grepen"
+        },
+        "perfect": "gegrepen"
+      }
+    },
+    {
+      "id": "v331",
       "word": "grinniken",
       "translation": "to chuckle",
       "conjugations": {
@@ -11381,7 +21011,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v194",
+      "id": "v332",
       "word": "groeien",
       "translation": "to grow",
       "conjugations": {
@@ -11407,7 +21037,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v195",
+      "id": "v333",
       "word": "groeten",
       "translation": "to greet",
       "conjugations": {
@@ -11433,7 +21063,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v196",
+      "id": "v334",
       "word": "grommen",
       "translation": "to growl",
       "conjugations": {
@@ -11459,7 +21089,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v197",
+      "id": "v335",
       "word": "gunnen",
       "translation": "to grant; to not begrudge",
       "conjugations": {
@@ -11485,7 +21115,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v198",
+      "id": "v336",
       "word": "haasten",
       "translation": "to hurry",
       "conjugations": {
@@ -11511,7 +21141,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v199",
+      "id": "v337",
+      "word": "haken",
+      "translation": "to hook; to crochet",
+      "conjugations": {
+        "present": {
+          "ik": "haak",
+          "jij": "haakt",
+          "u": "haakt",
+          "hij/zij": "haakt",
+          "wij": "haken",
+          "jullie": "haken",
+          "zij_plural": "haken"
+        },
+        "past": {
+          "ik": "haakte",
+          "jij": "haakte",
+          "u": "haakte",
+          "hij/zij": "haakte",
+          "wij": "haakten",
+          "jullie": "haakten",
+          "zij_plural": "haakten"
+        },
+        "perfect": "gehaakt"
+      }
+    },
+    {
+      "id": "v338",
+      "word": "hakken",
+      "translation": "to chop",
+      "conjugations": {
+        "present": {
+          "ik": "hakk",
+          "jij": "hakkt",
+          "u": "hakkt",
+          "hij/zij": "hakkt",
+          "wij": "hakken",
+          "jullie": "hakken",
+          "zij_plural": "hakken"
+        },
+        "past": {
+          "ik": "hakkte",
+          "jij": "hakkte",
+          "u": "hakkte",
+          "hij/zij": "hakkte",
+          "wij": "hakkten",
+          "jullie": "hakkten",
+          "zij_plural": "hakkten"
+        },
+        "perfect": "gehakkt"
+      }
+    },
+    {
+      "id": "v339",
       "word": "halen",
       "translation": "to get, to fetch",
       "conjugations": {
@@ -11537,7 +21219,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v200",
+      "id": "v340",
       "word": "handelen",
       "translation": "to act; to trade",
       "conjugations": {
@@ -11563,7 +21245,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v201",
+      "id": "v341",
+      "word": "handhaven",
+      "translation": "to maintain, to uphold",
+      "conjugations": {
+        "present": {
+          "ik": "handhaaf",
+          "jij": "handhaaft",
+          "u": "handhaaft",
+          "hij/zij": "handhaaft",
+          "wij": "handhaven",
+          "jullie": "handhaven",
+          "zij_plural": "handhaven"
+        },
+        "past": {
+          "ik": "handhaafte",
+          "jij": "handhaafte",
+          "u": "handhaafte",
+          "hij/zij": "handhaafte",
+          "wij": "handhaaften",
+          "jullie": "handhaaften",
+          "zij_plural": "handhaaften"
+        },
+        "perfect": "gehandhaaft"
+      }
+    },
+    {
+      "id": "v342",
       "word": "hangen",
       "translation": "to hang",
       "conjugations": {
@@ -11589,7 +21297,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v202",
+      "id": "v343",
       "word": "hanteren",
       "translation": "to handle",
       "conjugations": {
@@ -11615,7 +21323,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v203",
+      "id": "v344",
       "word": "haten",
       "translation": "to hate",
       "conjugations": {
@@ -11641,7 +21349,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v204",
+      "id": "v345",
+      "word": "hebben",
+      "translation": "to have",
+      "conjugations": {
+        "present": {
+          "ik": "heb",
+          "jij": "hebt",
+          "u": "hebt",
+          "hij/zij": "heeft",
+          "wij": "hebben",
+          "jullie": "hebben",
+          "zij_plural": "hebben"
+        },
+        "past": {
+          "ik": "had",
+          "jij": "had",
+          "u": "had",
+          "hij/zij": "had",
+          "wij": "hadden",
+          "jullie": "hadden",
+          "zij_plural": "hadden"
+        },
+        "perfect": "gehad"
+      }
+    },
+    {
+      "id": "v346",
       "word": "hechten",
       "translation": "to attach; to value",
       "conjugations": {
@@ -11667,7 +21401,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v205",
+      "id": "v347",
+      "word": "heersen",
+      "translation": "to rule; to prevail",
+      "conjugations": {
+        "present": {
+          "ik": "heers",
+          "jij": "heerst",
+          "u": "heerst",
+          "hij/zij": "heerst",
+          "wij": "heersen",
+          "jullie": "heersen",
+          "zij_plural": "heersen"
+        },
+        "past": {
+          "ik": "heerste",
+          "jij": "heerste",
+          "u": "heerste",
+          "hij/zij": "heerste",
+          "wij": "heersten",
+          "jullie": "heersten",
+          "zij_plural": "heersten"
+        },
+        "perfect": "geheerst"
+      }
+    },
+    {
+      "id": "v348",
       "word": "heffen",
       "translation": "to raise; to levy",
       "conjugations": {
@@ -11693,7 +21453,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v206",
+      "id": "v349",
       "word": "helpen",
       "translation": "to help",
       "conjugations": {
@@ -11719,7 +21479,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v207",
+      "id": "v350",
       "word": "herhalen",
       "translation": "to repeat",
       "conjugations": {
@@ -11745,7 +21505,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v208",
+      "id": "v351",
       "word": "herinneren",
       "translation": "to remember; to remind",
       "conjugations": {
@@ -11771,7 +21531,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v209",
+      "id": "v352",
       "word": "herkennen",
       "translation": "to recognize",
       "conjugations": {
@@ -11797,7 +21557,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v210",
+      "id": "v353",
       "word": "herstellen",
       "translation": "to repair; to recover",
       "conjugations": {
@@ -11823,7 +21583,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v211",
+      "id": "v354",
+      "word": "heten",
+      "translation": "to be called",
+      "conjugations": {
+        "present": {
+          "ik": "heet",
+          "jij": "heet",
+          "u": "heet",
+          "hij/zij": "heet",
+          "wij": "heten",
+          "jullie": "heten",
+          "zij_plural": "heten"
+        },
+        "past": {
+          "ik": "heette",
+          "jij": "heette",
+          "u": "heette",
+          "hij/zij": "heette",
+          "wij": "heetten",
+          "jullie": "heetten",
+          "zij_plural": "heetten"
+        },
+        "perfect": "geheett"
+      }
+    },
+    {
+      "id": "v355",
       "word": "hijgen",
       "translation": "to pant",
       "conjugations": {
@@ -11849,7 +21635,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v212",
+      "id": "v356",
+      "word": "hijsen",
+      "translation": "to hoist",
+      "conjugations": {
+        "present": {
+          "ik": "hijs",
+          "jij": "hijst",
+          "u": "hijst",
+          "hij/zij": "hijst",
+          "wij": "hijsen",
+          "jullie": "hijsen",
+          "zij_plural": "hijsen"
+        },
+        "past": {
+          "ik": "hijste",
+          "jij": "hijste",
+          "u": "hijste",
+          "hij/zij": "hijste",
+          "wij": "hijsten",
+          "jullie": "hijsten",
+          "zij_plural": "hijsten"
+        },
+        "perfect": "gehijst"
+      }
+    },
+    {
+      "id": "v357",
+      "word": "hinderen",
+      "translation": "to hinder, to bother",
+      "conjugations": {
+        "present": {
+          "ik": "hindeer",
+          "jij": "hindeert",
+          "u": "hindeert",
+          "hij/zij": "hindeert",
+          "wij": "hinderen",
+          "jullie": "hinderen",
+          "zij_plural": "hinderen"
+        },
+        "past": {
+          "ik": "hindeerde",
+          "jij": "hindeerde",
+          "u": "hindeerde",
+          "hij/zij": "hindeerde",
+          "wij": "hindeerden",
+          "jullie": "hindeerden",
+          "zij_plural": "hindeerden"
+        },
+        "perfect": "gehindeerd"
+      }
+    },
+    {
+      "id": "v358",
+      "word": "hoesten",
+      "translation": "to cough",
+      "conjugations": {
+        "present": {
+          "ik": "hoest",
+          "jij": "hoest",
+          "u": "hoest",
+          "hij/zij": "hoest",
+          "wij": "hoesten",
+          "jullie": "hoesten",
+          "zij_plural": "hoesten"
+        },
+        "past": {
+          "ik": "hoestte",
+          "jij": "hoestte",
+          "u": "hoestte",
+          "hij/zij": "hoestte",
+          "wij": "hoestten",
+          "jullie": "hoestten",
+          "zij_plural": "hoestten"
+        },
+        "perfect": "gehoestt"
+      }
+    },
+    {
+      "id": "v359",
+      "word": "hoeven",
+      "translation": "to need to",
+      "conjugations": {
+        "present": {
+          "ik": "hoef",
+          "jij": "hoeft",
+          "u": "hoeft",
+          "hij/zij": "hoeft",
+          "wij": "hoeven",
+          "jullie": "hoeven",
+          "zij_plural": "hoeven"
+        },
+        "past": {
+          "ik": "hoefte",
+          "jij": "hoefte",
+          "u": "hoefte",
+          "hij/zij": "hoefte",
+          "wij": "hoeften",
+          "jullie": "hoeften",
+          "zij_plural": "hoeften"
+        },
+        "perfect": "gehoeft"
+      }
+    },
+    {
+      "id": "v360",
       "word": "hollen",
       "translation": "to run",
       "conjugations": {
@@ -11875,7 +21765,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v213",
+      "id": "v361",
+      "word": "hopen",
+      "translation": "to hope",
+      "conjugations": {
+        "present": {
+          "ik": "hoop",
+          "jij": "hoopt",
+          "u": "hoopt",
+          "hij/zij": "hoopt",
+          "wij": "hopen",
+          "jullie": "hopen",
+          "zij_plural": "hopen"
+        },
+        "past": {
+          "ik": "hoopte",
+          "jij": "hoopte",
+          "u": "hoopte",
+          "hij/zij": "hoopte",
+          "wij": "hoopten",
+          "jullie": "hoopten",
+          "zij_plural": "hoopten"
+        },
+        "perfect": "gehoopt"
+      }
+    },
+    {
+      "id": "v362",
       "word": "horen",
       "translation": "to hear; to belong",
       "conjugations": {
@@ -11901,7 +21817,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v214",
+      "id": "v363",
       "word": "houden",
       "translation": "to hold; to keep; to love",
       "conjugations": {
@@ -11927,7 +21843,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v215",
+      "id": "v364",
+      "word": "huilen",
+      "translation": "to cry",
+      "conjugations": {
+        "present": {
+          "ik": "huil",
+          "jij": "huilt",
+          "u": "huilt",
+          "hij/zij": "huilt",
+          "wij": "huilen",
+          "jullie": "huilen",
+          "zij_plural": "huilen"
+        },
+        "past": {
+          "ik": "huilde",
+          "jij": "huilde",
+          "u": "huilde",
+          "hij/zij": "huilde",
+          "wij": "huilden",
+          "jullie": "huilden",
+          "zij_plural": "huilden"
+        },
+        "perfect": "gehuild"
+      }
+    },
+    {
+      "id": "v365",
+      "word": "huiveren",
+      "translation": "to shiver; to shudder",
+      "conjugations": {
+        "present": {
+          "ik": "huiveer",
+          "jij": "huiveert",
+          "u": "huiveert",
+          "hij/zij": "huiveert",
+          "wij": "huiveren",
+          "jullie": "huiveren",
+          "zij_plural": "huiveren"
+        },
+        "past": {
+          "ik": "huiveerde",
+          "jij": "huiveerde",
+          "u": "huiveerde",
+          "hij/zij": "huiveerde",
+          "wij": "huiveerden",
+          "jullie": "huiveerden",
+          "zij_plural": "huiveerden"
+        },
+        "perfect": "gehuiveerd"
+      }
+    },
+    {
+      "id": "v366",
       "word": "huren",
       "translation": "to rent",
       "conjugations": {
@@ -11953,7 +21921,163 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v216",
+      "id": "v367",
+      "word": "identificeren",
+      "translation": "to identify",
+      "conjugations": {
+        "present": {
+          "ik": "identificeer",
+          "jij": "identificeert",
+          "u": "identificeert",
+          "hij/zij": "identificeert",
+          "wij": "identificeren",
+          "jullie": "identificeren",
+          "zij_plural": "identificeren"
+        },
+        "past": {
+          "ik": "identificeerde",
+          "jij": "identificeerde",
+          "u": "identificeerde",
+          "hij/zij": "identificeerde",
+          "wij": "identificeerden",
+          "jullie": "identificeerden",
+          "zij_plural": "identificeerden"
+        },
+        "perfect": "geidentificeerd"
+      }
+    },
+    {
+      "id": "v368",
+      "word": "illustreren",
+      "translation": "to illustrate",
+      "conjugations": {
+        "present": {
+          "ik": "illustreer",
+          "jij": "illustreert",
+          "u": "illustreert",
+          "hij/zij": "illustreert",
+          "wij": "illustreren",
+          "jullie": "illustreren",
+          "zij_plural": "illustreren"
+        },
+        "past": {
+          "ik": "illustreerde",
+          "jij": "illustreerde",
+          "u": "illustreerde",
+          "hij/zij": "illustreerde",
+          "wij": "illustreerden",
+          "jullie": "illustreerden",
+          "zij_plural": "illustreerden"
+        },
+        "perfect": "geillustreerd"
+      }
+    },
+    {
+      "id": "v369",
+      "word": "impliceren",
+      "translation": "to imply",
+      "conjugations": {
+        "present": {
+          "ik": "impliceer",
+          "jij": "impliceert",
+          "u": "impliceert",
+          "hij/zij": "impliceert",
+          "wij": "impliceren",
+          "jullie": "impliceren",
+          "zij_plural": "impliceren"
+        },
+        "past": {
+          "ik": "impliceerde",
+          "jij": "impliceerde",
+          "u": "impliceerde",
+          "hij/zij": "impliceerde",
+          "wij": "impliceerden",
+          "jullie": "impliceerden",
+          "zij_plural": "impliceerden"
+        },
+        "perfect": "geimpliceerd"
+      }
+    },
+    {
+      "id": "v370",
+      "word": "inbrengen",
+      "translation": "to bring in; to contribute",
+      "conjugations": {
+        "present": {
+          "ik": "inbreng",
+          "jij": "inbrengt",
+          "u": "inbrengt",
+          "hij/zij": "inbrengt",
+          "wij": "inbrengen",
+          "jullie": "inbrengen",
+          "zij_plural": "inbrengen"
+        },
+        "past": {
+          "ik": "inbrengde",
+          "jij": "inbrengde",
+          "u": "inbrengde",
+          "hij/zij": "inbrengde",
+          "wij": "inbrengden",
+          "jullie": "inbrengden",
+          "zij_plural": "inbrengden"
+        },
+        "perfect": "geinbrengd"
+      }
+    },
+    {
+      "id": "v371",
+      "word": "indelen",
+      "translation": "to classify, to divide",
+      "conjugations": {
+        "present": {
+          "ik": "indeel",
+          "jij": "indeelt",
+          "u": "indeelt",
+          "hij/zij": "indeelt",
+          "wij": "indelen",
+          "jullie": "indelen",
+          "zij_plural": "indelen"
+        },
+        "past": {
+          "ik": "indeelde",
+          "jij": "indeelde",
+          "u": "indeelde",
+          "hij/zij": "indeelde",
+          "wij": "indeelden",
+          "jullie": "indeelden",
+          "zij_plural": "indeelden"
+        },
+        "perfect": "geindeeld"
+      }
+    },
+    {
+      "id": "v372",
+      "word": "indienen",
+      "translation": "to submit",
+      "conjugations": {
+        "present": {
+          "ik": "indien",
+          "jij": "indient",
+          "u": "indient",
+          "hij/zij": "indient",
+          "wij": "indienen",
+          "jullie": "indienen",
+          "zij_plural": "indienen"
+        },
+        "past": {
+          "ik": "indiende",
+          "jij": "indiende",
+          "u": "indiende",
+          "hij/zij": "indiende",
+          "wij": "indienden",
+          "jullie": "indienden",
+          "zij_plural": "indienden"
+        },
+        "perfect": "geindiend"
+      }
+    },
+    {
+      "id": "v373",
       "word": "informeren",
       "translation": "to inform",
       "conjugations": {
@@ -11979,7 +22103,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v217",
+      "id": "v374",
+      "word": "ingaan",
+      "translation": "to enter; to take effect",
+      "conjugations": {
+        "present": {
+          "ik": "ingaa",
+          "jij": "ingaat",
+          "u": "ingaat",
+          "hij/zij": "ingaat",
+          "wij": "ingaan",
+          "jullie": "ingaan",
+          "zij_plural": "ingaan"
+        },
+        "past": {
+          "ik": "ingaade",
+          "jij": "ingaade",
+          "u": "ingaade",
+          "hij/zij": "ingaade",
+          "wij": "ingaaden",
+          "jullie": "ingaaden",
+          "zij_plural": "ingaaden"
+        },
+        "perfect": "geingaad"
+      }
+    },
+    {
+      "id": "v375",
       "word": "ingrijpen",
       "translation": "to intervene",
       "conjugations": {
@@ -12005,7 +22155,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v218",
+      "id": "v376",
+      "word": "inhouden",
+      "translation": "to contain; to withhold",
+      "conjugations": {
+        "present": {
+          "ik": "inhoud",
+          "jij": "inhoudt",
+          "u": "inhoudt",
+          "hij/zij": "inhoudt",
+          "wij": "inhouden",
+          "jullie": "inhouden",
+          "zij_plural": "inhouden"
+        },
+        "past": {
+          "ik": "inhoudde",
+          "jij": "inhoudde",
+          "u": "inhoudde",
+          "hij/zij": "inhoudde",
+          "wij": "inhoudden",
+          "jullie": "inhoudden",
+          "zij_plural": "inhoudden"
+        },
+        "perfect": "geinhoudd"
+      }
+    },
+    {
+      "id": "v377",
+      "word": "inlichten",
+      "translation": "to inform",
+      "conjugations": {
+        "present": {
+          "ik": "inlicht",
+          "jij": "inlicht",
+          "u": "inlicht",
+          "hij/zij": "inlicht",
+          "wij": "inlichten",
+          "jullie": "inlichten",
+          "zij_plural": "inlichten"
+        },
+        "past": {
+          "ik": "inlichtte",
+          "jij": "inlichtte",
+          "u": "inlichtte",
+          "hij/zij": "inlichtte",
+          "wij": "inlichtten",
+          "jullie": "inlichtten",
+          "zij_plural": "inlichtten"
+        },
+        "perfect": "geinlichtt"
+      }
+    },
+    {
+      "id": "v378",
+      "word": "innemen",
+      "translation": "to take (medicine); to capture",
+      "conjugations": {
+        "present": {
+          "ik": "inneem",
+          "jij": "inneemt",
+          "u": "inneemt",
+          "hij/zij": "inneemt",
+          "wij": "innemen",
+          "jullie": "innemen",
+          "zij_plural": "innemen"
+        },
+        "past": {
+          "ik": "inneemde",
+          "jij": "inneemde",
+          "u": "inneemde",
+          "hij/zij": "inneemde",
+          "wij": "inneemden",
+          "jullie": "inneemden",
+          "zij_plural": "inneemden"
+        },
+        "perfect": "geinneemd"
+      }
+    },
+    {
+      "id": "v379",
       "word": "inrichten",
       "translation": "to furnish; to organize",
       "conjugations": {
@@ -12031,7 +22259,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v219",
+      "id": "v380",
+      "word": "inschakelen",
+      "translation": "to engage; to call in",
+      "conjugations": {
+        "present": {
+          "ik": "inschakeel",
+          "jij": "inschakeelt",
+          "u": "inschakeelt",
+          "hij/zij": "inschakeelt",
+          "wij": "inschakelen",
+          "jullie": "inschakelen",
+          "zij_plural": "inschakelen"
+        },
+        "past": {
+          "ik": "inschakeelde",
+          "jij": "inschakeelde",
+          "u": "inschakeelde",
+          "hij/zij": "inschakeelde",
+          "wij": "inschakeelden",
+          "jullie": "inschakeelden",
+          "zij_plural": "inschakeelden"
+        },
+        "perfect": "geinschakeeld"
+      }
+    },
+    {
+      "id": "v381",
+      "word": "inspireren",
+      "translation": "to inspire",
+      "conjugations": {
+        "present": {
+          "ik": "inspireer",
+          "jij": "inspireert",
+          "u": "inspireert",
+          "hij/zij": "inspireert",
+          "wij": "inspireren",
+          "jullie": "inspireren",
+          "zij_plural": "inspireren"
+        },
+        "past": {
+          "ik": "inspireerde",
+          "jij": "inspireerde",
+          "u": "inspireerde",
+          "hij/zij": "inspireerde",
+          "wij": "inspireerden",
+          "jullie": "inspireerden",
+          "zij_plural": "inspireerden"
+        },
+        "perfect": "geinspireerd"
+      }
+    },
+    {
+      "id": "v382",
+      "word": "installeren",
+      "translation": "to install",
+      "conjugations": {
+        "present": {
+          "ik": "installeer",
+          "jij": "installeert",
+          "u": "installeert",
+          "hij/zij": "installeert",
+          "wij": "installeren",
+          "jullie": "installeren",
+          "zij_plural": "installeren"
+        },
+        "past": {
+          "ik": "installeerde",
+          "jij": "installeerde",
+          "u": "installeerde",
+          "hij/zij": "installeerde",
+          "wij": "installeerden",
+          "jullie": "installeerden",
+          "zij_plural": "installeerden"
+        },
+        "perfect": "geinstalleerd"
+      }
+    },
+    {
+      "id": "v383",
       "word": "instellen",
       "translation": "to set up; to establish",
       "conjugations": {
@@ -12057,7 +22363,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v220",
+      "id": "v384",
+      "word": "integreren",
+      "translation": "to integrate",
+      "conjugations": {
+        "present": {
+          "ik": "integreer",
+          "jij": "integreert",
+          "u": "integreert",
+          "hij/zij": "integreert",
+          "wij": "integreren",
+          "jullie": "integreren",
+          "zij_plural": "integreren"
+        },
+        "past": {
+          "ik": "integreerde",
+          "jij": "integreerde",
+          "u": "integreerde",
+          "hij/zij": "integreerde",
+          "wij": "integreerden",
+          "jullie": "integreerden",
+          "zij_plural": "integreerden"
+        },
+        "perfect": "geintegreerd"
+      }
+    },
+    {
+      "id": "v385",
+      "word": "interesseren",
+      "translation": "to interest",
+      "conjugations": {
+        "present": {
+          "ik": "interesseer",
+          "jij": "interesseert",
+          "u": "interesseert",
+          "hij/zij": "interesseert",
+          "wij": "interesseren",
+          "jullie": "interesseren",
+          "zij_plural": "interesseren"
+        },
+        "past": {
+          "ik": "interesseerde",
+          "jij": "interesseerde",
+          "u": "interesseerde",
+          "hij/zij": "interesseerde",
+          "wij": "interesseerden",
+          "jullie": "interesseerden",
+          "zij_plural": "interesseerden"
+        },
+        "perfect": "geinteresseerd"
+      }
+    },
+    {
+      "id": "v386",
       "word": "interpreteren",
       "translation": "to interpret",
       "conjugations": {
@@ -12083,7 +22441,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v221",
+      "id": "v387",
+      "word": "intrekken",
+      "translation": "to withdraw; to move in",
+      "conjugations": {
+        "present": {
+          "ik": "intrekk",
+          "jij": "intrekkt",
+          "u": "intrekkt",
+          "hij/zij": "intrekkt",
+          "wij": "intrekken",
+          "jullie": "intrekken",
+          "zij_plural": "intrekken"
+        },
+        "past": {
+          "ik": "intrekkte",
+          "jij": "intrekkte",
+          "u": "intrekkte",
+          "hij/zij": "intrekkte",
+          "wij": "intrekkten",
+          "jullie": "intrekkten",
+          "zij_plural": "intrekkten"
+        },
+        "perfect": "geintrekkt"
+      }
+    },
+    {
+      "id": "v388",
+      "word": "introduceren",
+      "translation": "to introduce",
+      "conjugations": {
+        "present": {
+          "ik": "introduceer",
+          "jij": "introduceert",
+          "u": "introduceert",
+          "hij/zij": "introduceert",
+          "wij": "introduceren",
+          "jullie": "introduceren",
+          "zij_plural": "introduceren"
+        },
+        "past": {
+          "ik": "introduceerde",
+          "jij": "introduceerde",
+          "u": "introduceerde",
+          "hij/zij": "introduceerde",
+          "wij": "introduceerden",
+          "jullie": "introduceerden",
+          "zij_plural": "introduceerden"
+        },
+        "perfect": "geintroduceerd"
+      }
+    },
+    {
+      "id": "v389",
       "word": "invoeren",
       "translation": "to introduce; to import",
       "conjugations": {
@@ -12109,7 +22519,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v222",
+      "id": "v390",
+      "word": "invullen",
+      "translation": "to fill in",
+      "conjugations": {
+        "present": {
+          "ik": "invull",
+          "jij": "invullt",
+          "u": "invullt",
+          "hij/zij": "invullt",
+          "wij": "invullen",
+          "jullie": "invullen",
+          "zij_plural": "invullen"
+        },
+        "past": {
+          "ik": "invullde",
+          "jij": "invullde",
+          "u": "invullde",
+          "hij/zij": "invullde",
+          "wij": "invullden",
+          "jullie": "invullden",
+          "zij_plural": "invullden"
+        },
+        "perfect": "geinvulld"
+      }
+    },
+    {
+      "id": "v391",
+      "word": "inzetten",
+      "translation": "to deploy; to bet",
+      "conjugations": {
+        "present": {
+          "ik": "inzett",
+          "jij": "inzett",
+          "u": "inzett",
+          "hij/zij": "inzett",
+          "wij": "inzetten",
+          "jullie": "inzetten",
+          "zij_plural": "inzetten"
+        },
+        "past": {
+          "ik": "inzettte",
+          "jij": "inzettte",
+          "u": "inzettte",
+          "hij/zij": "inzettte",
+          "wij": "inzettten",
+          "jullie": "inzettten",
+          "zij_plural": "inzettten"
+        },
+        "perfect": "geinzettt"
+      }
+    },
+    {
+      "id": "v392",
       "word": "inzien",
       "translation": "to realize; to understand",
       "conjugations": {
@@ -12135,7 +22597,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v223",
+      "id": "v393",
+      "word": "irriteren",
+      "translation": "to irritate",
+      "conjugations": {
+        "present": {
+          "ik": "irriteer",
+          "jij": "irriteert",
+          "u": "irriteert",
+          "hij/zij": "irriteert",
+          "wij": "irriteren",
+          "jullie": "irriteren",
+          "zij_plural": "irriteren"
+        },
+        "past": {
+          "ik": "irriteerde",
+          "jij": "irriteerde",
+          "u": "irriteerde",
+          "hij/zij": "irriteerde",
+          "wij": "irriteerden",
+          "jullie": "irriteerden",
+          "zij_plural": "irriteerden"
+        },
+        "perfect": "geirriteerd"
+      }
+    },
+    {
+      "id": "v394",
+      "word": "isoleren",
+      "translation": "to isolate",
+      "conjugations": {
+        "present": {
+          "ik": "isoleer",
+          "jij": "isoleert",
+          "u": "isoleert",
+          "hij/zij": "isoleert",
+          "wij": "isoleren",
+          "jullie": "isoleren",
+          "zij_plural": "isoleren"
+        },
+        "past": {
+          "ik": "isoleerde",
+          "jij": "isoleerde",
+          "u": "isoleerde",
+          "hij/zij": "isoleerde",
+          "wij": "isoleerden",
+          "jullie": "isoleerden",
+          "zij_plural": "isoleerden"
+        },
+        "perfect": "geisoleerd"
+      }
+    },
+    {
+      "id": "v395",
       "word": "jagen",
       "translation": "to hunt",
       "conjugations": {
@@ -12161,7 +22675,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v224",
+      "id": "v396",
+      "word": "kalmeren",
+      "translation": "to calm down",
+      "conjugations": {
+        "present": {
+          "ik": "kalmeer",
+          "jij": "kalmeert",
+          "u": "kalmeert",
+          "hij/zij": "kalmeert",
+          "wij": "kalmeren",
+          "jullie": "kalmeren",
+          "zij_plural": "kalmeren"
+        },
+        "past": {
+          "ik": "kalmeerde",
+          "jij": "kalmeerde",
+          "u": "kalmeerde",
+          "hij/zij": "kalmeerde",
+          "wij": "kalmeerden",
+          "jullie": "kalmeerden",
+          "zij_plural": "kalmeerden"
+        },
+        "perfect": "gekalmeerd"
+      }
+    },
+    {
+      "id": "v397",
+      "word": "kauwen",
+      "translation": "to chew",
+      "conjugations": {
+        "present": {
+          "ik": "kauw",
+          "jij": "kauwt",
+          "u": "kauwt",
+          "hij/zij": "kauwt",
+          "wij": "kauwen",
+          "jullie": "kauwen",
+          "zij_plural": "kauwen"
+        },
+        "past": {
+          "ik": "kauwde",
+          "jij": "kauwde",
+          "u": "kauwde",
+          "hij/zij": "kauwde",
+          "wij": "kauwden",
+          "jullie": "kauwden",
+          "zij_plural": "kauwden"
+        },
+        "perfect": "gekauwd"
+      }
+    },
+    {
+      "id": "v398",
       "word": "kenmerken",
       "translation": "to characterize",
       "conjugations": {
@@ -12187,7 +22753,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v225",
+      "id": "v399",
       "word": "kennen",
       "translation": "to know (person/thing)",
       "conjugations": {
@@ -12213,7 +22779,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v226",
+      "id": "v400",
       "word": "keren",
       "translation": "to turn; to return",
       "conjugations": {
@@ -12239,7 +22805,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v227",
+      "id": "v401",
+      "word": "keuren",
+      "translation": "to inspect; to approve",
+      "conjugations": {
+        "present": {
+          "ik": "keur",
+          "jij": "keurt",
+          "u": "keurt",
+          "hij/zij": "keurt",
+          "wij": "keuren",
+          "jullie": "keuren",
+          "zij_plural": "keuren"
+        },
+        "past": {
+          "ik": "keurde",
+          "jij": "keurde",
+          "u": "keurde",
+          "hij/zij": "keurde",
+          "wij": "keurden",
+          "jullie": "keurden",
+          "zij_plural": "keurden"
+        },
+        "perfect": "gekeurd"
+      }
+    },
+    {
+      "id": "v402",
       "word": "kijken",
       "translation": "to look, to watch",
       "conjugations": {
@@ -12265,7 +22857,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v228",
+      "id": "v403",
+      "word": "klagen",
+      "translation": "to complain",
+      "conjugations": {
+        "present": {
+          "ik": "klaag",
+          "jij": "klaagt",
+          "u": "klaagt",
+          "hij/zij": "klaagt",
+          "wij": "klagen",
+          "jullie": "klagen",
+          "zij_plural": "klagen"
+        },
+        "past": {
+          "ik": "klaagde",
+          "jij": "klaagde",
+          "u": "klaagde",
+          "hij/zij": "klaagde",
+          "wij": "klaagden",
+          "jullie": "klaagden",
+          "zij_plural": "klaagden"
+        },
+        "perfect": "geklaagd"
+      }
+    },
+    {
+      "id": "v404",
+      "word": "klappen",
+      "translation": "to clap; to hit",
+      "conjugations": {
+        "present": {
+          "ik": "klapp",
+          "jij": "klappt",
+          "u": "klappt",
+          "hij/zij": "klappt",
+          "wij": "klappen",
+          "jullie": "klappen",
+          "zij_plural": "klappen"
+        },
+        "past": {
+          "ik": "klappte",
+          "jij": "klappte",
+          "u": "klappte",
+          "hij/zij": "klappte",
+          "wij": "klappten",
+          "jullie": "klappten",
+          "zij_plural": "klappten"
+        },
+        "perfect": "geklappt"
+      }
+    },
+    {
+      "id": "v405",
       "word": "kleden",
       "translation": "to dress",
       "conjugations": {
@@ -12291,7 +22935,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v229",
+      "id": "v406",
+      "word": "kletsen",
+      "translation": "to chat; to talk nonsense",
+      "conjugations": {
+        "present": {
+          "ik": "klets",
+          "jij": "kletst",
+          "u": "kletst",
+          "hij/zij": "kletst",
+          "wij": "kletsen",
+          "jullie": "kletsen",
+          "zij_plural": "kletsen"
+        },
+        "past": {
+          "ik": "kletste",
+          "jij": "kletste",
+          "u": "kletste",
+          "hij/zij": "kletste",
+          "wij": "kletsten",
+          "jullie": "kletsten",
+          "zij_plural": "kletsten"
+        },
+        "perfect": "gekletst"
+      }
+    },
+    {
+      "id": "v407",
+      "word": "kleuren",
+      "translation": "to color",
+      "conjugations": {
+        "present": {
+          "ik": "kleur",
+          "jij": "kleurt",
+          "u": "kleurt",
+          "hij/zij": "kleurt",
+          "wij": "kleuren",
+          "jullie": "kleuren",
+          "zij_plural": "kleuren"
+        },
+        "past": {
+          "ik": "kleurde",
+          "jij": "kleurde",
+          "u": "kleurde",
+          "hij/zij": "kleurde",
+          "wij": "kleurden",
+          "jullie": "kleurden",
+          "zij_plural": "kleurden"
+        },
+        "perfect": "gekleurd"
+      }
+    },
+    {
+      "id": "v408",
+      "word": "kleven",
+      "translation": "to stick",
+      "conjugations": {
+        "present": {
+          "ik": "kleef",
+          "jij": "kleeft",
+          "u": "kleeft",
+          "hij/zij": "kleeft",
+          "wij": "kleven",
+          "jullie": "kleven",
+          "zij_plural": "kleven"
+        },
+        "past": {
+          "ik": "kleefte",
+          "jij": "kleefte",
+          "u": "kleefte",
+          "hij/zij": "kleefte",
+          "wij": "kleeften",
+          "jullie": "kleeften",
+          "zij_plural": "kleeften"
+        },
+        "perfect": "gekleeft"
+      }
+    },
+    {
+      "id": "v409",
       "word": "klimmen",
       "translation": "to climb",
       "conjugations": {
@@ -12317,7 +23039,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v230",
+      "id": "v410",
       "word": "klinken",
       "translation": "to sound",
       "conjugations": {
@@ -12343,7 +23065,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v231",
+      "id": "v411",
       "word": "kloppen",
       "translation": "to knock; to be correct",
       "conjugations": {
@@ -12369,7 +23091,163 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v232",
+      "id": "v412",
+      "word": "knielen",
+      "translation": "to kneel",
+      "conjugations": {
+        "present": {
+          "ik": "kniel",
+          "jij": "knielt",
+          "u": "knielt",
+          "hij/zij": "knielt",
+          "wij": "knielen",
+          "jullie": "knielen",
+          "zij_plural": "knielen"
+        },
+        "past": {
+          "ik": "knielde",
+          "jij": "knielde",
+          "u": "knielde",
+          "hij/zij": "knielde",
+          "wij": "knielden",
+          "jullie": "knielden",
+          "zij_plural": "knielden"
+        },
+        "perfect": "geknield"
+      }
+    },
+    {
+      "id": "v413",
+      "word": "knijpen",
+      "translation": "to pinch; to squeeze",
+      "conjugations": {
+        "present": {
+          "ik": "knijp",
+          "jij": "knijpt",
+          "u": "knijpt",
+          "hij/zij": "knijpt",
+          "wij": "knijpen",
+          "jullie": "knijpen",
+          "zij_plural": "knijpen"
+        },
+        "past": {
+          "ik": "knijpte",
+          "jij": "knijpte",
+          "u": "knijpte",
+          "hij/zij": "knijpte",
+          "wij": "knijpten",
+          "jullie": "knijpten",
+          "zij_plural": "knijpten"
+        },
+        "perfect": "geknijpt"
+      }
+    },
+    {
+      "id": "v414",
+      "word": "knikken",
+      "translation": "to nod",
+      "conjugations": {
+        "present": {
+          "ik": "knikk",
+          "jij": "knikkt",
+          "u": "knikkt",
+          "hij/zij": "knikkt",
+          "wij": "knikken",
+          "jullie": "knikken",
+          "zij_plural": "knikken"
+        },
+        "past": {
+          "ik": "knikkte",
+          "jij": "knikkte",
+          "u": "knikkte",
+          "hij/zij": "knikkte",
+          "wij": "knikkten",
+          "jullie": "knikkten",
+          "zij_plural": "knikkten"
+        },
+        "perfect": "geknikkt"
+      }
+    },
+    {
+      "id": "v415",
+      "word": "knippen",
+      "translation": "to cut (scissors)",
+      "conjugations": {
+        "present": {
+          "ik": "knipp",
+          "jij": "knippt",
+          "u": "knippt",
+          "hij/zij": "knippt",
+          "wij": "knippen",
+          "jullie": "knippen",
+          "zij_plural": "knippen"
+        },
+        "past": {
+          "ik": "knippte",
+          "jij": "knippte",
+          "u": "knippte",
+          "hij/zij": "knippte",
+          "wij": "knippten",
+          "jullie": "knippten",
+          "zij_plural": "knippten"
+        },
+        "perfect": "geknippt"
+      }
+    },
+    {
+      "id": "v416",
+      "word": "knopen",
+      "translation": "to tie, to knot",
+      "conjugations": {
+        "present": {
+          "ik": "knoop",
+          "jij": "knoopt",
+          "u": "knoopt",
+          "hij/zij": "knoopt",
+          "wij": "knopen",
+          "jullie": "knopen",
+          "zij_plural": "knopen"
+        },
+        "past": {
+          "ik": "knoopte",
+          "jij": "knoopte",
+          "u": "knoopte",
+          "hij/zij": "knoopte",
+          "wij": "knoopten",
+          "jullie": "knoopten",
+          "zij_plural": "knoopten"
+        },
+        "perfect": "geknoopt"
+      }
+    },
+    {
+      "id": "v417",
+      "word": "koesteren",
+      "translation": "to cherish",
+      "conjugations": {
+        "present": {
+          "ik": "koesteer",
+          "jij": "koesteert",
+          "u": "koesteert",
+          "hij/zij": "koesteert",
+          "wij": "koesteren",
+          "jullie": "koesteren",
+          "zij_plural": "koesteren"
+        },
+        "past": {
+          "ik": "koesteerde",
+          "jij": "koesteerde",
+          "u": "koesteerde",
+          "hij/zij": "koesteerde",
+          "wij": "koesteerden",
+          "jullie": "koesteerden",
+          "zij_plural": "koesteerden"
+        },
+        "perfect": "gekoesteerd"
+      }
+    },
+    {
+      "id": "v418",
       "word": "koken",
       "translation": "to cook; to boil",
       "conjugations": {
@@ -12395,7 +23273,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v233",
+      "id": "v419",
       "word": "komen",
       "translation": "to come",
       "conjugations": {
@@ -12421,7 +23299,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v234",
+      "id": "v420",
       "word": "kopen",
       "translation": "to buy",
       "conjugations": {
@@ -12447,7 +23325,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v235",
+      "id": "v421",
+      "word": "krabben",
+      "translation": "to scratch",
+      "conjugations": {
+        "present": {
+          "ik": "krabb",
+          "jij": "krabbt",
+          "u": "krabbt",
+          "hij/zij": "krabbt",
+          "wij": "krabben",
+          "jullie": "krabben",
+          "zij_plural": "krabben"
+        },
+        "past": {
+          "ik": "krabbde",
+          "jij": "krabbde",
+          "u": "krabbde",
+          "hij/zij": "krabbde",
+          "wij": "krabbden",
+          "jullie": "krabbden",
+          "zij_plural": "krabbden"
+        },
+        "perfect": "gekrabbd"
+      }
+    },
+    {
+      "id": "v422",
+      "word": "kraken",
+      "translation": "to crack; to squat",
+      "conjugations": {
+        "present": {
+          "ik": "kraak",
+          "jij": "kraakt",
+          "u": "kraakt",
+          "hij/zij": "kraakt",
+          "wij": "kraken",
+          "jullie": "kraken",
+          "zij_plural": "kraken"
+        },
+        "past": {
+          "ik": "kraakte",
+          "jij": "kraakte",
+          "u": "kraakte",
+          "hij/zij": "kraakte",
+          "wij": "kraakten",
+          "jullie": "kraakten",
+          "zij_plural": "kraakten"
+        },
+        "perfect": "gekraakt"
+      }
+    },
+    {
+      "id": "v423",
+      "word": "kreunen",
+      "translation": "to groan",
+      "conjugations": {
+        "present": {
+          "ik": "kreun",
+          "jij": "kreunt",
+          "u": "kreunt",
+          "hij/zij": "kreunt",
+          "wij": "kreunen",
+          "jullie": "kreunen",
+          "zij_plural": "kreunen"
+        },
+        "past": {
+          "ik": "kreunde",
+          "jij": "kreunde",
+          "u": "kreunde",
+          "hij/zij": "kreunde",
+          "wij": "kreunden",
+          "jullie": "kreunden",
+          "zij_plural": "kreunden"
+        },
+        "perfect": "gekreund"
+      }
+    },
+    {
+      "id": "v424",
       "word": "krijgen",
       "translation": "to get, to receive",
       "conjugations": {
@@ -12473,7 +23429,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v236",
+      "id": "v425",
+      "word": "krimpen",
+      "translation": "to shrink",
+      "conjugations": {
+        "present": {
+          "ik": "krimp",
+          "jij": "krimpt",
+          "u": "krimpt",
+          "hij/zij": "krimpt",
+          "wij": "krimpen",
+          "jullie": "krimpen",
+          "zij_plural": "krimpen"
+        },
+        "past": {
+          "ik": "krimpte",
+          "jij": "krimpte",
+          "u": "krimpte",
+          "hij/zij": "krimpte",
+          "wij": "krimpten",
+          "jullie": "krimpten",
+          "zij_plural": "krimpten"
+        },
+        "perfect": "gekrimpt"
+      }
+    },
+    {
+      "id": "v426",
       "word": "kruipen",
       "translation": "to crawl",
       "conjugations": {
@@ -12499,7 +23481,189 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v237",
+      "id": "v427",
+      "word": "kruisen",
+      "translation": "to cross",
+      "conjugations": {
+        "present": {
+          "ik": "kruis",
+          "jij": "kruist",
+          "u": "kruist",
+          "hij/zij": "kruist",
+          "wij": "kruisen",
+          "jullie": "kruisen",
+          "zij_plural": "kruisen"
+        },
+        "past": {
+          "ik": "kruiste",
+          "jij": "kruiste",
+          "u": "kruiste",
+          "hij/zij": "kruiste",
+          "wij": "kruisten",
+          "jullie": "kruisten",
+          "zij_plural": "kruisten"
+        },
+        "perfect": "gekruist"
+      }
+    },
+    {
+      "id": "v428",
+      "word": "kunnen",
+      "translation": "to be able to, can",
+      "conjugations": {
+        "present": {
+          "ik": "kan",
+          "jij": "kunt",
+          "u": "kunt",
+          "hij/zij": "kan",
+          "wij": "kunnen",
+          "jullie": "kunnen",
+          "zij_plural": "kunnen"
+        },
+        "past": {
+          "ik": "kon",
+          "jij": "kon",
+          "u": "kon",
+          "hij/zij": "kon",
+          "wij": "konden",
+          "jullie": "konden",
+          "zij_plural": "konden"
+        },
+        "perfect": "gekund"
+      }
+    },
+    {
+      "id": "v429",
+      "word": "kussen",
+      "translation": "to kiss",
+      "conjugations": {
+        "present": {
+          "ik": "kuss",
+          "jij": "kusst",
+          "u": "kusst",
+          "hij/zij": "kusst",
+          "wij": "kussen",
+          "jullie": "kussen",
+          "zij_plural": "kussen"
+        },
+        "past": {
+          "ik": "kusste",
+          "jij": "kusste",
+          "u": "kusste",
+          "hij/zij": "kusste",
+          "wij": "kussten",
+          "jullie": "kussten",
+          "zij_plural": "kussten"
+        },
+        "perfect": "gekusst"
+      }
+    },
+    {
+      "id": "v430",
+      "word": "kweken",
+      "translation": "to grow, to breed",
+      "conjugations": {
+        "present": {
+          "ik": "kweek",
+          "jij": "kweekt",
+          "u": "kweekt",
+          "hij/zij": "kweekt",
+          "wij": "kweken",
+          "jullie": "kweken",
+          "zij_plural": "kweken"
+        },
+        "past": {
+          "ik": "kweekte",
+          "jij": "kweekte",
+          "u": "kweekte",
+          "hij/zij": "kweekte",
+          "wij": "kweekten",
+          "jullie": "kweekten",
+          "zij_plural": "kweekten"
+        },
+        "perfect": "gekweekt"
+      }
+    },
+    {
+      "id": "v431",
+      "word": "kwellen",
+      "translation": "to torment",
+      "conjugations": {
+        "present": {
+          "ik": "kwell",
+          "jij": "kwellt",
+          "u": "kwellt",
+          "hij/zij": "kwellt",
+          "wij": "kwellen",
+          "jullie": "kwellen",
+          "zij_plural": "kwellen"
+        },
+        "past": {
+          "ik": "kwellde",
+          "jij": "kwellde",
+          "u": "kwellde",
+          "hij/zij": "kwellde",
+          "wij": "kwellden",
+          "jullie": "kwellden",
+          "zij_plural": "kwellden"
+        },
+        "perfect": "gekwelld"
+      }
+    },
+    {
+      "id": "v432",
+      "word": "kwetsen",
+      "translation": "to hurt, to injure",
+      "conjugations": {
+        "present": {
+          "ik": "kwets",
+          "jij": "kwetst",
+          "u": "kwetst",
+          "hij/zij": "kwetst",
+          "wij": "kwetsen",
+          "jullie": "kwetsen",
+          "zij_plural": "kwetsen"
+        },
+        "past": {
+          "ik": "kwetste",
+          "jij": "kwetste",
+          "u": "kwetste",
+          "hij/zij": "kwetste",
+          "wij": "kwetsten",
+          "jullie": "kwetsten",
+          "zij_plural": "kwetsten"
+        },
+        "perfect": "gekwetst"
+      }
+    },
+    {
+      "id": "v433",
+      "word": "kwijtraken",
+      "translation": "to lose",
+      "conjugations": {
+        "present": {
+          "ik": "kwijtraak",
+          "jij": "kwijtraakt",
+          "u": "kwijtraakt",
+          "hij/zij": "kwijtraakt",
+          "wij": "kwijtraken",
+          "jullie": "kwijtraken",
+          "zij_plural": "kwijtraken"
+        },
+        "past": {
+          "ik": "kwijtraakte",
+          "jij": "kwijtraakte",
+          "u": "kwijtraakte",
+          "hij/zij": "kwijtraakte",
+          "wij": "kwijtraakten",
+          "jullie": "kwijtraakten",
+          "zij_plural": "kwijtraakten"
+        },
+        "perfect": "gekwijtraakt"
+      }
+    },
+    {
+      "id": "v434",
       "word": "lachen",
       "translation": "to laugh",
       "conjugations": {
@@ -12525,7 +23689,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v238",
+      "id": "v435",
       "word": "laden",
       "translation": "to load",
       "conjugations": {
@@ -12551,7 +23715,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v239",
+      "id": "v436",
+      "word": "lanceren",
+      "translation": "to launch",
+      "conjugations": {
+        "present": {
+          "ik": "lanceer",
+          "jij": "lanceert",
+          "u": "lanceert",
+          "hij/zij": "lanceert",
+          "wij": "lanceren",
+          "jullie": "lanceren",
+          "zij_plural": "lanceren"
+        },
+        "past": {
+          "ik": "lanceerde",
+          "jij": "lanceerde",
+          "u": "lanceerde",
+          "hij/zij": "lanceerde",
+          "wij": "lanceerden",
+          "jullie": "lanceerden",
+          "zij_plural": "lanceerden"
+        },
+        "perfect": "gelanceerd"
+      }
+    },
+    {
+      "id": "v437",
       "word": "landen",
       "translation": "to land",
       "conjugations": {
@@ -12577,7 +23767,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v240",
+      "id": "v438",
       "word": "laten",
       "translation": "to let; to leave",
       "conjugations": {
@@ -12603,7 +23793,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v241",
+      "id": "v439",
       "word": "leggen",
       "translation": "to lay, to put",
       "conjugations": {
@@ -12629,7 +23819,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v242",
+      "id": "v440",
       "word": "leiden",
       "translation": "to lead; to suffer",
       "conjugations": {
@@ -12655,7 +23845,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v243",
+      "id": "v441",
+      "word": "lenen",
+      "translation": "to lend; to borrow",
+      "conjugations": {
+        "present": {
+          "ik": "leen",
+          "jij": "leent",
+          "u": "leent",
+          "hij/zij": "leent",
+          "wij": "lenen",
+          "jullie": "lenen",
+          "zij_plural": "lenen"
+        },
+        "past": {
+          "ik": "leende",
+          "jij": "leende",
+          "u": "leende",
+          "hij/zij": "leende",
+          "wij": "leenden",
+          "jullie": "leenden",
+          "zij_plural": "leenden"
+        },
+        "perfect": "geleend"
+      }
+    },
+    {
+      "id": "v442",
       "word": "leren",
       "translation": "to learn; to teach",
       "conjugations": {
@@ -12681,7 +23897,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v244",
+      "id": "v443",
+      "word": "letten",
+      "translation": "to pay attention",
+      "conjugations": {
+        "present": {
+          "ik": "lett",
+          "jij": "lett",
+          "u": "lett",
+          "hij/zij": "lett",
+          "wij": "letten",
+          "jullie": "letten",
+          "zij_plural": "letten"
+        },
+        "past": {
+          "ik": "lettte",
+          "jij": "lettte",
+          "u": "lettte",
+          "hij/zij": "lettte",
+          "wij": "lettten",
+          "jullie": "lettten",
+          "zij_plural": "lettten"
+        },
+        "perfect": "gelettt"
+      }
+    },
+    {
+      "id": "v444",
       "word": "leunen",
       "translation": "to lean",
       "conjugations": {
@@ -12707,7 +23949,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v245",
+      "id": "v445",
       "word": "leveren",
       "translation": "to deliver; to provide",
       "conjugations": {
@@ -12733,7 +23975,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v246",
+      "id": "v446",
       "word": "lezen",
       "translation": "to read",
       "conjugations": {
@@ -12759,7 +24001,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v247",
+      "id": "v447",
+      "word": "lichten",
+      "translation": "to light; to lift",
+      "conjugations": {
+        "present": {
+          "ik": "licht",
+          "jij": "licht",
+          "u": "licht",
+          "hij/zij": "licht",
+          "wij": "lichten",
+          "jullie": "lichten",
+          "zij_plural": "lichten"
+        },
+        "past": {
+          "ik": "lichtte",
+          "jij": "lichtte",
+          "u": "lichtte",
+          "hij/zij": "lichtte",
+          "wij": "lichtten",
+          "jullie": "lichtten",
+          "zij_plural": "lichtten"
+        },
+        "perfect": "gelichtt"
+      }
+    },
+    {
+      "id": "v448",
+      "word": "liefhebben",
+      "translation": "to love",
+      "conjugations": {
+        "present": {
+          "ik": "liefhebb",
+          "jij": "liefhebbt",
+          "u": "liefhebbt",
+          "hij/zij": "liefhebbt",
+          "wij": "liefhebben",
+          "jullie": "liefhebben",
+          "zij_plural": "liefhebben"
+        },
+        "past": {
+          "ik": "liefhebbde",
+          "jij": "liefhebbde",
+          "u": "liefhebbde",
+          "hij/zij": "liefhebbde",
+          "wij": "liefhebbden",
+          "jullie": "liefhebbden",
+          "zij_plural": "liefhebbden"
+        },
+        "perfect": "geliefhebbd"
+      }
+    },
+    {
+      "id": "v449",
+      "word": "liegen",
+      "translation": "to lie (untruth)",
+      "conjugations": {
+        "present": {
+          "ik": "lieg",
+          "jij": "liegt",
+          "u": "liegt",
+          "hij/zij": "liegt",
+          "wij": "liegen",
+          "jullie": "liegen",
+          "zij_plural": "liegen"
+        },
+        "past": {
+          "ik": "liegde",
+          "jij": "liegde",
+          "u": "liegde",
+          "hij/zij": "liegde",
+          "wij": "liegden",
+          "jullie": "liegden",
+          "zij_plural": "liegden"
+        },
+        "perfect": "geliegd"
+      }
+    },
+    {
+      "id": "v450",
       "word": "liggen",
       "translation": "to lie (position)",
       "conjugations": {
@@ -12785,7 +24105,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v248",
+      "id": "v451",
       "word": "lijden",
       "translation": "to suffer",
       "conjugations": {
@@ -12811,7 +24131,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v249",
+      "id": "v452",
       "word": "lijken",
       "translation": "to seem; to resemble",
       "conjugations": {
@@ -12837,7 +24157,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v250",
+      "id": "v453",
+      "word": "likken",
+      "translation": "to lick",
+      "conjugations": {
+        "present": {
+          "ik": "likk",
+          "jij": "likkt",
+          "u": "likkt",
+          "hij/zij": "likkt",
+          "wij": "likken",
+          "jullie": "likken",
+          "zij_plural": "likken"
+        },
+        "past": {
+          "ik": "likkte",
+          "jij": "likkte",
+          "u": "likkte",
+          "hij/zij": "likkte",
+          "wij": "likkten",
+          "jullie": "likkten",
+          "zij_plural": "likkten"
+        },
+        "perfect": "gelikkt"
+      }
+    },
+    {
+      "id": "v454",
+      "word": "logeren",
+      "translation": "to stay (as guest)",
+      "conjugations": {
+        "present": {
+          "ik": "logeer",
+          "jij": "logeert",
+          "u": "logeert",
+          "hij/zij": "logeert",
+          "wij": "logeren",
+          "jullie": "logeren",
+          "zij_plural": "logeren"
+        },
+        "past": {
+          "ik": "logeerde",
+          "jij": "logeerde",
+          "u": "logeerde",
+          "hij/zij": "logeerde",
+          "wij": "logeerden",
+          "jullie": "logeerden",
+          "zij_plural": "logeerden"
+        },
+        "perfect": "gelogeerd"
+      }
+    },
+    {
+      "id": "v455",
+      "word": "lokken",
+      "translation": "to lure, to attract",
+      "conjugations": {
+        "present": {
+          "ik": "lokk",
+          "jij": "lokkt",
+          "u": "lokkt",
+          "hij/zij": "lokkt",
+          "wij": "lokken",
+          "jullie": "lokken",
+          "zij_plural": "lokken"
+        },
+        "past": {
+          "ik": "lokkte",
+          "jij": "lokkte",
+          "u": "lokkte",
+          "hij/zij": "lokkte",
+          "wij": "lokkten",
+          "jullie": "lokkten",
+          "zij_plural": "lokkten"
+        },
+        "perfect": "gelokkt"
+      }
+    },
+    {
+      "id": "v456",
       "word": "lonen",
       "translation": "to be worthwhile",
       "conjugations": {
@@ -12863,7 +24261,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v251",
+      "id": "v457",
       "word": "lopen",
       "translation": "to walk; to run",
       "conjugations": {
@@ -12889,7 +24287,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v252",
+      "id": "v458",
       "word": "loslaten",
       "translation": "to let go",
       "conjugations": {
@@ -12915,7 +24313,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v253",
+      "id": "v459",
+      "word": "lossen",
+      "translation": "to unload; to solve",
+      "conjugations": {
+        "present": {
+          "ik": "loss",
+          "jij": "losst",
+          "u": "losst",
+          "hij/zij": "losst",
+          "wij": "lossen",
+          "jullie": "lossen",
+          "zij_plural": "lossen"
+        },
+        "past": {
+          "ik": "losste",
+          "jij": "losste",
+          "u": "losste",
+          "hij/zij": "losste",
+          "wij": "lossten",
+          "jullie": "lossten",
+          "zij_plural": "lossten"
+        },
+        "perfect": "gelosst"
+      }
+    },
+    {
+      "id": "v460",
       "word": "luiden",
       "translation": "to ring; to read (text)",
       "conjugations": {
@@ -12941,7 +24365,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v254",
+      "id": "v461",
       "word": "luisteren",
       "translation": "to listen",
       "conjugations": {
@@ -12967,7 +24391,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v255",
+      "id": "v462",
       "word": "lukken",
       "translation": "to succeed",
       "conjugations": {
@@ -12993,7 +24417,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v256",
+      "id": "v463",
       "word": "maken",
       "translation": "to make",
       "conjugations": {
@@ -13019,7 +24443,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v257",
+      "id": "v464",
+      "word": "malen",
+      "translation": "to grind",
+      "conjugations": {
+        "present": {
+          "ik": "maal",
+          "jij": "maalt",
+          "u": "maalt",
+          "hij/zij": "maalt",
+          "wij": "malen",
+          "jullie": "malen",
+          "zij_plural": "malen"
+        },
+        "past": {
+          "ik": "maalde",
+          "jij": "maalde",
+          "u": "maalde",
+          "hij/zij": "maalde",
+          "wij": "maalden",
+          "jullie": "maalden",
+          "zij_plural": "maalden"
+        },
+        "perfect": "gemaald"
+      }
+    },
+    {
+      "id": "v465",
+      "word": "marcheren",
+      "translation": "to march",
+      "conjugations": {
+        "present": {
+          "ik": "marcheer",
+          "jij": "marcheert",
+          "u": "marcheert",
+          "hij/zij": "marcheert",
+          "wij": "marcheren",
+          "jullie": "marcheren",
+          "zij_plural": "marcheren"
+        },
+        "past": {
+          "ik": "marcheerde",
+          "jij": "marcheerde",
+          "u": "marcheerde",
+          "hij/zij": "marcheerde",
+          "wij": "marcheerden",
+          "jullie": "marcheerden",
+          "zij_plural": "marcheerden"
+        },
+        "perfect": "gemarcheerd"
+      }
+    },
+    {
+      "id": "v466",
+      "word": "meebrengen",
+      "translation": "to bring along",
+      "conjugations": {
+        "present": {
+          "ik": "meebreng",
+          "jij": "meebrengt",
+          "u": "meebrengt",
+          "hij/zij": "meebrengt",
+          "wij": "meebrengen",
+          "jullie": "meebrengen",
+          "zij_plural": "meebrengen"
+        },
+        "past": {
+          "ik": "meebrengde",
+          "jij": "meebrengde",
+          "u": "meebrengde",
+          "hij/zij": "meebrengde",
+          "wij": "meebrengden",
+          "jullie": "meebrengden",
+          "zij_plural": "meebrengden"
+        },
+        "perfect": "gemeebrengd"
+      }
+    },
+    {
+      "id": "v467",
+      "word": "meedelen",
+      "translation": "to inform, to communicate",
+      "conjugations": {
+        "present": {
+          "ik": "meedeel",
+          "jij": "meedeelt",
+          "u": "meedeelt",
+          "hij/zij": "meedeelt",
+          "wij": "meedelen",
+          "jullie": "meedelen",
+          "zij_plural": "meedelen"
+        },
+        "past": {
+          "ik": "meedeelde",
+          "jij": "meedeelde",
+          "u": "meedeelde",
+          "hij/zij": "meedeelde",
+          "wij": "meedeelden",
+          "jullie": "meedeelden",
+          "zij_plural": "meedeelden"
+        },
+        "perfect": "gemeedeeld"
+      }
+    },
+    {
+      "id": "v468",
       "word": "meedoen",
       "translation": "to participate",
       "conjugations": {
@@ -13045,7 +24573,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v258",
+      "id": "v469",
+      "word": "meegaan",
+      "translation": "to go along",
+      "conjugations": {
+        "present": {
+          "ik": "meegaa",
+          "jij": "meegaat",
+          "u": "meegaat",
+          "hij/zij": "meegaat",
+          "wij": "meegaan",
+          "jullie": "meegaan",
+          "zij_plural": "meegaan"
+        },
+        "past": {
+          "ik": "meegaade",
+          "jij": "meegaade",
+          "u": "meegaade",
+          "hij/zij": "meegaade",
+          "wij": "meegaaden",
+          "jullie": "meegaaden",
+          "zij_plural": "meegaaden"
+        },
+        "perfect": "gemeegaad"
+      }
+    },
+    {
+      "id": "v470",
+      "word": "meemaken",
+      "translation": "to experience",
+      "conjugations": {
+        "present": {
+          "ik": "meemaak",
+          "jij": "meemaakt",
+          "u": "meemaakt",
+          "hij/zij": "meemaakt",
+          "wij": "meemaken",
+          "jullie": "meemaken",
+          "zij_plural": "meemaken"
+        },
+        "past": {
+          "ik": "meemaakte",
+          "jij": "meemaakte",
+          "u": "meemaakte",
+          "hij/zij": "meemaakte",
+          "wij": "meemaakten",
+          "jullie": "meemaakten",
+          "zij_plural": "meemaakten"
+        },
+        "perfect": "gemeemaakt"
+      }
+    },
+    {
+      "id": "v471",
       "word": "meenemen",
       "translation": "to take along",
       "conjugations": {
@@ -13071,7 +24651,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v259",
+      "id": "v472",
       "word": "melden",
       "translation": "to report",
       "conjugations": {
@@ -13097,7 +24677,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v260",
+      "id": "v473",
+      "word": "menen",
+      "translation": "to mean; to believe",
+      "conjugations": {
+        "present": {
+          "ik": "meen",
+          "jij": "meent",
+          "u": "meent",
+          "hij/zij": "meent",
+          "wij": "menen",
+          "jullie": "menen",
+          "zij_plural": "menen"
+        },
+        "past": {
+          "ik": "meende",
+          "jij": "meende",
+          "u": "meende",
+          "hij/zij": "meende",
+          "wij": "meenden",
+          "jullie": "meenden",
+          "zij_plural": "meenden"
+        },
+        "perfect": "gemeend"
+      }
+    },
+    {
+      "id": "v474",
       "word": "mengen",
       "translation": "to mix",
       "conjugations": {
@@ -13123,7 +24729,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v261",
+      "id": "v475",
       "word": "merken",
       "translation": "to notice",
       "conjugations": {
@@ -13149,7 +24755,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v262",
+      "id": "v476",
       "word": "meten",
       "translation": "to measure",
       "conjugations": {
@@ -13175,7 +24781,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v263",
+      "id": "v477",
+      "word": "misleiden",
+      "translation": "to mislead, to deceive",
+      "conjugations": {
+        "present": {
+          "ik": "misleid",
+          "jij": "misleidt",
+          "u": "misleidt",
+          "hij/zij": "misleidt",
+          "wij": "misleiden",
+          "jullie": "misleiden",
+          "zij_plural": "misleiden"
+        },
+        "past": {
+          "ik": "misleidde",
+          "jij": "misleidde",
+          "u": "misleidde",
+          "hij/zij": "misleidde",
+          "wij": "misleidden",
+          "jullie": "misleidden",
+          "zij_plural": "misleidden"
+        },
+        "perfect": "gemisleidd"
+      }
+    },
+    {
+      "id": "v478",
+      "word": "mislukken",
+      "translation": "to fail",
+      "conjugations": {
+        "present": {
+          "ik": "mislukk",
+          "jij": "mislukkt",
+          "u": "mislukkt",
+          "hij/zij": "mislukkt",
+          "wij": "mislukken",
+          "jullie": "mislukken",
+          "zij_plural": "mislukken"
+        },
+        "past": {
+          "ik": "mislukkte",
+          "jij": "mislukkte",
+          "u": "mislukkte",
+          "hij/zij": "mislukkte",
+          "wij": "mislukkten",
+          "jullie": "mislukkten",
+          "zij_plural": "mislukkten"
+        },
+        "perfect": "gemislukkt"
+      }
+    },
+    {
+      "id": "v479",
+      "word": "missen",
+      "translation": "to miss",
+      "conjugations": {
+        "present": {
+          "ik": "miss",
+          "jij": "misst",
+          "u": "misst",
+          "hij/zij": "misst",
+          "wij": "missen",
+          "jullie": "missen",
+          "zij_plural": "missen"
+        },
+        "past": {
+          "ik": "misste",
+          "jij": "misste",
+          "u": "misste",
+          "hij/zij": "misste",
+          "wij": "missten",
+          "jullie": "missten",
+          "zij_plural": "missten"
+        },
+        "perfect": "gemisst"
+      }
+    },
+    {
+      "id": "v480",
       "word": "moeten",
       "translation": "to have to, must",
       "conjugations": {
@@ -13201,7 +24885,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v264",
+      "id": "v481",
       "word": "mogen",
       "translation": "to be allowed to; to like",
       "conjugations": {
@@ -13227,7 +24911,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v265",
+      "id": "v482",
+      "word": "mompelen",
+      "translation": "to mumble",
+      "conjugations": {
+        "present": {
+          "ik": "mompeel",
+          "jij": "mompeelt",
+          "u": "mompeelt",
+          "hij/zij": "mompeelt",
+          "wij": "mompelen",
+          "jullie": "mompelen",
+          "zij_plural": "mompelen"
+        },
+        "past": {
+          "ik": "mompeelde",
+          "jij": "mompeelde",
+          "u": "mompeelde",
+          "hij/zij": "mompeelde",
+          "wij": "mompeelden",
+          "jullie": "mompeelden",
+          "zij_plural": "mompeelden"
+        },
+        "perfect": "gemompeeld"
+      }
+    },
+    {
+      "id": "v483",
+      "word": "mopperen",
+      "translation": "to grumble",
+      "conjugations": {
+        "present": {
+          "ik": "moppeer",
+          "jij": "moppeert",
+          "u": "moppeert",
+          "hij/zij": "moppeert",
+          "wij": "mopperen",
+          "jullie": "mopperen",
+          "zij_plural": "mopperen"
+        },
+        "past": {
+          "ik": "moppeerde",
+          "jij": "moppeerde",
+          "u": "moppeerde",
+          "hij/zij": "moppeerde",
+          "wij": "moppeerden",
+          "jullie": "moppeerden",
+          "zij_plural": "moppeerden"
+        },
+        "perfect": "gemoppeerd"
+      }
+    },
+    {
+      "id": "v484",
+      "word": "nadenken",
+      "translation": "to think about, to reflect",
+      "conjugations": {
+        "present": {
+          "ik": "nadenk",
+          "jij": "nadenkt",
+          "u": "nadenkt",
+          "hij/zij": "nadenkt",
+          "wij": "nadenken",
+          "jullie": "nadenken",
+          "zij_plural": "nadenken"
+        },
+        "past": {
+          "ik": "nadenkte",
+          "jij": "nadenkte",
+          "u": "nadenkte",
+          "hij/zij": "nadenkte",
+          "wij": "nadenkten",
+          "jullie": "nadenkten",
+          "zij_plural": "nadenkten"
+        },
+        "perfect": "genadenkt"
+      }
+    },
+    {
+      "id": "v485",
+      "word": "naderen",
+      "translation": "to approach",
+      "conjugations": {
+        "present": {
+          "ik": "nadeer",
+          "jij": "nadeert",
+          "u": "nadeert",
+          "hij/zij": "nadeert",
+          "wij": "naderen",
+          "jullie": "naderen",
+          "zij_plural": "naderen"
+        },
+        "past": {
+          "ik": "nadeerde",
+          "jij": "nadeerde",
+          "u": "nadeerde",
+          "hij/zij": "nadeerde",
+          "wij": "nadeerden",
+          "jullie": "nadeerden",
+          "zij_plural": "nadeerden"
+        },
+        "perfect": "genadeerd"
+      }
+    },
+    {
+      "id": "v486",
       "word": "nagaan",
       "translation": "to check; to trace",
       "conjugations": {
@@ -13253,7 +25041,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v266",
+      "id": "v487",
       "word": "nalaten",
       "translation": "to leave behind; to fail to do",
       "conjugations": {
@@ -13279,7 +25067,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v267",
+      "id": "v488",
+      "word": "nastreven",
+      "translation": "to pursue, to strive for",
+      "conjugations": {
+        "present": {
+          "ik": "nastreef",
+          "jij": "nastreeft",
+          "u": "nastreeft",
+          "hij/zij": "nastreeft",
+          "wij": "nastreven",
+          "jullie": "nastreven",
+          "zij_plural": "nastreven"
+        },
+        "past": {
+          "ik": "nastreefte",
+          "jij": "nastreefte",
+          "u": "nastreefte",
+          "hij/zij": "nastreefte",
+          "wij": "nastreeften",
+          "jullie": "nastreeften",
+          "zij_plural": "nastreeften"
+        },
+        "perfect": "genastreeft"
+      }
+    },
+    {
+      "id": "v489",
+      "word": "neerkomen",
+      "translation": "to come down; to amount to",
+      "conjugations": {
+        "present": {
+          "ik": "neerkoom",
+          "jij": "neerkoomt",
+          "u": "neerkoomt",
+          "hij/zij": "neerkoomt",
+          "wij": "neerkomen",
+          "jullie": "neerkomen",
+          "zij_plural": "neerkomen"
+        },
+        "past": {
+          "ik": "neerkoomde",
+          "jij": "neerkoomde",
+          "u": "neerkoomde",
+          "hij/zij": "neerkoomde",
+          "wij": "neerkoomden",
+          "jullie": "neerkoomden",
+          "zij_plural": "neerkoomden"
+        },
+        "perfect": "geneerkoomd"
+      }
+    },
+    {
+      "id": "v490",
       "word": "neerleggen",
       "translation": "to put down",
       "conjugations": {
@@ -13305,7 +25145,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v268",
+      "id": "v491",
+      "word": "neerzetten",
+      "translation": "to put down",
+      "conjugations": {
+        "present": {
+          "ik": "neerzett",
+          "jij": "neerzett",
+          "u": "neerzett",
+          "hij/zij": "neerzett",
+          "wij": "neerzetten",
+          "jullie": "neerzetten",
+          "zij_plural": "neerzetten"
+        },
+        "past": {
+          "ik": "neerzettte",
+          "jij": "neerzettte",
+          "u": "neerzettte",
+          "hij/zij": "neerzettte",
+          "wij": "neerzettten",
+          "jullie": "neerzettten",
+          "zij_plural": "neerzettten"
+        },
+        "perfect": "geneerzettt"
+      }
+    },
+    {
+      "id": "v492",
+      "word": "negeren",
+      "translation": "to ignore",
+      "conjugations": {
+        "present": {
+          "ik": "negeer",
+          "jij": "negeert",
+          "u": "negeert",
+          "hij/zij": "negeert",
+          "wij": "negeren",
+          "jullie": "negeren",
+          "zij_plural": "negeren"
+        },
+        "past": {
+          "ik": "negeerde",
+          "jij": "negeerde",
+          "u": "negeerde",
+          "hij/zij": "negeerde",
+          "wij": "negeerden",
+          "jullie": "negeerden",
+          "zij_plural": "negeerden"
+        },
+        "perfect": "genegeerd"
+      }
+    },
+    {
+      "id": "v493",
+      "word": "neigen",
+      "translation": "to tend; to lean",
+      "conjugations": {
+        "present": {
+          "ik": "neig",
+          "jij": "neigt",
+          "u": "neigt",
+          "hij/zij": "neigt",
+          "wij": "neigen",
+          "jullie": "neigen",
+          "zij_plural": "neigen"
+        },
+        "past": {
+          "ik": "neigde",
+          "jij": "neigde",
+          "u": "neigde",
+          "hij/zij": "neigde",
+          "wij": "neigden",
+          "jullie": "neigden",
+          "zij_plural": "neigden"
+        },
+        "perfect": "geneigd"
+      }
+    },
+    {
+      "id": "v494",
       "word": "nemen",
       "translation": "to take",
       "conjugations": {
@@ -13331,7 +25249,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v269",
+      "id": "v495",
       "word": "noden",
       "translation": "to need; to urge",
       "conjugations": {
@@ -13357,7 +25275,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v270",
+      "id": "v496",
       "word": "noemen",
       "translation": "to call, to name",
       "conjugations": {
@@ -13383,7 +25301,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v271",
+      "id": "v497",
+      "word": "noteren",
+      "translation": "to note down",
+      "conjugations": {
+        "present": {
+          "ik": "noteer",
+          "jij": "noteert",
+          "u": "noteert",
+          "hij/zij": "noteert",
+          "wij": "noteren",
+          "jullie": "noteren",
+          "zij_plural": "noteren"
+        },
+        "past": {
+          "ik": "noteerde",
+          "jij": "noteerde",
+          "u": "noteerde",
+          "hij/zij": "noteerde",
+          "wij": "noteerden",
+          "jullie": "noteerden",
+          "zij_plural": "noteerden"
+        },
+        "perfect": "genoteerd"
+      }
+    },
+    {
+      "id": "v498",
+      "word": "observeren",
+      "translation": "to observe",
+      "conjugations": {
+        "present": {
+          "ik": "observeer",
+          "jij": "observeert",
+          "u": "observeert",
+          "hij/zij": "observeert",
+          "wij": "observeren",
+          "jullie": "observeren",
+          "zij_plural": "observeren"
+        },
+        "past": {
+          "ik": "observeerde",
+          "jij": "observeerde",
+          "u": "observeerde",
+          "hij/zij": "observeerde",
+          "wij": "observeerden",
+          "jullie": "observeerden",
+          "zij_plural": "observeerden"
+        },
+        "perfect": "geobserveerd"
+      }
+    },
+    {
+      "id": "v499",
       "word": "oefenen",
       "translation": "to practice",
       "conjugations": {
@@ -13409,7 +25379,215 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v272",
+      "id": "v500",
+      "word": "offeren",
+      "translation": "to sacrifice",
+      "conjugations": {
+        "present": {
+          "ik": "offeer",
+          "jij": "offeert",
+          "u": "offeert",
+          "hij/zij": "offeert",
+          "wij": "offeren",
+          "jullie": "offeren",
+          "zij_plural": "offeren"
+        },
+        "past": {
+          "ik": "offeerde",
+          "jij": "offeerde",
+          "u": "offeerde",
+          "hij/zij": "offeerde",
+          "wij": "offeerden",
+          "jullie": "offeerden",
+          "zij_plural": "offeerden"
+        },
+        "perfect": "geoffeerd"
+      }
+    },
+    {
+      "id": "v501",
+      "word": "omdraaien",
+      "translation": "to turn around",
+      "conjugations": {
+        "present": {
+          "ik": "omdraai",
+          "jij": "omdraait",
+          "u": "omdraait",
+          "hij/zij": "omdraait",
+          "wij": "omdraaien",
+          "jullie": "omdraaien",
+          "zij_plural": "omdraaien"
+        },
+        "past": {
+          "ik": "omdraaide",
+          "jij": "omdraaide",
+          "u": "omdraaide",
+          "hij/zij": "omdraaide",
+          "wij": "omdraaiden",
+          "jullie": "omdraaiden",
+          "zij_plural": "omdraaiden"
+        },
+        "perfect": "geomdraaid"
+      }
+    },
+    {
+      "id": "v502",
+      "word": "omgaan",
+      "translation": "to deal with; to go around",
+      "conjugations": {
+        "present": {
+          "ik": "omgaa",
+          "jij": "omgaat",
+          "u": "omgaat",
+          "hij/zij": "omgaat",
+          "wij": "omgaan",
+          "jullie": "omgaan",
+          "zij_plural": "omgaan"
+        },
+        "past": {
+          "ik": "omgaade",
+          "jij": "omgaade",
+          "u": "omgaade",
+          "hij/zij": "omgaade",
+          "wij": "omgaaden",
+          "jullie": "omgaaden",
+          "zij_plural": "omgaaden"
+        },
+        "perfect": "geomgaad"
+      }
+    },
+    {
+      "id": "v503",
+      "word": "omgeven",
+      "translation": "to surround",
+      "conjugations": {
+        "present": {
+          "ik": "omgeef",
+          "jij": "omgeeft",
+          "u": "omgeeft",
+          "hij/zij": "omgeeft",
+          "wij": "omgeven",
+          "jullie": "omgeven",
+          "zij_plural": "omgeven"
+        },
+        "past": {
+          "ik": "omgeefte",
+          "jij": "omgeefte",
+          "u": "omgeefte",
+          "hij/zij": "omgeefte",
+          "wij": "omgeeften",
+          "jullie": "omgeeften",
+          "zij_plural": "omgeeften"
+        },
+        "perfect": "geomgeeft"
+      }
+    },
+    {
+      "id": "v504",
+      "word": "omhelzen",
+      "translation": "to embrace",
+      "conjugations": {
+        "present": {
+          "ik": "omhels",
+          "jij": "omhelst",
+          "u": "omhelst",
+          "hij/zij": "omhelst",
+          "wij": "omhelzen",
+          "jullie": "omhelzen",
+          "zij_plural": "omhelzen"
+        },
+        "past": {
+          "ik": "omhelste",
+          "jij": "omhelste",
+          "u": "omhelste",
+          "hij/zij": "omhelste",
+          "wij": "omhelsten",
+          "jullie": "omhelsten",
+          "zij_plural": "omhelsten"
+        },
+        "perfect": "geomhelst"
+      }
+    },
+    {
+      "id": "v505",
+      "word": "omkeren",
+      "translation": "to turn around; to reverse",
+      "conjugations": {
+        "present": {
+          "ik": "omkeer",
+          "jij": "omkeert",
+          "u": "omkeert",
+          "hij/zij": "omkeert",
+          "wij": "omkeren",
+          "jullie": "omkeren",
+          "zij_plural": "omkeren"
+        },
+        "past": {
+          "ik": "omkeerde",
+          "jij": "omkeerde",
+          "u": "omkeerde",
+          "hij/zij": "omkeerde",
+          "wij": "omkeerden",
+          "jullie": "omkeerden",
+          "zij_plural": "omkeerden"
+        },
+        "perfect": "geomkeerd"
+      }
+    },
+    {
+      "id": "v506",
+      "word": "omringen",
+      "translation": "to surround",
+      "conjugations": {
+        "present": {
+          "ik": "omring",
+          "jij": "omringt",
+          "u": "omringt",
+          "hij/zij": "omringt",
+          "wij": "omringen",
+          "jullie": "omringen",
+          "zij_plural": "omringen"
+        },
+        "past": {
+          "ik": "omringde",
+          "jij": "omringde",
+          "u": "omringde",
+          "hij/zij": "omringde",
+          "wij": "omringden",
+          "jullie": "omringden",
+          "zij_plural": "omringden"
+        },
+        "perfect": "geomringd"
+      }
+    },
+    {
+      "id": "v507",
+      "word": "omschrijven",
+      "translation": "to describe; to paraphrase",
+      "conjugations": {
+        "present": {
+          "ik": "omschrijf",
+          "jij": "omschrijft",
+          "u": "omschrijft",
+          "hij/zij": "omschrijft",
+          "wij": "omschrijven",
+          "jullie": "omschrijven",
+          "zij_plural": "omschrijven"
+        },
+        "past": {
+          "ik": "omschrijfte",
+          "jij": "omschrijfte",
+          "u": "omschrijfte",
+          "hij/zij": "omschrijfte",
+          "wij": "omschrijften",
+          "jullie": "omschrijften",
+          "zij_plural": "omschrijften"
+        },
+        "perfect": "geomschrijft"
+      }
+    },
+    {
+      "id": "v508",
       "word": "omvatten",
       "translation": "to comprise, to encompass",
       "conjugations": {
@@ -13435,7 +25613,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v273",
+      "id": "v509",
       "word": "omzetten",
       "translation": "to convert; to turn over",
       "conjugations": {
@@ -13461,7 +25639,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v274",
+      "id": "v510",
+      "word": "onderbreken",
+      "translation": "to interrupt",
+      "conjugations": {
+        "present": {
+          "ik": "onderbreek",
+          "jij": "onderbreekt",
+          "u": "onderbreekt",
+          "hij/zij": "onderbreekt",
+          "wij": "onderbreken",
+          "jullie": "onderbreken",
+          "zij_plural": "onderbreken"
+        },
+        "past": {
+          "ik": "onderbreekte",
+          "jij": "onderbreekte",
+          "u": "onderbreekte",
+          "hij/zij": "onderbreekte",
+          "wij": "onderbreekten",
+          "jullie": "onderbreekten",
+          "zij_plural": "onderbreekten"
+        },
+        "perfect": "geonderbreekt"
+      }
+    },
+    {
+      "id": "v511",
+      "word": "onderdrukken",
+      "translation": "to suppress; to oppress",
+      "conjugations": {
+        "present": {
+          "ik": "onderdrukk",
+          "jij": "onderdrukkt",
+          "u": "onderdrukkt",
+          "hij/zij": "onderdrukkt",
+          "wij": "onderdrukken",
+          "jullie": "onderdrukken",
+          "zij_plural": "onderdrukken"
+        },
+        "past": {
+          "ik": "onderdrukkte",
+          "jij": "onderdrukkte",
+          "u": "onderdrukkte",
+          "hij/zij": "onderdrukkte",
+          "wij": "onderdrukkten",
+          "jullie": "onderdrukkten",
+          "zij_plural": "onderdrukkten"
+        },
+        "perfect": "geonderdrukkt"
+      }
+    },
+    {
+      "id": "v512",
+      "word": "ondergaan",
+      "translation": "to undergo; to set (sun)",
+      "conjugations": {
+        "present": {
+          "ik": "ondergaa",
+          "jij": "ondergaat",
+          "u": "ondergaat",
+          "hij/zij": "ondergaat",
+          "wij": "ondergaan",
+          "jullie": "ondergaan",
+          "zij_plural": "ondergaan"
+        },
+        "past": {
+          "ik": "ondergaade",
+          "jij": "ondergaade",
+          "u": "ondergaade",
+          "hij/zij": "ondergaade",
+          "wij": "ondergaaden",
+          "jullie": "ondergaaden",
+          "zij_plural": "ondergaaden"
+        },
+        "perfect": "geondergaad"
+      }
+    },
+    {
+      "id": "v513",
+      "word": "onderhandelen",
+      "translation": "to negotiate",
+      "conjugations": {
+        "present": {
+          "ik": "onderhandeel",
+          "jij": "onderhandeelt",
+          "u": "onderhandeelt",
+          "hij/zij": "onderhandeelt",
+          "wij": "onderhandelen",
+          "jullie": "onderhandelen",
+          "zij_plural": "onderhandelen"
+        },
+        "past": {
+          "ik": "onderhandeelde",
+          "jij": "onderhandeelde",
+          "u": "onderhandeelde",
+          "hij/zij": "onderhandeelde",
+          "wij": "onderhandeelden",
+          "jullie": "onderhandeelden",
+          "zij_plural": "onderhandeelden"
+        },
+        "perfect": "geonderhandeeld"
+      }
+    },
+    {
+      "id": "v514",
       "word": "onderhouden",
       "translation": "to maintain",
       "conjugations": {
@@ -13487,7 +25769,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v275",
+      "id": "v515",
+      "word": "onderkennen",
+      "translation": "to recognize, to identify",
+      "conjugations": {
+        "present": {
+          "ik": "onderkenn",
+          "jij": "onderkennt",
+          "u": "onderkennt",
+          "hij/zij": "onderkennt",
+          "wij": "onderkennen",
+          "jullie": "onderkennen",
+          "zij_plural": "onderkennen"
+        },
+        "past": {
+          "ik": "onderkennde",
+          "jij": "onderkennde",
+          "u": "onderkennde",
+          "hij/zij": "onderkennde",
+          "wij": "onderkennden",
+          "jullie": "onderkennden",
+          "zij_plural": "onderkennden"
+        },
+        "perfect": "geonderkennd"
+      }
+    },
+    {
+      "id": "v516",
       "word": "ondernemen",
       "translation": "to undertake",
       "conjugations": {
@@ -13513,7 +25821,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v276",
+      "id": "v517",
+      "word": "onderschatten",
+      "translation": "to underestimate",
+      "conjugations": {
+        "present": {
+          "ik": "onderschatt",
+          "jij": "onderschatt",
+          "u": "onderschatt",
+          "hij/zij": "onderschatt",
+          "wij": "onderschatten",
+          "jullie": "onderschatten",
+          "zij_plural": "onderschatten"
+        },
+        "past": {
+          "ik": "onderschattte",
+          "jij": "onderschattte",
+          "u": "onderschattte",
+          "hij/zij": "onderschattte",
+          "wij": "onderschattten",
+          "jullie": "onderschattten",
+          "zij_plural": "onderschattten"
+        },
+        "perfect": "geonderschattt"
+      }
+    },
+    {
+      "id": "v518",
       "word": "onderscheiden",
       "translation": "to distinguish",
       "conjugations": {
@@ -13539,7 +25873,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v277",
+      "id": "v519",
       "word": "ondersteunen",
       "translation": "to support",
       "conjugations": {
@@ -13565,7 +25899,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v278",
+      "id": "v520",
+      "word": "ondertekenen",
+      "translation": "to sign",
+      "conjugations": {
+        "present": {
+          "ik": "ondertekeen",
+          "jij": "ondertekeent",
+          "u": "ondertekeent",
+          "hij/zij": "ondertekeent",
+          "wij": "ondertekenen",
+          "jullie": "ondertekenen",
+          "zij_plural": "ondertekenen"
+        },
+        "past": {
+          "ik": "ondertekeende",
+          "jij": "ondertekeende",
+          "u": "ondertekeende",
+          "hij/zij": "ondertekeende",
+          "wij": "ondertekeenden",
+          "jullie": "ondertekeenden",
+          "zij_plural": "ondertekeenden"
+        },
+        "perfect": "geondertekeend"
+      }
+    },
+    {
+      "id": "v521",
+      "word": "ondervinden",
+      "translation": "to experience",
+      "conjugations": {
+        "present": {
+          "ik": "ondervind",
+          "jij": "ondervindt",
+          "u": "ondervindt",
+          "hij/zij": "ondervindt",
+          "wij": "ondervinden",
+          "jullie": "ondervinden",
+          "zij_plural": "ondervinden"
+        },
+        "past": {
+          "ik": "ondervindde",
+          "jij": "ondervindde",
+          "u": "ondervindde",
+          "hij/zij": "ondervindde",
+          "wij": "ondervindden",
+          "jullie": "ondervindden",
+          "zij_plural": "ondervindden"
+        },
+        "perfect": "geondervindd"
+      }
+    },
+    {
+      "id": "v522",
+      "word": "ondervragen",
+      "translation": "to interrogate",
+      "conjugations": {
+        "present": {
+          "ik": "ondervraag",
+          "jij": "ondervraagt",
+          "u": "ondervraagt",
+          "hij/zij": "ondervraagt",
+          "wij": "ondervragen",
+          "jullie": "ondervragen",
+          "zij_plural": "ondervragen"
+        },
+        "past": {
+          "ik": "ondervraagde",
+          "jij": "ondervraagde",
+          "u": "ondervraagde",
+          "hij/zij": "ondervraagde",
+          "wij": "ondervraagden",
+          "jullie": "ondervraagden",
+          "zij_plural": "ondervraagden"
+        },
+        "perfect": "geondervraagd"
+      }
+    },
+    {
+      "id": "v523",
+      "word": "onderwerpen",
+      "translation": "to subject",
+      "conjugations": {
+        "present": {
+          "ik": "onderwerp",
+          "jij": "onderwerpt",
+          "u": "onderwerpt",
+          "hij/zij": "onderwerpt",
+          "wij": "onderwerpen",
+          "jullie": "onderwerpen",
+          "zij_plural": "onderwerpen"
+        },
+        "past": {
+          "ik": "onderwerpte",
+          "jij": "onderwerpte",
+          "u": "onderwerpte",
+          "hij/zij": "onderwerpte",
+          "wij": "onderwerpten",
+          "jullie": "onderwerpten",
+          "zij_plural": "onderwerpten"
+        },
+        "perfect": "geonderwerpt"
+      }
+    },
+    {
+      "id": "v524",
       "word": "onderzoeken",
       "translation": "to investigate; to examine",
       "conjugations": {
@@ -13591,7 +26029,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v279",
+      "id": "v525",
       "word": "ontbreken",
       "translation": "to be missing, to lack",
       "conjugations": {
@@ -13617,7 +26055,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v280",
+      "id": "v526",
       "word": "ontdekken",
       "translation": "to discover",
       "conjugations": {
@@ -13643,7 +26081,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v281",
+      "id": "v527",
+      "word": "onthouden",
+      "translation": "to remember; to withhold",
+      "conjugations": {
+        "present": {
+          "ik": "onthoud",
+          "jij": "onthoudt",
+          "u": "onthoudt",
+          "hij/zij": "onthoudt",
+          "wij": "onthouden",
+          "jullie": "onthouden",
+          "zij_plural": "onthouden"
+        },
+        "past": {
+          "ik": "onthoudde",
+          "jij": "onthoudde",
+          "u": "onthoudde",
+          "hij/zij": "onthoudde",
+          "wij": "onthoudden",
+          "jullie": "onthoudden",
+          "zij_plural": "onthoudden"
+        },
+        "perfect": "onthoudd"
+      }
+    },
+    {
+      "id": "v528",
+      "word": "onthullen",
+      "translation": "to reveal",
+      "conjugations": {
+        "present": {
+          "ik": "onthull",
+          "jij": "onthullt",
+          "u": "onthullt",
+          "hij/zij": "onthullt",
+          "wij": "onthullen",
+          "jullie": "onthullen",
+          "zij_plural": "onthullen"
+        },
+        "past": {
+          "ik": "onthullde",
+          "jij": "onthullde",
+          "u": "onthullde",
+          "hij/zij": "onthullde",
+          "wij": "onthullden",
+          "jullie": "onthullden",
+          "zij_plural": "onthullden"
+        },
+        "perfect": "onthulld"
+      }
+    },
+    {
+      "id": "v529",
       "word": "ontkennen",
       "translation": "to deny",
       "conjugations": {
@@ -13669,7 +26159,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v282",
+      "id": "v530",
+      "word": "ontkomen",
+      "translation": "to escape",
+      "conjugations": {
+        "present": {
+          "ik": "ontkoom",
+          "jij": "ontkoomt",
+          "u": "ontkoomt",
+          "hij/zij": "ontkoomt",
+          "wij": "ontkomen",
+          "jullie": "ontkomen",
+          "zij_plural": "ontkomen"
+        },
+        "past": {
+          "ik": "ontkoomde",
+          "jij": "ontkoomde",
+          "u": "ontkoomde",
+          "hij/zij": "ontkoomde",
+          "wij": "ontkoomden",
+          "jullie": "ontkoomden",
+          "zij_plural": "ontkoomden"
+        },
+        "perfect": "ontkoomd"
+      }
+    },
+    {
+      "id": "v531",
+      "word": "ontlenen",
+      "translation": "to derive; to borrow",
+      "conjugations": {
+        "present": {
+          "ik": "ontleen",
+          "jij": "ontleent",
+          "u": "ontleent",
+          "hij/zij": "ontleent",
+          "wij": "ontlenen",
+          "jullie": "ontlenen",
+          "zij_plural": "ontlenen"
+        },
+        "past": {
+          "ik": "ontleende",
+          "jij": "ontleende",
+          "u": "ontleende",
+          "hij/zij": "ontleende",
+          "wij": "ontleenden",
+          "jullie": "ontleenden",
+          "zij_plural": "ontleenden"
+        },
+        "perfect": "ontleend"
+      }
+    },
+    {
+      "id": "v532",
       "word": "ontmoeten",
       "translation": "to meet",
       "conjugations": {
@@ -13695,7 +26237,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v283",
+      "id": "v533",
       "word": "ontnemen",
       "translation": "to take away",
       "conjugations": {
@@ -13721,7 +26263,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v284",
+      "id": "v534",
+      "word": "ontplooien",
+      "translation": "to develop; to unfold",
+      "conjugations": {
+        "present": {
+          "ik": "ontplooi",
+          "jij": "ontplooit",
+          "u": "ontplooit",
+          "hij/zij": "ontplooit",
+          "wij": "ontplooien",
+          "jullie": "ontplooien",
+          "zij_plural": "ontplooien"
+        },
+        "past": {
+          "ik": "ontplooide",
+          "jij": "ontplooide",
+          "u": "ontplooide",
+          "hij/zij": "ontplooide",
+          "wij": "ontplooiden",
+          "jullie": "ontplooiden",
+          "zij_plural": "ontplooiden"
+        },
+        "perfect": "ontplooid"
+      }
+    },
+    {
+      "id": "v535",
+      "word": "ontroeren",
+      "translation": "to move (emotionally)",
+      "conjugations": {
+        "present": {
+          "ik": "ontroer",
+          "jij": "ontroert",
+          "u": "ontroert",
+          "hij/zij": "ontroert",
+          "wij": "ontroeren",
+          "jullie": "ontroeren",
+          "zij_plural": "ontroeren"
+        },
+        "past": {
+          "ik": "ontroerde",
+          "jij": "ontroerde",
+          "u": "ontroerde",
+          "hij/zij": "ontroerde",
+          "wij": "ontroerden",
+          "jullie": "ontroerden",
+          "zij_plural": "ontroerden"
+        },
+        "perfect": "ontroerd"
+      }
+    },
+    {
+      "id": "v536",
       "word": "ontslaan",
       "translation": "to fire, to dismiss",
       "conjugations": {
@@ -13747,7 +26341,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v285",
+      "id": "v537",
       "word": "ontsnappen",
       "translation": "to escape",
       "conjugations": {
@@ -13773,7 +26367,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v286",
+      "id": "v538",
+      "word": "ontspannen",
+      "translation": "to relax",
+      "conjugations": {
+        "present": {
+          "ik": "ontspann",
+          "jij": "ontspannt",
+          "u": "ontspannt",
+          "hij/zij": "ontspannt",
+          "wij": "ontspannen",
+          "jullie": "ontspannen",
+          "zij_plural": "ontspannen"
+        },
+        "past": {
+          "ik": "ontspannde",
+          "jij": "ontspannde",
+          "u": "ontspannde",
+          "hij/zij": "ontspannde",
+          "wij": "ontspannden",
+          "jullie": "ontspannden",
+          "zij_plural": "ontspannden"
+        },
+        "perfect": "ontspannd"
+      }
+    },
+    {
+      "id": "v539",
       "word": "ontstaan",
       "translation": "to arise, to originate",
       "conjugations": {
@@ -13799,7 +26419,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v287",
+      "id": "v540",
+      "word": "onttrekken",
+      "translation": "to withdraw; to extract",
+      "conjugations": {
+        "present": {
+          "ik": "onttrekk",
+          "jij": "onttrekkt",
+          "u": "onttrekkt",
+          "hij/zij": "onttrekkt",
+          "wij": "onttrekken",
+          "jullie": "onttrekken",
+          "zij_plural": "onttrekken"
+        },
+        "past": {
+          "ik": "onttrekkte",
+          "jij": "onttrekkte",
+          "u": "onttrekkte",
+          "hij/zij": "onttrekkte",
+          "wij": "onttrekkten",
+          "jullie": "onttrekkten",
+          "zij_plural": "onttrekkten"
+        },
+        "perfect": "onttrekkt"
+      }
+    },
+    {
+      "id": "v541",
       "word": "ontvangen",
       "translation": "to receive",
       "conjugations": {
@@ -13825,7 +26471,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v288",
+      "id": "v542",
+      "word": "ontwaken",
+      "translation": "to wake up",
+      "conjugations": {
+        "present": {
+          "ik": "ontwaak",
+          "jij": "ontwaakt",
+          "u": "ontwaakt",
+          "hij/zij": "ontwaakt",
+          "wij": "ontwaken",
+          "jullie": "ontwaken",
+          "zij_plural": "ontwaken"
+        },
+        "past": {
+          "ik": "ontwaakte",
+          "jij": "ontwaakte",
+          "u": "ontwaakte",
+          "hij/zij": "ontwaakte",
+          "wij": "ontwaakten",
+          "jullie": "ontwaakten",
+          "zij_plural": "ontwaakten"
+        },
+        "perfect": "ontwaakt"
+      }
+    },
+    {
+      "id": "v543",
       "word": "ontwerpen",
       "translation": "to design",
       "conjugations": {
@@ -13851,7 +26523,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v289",
+      "id": "v544",
+      "word": "ontwijken",
+      "translation": "to evade, to dodge",
+      "conjugations": {
+        "present": {
+          "ik": "ontwijk",
+          "jij": "ontwijkt",
+          "u": "ontwijkt",
+          "hij/zij": "ontwijkt",
+          "wij": "ontwijken",
+          "jullie": "ontwijken",
+          "zij_plural": "ontwijken"
+        },
+        "past": {
+          "ik": "ontwijkte",
+          "jij": "ontwijkte",
+          "u": "ontwijkte",
+          "hij/zij": "ontwijkte",
+          "wij": "ontwijkten",
+          "jullie": "ontwijkten",
+          "zij_plural": "ontwijkten"
+        },
+        "perfect": "ontwijkt"
+      }
+    },
+    {
+      "id": "v545",
       "word": "ontwikkelen",
       "translation": "to develop",
       "conjugations": {
@@ -13877,7 +26575,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v290",
+      "id": "v546",
       "word": "oordelen",
       "translation": "to judge",
       "conjugations": {
@@ -13903,7 +26601,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v291",
+      "id": "v547",
       "word": "opbouwen",
       "translation": "to build up",
       "conjugations": {
@@ -13929,7 +26627,137 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v292",
+      "id": "v548",
+      "word": "opbrengen",
+      "translation": "to yield; to summon",
+      "conjugations": {
+        "present": {
+          "ik": "opbreng",
+          "jij": "opbrengt",
+          "u": "opbrengt",
+          "hij/zij": "opbrengt",
+          "wij": "opbrengen",
+          "jullie": "opbrengen",
+          "zij_plural": "opbrengen"
+        },
+        "past": {
+          "ik": "opbrengde",
+          "jij": "opbrengde",
+          "u": "opbrengde",
+          "hij/zij": "opbrengde",
+          "wij": "opbrengden",
+          "jullie": "opbrengden",
+          "zij_plural": "opbrengden"
+        },
+        "perfect": "geopbrengd"
+      }
+    },
+    {
+      "id": "v549",
+      "word": "opdoen",
+      "translation": "to gain (experience)",
+      "conjugations": {
+        "present": {
+          "ik": "opdo",
+          "jij": "opdot",
+          "u": "opdot",
+          "hij/zij": "opdot",
+          "wij": "opdoen",
+          "jullie": "opdoen",
+          "zij_plural": "opdoen"
+        },
+        "past": {
+          "ik": "opdode",
+          "jij": "opdode",
+          "u": "opdode",
+          "hij/zij": "opdode",
+          "wij": "opdoden",
+          "jullie": "opdoden",
+          "zij_plural": "opdoden"
+        },
+        "perfect": "geopdod"
+      }
+    },
+    {
+      "id": "v550",
+      "word": "opdragen",
+      "translation": "to dedicate; to assign",
+      "conjugations": {
+        "present": {
+          "ik": "opdraag",
+          "jij": "opdraagt",
+          "u": "opdraagt",
+          "hij/zij": "opdraagt",
+          "wij": "opdragen",
+          "jullie": "opdragen",
+          "zij_plural": "opdragen"
+        },
+        "past": {
+          "ik": "opdraagde",
+          "jij": "opdraagde",
+          "u": "opdraagde",
+          "hij/zij": "opdraagde",
+          "wij": "opdraagden",
+          "jullie": "opdraagden",
+          "zij_plural": "opdraagden"
+        },
+        "perfect": "geopdraagd"
+      }
+    },
+    {
+      "id": "v551",
+      "word": "opduiken",
+      "translation": "to surface; to turn up",
+      "conjugations": {
+        "present": {
+          "ik": "opduik",
+          "jij": "opduikt",
+          "u": "opduikt",
+          "hij/zij": "opduikt",
+          "wij": "opduiken",
+          "jullie": "opduiken",
+          "zij_plural": "opduiken"
+        },
+        "past": {
+          "ik": "opduikte",
+          "jij": "opduikte",
+          "u": "opduikte",
+          "hij/zij": "opduikte",
+          "wij": "opduikten",
+          "jullie": "opduikten",
+          "zij_plural": "opduikten"
+        },
+        "perfect": "geopduikt"
+      }
+    },
+    {
+      "id": "v552",
+      "word": "openbaren",
+      "translation": "to reveal",
+      "conjugations": {
+        "present": {
+          "ik": "openbaar",
+          "jij": "openbaart",
+          "u": "openbaart",
+          "hij/zij": "openbaart",
+          "wij": "openbaren",
+          "jullie": "openbaren",
+          "zij_plural": "openbaren"
+        },
+        "past": {
+          "ik": "openbaarde",
+          "jij": "openbaarde",
+          "u": "openbaarde",
+          "hij/zij": "openbaarde",
+          "wij": "openbaarden",
+          "jullie": "openbaarden",
+          "zij_plural": "openbaarden"
+        },
+        "perfect": "geopenbaard"
+      }
+    },
+    {
+      "id": "v553",
       "word": "openen",
       "translation": "to open",
       "conjugations": {
@@ -13955,7 +26783,163 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v293",
+      "id": "v554",
+      "word": "openstaan",
+      "translation": "to be open",
+      "conjugations": {
+        "present": {
+          "ik": "openstaa",
+          "jij": "openstaat",
+          "u": "openstaat",
+          "hij/zij": "openstaat",
+          "wij": "openstaan",
+          "jullie": "openstaan",
+          "zij_plural": "openstaan"
+        },
+        "past": {
+          "ik": "openstaade",
+          "jij": "openstaade",
+          "u": "openstaade",
+          "hij/zij": "openstaade",
+          "wij": "openstaaden",
+          "jullie": "openstaaden",
+          "zij_plural": "openstaaden"
+        },
+        "perfect": "geopenstaad"
+      }
+    },
+    {
+      "id": "v555",
+      "word": "opereren",
+      "translation": "to operate",
+      "conjugations": {
+        "present": {
+          "ik": "opereer",
+          "jij": "opereert",
+          "u": "opereert",
+          "hij/zij": "opereert",
+          "wij": "opereren",
+          "jullie": "opereren",
+          "zij_plural": "opereren"
+        },
+        "past": {
+          "ik": "opereerde",
+          "jij": "opereerde",
+          "u": "opereerde",
+          "hij/zij": "opereerde",
+          "wij": "opereerden",
+          "jullie": "opereerden",
+          "zij_plural": "opereerden"
+        },
+        "perfect": "geopereerd"
+      }
+    },
+    {
+      "id": "v556",
+      "word": "opgaan",
+      "translation": "to rise; to be absorbed",
+      "conjugations": {
+        "present": {
+          "ik": "opgaa",
+          "jij": "opgaat",
+          "u": "opgaat",
+          "hij/zij": "opgaat",
+          "wij": "opgaan",
+          "jullie": "opgaan",
+          "zij_plural": "opgaan"
+        },
+        "past": {
+          "ik": "opgaade",
+          "jij": "opgaade",
+          "u": "opgaade",
+          "hij/zij": "opgaade",
+          "wij": "opgaaden",
+          "jullie": "opgaaden",
+          "zij_plural": "opgaaden"
+        },
+        "perfect": "geopgaad"
+      }
+    },
+    {
+      "id": "v557",
+      "word": "opgeven",
+      "translation": "to give up; to state",
+      "conjugations": {
+        "present": {
+          "ik": "opgeef",
+          "jij": "opgeeft",
+          "u": "opgeeft",
+          "hij/zij": "opgeeft",
+          "wij": "opgeven",
+          "jullie": "opgeven",
+          "zij_plural": "opgeven"
+        },
+        "past": {
+          "ik": "opgeefte",
+          "jij": "opgeefte",
+          "u": "opgeefte",
+          "hij/zij": "opgeefte",
+          "wij": "opgeeften",
+          "jullie": "opgeeften",
+          "zij_plural": "opgeeften"
+        },
+        "perfect": "geopgeeft"
+      }
+    },
+    {
+      "id": "v558",
+      "word": "opgroeien",
+      "translation": "to grow up",
+      "conjugations": {
+        "present": {
+          "ik": "opgroei",
+          "jij": "opgroeit",
+          "u": "opgroeit",
+          "hij/zij": "opgroeit",
+          "wij": "opgroeien",
+          "jullie": "opgroeien",
+          "zij_plural": "opgroeien"
+        },
+        "past": {
+          "ik": "opgroeide",
+          "jij": "opgroeide",
+          "u": "opgroeide",
+          "hij/zij": "opgroeide",
+          "wij": "opgroeiden",
+          "jullie": "opgroeiden",
+          "zij_plural": "opgroeiden"
+        },
+        "perfect": "geopgroeid"
+      }
+    },
+    {
+      "id": "v559",
+      "word": "ophalen",
+      "translation": "to pick up; to collect",
+      "conjugations": {
+        "present": {
+          "ik": "ophaal",
+          "jij": "ophaalt",
+          "u": "ophaalt",
+          "hij/zij": "ophaalt",
+          "wij": "ophalen",
+          "jullie": "ophalen",
+          "zij_plural": "ophalen"
+        },
+        "past": {
+          "ik": "ophaalde",
+          "jij": "ophaalde",
+          "u": "ophaalde",
+          "hij/zij": "ophaalde",
+          "wij": "ophaalden",
+          "jullie": "ophaalden",
+          "zij_plural": "ophaalden"
+        },
+        "perfect": "geophaald"
+      }
+    },
+    {
+      "id": "v560",
       "word": "opheffen",
       "translation": "to abolish; to lift",
       "conjugations": {
@@ -13981,7 +26965,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v294",
+      "id": "v561",
       "word": "ophouden",
       "translation": "to stop; to hold up",
       "conjugations": {
@@ -14007,7 +26991,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v295",
+      "id": "v562",
       "word": "opkomen",
       "translation": "to come up; to stand up for",
       "conjugations": {
@@ -14033,7 +27017,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v296",
+      "id": "v563",
       "word": "opleggen",
       "translation": "to impose",
       "conjugations": {
@@ -14059,7 +27043,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v297",
+      "id": "v564",
       "word": "opleiden",
       "translation": "to train, to educate",
       "conjugations": {
@@ -14085,7 +27069,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v298",
+      "id": "v565",
       "word": "opletten",
       "translation": "to pay attention",
       "conjugations": {
@@ -14111,7 +27095,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v299",
+      "id": "v566",
+      "word": "opleveren",
+      "translation": "to deliver; to yield",
+      "conjugations": {
+        "present": {
+          "ik": "opleveer",
+          "jij": "opleveert",
+          "u": "opleveert",
+          "hij/zij": "opleveert",
+          "wij": "opleveren",
+          "jullie": "opleveren",
+          "zij_plural": "opleveren"
+        },
+        "past": {
+          "ik": "opleveerde",
+          "jij": "opleveerde",
+          "u": "opleveerde",
+          "hij/zij": "opleveerde",
+          "wij": "opleveerden",
+          "jullie": "opleveerden",
+          "zij_plural": "opleveerden"
+        },
+        "perfect": "geopleveerd"
+      }
+    },
+    {
+      "id": "v567",
+      "word": "oplopen",
+      "translation": "to increase; to catch (illness)",
+      "conjugations": {
+        "present": {
+          "ik": "oploop",
+          "jij": "oploopt",
+          "u": "oploopt",
+          "hij/zij": "oploopt",
+          "wij": "oplopen",
+          "jullie": "oplopen",
+          "zij_plural": "oplopen"
+        },
+        "past": {
+          "ik": "oploopte",
+          "jij": "oploopte",
+          "u": "oploopte",
+          "hij/zij": "oploopte",
+          "wij": "oploopten",
+          "jullie": "oploopten",
+          "zij_plural": "oploopten"
+        },
+        "perfect": "geoploopt"
+      }
+    },
+    {
+      "id": "v568",
       "word": "oplossen",
       "translation": "to solve; to dissolve",
       "conjugations": {
@@ -14137,7 +27173,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v300",
+      "id": "v569",
+      "word": "opmaken",
+      "translation": "to use up; to make up",
+      "conjugations": {
+        "present": {
+          "ik": "opmaak",
+          "jij": "opmaakt",
+          "u": "opmaakt",
+          "hij/zij": "opmaakt",
+          "wij": "opmaken",
+          "jullie": "opmaken",
+          "zij_plural": "opmaken"
+        },
+        "past": {
+          "ik": "opmaakte",
+          "jij": "opmaakte",
+          "u": "opmaakte",
+          "hij/zij": "opmaakte",
+          "wij": "opmaakten",
+          "jullie": "opmaakten",
+          "zij_plural": "opmaakten"
+        },
+        "perfect": "geopmaakt"
+      }
+    },
+    {
+      "id": "v570",
       "word": "opmerken",
       "translation": "to notice; to remark",
       "conjugations": {
@@ -14163,7 +27225,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v301",
+      "id": "v571",
       "word": "opnemen",
       "translation": "to pick up; to record; to admit",
       "conjugations": {
@@ -14189,7 +27251,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v302",
+      "id": "v572",
+      "word": "oppassen",
+      "translation": "to watch out; to babysit",
+      "conjugations": {
+        "present": {
+          "ik": "oppass",
+          "jij": "oppasst",
+          "u": "oppasst",
+          "hij/zij": "oppasst",
+          "wij": "oppassen",
+          "jullie": "oppassen",
+          "zij_plural": "oppassen"
+        },
+        "past": {
+          "ik": "oppasste",
+          "jij": "oppasste",
+          "u": "oppasste",
+          "hij/zij": "oppasste",
+          "wij": "oppassten",
+          "jullie": "oppassten",
+          "zij_plural": "oppassten"
+        },
+        "perfect": "geoppasst"
+      }
+    },
+    {
+      "id": "v573",
       "word": "oprichten",
       "translation": "to establish, to found",
       "conjugations": {
@@ -14215,7 +27303,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v303",
+      "id": "v574",
       "word": "oprijzen",
       "translation": "to rise up",
       "conjugations": {
@@ -14241,7 +27329,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v304",
+      "id": "v575",
       "word": "opruimen",
       "translation": "to clean up",
       "conjugations": {
@@ -14267,7 +27355,137 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v305",
+      "id": "v576",
+      "word": "opschieten",
+      "translation": "to hurry up",
+      "conjugations": {
+        "present": {
+          "ik": "opschiet",
+          "jij": "opschiet",
+          "u": "opschiet",
+          "hij/zij": "opschiet",
+          "wij": "opschieten",
+          "jullie": "opschieten",
+          "zij_plural": "opschieten"
+        },
+        "past": {
+          "ik": "opschiette",
+          "jij": "opschiette",
+          "u": "opschiette",
+          "hij/zij": "opschiette",
+          "wij": "opschietten",
+          "jullie": "opschietten",
+          "zij_plural": "opschietten"
+        },
+        "perfect": "geopschiett"
+      }
+    },
+    {
+      "id": "v577",
+      "word": "opschrijven",
+      "translation": "to write down",
+      "conjugations": {
+        "present": {
+          "ik": "opschrijf",
+          "jij": "opschrijft",
+          "u": "opschrijft",
+          "hij/zij": "opschrijft",
+          "wij": "opschrijven",
+          "jullie": "opschrijven",
+          "zij_plural": "opschrijven"
+        },
+        "past": {
+          "ik": "opschrijfte",
+          "jij": "opschrijfte",
+          "u": "opschrijfte",
+          "hij/zij": "opschrijfte",
+          "wij": "opschrijften",
+          "jullie": "opschrijften",
+          "zij_plural": "opschrijften"
+        },
+        "perfect": "geopschrijft"
+      }
+    },
+    {
+      "id": "v578",
+      "word": "opslaan",
+      "translation": "to store; to save",
+      "conjugations": {
+        "present": {
+          "ik": "opslaa",
+          "jij": "opslaat",
+          "u": "opslaat",
+          "hij/zij": "opslaat",
+          "wij": "opslaan",
+          "jullie": "opslaan",
+          "zij_plural": "opslaan"
+        },
+        "past": {
+          "ik": "opslaade",
+          "jij": "opslaade",
+          "u": "opslaade",
+          "hij/zij": "opslaade",
+          "wij": "opslaaden",
+          "jullie": "opslaaden",
+          "zij_plural": "opslaaden"
+        },
+        "perfect": "geopslaad"
+      }
+    },
+    {
+      "id": "v579",
+      "word": "opsluiten",
+      "translation": "to lock up",
+      "conjugations": {
+        "present": {
+          "ik": "opsluit",
+          "jij": "opsluit",
+          "u": "opsluit",
+          "hij/zij": "opsluit",
+          "wij": "opsluiten",
+          "jullie": "opsluiten",
+          "zij_plural": "opsluiten"
+        },
+        "past": {
+          "ik": "opsluitte",
+          "jij": "opsluitte",
+          "u": "opsluitte",
+          "hij/zij": "opsluitte",
+          "wij": "opsluitten",
+          "jullie": "opsluitten",
+          "zij_plural": "opsluitten"
+        },
+        "perfect": "geopsluitt"
+      }
+    },
+    {
+      "id": "v580",
+      "word": "opstaan",
+      "translation": "to stand up; to get up",
+      "conjugations": {
+        "present": {
+          "ik": "opstaa",
+          "jij": "opstaat",
+          "u": "opstaat",
+          "hij/zij": "opstaat",
+          "wij": "opstaan",
+          "jullie": "opstaan",
+          "zij_plural": "opstaan"
+        },
+        "past": {
+          "ik": "opstaade",
+          "jij": "opstaade",
+          "u": "opstaade",
+          "hij/zij": "opstaade",
+          "wij": "opstaaden",
+          "jullie": "opstaaden",
+          "zij_plural": "opstaaden"
+        },
+        "perfect": "geopstaad"
+      }
+    },
+    {
+      "id": "v581",
       "word": "opstellen",
       "translation": "to draw up; to position",
       "conjugations": {
@@ -14293,7 +27511,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v306",
+      "id": "v582",
       "word": "optreden",
       "translation": "to act; to perform; to occur",
       "conjugations": {
@@ -14319,7 +27537,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v307",
+      "id": "v583",
       "word": "opvallen",
       "translation": "to stand out, to be noticeable",
       "conjugations": {
@@ -14345,7 +27563,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v308",
+      "id": "v584",
+      "word": "opvangen",
+      "translation": "to catch; to absorb",
+      "conjugations": {
+        "present": {
+          "ik": "opvang",
+          "jij": "opvangt",
+          "u": "opvangt",
+          "hij/zij": "opvangt",
+          "wij": "opvangen",
+          "jullie": "opvangen",
+          "zij_plural": "opvangen"
+        },
+        "past": {
+          "ik": "opvangde",
+          "jij": "opvangde",
+          "u": "opvangde",
+          "hij/zij": "opvangde",
+          "wij": "opvangden",
+          "jullie": "opvangden",
+          "zij_plural": "opvangden"
+        },
+        "perfect": "geopvangd"
+      }
+    },
+    {
+      "id": "v585",
       "word": "opvatten",
       "translation": "to interpret; to conceive",
       "conjugations": {
@@ -14371,7 +27615,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v309",
+      "id": "v586",
       "word": "opvoeden",
       "translation": "to raise, to educate",
       "conjugations": {
@@ -14397,7 +27641,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v310",
+      "id": "v587",
+      "word": "opvoeren",
+      "translation": "to increase; to perform",
+      "conjugations": {
+        "present": {
+          "ik": "opvoer",
+          "jij": "opvoert",
+          "u": "opvoert",
+          "hij/zij": "opvoert",
+          "wij": "opvoeren",
+          "jullie": "opvoeren",
+          "zij_plural": "opvoeren"
+        },
+        "past": {
+          "ik": "opvoerde",
+          "jij": "opvoerde",
+          "u": "opvoerde",
+          "hij/zij": "opvoerde",
+          "wij": "opvoerden",
+          "jullie": "opvoerden",
+          "zij_plural": "opvoerden"
+        },
+        "perfect": "geopvoerd"
+      }
+    },
+    {
+      "id": "v588",
+      "word": "opvolgen",
+      "translation": "to succeed; to follow up",
+      "conjugations": {
+        "present": {
+          "ik": "opvolg",
+          "jij": "opvolgt",
+          "u": "opvolgt",
+          "hij/zij": "opvolgt",
+          "wij": "opvolgen",
+          "jullie": "opvolgen",
+          "zij_plural": "opvolgen"
+        },
+        "past": {
+          "ik": "opvolgde",
+          "jij": "opvolgde",
+          "u": "opvolgde",
+          "hij/zij": "opvolgde",
+          "wij": "opvolgden",
+          "jullie": "opvolgden",
+          "zij_plural": "opvolgden"
+        },
+        "perfect": "geopvolgd"
+      }
+    },
+    {
+      "id": "v589",
+      "word": "opwekken",
+      "translation": "to arouse; to generate",
+      "conjugations": {
+        "present": {
+          "ik": "opwekk",
+          "jij": "opwekkt",
+          "u": "opwekkt",
+          "hij/zij": "opwekkt",
+          "wij": "opwekken",
+          "jullie": "opwekken",
+          "zij_plural": "opwekken"
+        },
+        "past": {
+          "ik": "opwekkte",
+          "jij": "opwekkte",
+          "u": "opwekkte",
+          "hij/zij": "opwekkte",
+          "wij": "opwekkten",
+          "jullie": "opwekkten",
+          "zij_plural": "opwekkten"
+        },
+        "perfect": "geopwekkt"
+      }
+    },
+    {
+      "id": "v590",
       "word": "opzetten",
       "translation": "to set up",
       "conjugations": {
@@ -14423,7 +27745,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v311",
+      "id": "v591",
+      "word": "opzoeken",
+      "translation": "to look up; to visit",
+      "conjugations": {
+        "present": {
+          "ik": "opzoek",
+          "jij": "opzoekt",
+          "u": "opzoekt",
+          "hij/zij": "opzoekt",
+          "wij": "opzoeken",
+          "jullie": "opzoeken",
+          "zij_plural": "opzoeken"
+        },
+        "past": {
+          "ik": "opzoekte",
+          "jij": "opzoekte",
+          "u": "opzoekte",
+          "hij/zij": "opzoekte",
+          "wij": "opzoekten",
+          "jullie": "opzoekten",
+          "zij_plural": "opzoekten"
+        },
+        "perfect": "geopzoekt"
+      }
+    },
+    {
+      "id": "v592",
       "word": "ordenen",
       "translation": "to organize, to arrange",
       "conjugations": {
@@ -14449,7 +27797,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v312",
+      "id": "v593",
       "word": "organiseren",
       "translation": "to organize",
       "conjugations": {
@@ -14475,7 +27823,293 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v313",
+      "id": "v594",
+      "word": "overblijven",
+      "translation": "to remain, to be left",
+      "conjugations": {
+        "present": {
+          "ik": "overblijf",
+          "jij": "overblijft",
+          "u": "overblijft",
+          "hij/zij": "overblijft",
+          "wij": "overblijven",
+          "jullie": "overblijven",
+          "zij_plural": "overblijven"
+        },
+        "past": {
+          "ik": "overblijfte",
+          "jij": "overblijfte",
+          "u": "overblijfte",
+          "hij/zij": "overblijfte",
+          "wij": "overblijften",
+          "jullie": "overblijften",
+          "zij_plural": "overblijften"
+        },
+        "perfect": "geoverblijft"
+      }
+    },
+    {
+      "id": "v595",
+      "word": "overbrengen",
+      "translation": "to convey; to transfer",
+      "conjugations": {
+        "present": {
+          "ik": "overbreng",
+          "jij": "overbrengt",
+          "u": "overbrengt",
+          "hij/zij": "overbrengt",
+          "wij": "overbrengen",
+          "jullie": "overbrengen",
+          "zij_plural": "overbrengen"
+        },
+        "past": {
+          "ik": "overbrengde",
+          "jij": "overbrengde",
+          "u": "overbrengde",
+          "hij/zij": "overbrengde",
+          "wij": "overbrengden",
+          "jullie": "overbrengden",
+          "zij_plural": "overbrengden"
+        },
+        "perfect": "geoverbrengd"
+      }
+    },
+    {
+      "id": "v596",
+      "word": "overdragen",
+      "translation": "to transfer; to hand over",
+      "conjugations": {
+        "present": {
+          "ik": "overdraag",
+          "jij": "overdraagt",
+          "u": "overdraagt",
+          "hij/zij": "overdraagt",
+          "wij": "overdragen",
+          "jullie": "overdragen",
+          "zij_plural": "overdragen"
+        },
+        "past": {
+          "ik": "overdraagde",
+          "jij": "overdraagde",
+          "u": "overdraagde",
+          "hij/zij": "overdraagde",
+          "wij": "overdraagden",
+          "jullie": "overdraagden",
+          "zij_plural": "overdraagden"
+        },
+        "perfect": "geoverdraagd"
+      }
+    },
+    {
+      "id": "v597",
+      "word": "overdrijven",
+      "translation": "to exaggerate",
+      "conjugations": {
+        "present": {
+          "ik": "overdrijf",
+          "jij": "overdrijft",
+          "u": "overdrijft",
+          "hij/zij": "overdrijft",
+          "wij": "overdrijven",
+          "jullie": "overdrijven",
+          "zij_plural": "overdrijven"
+        },
+        "past": {
+          "ik": "overdrijfte",
+          "jij": "overdrijfte",
+          "u": "overdrijfte",
+          "hij/zij": "overdrijfte",
+          "wij": "overdrijften",
+          "jullie": "overdrijften",
+          "zij_plural": "overdrijften"
+        },
+        "perfect": "geoverdrijft"
+      }
+    },
+    {
+      "id": "v598",
+      "word": "overeenkomen",
+      "translation": "to agree; to correspond",
+      "conjugations": {
+        "present": {
+          "ik": "overeenkoom",
+          "jij": "overeenkoomt",
+          "u": "overeenkoomt",
+          "hij/zij": "overeenkoomt",
+          "wij": "overeenkomen",
+          "jullie": "overeenkomen",
+          "zij_plural": "overeenkomen"
+        },
+        "past": {
+          "ik": "overeenkoomde",
+          "jij": "overeenkoomde",
+          "u": "overeenkoomde",
+          "hij/zij": "overeenkoomde",
+          "wij": "overeenkoomden",
+          "jullie": "overeenkoomden",
+          "zij_plural": "overeenkoomden"
+        },
+        "perfect": "geovereenkoomd"
+      }
+    },
+    {
+      "id": "v599",
+      "word": "overgaan",
+      "translation": "to go over; to pass",
+      "conjugations": {
+        "present": {
+          "ik": "overgaa",
+          "jij": "overgaat",
+          "u": "overgaat",
+          "hij/zij": "overgaat",
+          "wij": "overgaan",
+          "jullie": "overgaan",
+          "zij_plural": "overgaan"
+        },
+        "past": {
+          "ik": "overgaade",
+          "jij": "overgaade",
+          "u": "overgaade",
+          "hij/zij": "overgaade",
+          "wij": "overgaaden",
+          "jullie": "overgaaden",
+          "zij_plural": "overgaaden"
+        },
+        "perfect": "geovergaad"
+      }
+    },
+    {
+      "id": "v600",
+      "word": "overgeven",
+      "translation": "to surrender; to vomit",
+      "conjugations": {
+        "present": {
+          "ik": "overgeef",
+          "jij": "overgeeft",
+          "u": "overgeeft",
+          "hij/zij": "overgeeft",
+          "wij": "overgeven",
+          "jullie": "overgeven",
+          "zij_plural": "overgeven"
+        },
+        "past": {
+          "ik": "overgeefte",
+          "jij": "overgeefte",
+          "u": "overgeefte",
+          "hij/zij": "overgeefte",
+          "wij": "overgeeften",
+          "jullie": "overgeeften",
+          "zij_plural": "overgeeften"
+        },
+        "perfect": "geovergeeft"
+      }
+    },
+    {
+      "id": "v601",
+      "word": "overhandigen",
+      "translation": "to hand over",
+      "conjugations": {
+        "present": {
+          "ik": "overhandiig",
+          "jij": "overhandiigt",
+          "u": "overhandiigt",
+          "hij/zij": "overhandiigt",
+          "wij": "overhandigen",
+          "jullie": "overhandigen",
+          "zij_plural": "overhandigen"
+        },
+        "past": {
+          "ik": "overhandiigde",
+          "jij": "overhandiigde",
+          "u": "overhandiigde",
+          "hij/zij": "overhandiigde",
+          "wij": "overhandiigden",
+          "jullie": "overhandiigden",
+          "zij_plural": "overhandiigden"
+        },
+        "perfect": "geoverhandiigd"
+      }
+    },
+    {
+      "id": "v602",
+      "word": "overheersen",
+      "translation": "to dominate",
+      "conjugations": {
+        "present": {
+          "ik": "overheers",
+          "jij": "overheerst",
+          "u": "overheerst",
+          "hij/zij": "overheerst",
+          "wij": "overheersen",
+          "jullie": "overheersen",
+          "zij_plural": "overheersen"
+        },
+        "past": {
+          "ik": "overheerste",
+          "jij": "overheerste",
+          "u": "overheerste",
+          "hij/zij": "overheerste",
+          "wij": "overheersten",
+          "jullie": "overheersten",
+          "zij_plural": "overheersten"
+        },
+        "perfect": "geoverheerst"
+      }
+    },
+    {
+      "id": "v603",
+      "word": "overkomen",
+      "translation": "to happen to; to come over",
+      "conjugations": {
+        "present": {
+          "ik": "overkoom",
+          "jij": "overkoomt",
+          "u": "overkoomt",
+          "hij/zij": "overkoomt",
+          "wij": "overkomen",
+          "jullie": "overkomen",
+          "zij_plural": "overkomen"
+        },
+        "past": {
+          "ik": "overkoomde",
+          "jij": "overkoomde",
+          "u": "overkoomde",
+          "hij/zij": "overkoomde",
+          "wij": "overkoomden",
+          "jullie": "overkoomden",
+          "zij_plural": "overkoomden"
+        },
+        "perfect": "geoverkoomd"
+      }
+    },
+    {
+      "id": "v604",
+      "word": "overlaten",
+      "translation": "to leave to",
+      "conjugations": {
+        "present": {
+          "ik": "overlaat",
+          "jij": "overlaat",
+          "u": "overlaat",
+          "hij/zij": "overlaat",
+          "wij": "overlaten",
+          "jullie": "overlaten",
+          "zij_plural": "overlaten"
+        },
+        "past": {
+          "ik": "overlaatte",
+          "jij": "overlaatte",
+          "u": "overlaatte",
+          "hij/zij": "overlaatte",
+          "wij": "overlaatten",
+          "jullie": "overlaatten",
+          "zij_plural": "overlaatten"
+        },
+        "perfect": "geoverlaatt"
+      }
+    },
+    {
+      "id": "v605",
       "word": "overleggen",
       "translation": "to consult; to present",
       "conjugations": {
@@ -14501,7 +28135,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v314",
+      "id": "v606",
       "word": "overleven",
       "translation": "to survive",
       "conjugations": {
@@ -14527,7 +28161,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v315",
+      "id": "v607",
+      "word": "overleveren",
+      "translation": "to hand down",
+      "conjugations": {
+        "present": {
+          "ik": "overleveer",
+          "jij": "overleveert",
+          "u": "overleveert",
+          "hij/zij": "overleveert",
+          "wij": "overleveren",
+          "jullie": "overleveren",
+          "zij_plural": "overleveren"
+        },
+        "past": {
+          "ik": "overleveerde",
+          "jij": "overleveerde",
+          "u": "overleveerde",
+          "hij/zij": "overleveerde",
+          "wij": "overleveerden",
+          "jullie": "overleveerden",
+          "zij_plural": "overleveerden"
+        },
+        "perfect": "geoverleveerd"
+      }
+    },
+    {
+      "id": "v608",
+      "word": "overlijden",
+      "translation": "to pass away, to die",
+      "conjugations": {
+        "present": {
+          "ik": "overlijd",
+          "jij": "overlijdt",
+          "u": "overlijdt",
+          "hij/zij": "overlijdt",
+          "wij": "overlijden",
+          "jullie": "overlijden",
+          "zij_plural": "overlijden"
+        },
+        "past": {
+          "ik": "overlijdde",
+          "jij": "overlijdde",
+          "u": "overlijdde",
+          "hij/zij": "overlijdde",
+          "wij": "overlijdden",
+          "jullie": "overlijdden",
+          "zij_plural": "overlijdden"
+        },
+        "perfect": "geoverlijdd"
+      }
+    },
+    {
+      "id": "v609",
       "word": "overnemen",
       "translation": "to take over",
       "conjugations": {
@@ -14553,7 +28239,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v316",
+      "id": "v610",
       "word": "overschrijden",
       "translation": "to exceed; to cross",
       "conjugations": {
@@ -14579,7 +28265,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v317",
+      "id": "v611",
       "word": "oversteken",
       "translation": "to cross (street)",
       "conjugations": {
@@ -14605,7 +28291,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v318",
+      "id": "v612",
+      "word": "overtreffen",
+      "translation": "to surpass",
+      "conjugations": {
+        "present": {
+          "ik": "overtreff",
+          "jij": "overtrefft",
+          "u": "overtrefft",
+          "hij/zij": "overtrefft",
+          "wij": "overtreffen",
+          "jullie": "overtreffen",
+          "zij_plural": "overtreffen"
+        },
+        "past": {
+          "ik": "overtreffte",
+          "jij": "overtreffte",
+          "u": "overtreffte",
+          "hij/zij": "overtreffte",
+          "wij": "overtrefften",
+          "jullie": "overtrefften",
+          "zij_plural": "overtrefften"
+        },
+        "perfect": "geovertrefft"
+      }
+    },
+    {
+      "id": "v613",
       "word": "overtuigen",
       "translation": "to convince",
       "conjugations": {
@@ -14631,7 +28343,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v319",
+      "id": "v614",
+      "word": "overvallen",
+      "translation": "to rob; to overwhelm",
+      "conjugations": {
+        "present": {
+          "ik": "overvall",
+          "jij": "overvallt",
+          "u": "overvallt",
+          "hij/zij": "overvallt",
+          "wij": "overvallen",
+          "jullie": "overvallen",
+          "zij_plural": "overvallen"
+        },
+        "past": {
+          "ik": "overvallde",
+          "jij": "overvallde",
+          "u": "overvallde",
+          "hij/zij": "overvallde",
+          "wij": "overvallden",
+          "jullie": "overvallden",
+          "zij_plural": "overvallden"
+        },
+        "perfect": "geovervalld"
+      }
+    },
+    {
+      "id": "v615",
       "word": "overwegen",
       "translation": "to consider",
       "conjugations": {
@@ -14657,7 +28395,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v320",
+      "id": "v616",
       "word": "overwinnen",
       "translation": "to overcome; to win",
       "conjugations": {
@@ -14683,7 +28421,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v321",
+      "id": "v617",
+      "word": "overzien",
+      "translation": "to overlook; to survey",
+      "conjugations": {
+        "present": {
+          "ik": "overzi",
+          "jij": "overzit",
+          "u": "overzit",
+          "hij/zij": "overzit",
+          "wij": "overzien",
+          "jullie": "overzien",
+          "zij_plural": "overzien"
+        },
+        "past": {
+          "ik": "overzide",
+          "jij": "overzide",
+          "u": "overzide",
+          "hij/zij": "overzide",
+          "wij": "overziden",
+          "jullie": "overziden",
+          "zij_plural": "overziden"
+        },
+        "perfect": "geoverzid"
+      }
+    },
+    {
+      "id": "v618",
       "word": "pakken",
       "translation": "to grab; to pack",
       "conjugations": {
@@ -14709,7 +28473,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v322",
+      "id": "v619",
+      "word": "parkeren",
+      "translation": "to park",
+      "conjugations": {
+        "present": {
+          "ik": "parkeer",
+          "jij": "parkeert",
+          "u": "parkeert",
+          "hij/zij": "parkeert",
+          "wij": "parkeren",
+          "jullie": "parkeren",
+          "zij_plural": "parkeren"
+        },
+        "past": {
+          "ik": "parkeerde",
+          "jij": "parkeerde",
+          "u": "parkeerde",
+          "hij/zij": "parkeerde",
+          "wij": "parkeerden",
+          "jullie": "parkeerden",
+          "zij_plural": "parkeerden"
+        },
+        "perfect": "geparkeerd"
+      }
+    },
+    {
+      "id": "v620",
       "word": "passen",
       "translation": "to fit; to try on",
       "conjugations": {
@@ -14735,7 +28525,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v323",
+      "id": "v621",
       "word": "passeren",
       "translation": "to pass",
       "conjugations": {
@@ -14761,7 +28551,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v324",
+      "id": "v622",
+      "word": "peinzen",
+      "translation": "to ponder",
+      "conjugations": {
+        "present": {
+          "ik": "peins",
+          "jij": "peinst",
+          "u": "peinst",
+          "hij/zij": "peinst",
+          "wij": "peinzen",
+          "jullie": "peinzen",
+          "zij_plural": "peinzen"
+        },
+        "past": {
+          "ik": "peinste",
+          "jij": "peinste",
+          "u": "peinste",
+          "hij/zij": "peinste",
+          "wij": "peinsten",
+          "jullie": "peinsten",
+          "zij_plural": "peinsten"
+        },
+        "perfect": "gepeinst"
+      }
+    },
+    {
+      "id": "v623",
+      "word": "piekeren",
+      "translation": "to worry, to brood",
+      "conjugations": {
+        "present": {
+          "ik": "piekeer",
+          "jij": "piekeert",
+          "u": "piekeert",
+          "hij/zij": "piekeert",
+          "wij": "piekeren",
+          "jullie": "piekeren",
+          "zij_plural": "piekeren"
+        },
+        "past": {
+          "ik": "piekeerde",
+          "jij": "piekeerde",
+          "u": "piekeerde",
+          "hij/zij": "piekeerde",
+          "wij": "piekeerden",
+          "jullie": "piekeerden",
+          "zij_plural": "piekeerden"
+        },
+        "perfect": "gepiekeerd"
+      }
+    },
+    {
+      "id": "v624",
       "word": "pikken",
       "translation": "to peck; to tolerate",
       "conjugations": {
@@ -14787,7 +28629,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v325",
+      "id": "v625",
       "word": "plaatsen",
       "translation": "to place",
       "conjugations": {
@@ -14813,7 +28655,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v326",
+      "id": "v626",
       "word": "plaatsvinden",
       "translation": "to take place",
       "conjugations": {
@@ -14839,7 +28681,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v327",
+      "id": "v627",
+      "word": "plagen",
+      "translation": "to tease",
+      "conjugations": {
+        "present": {
+          "ik": "plaag",
+          "jij": "plaagt",
+          "u": "plaagt",
+          "hij/zij": "plaagt",
+          "wij": "plagen",
+          "jullie": "plagen",
+          "zij_plural": "plagen"
+        },
+        "past": {
+          "ik": "plaagde",
+          "jij": "plaagde",
+          "u": "plaagde",
+          "hij/zij": "plaagde",
+          "wij": "plaagden",
+          "jullie": "plaagden",
+          "zij_plural": "plaagden"
+        },
+        "perfect": "geplaagd"
+      }
+    },
+    {
+      "id": "v628",
+      "word": "plakken",
+      "translation": "to stick, to paste",
+      "conjugations": {
+        "present": {
+          "ik": "plakk",
+          "jij": "plakkt",
+          "u": "plakkt",
+          "hij/zij": "plakkt",
+          "wij": "plakken",
+          "jullie": "plakken",
+          "zij_plural": "plakken"
+        },
+        "past": {
+          "ik": "plakkte",
+          "jij": "plakkte",
+          "u": "plakkte",
+          "hij/zij": "plakkte",
+          "wij": "plakkten",
+          "jullie": "plakkten",
+          "zij_plural": "plakkten"
+        },
+        "perfect": "geplakkt"
+      }
+    },
+    {
+      "id": "v629",
       "word": "planten",
       "translation": "to plant",
       "conjugations": {
@@ -14865,7 +28759,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v328",
+      "id": "v630",
       "word": "plegen",
       "translation": "to commit; to be accustomed to",
       "conjugations": {
@@ -14891,7 +28785,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v329",
+      "id": "v631",
+      "word": "pleiten",
+      "translation": "to plead",
+      "conjugations": {
+        "present": {
+          "ik": "pleit",
+          "jij": "pleit",
+          "u": "pleit",
+          "hij/zij": "pleit",
+          "wij": "pleiten",
+          "jullie": "pleiten",
+          "zij_plural": "pleiten"
+        },
+        "past": {
+          "ik": "pleitte",
+          "jij": "pleitte",
+          "u": "pleitte",
+          "hij/zij": "pleitte",
+          "wij": "pleitten",
+          "jullie": "pleitten",
+          "zij_plural": "pleitten"
+        },
+        "perfect": "gepleitt"
+      }
+    },
+    {
+      "id": "v632",
+      "word": "plukken",
+      "translation": "to pick, to pluck",
+      "conjugations": {
+        "present": {
+          "ik": "plukk",
+          "jij": "plukkt",
+          "u": "plukkt",
+          "hij/zij": "plukkt",
+          "wij": "plukken",
+          "jullie": "plukken",
+          "zij_plural": "plukken"
+        },
+        "past": {
+          "ik": "plukkte",
+          "jij": "plukkte",
+          "u": "plukkte",
+          "hij/zij": "plukkte",
+          "wij": "plukkten",
+          "jullie": "plukkten",
+          "zij_plural": "plukkten"
+        },
+        "perfect": "geplukkt"
+      }
+    },
+    {
+      "id": "v633",
+      "word": "poetsen",
+      "translation": "to clean, to polish",
+      "conjugations": {
+        "present": {
+          "ik": "poets",
+          "jij": "poetst",
+          "u": "poetst",
+          "hij/zij": "poetst",
+          "wij": "poetsen",
+          "jullie": "poetsen",
+          "zij_plural": "poetsen"
+        },
+        "past": {
+          "ik": "poetste",
+          "jij": "poetste",
+          "u": "poetste",
+          "hij/zij": "poetste",
+          "wij": "poetsten",
+          "jullie": "poetsten",
+          "zij_plural": "poetsten"
+        },
+        "perfect": "gepoetst"
+      }
+    },
+    {
+      "id": "v634",
       "word": "praten",
       "translation": "to talk",
       "conjugations": {
@@ -14917,7 +28889,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v330",
+      "id": "v635",
+      "word": "presenteren",
+      "translation": "to present",
+      "conjugations": {
+        "present": {
+          "ik": "presenteer",
+          "jij": "presenteert",
+          "u": "presenteert",
+          "hij/zij": "presenteert",
+          "wij": "presenteren",
+          "jullie": "presenteren",
+          "zij_plural": "presenteren"
+        },
+        "past": {
+          "ik": "presenteerde",
+          "jij": "presenteerde",
+          "u": "presenteerde",
+          "hij/zij": "presenteerde",
+          "wij": "presenteerden",
+          "jullie": "presenteerden",
+          "zij_plural": "presenteerden"
+        },
+        "perfect": "gepresenteerd"
+      }
+    },
+    {
+      "id": "v636",
       "word": "presteren",
       "translation": "to perform, to achieve",
       "conjugations": {
@@ -14943,7 +28941,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v331",
+      "id": "v637",
+      "word": "prijzen",
+      "translation": "to praise; to price",
+      "conjugations": {
+        "present": {
+          "ik": "prijs",
+          "jij": "prijst",
+          "u": "prijst",
+          "hij/zij": "prijst",
+          "wij": "prijzen",
+          "jullie": "prijzen",
+          "zij_plural": "prijzen"
+        },
+        "past": {
+          "ik": "prijste",
+          "jij": "prijste",
+          "u": "prijste",
+          "hij/zij": "prijste",
+          "wij": "prijsten",
+          "jullie": "prijsten",
+          "zij_plural": "prijsten"
+        },
+        "perfect": "geprijst"
+      }
+    },
+    {
+      "id": "v638",
+      "word": "prikkelen",
+      "translation": "to stimulate",
+      "conjugations": {
+        "present": {
+          "ik": "prikkeel",
+          "jij": "prikkeelt",
+          "u": "prikkeelt",
+          "hij/zij": "prikkeelt",
+          "wij": "prikkelen",
+          "jullie": "prikkelen",
+          "zij_plural": "prikkelen"
+        },
+        "past": {
+          "ik": "prikkeelde",
+          "jij": "prikkeelde",
+          "u": "prikkeelde",
+          "hij/zij": "prikkeelde",
+          "wij": "prikkeelden",
+          "jullie": "prikkeelden",
+          "zij_plural": "prikkeelden"
+        },
+        "perfect": "geprikkeeld"
+      }
+    },
+    {
+      "id": "v639",
+      "word": "proberen",
+      "translation": "to try",
+      "conjugations": {
+        "present": {
+          "ik": "probeer",
+          "jij": "probeert",
+          "u": "probeert",
+          "hij/zij": "probeert",
+          "wij": "proberen",
+          "jullie": "proberen",
+          "zij_plural": "proberen"
+        },
+        "past": {
+          "ik": "probeerde",
+          "jij": "probeerde",
+          "u": "probeerde",
+          "hij/zij": "probeerde",
+          "wij": "probeerden",
+          "jullie": "probeerden",
+          "zij_plural": "probeerden"
+        },
+        "perfect": "geprobeerd"
+      }
+    },
+    {
+      "id": "v640",
       "word": "produceren",
       "translation": "to produce",
       "conjugations": {
@@ -14969,7 +29045,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v332",
+      "id": "v641",
+      "word": "proeven",
+      "translation": "to taste",
+      "conjugations": {
+        "present": {
+          "ik": "proef",
+          "jij": "proeft",
+          "u": "proeft",
+          "hij/zij": "proeft",
+          "wij": "proeven",
+          "jullie": "proeven",
+          "zij_plural": "proeven"
+        },
+        "past": {
+          "ik": "proefte",
+          "jij": "proefte",
+          "u": "proefte",
+          "hij/zij": "proefte",
+          "wij": "proeften",
+          "jullie": "proeften",
+          "zij_plural": "proeften"
+        },
+        "perfect": "geproeft"
+      }
+    },
+    {
+      "id": "v642",
+      "word": "profiteren",
+      "translation": "to benefit",
+      "conjugations": {
+        "present": {
+          "ik": "profiteer",
+          "jij": "profiteert",
+          "u": "profiteert",
+          "hij/zij": "profiteert",
+          "wij": "profiteren",
+          "jullie": "profiteren",
+          "zij_plural": "profiteren"
+        },
+        "past": {
+          "ik": "profiteerde",
+          "jij": "profiteerde",
+          "u": "profiteerde",
+          "hij/zij": "profiteerde",
+          "wij": "profiteerden",
+          "jullie": "profiteerden",
+          "zij_plural": "profiteerden"
+        },
+        "perfect": "geprofiteerd"
+      }
+    },
+    {
+      "id": "v643",
       "word": "protesteren",
       "translation": "to protest",
       "conjugations": {
@@ -14995,7 +29123,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v333",
+      "id": "v644",
+      "word": "publiceren",
+      "translation": "to publish",
+      "conjugations": {
+        "present": {
+          "ik": "publiceer",
+          "jij": "publiceert",
+          "u": "publiceert",
+          "hij/zij": "publiceert",
+          "wij": "publiceren",
+          "jullie": "publiceren",
+          "zij_plural": "publiceren"
+        },
+        "past": {
+          "ik": "publiceerde",
+          "jij": "publiceerde",
+          "u": "publiceerde",
+          "hij/zij": "publiceerde",
+          "wij": "publiceerden",
+          "jullie": "publiceerden",
+          "zij_plural": "publiceerden"
+        },
+        "perfect": "gepubliceerd"
+      }
+    },
+    {
+      "id": "v645",
+      "word": "putten",
+      "translation": "to draw (water); to derive",
+      "conjugations": {
+        "present": {
+          "ik": "putt",
+          "jij": "putt",
+          "u": "putt",
+          "hij/zij": "putt",
+          "wij": "putten",
+          "jullie": "putten",
+          "zij_plural": "putten"
+        },
+        "past": {
+          "ik": "puttte",
+          "jij": "puttte",
+          "u": "puttte",
+          "hij/zij": "puttte",
+          "wij": "puttten",
+          "jullie": "puttten",
+          "zij_plural": "puttten"
+        },
+        "perfect": "geputtt"
+      }
+    },
+    {
+      "id": "v646",
       "word": "raadplegen",
       "translation": "to consult",
       "conjugations": {
@@ -15021,7 +29201,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v334",
+      "id": "v647",
+      "word": "raden",
+      "translation": "to guess; to advise",
+      "conjugations": {
+        "present": {
+          "ik": "raad",
+          "jij": "raadt",
+          "u": "raadt",
+          "hij/zij": "raadt",
+          "wij": "raden",
+          "jullie": "raden",
+          "zij_plural": "raden"
+        },
+        "past": {
+          "ik": "raadde",
+          "jij": "raadde",
+          "u": "raadde",
+          "hij/zij": "raadde",
+          "wij": "raadden",
+          "jullie": "raadden",
+          "zij_plural": "raadden"
+        },
+        "perfect": "geraadd"
+      }
+    },
+    {
+      "id": "v648",
       "word": "raken",
       "translation": "to hit; to touch; to become",
       "conjugations": {
@@ -15047,7 +29253,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v335",
+      "id": "v649",
+      "word": "razen",
+      "translation": "to rage",
+      "conjugations": {
+        "present": {
+          "ik": "raas",
+          "jij": "raast",
+          "u": "raast",
+          "hij/zij": "raast",
+          "wij": "razen",
+          "jullie": "razen",
+          "zij_plural": "razen"
+        },
+        "past": {
+          "ik": "raaste",
+          "jij": "raaste",
+          "u": "raaste",
+          "hij/zij": "raaste",
+          "wij": "raasten",
+          "jullie": "raasten",
+          "zij_plural": "raasten"
+        },
+        "perfect": "geraast"
+      }
+    },
+    {
+      "id": "v650",
       "word": "reageren",
       "translation": "to react",
       "conjugations": {
@@ -15073,7 +29305,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v336",
+      "id": "v651",
       "word": "realiseren",
       "translation": "to realize; to achieve",
       "conjugations": {
@@ -15099,7 +29331,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v337",
+      "id": "v652",
+      "word": "rechtvaardigen",
+      "translation": "to justify",
+      "conjugations": {
+        "present": {
+          "ik": "rechtvaardiig",
+          "jij": "rechtvaardiigt",
+          "u": "rechtvaardiigt",
+          "hij/zij": "rechtvaardiigt",
+          "wij": "rechtvaardigen",
+          "jullie": "rechtvaardigen",
+          "zij_plural": "rechtvaardigen"
+        },
+        "past": {
+          "ik": "rechtvaardiigde",
+          "jij": "rechtvaardiigde",
+          "u": "rechtvaardiigde",
+          "hij/zij": "rechtvaardiigde",
+          "wij": "rechtvaardiigden",
+          "jullie": "rechtvaardiigden",
+          "zij_plural": "rechtvaardiigden"
+        },
+        "perfect": "gerechtvaardiigd"
+      }
+    },
+    {
+      "id": "v653",
       "word": "redden",
       "translation": "to save, to rescue",
       "conjugations": {
@@ -15125,7 +29383,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v338",
+      "id": "v654",
       "word": "redeneren",
       "translation": "to reason",
       "conjugations": {
@@ -15151,7 +29409,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v339",
+      "id": "v655",
+      "word": "reduceren",
+      "translation": "to reduce",
+      "conjugations": {
+        "present": {
+          "ik": "reduceer",
+          "jij": "reduceert",
+          "u": "reduceert",
+          "hij/zij": "reduceert",
+          "wij": "reduceren",
+          "jullie": "reduceren",
+          "zij_plural": "reduceren"
+        },
+        "past": {
+          "ik": "reduceerde",
+          "jij": "reduceerde",
+          "u": "reduceerde",
+          "hij/zij": "reduceerde",
+          "wij": "reduceerden",
+          "jullie": "reduceerden",
+          "zij_plural": "reduceerden"
+        },
+        "perfect": "gereduceerd"
+      }
+    },
+    {
+      "id": "v656",
       "word": "regelen",
       "translation": "to arrange",
       "conjugations": {
@@ -15177,7 +29461,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v340",
+      "id": "v657",
+      "word": "regenen",
+      "translation": "to rain",
+      "conjugations": {
+        "present": {
+          "ik": "regeen",
+          "jij": "regeent",
+          "u": "regeent",
+          "hij/zij": "regeent",
+          "wij": "regenen",
+          "jullie": "regenen",
+          "zij_plural": "regenen"
+        },
+        "past": {
+          "ik": "regeende",
+          "jij": "regeende",
+          "u": "regeende",
+          "hij/zij": "regeende",
+          "wij": "regeenden",
+          "jullie": "regeenden",
+          "zij_plural": "regeenden"
+        },
+        "perfect": "geregeend"
+      }
+    },
+    {
+      "id": "v658",
+      "word": "regeren",
+      "translation": "to govern, to rule",
+      "conjugations": {
+        "present": {
+          "ik": "regeer",
+          "jij": "regeert",
+          "u": "regeert",
+          "hij/zij": "regeert",
+          "wij": "regeren",
+          "jullie": "regeren",
+          "zij_plural": "regeren"
+        },
+        "past": {
+          "ik": "regeerde",
+          "jij": "regeerde",
+          "u": "regeerde",
+          "hij/zij": "regeerde",
+          "wij": "regeerden",
+          "jullie": "regeerden",
+          "zij_plural": "regeerden"
+        },
+        "perfect": "geregeerd"
+      }
+    },
+    {
+      "id": "v659",
+      "word": "registreren",
+      "translation": "to register",
+      "conjugations": {
+        "present": {
+          "ik": "registreer",
+          "jij": "registreert",
+          "u": "registreert",
+          "hij/zij": "registreert",
+          "wij": "registreren",
+          "jullie": "registreren",
+          "zij_plural": "registreren"
+        },
+        "past": {
+          "ik": "registreerde",
+          "jij": "registreerde",
+          "u": "registreerde",
+          "hij/zij": "registreerde",
+          "wij": "registreerden",
+          "jullie": "registreerden",
+          "zij_plural": "registreerden"
+        },
+        "perfect": "geregistreerd"
+      }
+    },
+    {
+      "id": "v660",
+      "word": "reiken",
+      "translation": "to reach; to hand",
+      "conjugations": {
+        "present": {
+          "ik": "reik",
+          "jij": "reikt",
+          "u": "reikt",
+          "hij/zij": "reikt",
+          "wij": "reiken",
+          "jullie": "reiken",
+          "zij_plural": "reiken"
+        },
+        "past": {
+          "ik": "reikte",
+          "jij": "reikte",
+          "u": "reikte",
+          "hij/zij": "reikte",
+          "wij": "reikten",
+          "jullie": "reikten",
+          "zij_plural": "reikten"
+        },
+        "perfect": "gereikt"
+      }
+    },
+    {
+      "id": "v661",
       "word": "reizen",
       "translation": "to travel",
       "conjugations": {
@@ -15203,7 +29591,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v341",
+      "id": "v662",
       "word": "rekenen",
       "translation": "to calculate; to count on",
       "conjugations": {
@@ -15229,7 +29617,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v342",
+      "id": "v663",
+      "word": "rekken",
+      "translation": "to stretch",
+      "conjugations": {
+        "present": {
+          "ik": "rekk",
+          "jij": "rekkt",
+          "u": "rekkt",
+          "hij/zij": "rekkt",
+          "wij": "rekken",
+          "jullie": "rekken",
+          "zij_plural": "rekken"
+        },
+        "past": {
+          "ik": "rekkte",
+          "jij": "rekkte",
+          "u": "rekkte",
+          "hij/zij": "rekkte",
+          "wij": "rekkten",
+          "jullie": "rekkten",
+          "zij_plural": "rekkten"
+        },
+        "perfect": "gerekkt"
+      }
+    },
+    {
+      "id": "v664",
+      "word": "remmen",
+      "translation": "to brake",
+      "conjugations": {
+        "present": {
+          "ik": "remm",
+          "jij": "remmt",
+          "u": "remmt",
+          "hij/zij": "remmt",
+          "wij": "remmen",
+          "jullie": "remmen",
+          "zij_plural": "remmen"
+        },
+        "past": {
+          "ik": "remmde",
+          "jij": "remmde",
+          "u": "remmde",
+          "hij/zij": "remmde",
+          "wij": "remmden",
+          "jullie": "remmden",
+          "zij_plural": "remmden"
+        },
+        "perfect": "geremmd"
+      }
+    },
+    {
+      "id": "v665",
       "word": "rennen",
       "translation": "to run",
       "conjugations": {
@@ -15255,7 +29695,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v343",
+      "id": "v666",
       "word": "respecteren",
       "translation": "to respect",
       "conjugations": {
@@ -15281,7 +29721,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v344",
+      "id": "v667",
+      "word": "resteren",
+      "translation": "to remain",
+      "conjugations": {
+        "present": {
+          "ik": "resteer",
+          "jij": "resteert",
+          "u": "resteert",
+          "hij/zij": "resteert",
+          "wij": "resteren",
+          "jullie": "resteren",
+          "zij_plural": "resteren"
+        },
+        "past": {
+          "ik": "resteerde",
+          "jij": "resteerde",
+          "u": "resteerde",
+          "hij/zij": "resteerde",
+          "wij": "resteerden",
+          "jullie": "resteerden",
+          "zij_plural": "resteerden"
+        },
+        "perfect": "geresteerd"
+      }
+    },
+    {
+      "id": "v668",
+      "word": "resulteren",
+      "translation": "to result",
+      "conjugations": {
+        "present": {
+          "ik": "resulteer",
+          "jij": "resulteert",
+          "u": "resulteert",
+          "hij/zij": "resulteert",
+          "wij": "resulteren",
+          "jullie": "resulteren",
+          "zij_plural": "resulteren"
+        },
+        "past": {
+          "ik": "resulteerde",
+          "jij": "resulteerde",
+          "u": "resulteerde",
+          "hij/zij": "resulteerde",
+          "wij": "resulteerden",
+          "jullie": "resulteerden",
+          "zij_plural": "resulteerden"
+        },
+        "perfect": "geresulteerd"
+      }
+    },
+    {
+      "id": "v669",
       "word": "richten",
       "translation": "to aim; to direct",
       "conjugations": {
@@ -15307,7 +29799,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v345",
+      "id": "v670",
       "word": "riep",
       "translation": "called (past tense of roepen)",
       "conjugations": {
@@ -15333,7 +29825,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v346",
+      "id": "v671",
       "word": "rijden",
       "translation": "to drive; to ride",
       "conjugations": {
@@ -15359,7 +29851,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v347",
+      "id": "v672",
+      "word": "rijzen",
+      "translation": "to rise",
+      "conjugations": {
+        "present": {
+          "ik": "rijs",
+          "jij": "rijst",
+          "u": "rijst",
+          "hij/zij": "rijst",
+          "wij": "rijzen",
+          "jullie": "rijzen",
+          "zij_plural": "rijzen"
+        },
+        "past": {
+          "ik": "rijste",
+          "jij": "rijste",
+          "u": "rijste",
+          "hij/zij": "rijste",
+          "wij": "rijsten",
+          "jullie": "rijsten",
+          "zij_plural": "rijsten"
+        },
+        "perfect": "gerijst"
+      }
+    },
+    {
+      "id": "v673",
+      "word": "rillen",
+      "translation": "to shiver",
+      "conjugations": {
+        "present": {
+          "ik": "rill",
+          "jij": "rillt",
+          "u": "rillt",
+          "hij/zij": "rillt",
+          "wij": "rillen",
+          "jullie": "rillen",
+          "zij_plural": "rillen"
+        },
+        "past": {
+          "ik": "rillde",
+          "jij": "rillde",
+          "u": "rillde",
+          "hij/zij": "rillde",
+          "wij": "rillden",
+          "jullie": "rillden",
+          "zij_plural": "rillden"
+        },
+        "perfect": "gerilld"
+      }
+    },
+    {
+      "id": "v674",
+      "word": "roeien",
+      "translation": "to row",
+      "conjugations": {
+        "present": {
+          "ik": "roei",
+          "jij": "roeit",
+          "u": "roeit",
+          "hij/zij": "roeit",
+          "wij": "roeien",
+          "jullie": "roeien",
+          "zij_plural": "roeien"
+        },
+        "past": {
+          "ik": "roeide",
+          "jij": "roeide",
+          "u": "roeide",
+          "hij/zij": "roeide",
+          "wij": "roeiden",
+          "jullie": "roeiden",
+          "zij_plural": "roeiden"
+        },
+        "perfect": "geroeid"
+      }
+    },
+    {
+      "id": "v675",
       "word": "roepen",
       "translation": "to call, to shout",
       "conjugations": {
@@ -15385,7 +29955,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v348",
+      "id": "v676",
+      "word": "roeren",
+      "translation": "to stir; to move",
+      "conjugations": {
+        "present": {
+          "ik": "roer",
+          "jij": "roert",
+          "u": "roert",
+          "hij/zij": "roert",
+          "wij": "roeren",
+          "jullie": "roeren",
+          "zij_plural": "roeren"
+        },
+        "past": {
+          "ik": "roerde",
+          "jij": "roerde",
+          "u": "roerde",
+          "hij/zij": "roerde",
+          "wij": "roerden",
+          "jullie": "roerden",
+          "zij_plural": "roerden"
+        },
+        "perfect": "geroerd"
+      }
+    },
+    {
+      "id": "v677",
+      "word": "roken",
+      "translation": "to smoke",
+      "conjugations": {
+        "present": {
+          "ik": "rook",
+          "jij": "rookt",
+          "u": "rookt",
+          "hij/zij": "rookt",
+          "wij": "roken",
+          "jullie": "roken",
+          "zij_plural": "roken"
+        },
+        "past": {
+          "ik": "rookte",
+          "jij": "rookte",
+          "u": "rookte",
+          "hij/zij": "rookte",
+          "wij": "rookten",
+          "jullie": "rookten",
+          "zij_plural": "rookten"
+        },
+        "perfect": "gerookt"
+      }
+    },
+    {
+      "id": "v678",
+      "word": "rollen",
+      "translation": "to roll",
+      "conjugations": {
+        "present": {
+          "ik": "roll",
+          "jij": "rollt",
+          "u": "rollt",
+          "hij/zij": "rollt",
+          "wij": "rollen",
+          "jullie": "rollen",
+          "zij_plural": "rollen"
+        },
+        "past": {
+          "ik": "rollde",
+          "jij": "rollde",
+          "u": "rollde",
+          "hij/zij": "rollde",
+          "wij": "rollden",
+          "jullie": "rollden",
+          "zij_plural": "rollden"
+        },
+        "perfect": "gerolld"
+      }
+    },
+    {
+      "id": "v679",
+      "word": "rondlopen",
+      "translation": "to walk around",
+      "conjugations": {
+        "present": {
+          "ik": "rondloop",
+          "jij": "rondloopt",
+          "u": "rondloopt",
+          "hij/zij": "rondloopt",
+          "wij": "rondlopen",
+          "jullie": "rondlopen",
+          "zij_plural": "rondlopen"
+        },
+        "past": {
+          "ik": "rondloopte",
+          "jij": "rondloopte",
+          "u": "rondloopte",
+          "hij/zij": "rondloopte",
+          "wij": "rondloopten",
+          "jullie": "rondloopten",
+          "zij_plural": "rondloopten"
+        },
+        "perfect": "gerondloopt"
+      }
+    },
+    {
+      "id": "v680",
       "word": "roven",
       "translation": "to rob",
       "conjugations": {
@@ -15411,7 +30085,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v349",
+      "id": "v681",
       "word": "ruiken",
       "translation": "to smell",
       "conjugations": {
@@ -15437,7 +30111,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v350",
+      "id": "v682",
       "word": "ruilen",
       "translation": "to exchange",
       "conjugations": {
@@ -15463,7 +30137,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v351",
+      "id": "v683",
+      "word": "ruimen",
+      "translation": "to clear",
+      "conjugations": {
+        "present": {
+          "ik": "ruim",
+          "jij": "ruimt",
+          "u": "ruimt",
+          "hij/zij": "ruimt",
+          "wij": "ruimen",
+          "jullie": "ruimen",
+          "zij_plural": "ruimen"
+        },
+        "past": {
+          "ik": "ruimde",
+          "jij": "ruimde",
+          "u": "ruimde",
+          "hij/zij": "ruimde",
+          "wij": "ruimden",
+          "jullie": "ruimden",
+          "zij_plural": "ruimden"
+        },
+        "perfect": "geruimd"
+      }
+    },
+    {
+      "id": "v684",
+      "word": "rukken",
+      "translation": "to tug, to jerk",
+      "conjugations": {
+        "present": {
+          "ik": "rukk",
+          "jij": "rukkt",
+          "u": "rukkt",
+          "hij/zij": "rukkt",
+          "wij": "rukken",
+          "jullie": "rukken",
+          "zij_plural": "rukken"
+        },
+        "past": {
+          "ik": "rukkte",
+          "jij": "rukkte",
+          "u": "rukkte",
+          "hij/zij": "rukkte",
+          "wij": "rukkten",
+          "jullie": "rukkten",
+          "zij_plural": "rukkten"
+        },
+        "perfect": "gerukkt"
+      }
+    },
+    {
+      "id": "v685",
       "word": "rusten",
       "translation": "to rest",
       "conjugations": {
@@ -15489,7 +30215,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v352",
+      "id": "v686",
+      "word": "samenhangen",
+      "translation": "to be connected",
+      "conjugations": {
+        "present": {
+          "ik": "samenhang",
+          "jij": "samenhangt",
+          "u": "samenhangt",
+          "hij/zij": "samenhangt",
+          "wij": "samenhangen",
+          "jullie": "samenhangen",
+          "zij_plural": "samenhangen"
+        },
+        "past": {
+          "ik": "samenhangde",
+          "jij": "samenhangde",
+          "u": "samenhangde",
+          "hij/zij": "samenhangde",
+          "wij": "samenhangden",
+          "jullie": "samenhangden",
+          "zij_plural": "samenhangden"
+        },
+        "perfect": "gesamenhangd"
+      }
+    },
+    {
+      "id": "v687",
       "word": "samenstellen",
       "translation": "to compose; to compile",
       "conjugations": {
@@ -15515,7 +30267,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v353",
+      "id": "v688",
+      "word": "samenvatten",
+      "translation": "to summarize",
+      "conjugations": {
+        "present": {
+          "ik": "samenvatt",
+          "jij": "samenvatt",
+          "u": "samenvatt",
+          "hij/zij": "samenvatt",
+          "wij": "samenvatten",
+          "jullie": "samenvatten",
+          "zij_plural": "samenvatten"
+        },
+        "past": {
+          "ik": "samenvattte",
+          "jij": "samenvattte",
+          "u": "samenvattte",
+          "hij/zij": "samenvattte",
+          "wij": "samenvattten",
+          "jullie": "samenvattten",
+          "zij_plural": "samenvattten"
+        },
+        "perfect": "gesamenvattt"
+      }
+    },
+    {
+      "id": "v689",
       "word": "samenwerken",
       "translation": "to cooperate",
       "conjugations": {
@@ -15541,7 +30319,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v354",
+      "id": "v690",
       "word": "schaffen",
       "translation": "to obtain; to abolish",
       "conjugations": {
@@ -15567,7 +30345,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v355",
+      "id": "v691",
+      "word": "schakelen",
+      "translation": "to switch; to shift",
+      "conjugations": {
+        "present": {
+          "ik": "schakeel",
+          "jij": "schakeelt",
+          "u": "schakeelt",
+          "hij/zij": "schakeelt",
+          "wij": "schakelen",
+          "jullie": "schakelen",
+          "zij_plural": "schakelen"
+        },
+        "past": {
+          "ik": "schakeelde",
+          "jij": "schakeelde",
+          "u": "schakeelde",
+          "hij/zij": "schakeelde",
+          "wij": "schakeelden",
+          "jullie": "schakeelden",
+          "zij_plural": "schakeelden"
+        },
+        "perfect": "geschakeeld"
+      }
+    },
+    {
+      "id": "v692",
       "word": "schamen",
       "translation": "to be ashamed",
       "conjugations": {
@@ -15593,7 +30397,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v356",
+      "id": "v693",
       "word": "schatten",
       "translation": "to estimate",
       "conjugations": {
@@ -15619,7 +30423,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v357",
+      "id": "v694",
+      "word": "scheiden",
+      "translation": "to separate; to divorce",
+      "conjugations": {
+        "present": {
+          "ik": "scheid",
+          "jij": "scheidt",
+          "u": "scheidt",
+          "hij/zij": "scheidt",
+          "wij": "scheiden",
+          "jullie": "scheiden",
+          "zij_plural": "scheiden"
+        },
+        "past": {
+          "ik": "scheidde",
+          "jij": "scheidde",
+          "u": "scheidde",
+          "hij/zij": "scheidde",
+          "wij": "scheidden",
+          "jullie": "scheidden",
+          "zij_plural": "scheidden"
+        },
+        "perfect": "gescheidd"
+      }
+    },
+    {
+      "id": "v695",
       "word": "schelden",
       "translation": "to curse, to scold",
       "conjugations": {
@@ -15645,7 +30475,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v358",
+      "id": "v696",
+      "word": "schelen",
+      "translation": "to matter; to differ",
+      "conjugations": {
+        "present": {
+          "ik": "scheel",
+          "jij": "scheelt",
+          "u": "scheelt",
+          "hij/zij": "scheelt",
+          "wij": "schelen",
+          "jullie": "schelen",
+          "zij_plural": "schelen"
+        },
+        "past": {
+          "ik": "scheelde",
+          "jij": "scheelde",
+          "u": "scheelde",
+          "hij/zij": "scheelde",
+          "wij": "scheelden",
+          "jullie": "scheelden",
+          "zij_plural": "scheelden"
+        },
+        "perfect": "gescheeld"
+      }
+    },
+    {
+      "id": "v697",
       "word": "schenken",
       "translation": "to pour; to donate",
       "conjugations": {
@@ -15671,7 +30527,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v359",
+      "id": "v698",
       "word": "scheppen",
       "translation": "to create; to scoop",
       "conjugations": {
@@ -15697,7 +30553,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v360",
+      "id": "v699",
+      "word": "scheren",
+      "translation": "to shave",
+      "conjugations": {
+        "present": {
+          "ik": "scheer",
+          "jij": "scheert",
+          "u": "scheert",
+          "hij/zij": "scheert",
+          "wij": "scheren",
+          "jullie": "scheren",
+          "zij_plural": "scheren"
+        },
+        "past": {
+          "ik": "scheerde",
+          "jij": "scheerde",
+          "u": "scheerde",
+          "hij/zij": "scheerde",
+          "wij": "scheerden",
+          "jullie": "scheerden",
+          "zij_plural": "scheerden"
+        },
+        "perfect": "gescheerd"
+      }
+    },
+    {
+      "id": "v700",
+      "word": "schetsen",
+      "translation": "to sketch; to outline",
+      "conjugations": {
+        "present": {
+          "ik": "schets",
+          "jij": "schetst",
+          "u": "schetst",
+          "hij/zij": "schetst",
+          "wij": "schetsen",
+          "jullie": "schetsen",
+          "zij_plural": "schetsen"
+        },
+        "past": {
+          "ik": "schetste",
+          "jij": "schetste",
+          "u": "schetste",
+          "hij/zij": "schetste",
+          "wij": "schetsten",
+          "jullie": "schetsten",
+          "zij_plural": "schetsten"
+        },
+        "perfect": "geschetst"
+      }
+    },
+    {
+      "id": "v701",
+      "word": "scheuren",
+      "translation": "to tear",
+      "conjugations": {
+        "present": {
+          "ik": "scheur",
+          "jij": "scheurt",
+          "u": "scheurt",
+          "hij/zij": "scheurt",
+          "wij": "scheuren",
+          "jullie": "scheuren",
+          "zij_plural": "scheuren"
+        },
+        "past": {
+          "ik": "scheurde",
+          "jij": "scheurde",
+          "u": "scheurde",
+          "hij/zij": "scheurde",
+          "wij": "scheurden",
+          "jullie": "scheurden",
+          "zij_plural": "scheurden"
+        },
+        "perfect": "gescheurd"
+      }
+    },
+    {
+      "id": "v702",
       "word": "schieten",
       "translation": "to shoot",
       "conjugations": {
@@ -15723,7 +30657,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v361",
+      "id": "v703",
+      "word": "schijnen",
+      "translation": "to seem; to shine",
+      "conjugations": {
+        "present": {
+          "ik": "schijn",
+          "jij": "schijnt",
+          "u": "schijnt",
+          "hij/zij": "schijnt",
+          "wij": "schijnen",
+          "jullie": "schijnen",
+          "zij_plural": "schijnen"
+        },
+        "past": {
+          "ik": "schijnde",
+          "jij": "schijnde",
+          "u": "schijnde",
+          "hij/zij": "schijnde",
+          "wij": "schijnden",
+          "jullie": "schijnden",
+          "zij_plural": "schijnden"
+        },
+        "perfect": "geschijnd"
+      }
+    },
+    {
+      "id": "v704",
+      "word": "schikken",
+      "translation": "to arrange; to settle",
+      "conjugations": {
+        "present": {
+          "ik": "schikk",
+          "jij": "schikkt",
+          "u": "schikkt",
+          "hij/zij": "schikkt",
+          "wij": "schikken",
+          "jullie": "schikken",
+          "zij_plural": "schikken"
+        },
+        "past": {
+          "ik": "schikkte",
+          "jij": "schikkte",
+          "u": "schikkte",
+          "hij/zij": "schikkte",
+          "wij": "schikkten",
+          "jullie": "schikkten",
+          "zij_plural": "schikkten"
+        },
+        "perfect": "geschikkt"
+      }
+    },
+    {
+      "id": "v705",
       "word": "schilderen",
       "translation": "to paint",
       "conjugations": {
@@ -15749,7 +30735,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v362",
+      "id": "v706",
+      "word": "schitteren",
+      "translation": "to sparkle, to shine",
+      "conjugations": {
+        "present": {
+          "ik": "schitteer",
+          "jij": "schitteert",
+          "u": "schitteert",
+          "hij/zij": "schitteert",
+          "wij": "schitteren",
+          "jullie": "schitteren",
+          "zij_plural": "schitteren"
+        },
+        "past": {
+          "ik": "schitteerde",
+          "jij": "schitteerde",
+          "u": "schitteerde",
+          "hij/zij": "schitteerde",
+          "wij": "schitteerden",
+          "jullie": "schitteerden",
+          "zij_plural": "schitteerden"
+        },
+        "perfect": "geschitteerd"
+      }
+    },
+    {
+      "id": "v707",
+      "word": "schokken",
+      "translation": "to shock; to shake",
+      "conjugations": {
+        "present": {
+          "ik": "schokk",
+          "jij": "schokkt",
+          "u": "schokkt",
+          "hij/zij": "schokkt",
+          "wij": "schokken",
+          "jullie": "schokken",
+          "zij_plural": "schokken"
+        },
+        "past": {
+          "ik": "schokkte",
+          "jij": "schokkte",
+          "u": "schokkte",
+          "hij/zij": "schokkte",
+          "wij": "schokkten",
+          "jullie": "schokkten",
+          "zij_plural": "schokkten"
+        },
+        "perfect": "geschokkt"
+      }
+    },
+    {
+      "id": "v708",
       "word": "scholen",
       "translation": "to school; to train",
       "conjugations": {
@@ -15775,7 +30813,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v363",
+      "id": "v709",
+      "word": "schommelen",
+      "translation": "to swing; to fluctuate",
+      "conjugations": {
+        "present": {
+          "ik": "schommeel",
+          "jij": "schommeelt",
+          "u": "schommeelt",
+          "hij/zij": "schommeelt",
+          "wij": "schommelen",
+          "jullie": "schommelen",
+          "zij_plural": "schommelen"
+        },
+        "past": {
+          "ik": "schommeelde",
+          "jij": "schommeelde",
+          "u": "schommeelde",
+          "hij/zij": "schommeelde",
+          "wij": "schommeelden",
+          "jullie": "schommeelden",
+          "zij_plural": "schommeelden"
+        },
+        "perfect": "geschommeeld"
+      }
+    },
+    {
+      "id": "v710",
+      "word": "schoonmaken",
+      "translation": "to clean",
+      "conjugations": {
+        "present": {
+          "ik": "schoonmaak",
+          "jij": "schoonmaakt",
+          "u": "schoonmaakt",
+          "hij/zij": "schoonmaakt",
+          "wij": "schoonmaken",
+          "jullie": "schoonmaken",
+          "zij_plural": "schoonmaken"
+        },
+        "past": {
+          "ik": "schoonmaakte",
+          "jij": "schoonmaakte",
+          "u": "schoonmaakte",
+          "hij/zij": "schoonmaakte",
+          "wij": "schoonmaakten",
+          "jullie": "schoonmaakten",
+          "zij_plural": "schoonmaakten"
+        },
+        "perfect": "geschoonmaakt"
+      }
+    },
+    {
+      "id": "v711",
+      "word": "schoppen",
+      "translation": "to kick",
+      "conjugations": {
+        "present": {
+          "ik": "schopp",
+          "jij": "schoppt",
+          "u": "schoppt",
+          "hij/zij": "schoppt",
+          "wij": "schoppen",
+          "jullie": "schoppen",
+          "zij_plural": "schoppen"
+        },
+        "past": {
+          "ik": "schoppte",
+          "jij": "schoppte",
+          "u": "schoppte",
+          "hij/zij": "schoppte",
+          "wij": "schoppten",
+          "jullie": "schoppten",
+          "zij_plural": "schoppten"
+        },
+        "perfect": "geschoppt"
+      }
+    },
+    {
+      "id": "v712",
       "word": "schreeuwen",
       "translation": "to scream, to shout",
       "conjugations": {
@@ -15801,7 +30917,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v364",
+      "id": "v713",
+      "word": "schreien",
+      "translation": "to cry, to weep",
+      "conjugations": {
+        "present": {
+          "ik": "schrei",
+          "jij": "schreit",
+          "u": "schreit",
+          "hij/zij": "schreit",
+          "wij": "schreien",
+          "jullie": "schreien",
+          "zij_plural": "schreien"
+        },
+        "past": {
+          "ik": "schreide",
+          "jij": "schreide",
+          "u": "schreide",
+          "hij/zij": "schreide",
+          "wij": "schreiden",
+          "jullie": "schreiden",
+          "zij_plural": "schreiden"
+        },
+        "perfect": "geschreid"
+      }
+    },
+    {
+      "id": "v714",
       "word": "schrijven",
       "translation": "to write",
       "conjugations": {
@@ -15827,7 +30969,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v365",
+      "id": "v715",
       "word": "schrikken",
       "translation": "to be frightened",
       "conjugations": {
@@ -15853,7 +30995,163 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v366",
+      "id": "v716",
+      "word": "schudden",
+      "translation": "to shake",
+      "conjugations": {
+        "present": {
+          "ik": "schudd",
+          "jij": "schuddt",
+          "u": "schuddt",
+          "hij/zij": "schuddt",
+          "wij": "schudden",
+          "jullie": "schudden",
+          "zij_plural": "schudden"
+        },
+        "past": {
+          "ik": "schuddde",
+          "jij": "schuddde",
+          "u": "schuddde",
+          "hij/zij": "schuddde",
+          "wij": "schuddden",
+          "jullie": "schuddden",
+          "zij_plural": "schuddden"
+        },
+        "perfect": "geschuddd"
+      }
+    },
+    {
+      "id": "v717",
+      "word": "schuilen",
+      "translation": "to shelter, to hide",
+      "conjugations": {
+        "present": {
+          "ik": "schuil",
+          "jij": "schuilt",
+          "u": "schuilt",
+          "hij/zij": "schuilt",
+          "wij": "schuilen",
+          "jullie": "schuilen",
+          "zij_plural": "schuilen"
+        },
+        "past": {
+          "ik": "schuilde",
+          "jij": "schuilde",
+          "u": "schuilde",
+          "hij/zij": "schuilde",
+          "wij": "schuilden",
+          "jullie": "schuilden",
+          "zij_plural": "schuilden"
+        },
+        "perfect": "geschuild"
+      }
+    },
+    {
+      "id": "v718",
+      "word": "schuiven",
+      "translation": "to slide, to push",
+      "conjugations": {
+        "present": {
+          "ik": "schuif",
+          "jij": "schuift",
+          "u": "schuift",
+          "hij/zij": "schuift",
+          "wij": "schuiven",
+          "jullie": "schuiven",
+          "zij_plural": "schuiven"
+        },
+        "past": {
+          "ik": "schuifte",
+          "jij": "schuifte",
+          "u": "schuifte",
+          "hij/zij": "schuifte",
+          "wij": "schuiften",
+          "jullie": "schuiften",
+          "zij_plural": "schuiften"
+        },
+        "perfect": "geschuift"
+      }
+    },
+    {
+      "id": "v719",
+      "word": "selecteren",
+      "translation": "to select",
+      "conjugations": {
+        "present": {
+          "ik": "selecteer",
+          "jij": "selecteert",
+          "u": "selecteert",
+          "hij/zij": "selecteert",
+          "wij": "selecteren",
+          "jullie": "selecteren",
+          "zij_plural": "selecteren"
+        },
+        "past": {
+          "ik": "selecteerde",
+          "jij": "selecteerde",
+          "u": "selecteerde",
+          "hij/zij": "selecteerde",
+          "wij": "selecteerden",
+          "jullie": "selecteerden",
+          "zij_plural": "selecteerden"
+        },
+        "perfect": "geselecteerd"
+      }
+    },
+    {
+      "id": "v720",
+      "word": "serveren",
+      "translation": "to serve",
+      "conjugations": {
+        "present": {
+          "ik": "serveer",
+          "jij": "serveert",
+          "u": "serveert",
+          "hij/zij": "serveert",
+          "wij": "serveren",
+          "jullie": "serveren",
+          "zij_plural": "serveren"
+        },
+        "past": {
+          "ik": "serveerde",
+          "jij": "serveerde",
+          "u": "serveerde",
+          "hij/zij": "serveerde",
+          "wij": "serveerden",
+          "jullie": "serveerden",
+          "zij_plural": "serveerden"
+        },
+        "perfect": "geserveerd"
+      }
+    },
+    {
+      "id": "v721",
+      "word": "signaleren",
+      "translation": "to signal; to notice",
+      "conjugations": {
+        "present": {
+          "ik": "signaleer",
+          "jij": "signaleert",
+          "u": "signaleert",
+          "hij/zij": "signaleert",
+          "wij": "signaleren",
+          "jullie": "signaleren",
+          "zij_plural": "signaleren"
+        },
+        "past": {
+          "ik": "signaleerde",
+          "jij": "signaleerde",
+          "u": "signaleerde",
+          "hij/zij": "signaleerde",
+          "wij": "signaleerden",
+          "jullie": "signaleerden",
+          "zij_plural": "signaleerden"
+        },
+        "perfect": "gesignaleerd"
+      }
+    },
+    {
+      "id": "v722",
       "word": "slaan",
       "translation": "to hit, to strike",
       "conjugations": {
@@ -15879,7 +31177,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v367",
+      "id": "v723",
       "word": "slagen",
       "translation": "to succeed; to pass (exam)",
       "conjugations": {
@@ -15905,7 +31203,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v368",
+      "id": "v724",
       "word": "slapen",
       "translation": "to sleep",
       "conjugations": {
@@ -15931,7 +31229,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v369",
+      "id": "v725",
+      "word": "slepen",
+      "translation": "to drag",
+      "conjugations": {
+        "present": {
+          "ik": "sleep",
+          "jij": "sleept",
+          "u": "sleept",
+          "hij/zij": "sleept",
+          "wij": "slepen",
+          "jullie": "slepen",
+          "zij_plural": "slepen"
+        },
+        "past": {
+          "ik": "sleepte",
+          "jij": "sleepte",
+          "u": "sleepte",
+          "hij/zij": "sleepte",
+          "wij": "sleepten",
+          "jullie": "sleepten",
+          "zij_plural": "sleepten"
+        },
+        "perfect": "gesleept"
+      }
+    },
+    {
+      "id": "v726",
+      "word": "slikken",
+      "translation": "to swallow",
+      "conjugations": {
+        "present": {
+          "ik": "slikk",
+          "jij": "slikkt",
+          "u": "slikkt",
+          "hij/zij": "slikkt",
+          "wij": "slikken",
+          "jullie": "slikken",
+          "zij_plural": "slikken"
+        },
+        "past": {
+          "ik": "slikkte",
+          "jij": "slikkte",
+          "u": "slikkte",
+          "hij/zij": "slikkte",
+          "wij": "slikkten",
+          "jullie": "slikkten",
+          "zij_plural": "slikkten"
+        },
+        "perfect": "geslikkt"
+      }
+    },
+    {
+      "id": "v727",
+      "word": "slingeren",
+      "translation": "to swing; to wind",
+      "conjugations": {
+        "present": {
+          "ik": "slingeer",
+          "jij": "slingeert",
+          "u": "slingeert",
+          "hij/zij": "slingeert",
+          "wij": "slingeren",
+          "jullie": "slingeren",
+          "zij_plural": "slingeren"
+        },
+        "past": {
+          "ik": "slingeerde",
+          "jij": "slingeerde",
+          "u": "slingeerde",
+          "hij/zij": "slingeerde",
+          "wij": "slingeerden",
+          "jullie": "slingeerden",
+          "zij_plural": "slingeerden"
+        },
+        "perfect": "geslingeerd"
+      }
+    },
+    {
+      "id": "v728",
+      "word": "sluipen",
+      "translation": "to sneak",
+      "conjugations": {
+        "present": {
+          "ik": "sluip",
+          "jij": "sluipt",
+          "u": "sluipt",
+          "hij/zij": "sluipt",
+          "wij": "sluipen",
+          "jullie": "sluipen",
+          "zij_plural": "sluipen"
+        },
+        "past": {
+          "ik": "sluipte",
+          "jij": "sluipte",
+          "u": "sluipte",
+          "hij/zij": "sluipte",
+          "wij": "sluipten",
+          "jullie": "sluipten",
+          "zij_plural": "sluipten"
+        },
+        "perfect": "gesluipt"
+      }
+    },
+    {
+      "id": "v729",
       "word": "sluiten",
       "translation": "to close",
       "conjugations": {
@@ -15957,7 +31359,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v370",
+      "id": "v730",
+      "word": "smaken",
+      "translation": "to taste",
+      "conjugations": {
+        "present": {
+          "ik": "smaak",
+          "jij": "smaakt",
+          "u": "smaakt",
+          "hij/zij": "smaakt",
+          "wij": "smaken",
+          "jullie": "smaken",
+          "zij_plural": "smaken"
+        },
+        "past": {
+          "ik": "smaakte",
+          "jij": "smaakte",
+          "u": "smaakte",
+          "hij/zij": "smaakte",
+          "wij": "smaakten",
+          "jullie": "smaakten",
+          "zij_plural": "smaakten"
+        },
+        "perfect": "gesmaakt"
+      }
+    },
+    {
+      "id": "v731",
+      "word": "smeken",
+      "translation": "to beg, to plead",
+      "conjugations": {
+        "present": {
+          "ik": "smeek",
+          "jij": "smeekt",
+          "u": "smeekt",
+          "hij/zij": "smeekt",
+          "wij": "smeken",
+          "jullie": "smeken",
+          "zij_plural": "smeken"
+        },
+        "past": {
+          "ik": "smeekte",
+          "jij": "smeekte",
+          "u": "smeekte",
+          "hij/zij": "smeekte",
+          "wij": "smeekten",
+          "jullie": "smeekten",
+          "zij_plural": "smeekten"
+        },
+        "perfect": "gesmeekt"
+      }
+    },
+    {
+      "id": "v732",
       "word": "smelten",
       "translation": "to melt",
       "conjugations": {
@@ -15983,7 +31437,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v371",
+      "id": "v733",
+      "word": "smeren",
+      "translation": "to spread; to lubricate",
+      "conjugations": {
+        "present": {
+          "ik": "smeer",
+          "jij": "smeert",
+          "u": "smeert",
+          "hij/zij": "smeert",
+          "wij": "smeren",
+          "jullie": "smeren",
+          "zij_plural": "smeren"
+        },
+        "past": {
+          "ik": "smeerde",
+          "jij": "smeerde",
+          "u": "smeerde",
+          "hij/zij": "smeerde",
+          "wij": "smeerden",
+          "jullie": "smeerden",
+          "zij_plural": "smeerden"
+        },
+        "perfect": "gesmeerd"
+      }
+    },
+    {
+      "id": "v734",
       "word": "smijten",
       "translation": "to throw, to fling",
       "conjugations": {
@@ -16009,7 +31489,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v372",
+      "id": "v735",
+      "word": "snappen",
+      "translation": "to understand; to catch",
+      "conjugations": {
+        "present": {
+          "ik": "snapp",
+          "jij": "snappt",
+          "u": "snappt",
+          "hij/zij": "snappt",
+          "wij": "snappen",
+          "jullie": "snappen",
+          "zij_plural": "snappen"
+        },
+        "past": {
+          "ik": "snappte",
+          "jij": "snappte",
+          "u": "snappte",
+          "hij/zij": "snappte",
+          "wij": "snappten",
+          "jullie": "snappten",
+          "zij_plural": "snappten"
+        },
+        "perfect": "gesnappt"
+      }
+    },
+    {
+      "id": "v736",
+      "word": "sneuvelen",
+      "translation": "to be killed (in battle)",
+      "conjugations": {
+        "present": {
+          "ik": "sneuveel",
+          "jij": "sneuveelt",
+          "u": "sneuveelt",
+          "hij/zij": "sneuveelt",
+          "wij": "sneuvelen",
+          "jullie": "sneuvelen",
+          "zij_plural": "sneuvelen"
+        },
+        "past": {
+          "ik": "sneuveelde",
+          "jij": "sneuveelde",
+          "u": "sneuveelde",
+          "hij/zij": "sneuveelde",
+          "wij": "sneuveelden",
+          "jullie": "sneuveelden",
+          "zij_plural": "sneuveelden"
+        },
+        "perfect": "gesneuveeld"
+      }
+    },
+    {
+      "id": "v737",
       "word": "snijden",
       "translation": "to cut",
       "conjugations": {
@@ -16035,7 +31567,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v373",
+      "id": "v738",
+      "word": "spannen",
+      "translation": "to stretch; to tense",
+      "conjugations": {
+        "present": {
+          "ik": "spann",
+          "jij": "spannt",
+          "u": "spannt",
+          "hij/zij": "spannt",
+          "wij": "spannen",
+          "jullie": "spannen",
+          "zij_plural": "spannen"
+        },
+        "past": {
+          "ik": "spannde",
+          "jij": "spannde",
+          "u": "spannde",
+          "hij/zij": "spannde",
+          "wij": "spannden",
+          "jullie": "spannden",
+          "zij_plural": "spannden"
+        },
+        "perfect": "gespannd"
+      }
+    },
+    {
+      "id": "v739",
       "word": "sparen",
       "translation": "to save (money)",
       "conjugations": {
@@ -16061,7 +31619,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v374",
+      "id": "v740",
       "word": "spelen",
       "translation": "to play",
       "conjugations": {
@@ -16087,7 +31645,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v375",
+      "id": "v741",
+      "word": "sporen",
+      "translation": "to trace; to spur",
+      "conjugations": {
+        "present": {
+          "ik": "spoor",
+          "jij": "spoort",
+          "u": "spoort",
+          "hij/zij": "spoort",
+          "wij": "sporen",
+          "jullie": "sporen",
+          "zij_plural": "sporen"
+        },
+        "past": {
+          "ik": "spoorde",
+          "jij": "spoorde",
+          "u": "spoorde",
+          "hij/zij": "spoorde",
+          "wij": "spoorden",
+          "jullie": "spoorden",
+          "zij_plural": "spoorden"
+        },
+        "perfect": "gespoord"
+      }
+    },
+    {
+      "id": "v742",
+      "word": "spotten",
+      "translation": "to mock",
+      "conjugations": {
+        "present": {
+          "ik": "spott",
+          "jij": "spott",
+          "u": "spott",
+          "hij/zij": "spott",
+          "wij": "spotten",
+          "jullie": "spotten",
+          "zij_plural": "spotten"
+        },
+        "past": {
+          "ik": "spottte",
+          "jij": "spottte",
+          "u": "spottte",
+          "hij/zij": "spottte",
+          "wij": "spottten",
+          "jullie": "spottten",
+          "zij_plural": "spottten"
+        },
+        "perfect": "gespottt"
+      }
+    },
+    {
+      "id": "v743",
+      "word": "spreiden",
+      "translation": "to spread",
+      "conjugations": {
+        "present": {
+          "ik": "spreid",
+          "jij": "spreidt",
+          "u": "spreidt",
+          "hij/zij": "spreidt",
+          "wij": "spreiden",
+          "jullie": "spreiden",
+          "zij_plural": "spreiden"
+        },
+        "past": {
+          "ik": "spreidde",
+          "jij": "spreidde",
+          "u": "spreidde",
+          "hij/zij": "spreidde",
+          "wij": "spreidden",
+          "jullie": "spreidden",
+          "zij_plural": "spreidden"
+        },
+        "perfect": "gespreidd"
+      }
+    },
+    {
+      "id": "v744",
       "word": "spreken",
       "translation": "to speak",
       "conjugations": {
@@ -16113,7 +31749,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v376",
+      "id": "v745",
       "word": "springen",
       "translation": "to jump",
       "conjugations": {
@@ -16139,7 +31775,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v377",
+      "id": "v746",
+      "word": "spuiten",
+      "translation": "to spray; to inject",
+      "conjugations": {
+        "present": {
+          "ik": "spuit",
+          "jij": "spuit",
+          "u": "spuit",
+          "hij/zij": "spuit",
+          "wij": "spuiten",
+          "jullie": "spuiten",
+          "zij_plural": "spuiten"
+        },
+        "past": {
+          "ik": "spuitte",
+          "jij": "spuitte",
+          "u": "spuitte",
+          "hij/zij": "spuitte",
+          "wij": "spuitten",
+          "jullie": "spuitten",
+          "zij_plural": "spuitten"
+        },
+        "perfect": "gespuitt"
+      }
+    },
+    {
+      "id": "v747",
       "word": "staan",
       "translation": "to stand",
       "conjugations": {
@@ -16165,7 +31827,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v378",
+      "id": "v748",
       "word": "staken",
       "translation": "to strike; to stop",
       "conjugations": {
@@ -16191,7 +31853,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v379",
+      "id": "v749",
+      "word": "stammen",
+      "translation": "to originate, to stem from",
+      "conjugations": {
+        "present": {
+          "ik": "stamm",
+          "jij": "stammt",
+          "u": "stammt",
+          "hij/zij": "stammt",
+          "wij": "stammen",
+          "jullie": "stammen",
+          "zij_plural": "stammen"
+        },
+        "past": {
+          "ik": "stammde",
+          "jij": "stammde",
+          "u": "stammde",
+          "hij/zij": "stammde",
+          "wij": "stammden",
+          "jullie": "stammden",
+          "zij_plural": "stammden"
+        },
+        "perfect": "gestammd"
+      }
+    },
+    {
+      "id": "v750",
       "word": "stappen",
       "translation": "to step; to go out",
       "conjugations": {
@@ -16217,7 +31905,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v380",
+      "id": "v751",
+      "word": "staren",
+      "translation": "to stare",
+      "conjugations": {
+        "present": {
+          "ik": "staar",
+          "jij": "staart",
+          "u": "staart",
+          "hij/zij": "staart",
+          "wij": "staren",
+          "jullie": "staren",
+          "zij_plural": "staren"
+        },
+        "past": {
+          "ik": "staarde",
+          "jij": "staarde",
+          "u": "staarde",
+          "hij/zij": "staarde",
+          "wij": "staarden",
+          "jullie": "staarden",
+          "zij_plural": "staarden"
+        },
+        "perfect": "gestaard"
+      }
+    },
+    {
+      "id": "v752",
+      "word": "starten",
+      "translation": "to start",
+      "conjugations": {
+        "present": {
+          "ik": "start",
+          "jij": "start",
+          "u": "start",
+          "hij/zij": "start",
+          "wij": "starten",
+          "jullie": "starten",
+          "zij_plural": "starten"
+        },
+        "past": {
+          "ik": "startte",
+          "jij": "startte",
+          "u": "startte",
+          "hij/zij": "startte",
+          "wij": "startten",
+          "jullie": "startten",
+          "zij_plural": "startten"
+        },
+        "perfect": "gestartt"
+      }
+    },
+    {
+      "id": "v753",
       "word": "steken",
       "translation": "to sting; to put",
       "conjugations": {
@@ -16243,7 +31983,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v381",
+      "id": "v754",
       "word": "stelen",
       "translation": "to steal",
       "conjugations": {
@@ -16269,7 +32009,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v382",
+      "id": "v755",
       "word": "stellen",
       "translation": "to state; to set",
       "conjugations": {
@@ -16295,7 +32035,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v383",
+      "id": "v756",
       "word": "stemmen",
       "translation": "to vote; to tune",
       "conjugations": {
@@ -16321,7 +32061,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v384",
+      "id": "v757",
       "word": "sterven",
       "translation": "to die",
       "conjugations": {
@@ -16347,7 +32087,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v385",
+      "id": "v758",
       "word": "steunen",
       "translation": "to support",
       "conjugations": {
@@ -16373,7 +32113,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v386",
+      "id": "v759",
       "word": "stichten",
       "translation": "to found; to cause",
       "conjugations": {
@@ -16399,7 +32139,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v387",
+      "id": "v760",
       "word": "stijgen",
       "translation": "to rise, to increase",
       "conjugations": {
@@ -16425,7 +32165,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v388",
+      "id": "v761",
+      "word": "stikken",
+      "translation": "to choke; to stitch",
+      "conjugations": {
+        "present": {
+          "ik": "stikk",
+          "jij": "stikkt",
+          "u": "stikkt",
+          "hij/zij": "stikkt",
+          "wij": "stikken",
+          "jullie": "stikken",
+          "zij_plural": "stikken"
+        },
+        "past": {
+          "ik": "stikkte",
+          "jij": "stikkte",
+          "u": "stikkte",
+          "hij/zij": "stikkte",
+          "wij": "stikkten",
+          "jullie": "stikkten",
+          "zij_plural": "stikkten"
+        },
+        "perfect": "gestikkt"
+      }
+    },
+    {
+      "id": "v762",
+      "word": "stilstaan",
+      "translation": "to stand still",
+      "conjugations": {
+        "present": {
+          "ik": "stilstaa",
+          "jij": "stilstaat",
+          "u": "stilstaat",
+          "hij/zij": "stilstaat",
+          "wij": "stilstaan",
+          "jullie": "stilstaan",
+          "zij_plural": "stilstaan"
+        },
+        "past": {
+          "ik": "stilstaade",
+          "jij": "stilstaade",
+          "u": "stilstaade",
+          "hij/zij": "stilstaade",
+          "wij": "stilstaaden",
+          "jullie": "stilstaaden",
+          "zij_plural": "stilstaaden"
+        },
+        "perfect": "gestilstaad"
+      }
+    },
+    {
+      "id": "v763",
+      "word": "stimuleren",
+      "translation": "to stimulate",
+      "conjugations": {
+        "present": {
+          "ik": "stimuleer",
+          "jij": "stimuleert",
+          "u": "stimuleert",
+          "hij/zij": "stimuleert",
+          "wij": "stimuleren",
+          "jullie": "stimuleren",
+          "zij_plural": "stimuleren"
+        },
+        "past": {
+          "ik": "stimuleerde",
+          "jij": "stimuleerde",
+          "u": "stimuleerde",
+          "hij/zij": "stimuleerde",
+          "wij": "stimuleerden",
+          "jullie": "stimuleerden",
+          "zij_plural": "stimuleerden"
+        },
+        "perfect": "gestimuleerd"
+      }
+    },
+    {
+      "id": "v764",
+      "word": "stinken",
+      "translation": "to stink",
+      "conjugations": {
+        "present": {
+          "ik": "stink",
+          "jij": "stinkt",
+          "u": "stinkt",
+          "hij/zij": "stinkt",
+          "wij": "stinken",
+          "jullie": "stinken",
+          "zij_plural": "stinken"
+        },
+        "past": {
+          "ik": "stinkte",
+          "jij": "stinkte",
+          "u": "stinkte",
+          "hij/zij": "stinkte",
+          "wij": "stinkten",
+          "jullie": "stinkten",
+          "zij_plural": "stinkten"
+        },
+        "perfect": "gestinkt"
+      }
+    },
+    {
+      "id": "v765",
       "word": "stoppen",
       "translation": "to stop",
       "conjugations": {
@@ -16451,7 +32295,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v389",
+      "id": "v766",
       "word": "storen",
       "translation": "to disturb",
       "conjugations": {
@@ -16477,7 +32321,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v390",
+      "id": "v767",
+      "word": "stormen",
+      "translation": "to storm",
+      "conjugations": {
+        "present": {
+          "ik": "storm",
+          "jij": "stormt",
+          "u": "stormt",
+          "hij/zij": "stormt",
+          "wij": "stormen",
+          "jullie": "stormen",
+          "zij_plural": "stormen"
+        },
+        "past": {
+          "ik": "stormde",
+          "jij": "stormde",
+          "u": "stormde",
+          "hij/zij": "stormde",
+          "wij": "stormden",
+          "jullie": "stormden",
+          "zij_plural": "stormden"
+        },
+        "perfect": "gestormd"
+      }
+    },
+    {
+      "id": "v768",
+      "word": "storten",
+      "translation": "to pour; to deposit; to crash",
+      "conjugations": {
+        "present": {
+          "ik": "stort",
+          "jij": "stort",
+          "u": "stort",
+          "hij/zij": "stort",
+          "wij": "storten",
+          "jullie": "storten",
+          "zij_plural": "storten"
+        },
+        "past": {
+          "ik": "stortte",
+          "jij": "stortte",
+          "u": "stortte",
+          "hij/zij": "stortte",
+          "wij": "stortten",
+          "jullie": "stortten",
+          "zij_plural": "stortten"
+        },
+        "perfect": "gestortt"
+      }
+    },
+    {
+      "id": "v769",
+      "word": "stoten",
+      "translation": "to bump, to push",
+      "conjugations": {
+        "present": {
+          "ik": "stoot",
+          "jij": "stoot",
+          "u": "stoot",
+          "hij/zij": "stoot",
+          "wij": "stoten",
+          "jullie": "stoten",
+          "zij_plural": "stoten"
+        },
+        "past": {
+          "ik": "stootte",
+          "jij": "stootte",
+          "u": "stootte",
+          "hij/zij": "stootte",
+          "wij": "stootten",
+          "jullie": "stootten",
+          "zij_plural": "stootten"
+        },
+        "perfect": "gestoott"
+      }
+    },
+    {
+      "id": "v770",
       "word": "straffen",
       "translation": "to punish",
       "conjugations": {
@@ -16503,7 +32425,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v391",
+      "id": "v771",
       "word": "stralen",
       "translation": "to radiate; to shine",
       "conjugations": {
@@ -16529,7 +32451,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v392",
+      "id": "v772",
       "word": "strekken",
       "translation": "to stretch; to extend",
       "conjugations": {
@@ -16555,7 +32477,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v393",
+      "id": "v773",
+      "word": "strelen",
+      "translation": "to caress, to stroke",
+      "conjugations": {
+        "present": {
+          "ik": "streel",
+          "jij": "streelt",
+          "u": "streelt",
+          "hij/zij": "streelt",
+          "wij": "strelen",
+          "jullie": "strelen",
+          "zij_plural": "strelen"
+        },
+        "past": {
+          "ik": "streelde",
+          "jij": "streelde",
+          "u": "streelde",
+          "hij/zij": "streelde",
+          "wij": "streelden",
+          "jullie": "streelden",
+          "zij_plural": "streelden"
+        },
+        "perfect": "gestreeld"
+      }
+    },
+    {
+      "id": "v774",
       "word": "streven",
       "translation": "to strive",
       "conjugations": {
@@ -16581,7 +32529,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v394",
+      "id": "v775",
       "word": "strijden",
       "translation": "to fight, to struggle",
       "conjugations": {
@@ -16607,7 +32555,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v395",
+      "id": "v776",
+      "word": "strijken",
+      "translation": "to iron; to stroke",
+      "conjugations": {
+        "present": {
+          "ik": "strijk",
+          "jij": "strijkt",
+          "u": "strijkt",
+          "hij/zij": "strijkt",
+          "wij": "strijken",
+          "jullie": "strijken",
+          "zij_plural": "strijken"
+        },
+        "past": {
+          "ik": "strijkte",
+          "jij": "strijkte",
+          "u": "strijkte",
+          "hij/zij": "strijkte",
+          "wij": "strijkten",
+          "jullie": "strijkten",
+          "zij_plural": "strijkten"
+        },
+        "perfect": "gestrijkt"
+      }
+    },
+    {
+      "id": "v777",
+      "word": "stromen",
+      "translation": "to flow, to stream",
+      "conjugations": {
+        "present": {
+          "ik": "stroom",
+          "jij": "stroomt",
+          "u": "stroomt",
+          "hij/zij": "stroomt",
+          "wij": "stromen",
+          "jullie": "stromen",
+          "zij_plural": "stromen"
+        },
+        "past": {
+          "ik": "stroomde",
+          "jij": "stroomde",
+          "u": "stroomde",
+          "hij/zij": "stroomde",
+          "wij": "stroomden",
+          "jullie": "stroomden",
+          "zij_plural": "stroomden"
+        },
+        "perfect": "gestroomd"
+      }
+    },
+    {
+      "id": "v778",
+      "word": "struikelen",
+      "translation": "to stumble",
+      "conjugations": {
+        "present": {
+          "ik": "struikeel",
+          "jij": "struikeelt",
+          "u": "struikeelt",
+          "hij/zij": "struikeelt",
+          "wij": "struikelen",
+          "jullie": "struikelen",
+          "zij_plural": "struikelen"
+        },
+        "past": {
+          "ik": "struikeelde",
+          "jij": "struikeelde",
+          "u": "struikeelde",
+          "hij/zij": "struikeelde",
+          "wij": "struikeelden",
+          "jullie": "struikeelden",
+          "zij_plural": "struikeelden"
+        },
+        "perfect": "gestruikeeld"
+      }
+    },
+    {
+      "id": "v779",
       "word": "studeren",
       "translation": "to study",
       "conjugations": {
@@ -16633,7 +32659,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v396",
+      "id": "v780",
       "word": "sturen",
       "translation": "to send; to steer",
       "conjugations": {
@@ -16659,7 +32685,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v397",
+      "id": "v781",
       "word": "suggereren",
       "translation": "to suggest",
       "conjugations": {
@@ -16685,7 +32711,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v398",
+      "id": "v782",
+      "word": "tasten",
+      "translation": "to feel, to grope",
+      "conjugations": {
+        "present": {
+          "ik": "tast",
+          "jij": "tast",
+          "u": "tast",
+          "hij/zij": "tast",
+          "wij": "tasten",
+          "jullie": "tasten",
+          "zij_plural": "tasten"
+        },
+        "past": {
+          "ik": "tastte",
+          "jij": "tastte",
+          "u": "tastte",
+          "hij/zij": "tastte",
+          "wij": "tastten",
+          "jullie": "tastten",
+          "zij_plural": "tastten"
+        },
+        "perfect": "getastt"
+      }
+    },
+    {
+      "id": "v783",
+      "word": "tegenhouden",
+      "translation": "to stop, to hold back",
+      "conjugations": {
+        "present": {
+          "ik": "tegenhoud",
+          "jij": "tegenhoudt",
+          "u": "tegenhoudt",
+          "hij/zij": "tegenhoudt",
+          "wij": "tegenhouden",
+          "jullie": "tegenhouden",
+          "zij_plural": "tegenhouden"
+        },
+        "past": {
+          "ik": "tegenhoudde",
+          "jij": "tegenhoudde",
+          "u": "tegenhoudde",
+          "hij/zij": "tegenhoudde",
+          "wij": "tegenhoudden",
+          "jullie": "tegenhoudden",
+          "zij_plural": "tegenhoudden"
+        },
+        "perfect": "getegenhoudd"
+      }
+    },
+    {
+      "id": "v784",
+      "word": "tegenkomen",
+      "translation": "to encounter, to meet",
+      "conjugations": {
+        "present": {
+          "ik": "tegenkoom",
+          "jij": "tegenkoomt",
+          "u": "tegenkoomt",
+          "hij/zij": "tegenkoomt",
+          "wij": "tegenkomen",
+          "jullie": "tegenkomen",
+          "zij_plural": "tegenkomen"
+        },
+        "past": {
+          "ik": "tegenkoomde",
+          "jij": "tegenkoomde",
+          "u": "tegenkoomde",
+          "hij/zij": "tegenkoomde",
+          "wij": "tegenkoomden",
+          "jullie": "tegenkoomden",
+          "zij_plural": "tegenkoomden"
+        },
+        "perfect": "getegenkoomd"
+      }
+    },
+    {
+      "id": "v785",
       "word": "tekenen",
       "translation": "to draw; to sign",
       "conjugations": {
@@ -16711,7 +32815,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v399",
+      "id": "v786",
+      "word": "teleurstellen",
+      "translation": "to disappoint",
+      "conjugations": {
+        "present": {
+          "ik": "teleurstell",
+          "jij": "teleurstellt",
+          "u": "teleurstellt",
+          "hij/zij": "teleurstellt",
+          "wij": "teleurstellen",
+          "jullie": "teleurstellen",
+          "zij_plural": "teleurstellen"
+        },
+        "past": {
+          "ik": "teleurstellde",
+          "jij": "teleurstellde",
+          "u": "teleurstellde",
+          "hij/zij": "teleurstellde",
+          "wij": "teleurstellden",
+          "jullie": "teleurstellden",
+          "zij_plural": "teleurstellden"
+        },
+        "perfect": "geteleurstelld"
+      }
+    },
+    {
+      "id": "v787",
       "word": "tellen",
       "translation": "to count",
       "conjugations": {
@@ -16737,7 +32867,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v400",
+      "id": "v788",
+      "word": "terechtkomen",
+      "translation": "to end up",
+      "conjugations": {
+        "present": {
+          "ik": "terechtkoom",
+          "jij": "terechtkoomt",
+          "u": "terechtkoomt",
+          "hij/zij": "terechtkoomt",
+          "wij": "terechtkomen",
+          "jullie": "terechtkomen",
+          "zij_plural": "terechtkomen"
+        },
+        "past": {
+          "ik": "terechtkoomde",
+          "jij": "terechtkoomde",
+          "u": "terechtkoomde",
+          "hij/zij": "terechtkoomde",
+          "wij": "terechtkoomden",
+          "jullie": "terechtkoomden",
+          "zij_plural": "terechtkoomden"
+        },
+        "perfect": "geterechtkoomd"
+      }
+    },
+    {
+      "id": "v789",
+      "word": "terugbrengen",
+      "translation": "to bring back",
+      "conjugations": {
+        "present": {
+          "ik": "terugbreng",
+          "jij": "terugbrengt",
+          "u": "terugbrengt",
+          "hij/zij": "terugbrengt",
+          "wij": "terugbrengen",
+          "jullie": "terugbrengen",
+          "zij_plural": "terugbrengen"
+        },
+        "past": {
+          "ik": "terugbrengde",
+          "jij": "terugbrengde",
+          "u": "terugbrengde",
+          "hij/zij": "terugbrengde",
+          "wij": "terugbrengden",
+          "jullie": "terugbrengden",
+          "zij_plural": "terugbrengden"
+        },
+        "perfect": "geterugbrengd"
+      }
+    },
+    {
+      "id": "v790",
+      "word": "teruggaan",
+      "translation": "to go back",
+      "conjugations": {
+        "present": {
+          "ik": "teruggaa",
+          "jij": "teruggaat",
+          "u": "teruggaat",
+          "hij/zij": "teruggaat",
+          "wij": "teruggaan",
+          "jullie": "teruggaan",
+          "zij_plural": "teruggaan"
+        },
+        "past": {
+          "ik": "teruggaade",
+          "jij": "teruggaade",
+          "u": "teruggaade",
+          "hij/zij": "teruggaade",
+          "wij": "teruggaaden",
+          "jullie": "teruggaaden",
+          "zij_plural": "teruggaaden"
+        },
+        "perfect": "geteruggaad"
+      }
+    },
+    {
+      "id": "v791",
       "word": "terugkeren",
       "translation": "to return",
       "conjugations": {
@@ -16763,7 +32971,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v401",
+      "id": "v792",
+      "word": "terugkomen",
+      "translation": "to come back",
+      "conjugations": {
+        "present": {
+          "ik": "terugkoom",
+          "jij": "terugkoomt",
+          "u": "terugkoomt",
+          "hij/zij": "terugkoomt",
+          "wij": "terugkomen",
+          "jullie": "terugkomen",
+          "zij_plural": "terugkomen"
+        },
+        "past": {
+          "ik": "terugkoomde",
+          "jij": "terugkoomde",
+          "u": "terugkoomde",
+          "hij/zij": "terugkoomde",
+          "wij": "terugkoomden",
+          "jullie": "terugkoomden",
+          "zij_plural": "terugkoomden"
+        },
+        "perfect": "geterugkoomd"
+      }
+    },
+    {
+      "id": "v793",
       "word": "terugtrekken",
       "translation": "to withdraw",
       "conjugations": {
@@ -16789,7 +33023,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v402",
+      "id": "v794",
+      "word": "terugvinden",
+      "translation": "to find back",
+      "conjugations": {
+        "present": {
+          "ik": "terugvind",
+          "jij": "terugvindt",
+          "u": "terugvindt",
+          "hij/zij": "terugvindt",
+          "wij": "terugvinden",
+          "jullie": "terugvinden",
+          "zij_plural": "terugvinden"
+        },
+        "past": {
+          "ik": "terugvindde",
+          "jij": "terugvindde",
+          "u": "terugvindde",
+          "hij/zij": "terugvindde",
+          "wij": "terugvindden",
+          "jullie": "terugvindden",
+          "zij_plural": "terugvindden"
+        },
+        "perfect": "geterugvindd"
+      }
+    },
+    {
+      "id": "v795",
       "word": "testen",
       "translation": "to test",
       "conjugations": {
@@ -16815,7 +33075,189 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v403",
+      "id": "v796",
+      "word": "teweegbrengen",
+      "translation": "to bring about, to cause",
+      "conjugations": {
+        "present": {
+          "ik": "teweegbreng",
+          "jij": "teweegbrengt",
+          "u": "teweegbrengt",
+          "hij/zij": "teweegbrengt",
+          "wij": "teweegbrengen",
+          "jullie": "teweegbrengen",
+          "zij_plural": "teweegbrengen"
+        },
+        "past": {
+          "ik": "teweegbrengde",
+          "jij": "teweegbrengde",
+          "u": "teweegbrengde",
+          "hij/zij": "teweegbrengde",
+          "wij": "teweegbrengden",
+          "jullie": "teweegbrengden",
+          "zij_plural": "teweegbrengden"
+        },
+        "perfect": "geteweegbrengd"
+      }
+    },
+    {
+      "id": "v797",
+      "word": "thuiskomen",
+      "translation": "to come home",
+      "conjugations": {
+        "present": {
+          "ik": "thuiskoom",
+          "jij": "thuiskoomt",
+          "u": "thuiskoomt",
+          "hij/zij": "thuiskoomt",
+          "wij": "thuiskomen",
+          "jullie": "thuiskomen",
+          "zij_plural": "thuiskomen"
+        },
+        "past": {
+          "ik": "thuiskoomde",
+          "jij": "thuiskoomde",
+          "u": "thuiskoomde",
+          "hij/zij": "thuiskoomde",
+          "wij": "thuiskoomden",
+          "jullie": "thuiskoomden",
+          "zij_plural": "thuiskoomden"
+        },
+        "perfect": "gethuiskoomd"
+      }
+    },
+    {
+      "id": "v798",
+      "word": "tikken",
+      "translation": "to tap; to type",
+      "conjugations": {
+        "present": {
+          "ik": "tikk",
+          "jij": "tikkt",
+          "u": "tikkt",
+          "hij/zij": "tikkt",
+          "wij": "tikken",
+          "jullie": "tikken",
+          "zij_plural": "tikken"
+        },
+        "past": {
+          "ik": "tikkte",
+          "jij": "tikkte",
+          "u": "tikkte",
+          "hij/zij": "tikkte",
+          "wij": "tikkten",
+          "jullie": "tikkten",
+          "zij_plural": "tikkten"
+        },
+        "perfect": "getikkt"
+      }
+    },
+    {
+      "id": "v799",
+      "word": "tillen",
+      "translation": "to lift",
+      "conjugations": {
+        "present": {
+          "ik": "till",
+          "jij": "tillt",
+          "u": "tillt",
+          "hij/zij": "tillt",
+          "wij": "tillen",
+          "jullie": "tillen",
+          "zij_plural": "tillen"
+        },
+        "past": {
+          "ik": "tillde",
+          "jij": "tillde",
+          "u": "tillde",
+          "hij/zij": "tillde",
+          "wij": "tillden",
+          "jullie": "tillden",
+          "zij_plural": "tillden"
+        },
+        "perfect": "getilld"
+      }
+    },
+    {
+      "id": "v800",
+      "word": "timmeren",
+      "translation": "to build (with wood); to hammer",
+      "conjugations": {
+        "present": {
+          "ik": "timmeer",
+          "jij": "timmeert",
+          "u": "timmeert",
+          "hij/zij": "timmeert",
+          "wij": "timmeren",
+          "jullie": "timmeren",
+          "zij_plural": "timmeren"
+        },
+        "past": {
+          "ik": "timmeerde",
+          "jij": "timmeerde",
+          "u": "timmeerde",
+          "hij/zij": "timmeerde",
+          "wij": "timmeerden",
+          "jullie": "timmeerden",
+          "zij_plural": "timmeerden"
+        },
+        "perfect": "getimmeerd"
+      }
+    },
+    {
+      "id": "v801",
+      "word": "toegeven",
+      "translation": "to admit; to give in",
+      "conjugations": {
+        "present": {
+          "ik": "toegeef",
+          "jij": "toegeeft",
+          "u": "toegeeft",
+          "hij/zij": "toegeeft",
+          "wij": "toegeven",
+          "jullie": "toegeven",
+          "zij_plural": "toegeven"
+        },
+        "past": {
+          "ik": "toegeefte",
+          "jij": "toegeefte",
+          "u": "toegeefte",
+          "hij/zij": "toegeefte",
+          "wij": "toegeeften",
+          "jullie": "toegeeften",
+          "zij_plural": "toegeeften"
+        },
+        "perfect": "getoegeeft"
+      }
+    },
+    {
+      "id": "v802",
+      "word": "toekennen",
+      "translation": "to award, to grant",
+      "conjugations": {
+        "present": {
+          "ik": "toekenn",
+          "jij": "toekennt",
+          "u": "toekennt",
+          "hij/zij": "toekennt",
+          "wij": "toekennen",
+          "jullie": "toekennen",
+          "zij_plural": "toekennen"
+        },
+        "past": {
+          "ik": "toekennde",
+          "jij": "toekennde",
+          "u": "toekennde",
+          "hij/zij": "toekennde",
+          "wij": "toekennden",
+          "jullie": "toekennden",
+          "zij_plural": "toekennden"
+        },
+        "perfect": "getoekennd"
+      }
+    },
+    {
+      "id": "v803",
       "word": "toekomen",
       "translation": "to be due; to get around to",
       "conjugations": {
@@ -16841,7 +33283,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v404",
+      "id": "v804",
       "word": "toelaten",
       "translation": "to admit; to allow",
       "conjugations": {
@@ -16867,7 +33309,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v405",
+      "id": "v805",
       "word": "toenemen",
       "translation": "to increase",
       "conjugations": {
@@ -16893,7 +33335,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v406",
+      "id": "v806",
       "word": "toepassen",
       "translation": "to apply",
       "conjugations": {
@@ -16919,7 +33361,137 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v407",
+      "id": "v807",
+      "word": "toestaan",
+      "translation": "to allow, to permit",
+      "conjugations": {
+        "present": {
+          "ik": "toestaa",
+          "jij": "toestaat",
+          "u": "toestaat",
+          "hij/zij": "toestaat",
+          "wij": "toestaan",
+          "jullie": "toestaan",
+          "zij_plural": "toestaan"
+        },
+        "past": {
+          "ik": "toestaade",
+          "jij": "toestaade",
+          "u": "toestaade",
+          "hij/zij": "toestaade",
+          "wij": "toestaaden",
+          "jullie": "toestaaden",
+          "zij_plural": "toestaaden"
+        },
+        "perfect": "getoestaad"
+      }
+    },
+    {
+      "id": "v808",
+      "word": "toetsen",
+      "translation": "to test",
+      "conjugations": {
+        "present": {
+          "ik": "toets",
+          "jij": "toetst",
+          "u": "toetst",
+          "hij/zij": "toetst",
+          "wij": "toetsen",
+          "jullie": "toetsen",
+          "zij_plural": "toetsen"
+        },
+        "past": {
+          "ik": "toetste",
+          "jij": "toetste",
+          "u": "toetste",
+          "hij/zij": "toetste",
+          "wij": "toetsten",
+          "jullie": "toetsten",
+          "zij_plural": "toetsten"
+        },
+        "perfect": "getoetst"
+      }
+    },
+    {
+      "id": "v809",
+      "word": "toevertrouwen",
+      "translation": "to entrust",
+      "conjugations": {
+        "present": {
+          "ik": "toevertrouw",
+          "jij": "toevertrouwt",
+          "u": "toevertrouwt",
+          "hij/zij": "toevertrouwt",
+          "wij": "toevertrouwen",
+          "jullie": "toevertrouwen",
+          "zij_plural": "toevertrouwen"
+        },
+        "past": {
+          "ik": "toevertrouwde",
+          "jij": "toevertrouwde",
+          "u": "toevertrouwde",
+          "hij/zij": "toevertrouwde",
+          "wij": "toevertrouwden",
+          "jullie": "toevertrouwden",
+          "zij_plural": "toevertrouwden"
+        },
+        "perfect": "getoevertrouwd"
+      }
+    },
+    {
+      "id": "v810",
+      "word": "toevoegen",
+      "translation": "to add",
+      "conjugations": {
+        "present": {
+          "ik": "toevoeg",
+          "jij": "toevoegt",
+          "u": "toevoegt",
+          "hij/zij": "toevoegt",
+          "wij": "toevoegen",
+          "jullie": "toevoegen",
+          "zij_plural": "toevoegen"
+        },
+        "past": {
+          "ik": "toevoegde",
+          "jij": "toevoegde",
+          "u": "toevoegde",
+          "hij/zij": "toevoegde",
+          "wij": "toevoegden",
+          "jullie": "toevoegden",
+          "zij_plural": "toevoegden"
+        },
+        "perfect": "getoevoegd"
+      }
+    },
+    {
+      "id": "v811",
+      "word": "toewijzen",
+      "translation": "to assign, to allocate",
+      "conjugations": {
+        "present": {
+          "ik": "toewijs",
+          "jij": "toewijst",
+          "u": "toewijst",
+          "hij/zij": "toewijst",
+          "wij": "toewijzen",
+          "jullie": "toewijzen",
+          "zij_plural": "toewijzen"
+        },
+        "past": {
+          "ik": "toewijste",
+          "jij": "toewijste",
+          "u": "toewijste",
+          "hij/zij": "toewijste",
+          "wij": "toewijsten",
+          "jullie": "toewijsten",
+          "zij_plural": "toewijsten"
+        },
+        "perfect": "getoewijst"
+      }
+    },
+    {
+      "id": "v812",
       "word": "tonen",
       "translation": "to show",
       "conjugations": {
@@ -16945,7 +33517,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v408",
+      "id": "v813",
       "word": "trachten",
       "translation": "to try, to attempt",
       "conjugations": {
@@ -16971,7 +33543,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v409",
+      "id": "v814",
+      "word": "trappen",
+      "translation": "to kick; to step",
+      "conjugations": {
+        "present": {
+          "ik": "trapp",
+          "jij": "trappt",
+          "u": "trappt",
+          "hij/zij": "trappt",
+          "wij": "trappen",
+          "jullie": "trappen",
+          "zij_plural": "trappen"
+        },
+        "past": {
+          "ik": "trappte",
+          "jij": "trappte",
+          "u": "trappte",
+          "hij/zij": "trappte",
+          "wij": "trappten",
+          "jullie": "trappten",
+          "zij_plural": "trappten"
+        },
+        "perfect": "getrappt"
+      }
+    },
+    {
+      "id": "v815",
+      "word": "treden",
+      "translation": "to step; to enter",
+      "conjugations": {
+        "present": {
+          "ik": "treed",
+          "jij": "treedt",
+          "u": "treedt",
+          "hij/zij": "treedt",
+          "wij": "treden",
+          "jullie": "treden",
+          "zij_plural": "treden"
+        },
+        "past": {
+          "ik": "treedde",
+          "jij": "treedde",
+          "u": "treedde",
+          "hij/zij": "treedde",
+          "wij": "treedden",
+          "jullie": "treedden",
+          "zij_plural": "treedden"
+        },
+        "perfect": "getreedd"
+      }
+    },
+    {
+      "id": "v816",
+      "word": "treffen",
+      "translation": "to hit; to meet; to affect",
+      "conjugations": {
+        "present": {
+          "ik": "tref",
+          "jij": "treft",
+          "u": "treft",
+          "hij/zij": "treft",
+          "wij": "treffen",
+          "jullie": "treffen",
+          "zij_plural": "treffen"
+        },
+        "past": {
+          "ik": "trof",
+          "jij": "trof",
+          "u": "trof",
+          "hij/zij": "trof",
+          "wij": "troffen",
+          "jullie": "troffen",
+          "zij_plural": "troffen"
+        },
+        "perfect": "getroffen"
+      }
+    },
+    {
+      "id": "v817",
       "word": "trekken",
       "translation": "to pull; to draw",
       "conjugations": {
@@ -16997,7 +33647,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v410",
+      "id": "v818",
+      "word": "trillen",
+      "translation": "to tremble, to vibrate",
+      "conjugations": {
+        "present": {
+          "ik": "trill",
+          "jij": "trillt",
+          "u": "trillt",
+          "hij/zij": "trillt",
+          "wij": "trillen",
+          "jullie": "trillen",
+          "zij_plural": "trillen"
+        },
+        "past": {
+          "ik": "trillde",
+          "jij": "trillde",
+          "u": "trillde",
+          "hij/zij": "trillde",
+          "wij": "trillden",
+          "jullie": "trillden",
+          "zij_plural": "trillden"
+        },
+        "perfect": "getrilld"
+      }
+    },
+    {
+      "id": "v819",
+      "word": "troosten",
+      "translation": "to comfort, to console",
+      "conjugations": {
+        "present": {
+          "ik": "troost",
+          "jij": "troost",
+          "u": "troost",
+          "hij/zij": "troost",
+          "wij": "troosten",
+          "jullie": "troosten",
+          "zij_plural": "troosten"
+        },
+        "past": {
+          "ik": "troostte",
+          "jij": "troostte",
+          "u": "troostte",
+          "hij/zij": "troostte",
+          "wij": "troostten",
+          "jullie": "troostten",
+          "zij_plural": "troostten"
+        },
+        "perfect": "getroostt"
+      }
+    },
+    {
+      "id": "v820",
       "word": "trouwen",
       "translation": "to marry",
       "conjugations": {
@@ -17023,7 +33725,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v411",
+      "id": "v821",
       "word": "twijfelen",
       "translation": "to doubt",
       "conjugations": {
@@ -17049,7 +33751,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v412",
+      "id": "v822",
+      "word": "typeren",
+      "translation": "to typify, to characterize",
+      "conjugations": {
+        "present": {
+          "ik": "typeer",
+          "jij": "typeert",
+          "u": "typeert",
+          "hij/zij": "typeert",
+          "wij": "typeren",
+          "jullie": "typeren",
+          "zij_plural": "typeren"
+        },
+        "past": {
+          "ik": "typeerde",
+          "jij": "typeerde",
+          "u": "typeerde",
+          "hij/zij": "typeerde",
+          "wij": "typeerden",
+          "jullie": "typeerden",
+          "zij_plural": "typeerden"
+        },
+        "perfect": "getypeerd"
+      }
+    },
+    {
+      "id": "v823",
       "word": "uitbreiden",
       "translation": "to expand",
       "conjugations": {
@@ -17075,7 +33803,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v413",
+      "id": "v824",
+      "word": "uitbreken",
+      "translation": "to break out",
+      "conjugations": {
+        "present": {
+          "ik": "uitbreek",
+          "jij": "uitbreekt",
+          "u": "uitbreekt",
+          "hij/zij": "uitbreekt",
+          "wij": "uitbreken",
+          "jullie": "uitbreken",
+          "zij_plural": "uitbreken"
+        },
+        "past": {
+          "ik": "uitbreekte",
+          "jij": "uitbreekte",
+          "u": "uitbreekte",
+          "hij/zij": "uitbreekte",
+          "wij": "uitbreekten",
+          "jullie": "uitbreekten",
+          "zij_plural": "uitbreekten"
+        },
+        "perfect": "geuitbreekt"
+      }
+    },
+    {
+      "id": "v825",
+      "word": "uitbrengen",
+      "translation": "to bring out; to express",
+      "conjugations": {
+        "present": {
+          "ik": "uitbreng",
+          "jij": "uitbrengt",
+          "u": "uitbrengt",
+          "hij/zij": "uitbrengt",
+          "wij": "uitbrengen",
+          "jullie": "uitbrengen",
+          "zij_plural": "uitbrengen"
+        },
+        "past": {
+          "ik": "uitbrengde",
+          "jij": "uitbrengde",
+          "u": "uitbrengde",
+          "hij/zij": "uitbrengde",
+          "wij": "uitbrengden",
+          "jullie": "uitbrengden",
+          "zij_plural": "uitbrengden"
+        },
+        "perfect": "geuitbrengd"
+      }
+    },
+    {
+      "id": "v826",
+      "word": "uitdagen",
+      "translation": "to challenge",
+      "conjugations": {
+        "present": {
+          "ik": "uitdaag",
+          "jij": "uitdaagt",
+          "u": "uitdaagt",
+          "hij/zij": "uitdaagt",
+          "wij": "uitdagen",
+          "jullie": "uitdagen",
+          "zij_plural": "uitdagen"
+        },
+        "past": {
+          "ik": "uitdaagde",
+          "jij": "uitdaagde",
+          "u": "uitdaagde",
+          "hij/zij": "uitdaagde",
+          "wij": "uitdaagden",
+          "jullie": "uitdaagden",
+          "zij_plural": "uitdaagden"
+        },
+        "perfect": "geuitdaagd"
+      }
+    },
+    {
+      "id": "v827",
       "word": "uitdrukken",
       "translation": "to express",
       "conjugations": {
@@ -17101,7 +33907,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v414",
+      "id": "v828",
+      "word": "uiteenlopen",
+      "translation": "to diverge",
+      "conjugations": {
+        "present": {
+          "ik": "uiteenloop",
+          "jij": "uiteenloopt",
+          "u": "uiteenloopt",
+          "hij/zij": "uiteenloopt",
+          "wij": "uiteenlopen",
+          "jullie": "uiteenlopen",
+          "zij_plural": "uiteenlopen"
+        },
+        "past": {
+          "ik": "uiteenloopte",
+          "jij": "uiteenloopte",
+          "u": "uiteenloopte",
+          "hij/zij": "uiteenloopte",
+          "wij": "uiteenloopten",
+          "jullie": "uiteenloopten",
+          "zij_plural": "uiteenloopten"
+        },
+        "perfect": "geuiteenloopt"
+      }
+    },
+    {
+      "id": "v829",
       "word": "uiteenzetten",
       "translation": "to explain",
       "conjugations": {
@@ -17127,7 +33959,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v415",
+      "id": "v830",
+      "word": "uiten",
+      "translation": "to express",
+      "conjugations": {
+        "present": {
+          "ik": "uit",
+          "jij": "uit",
+          "u": "uit",
+          "hij/zij": "uit",
+          "wij": "uiten",
+          "jullie": "uiten",
+          "zij_plural": "uiten"
+        },
+        "past": {
+          "ik": "uitte",
+          "jij": "uitte",
+          "u": "uitte",
+          "hij/zij": "uitte",
+          "wij": "uitten",
+          "jullie": "uitten",
+          "zij_plural": "uitten"
+        },
+        "perfect": "geuitt"
+      }
+    },
+    {
+      "id": "v831",
       "word": "uitgaan",
       "translation": "to go out",
       "conjugations": {
@@ -17153,7 +34011,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v416",
+      "id": "v832",
       "word": "uitgeven",
       "translation": "to spend; to publish",
       "conjugations": {
@@ -17179,7 +34037,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v417",
+      "id": "v833",
+      "word": "uitgroeien",
+      "translation": "to grow into",
+      "conjugations": {
+        "present": {
+          "ik": "uitgroei",
+          "jij": "uitgroeit",
+          "u": "uitgroeit",
+          "hij/zij": "uitgroeit",
+          "wij": "uitgroeien",
+          "jullie": "uitgroeien",
+          "zij_plural": "uitgroeien"
+        },
+        "past": {
+          "ik": "uitgroeide",
+          "jij": "uitgroeide",
+          "u": "uitgroeide",
+          "hij/zij": "uitgroeide",
+          "wij": "uitgroeiden",
+          "jullie": "uitgroeiden",
+          "zij_plural": "uitgroeiden"
+        },
+        "perfect": "geuitgroeid"
+      }
+    },
+    {
+      "id": "v834",
       "word": "uitkeren",
       "translation": "to pay out",
       "conjugations": {
@@ -17205,7 +34089,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v418",
+      "id": "v835",
+      "word": "uitkijken",
+      "translation": "to watch out; to look forward",
+      "conjugations": {
+        "present": {
+          "ik": "uitkijk",
+          "jij": "uitkijkt",
+          "u": "uitkijkt",
+          "hij/zij": "uitkijkt",
+          "wij": "uitkijken",
+          "jullie": "uitkijken",
+          "zij_plural": "uitkijken"
+        },
+        "past": {
+          "ik": "uitkijkte",
+          "jij": "uitkijkte",
+          "u": "uitkijkte",
+          "hij/zij": "uitkijkte",
+          "wij": "uitkijkten",
+          "jullie": "uitkijkten",
+          "zij_plural": "uitkijkten"
+        },
+        "perfect": "geuitkijkt"
+      }
+    },
+    {
+      "id": "v836",
       "word": "uitkomen",
       "translation": "to come out; to turn out",
       "conjugations": {
@@ -17231,7 +34141,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v419",
+      "id": "v837",
       "word": "uitleggen",
       "translation": "to explain",
       "conjugations": {
@@ -17257,7 +34167,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v420",
+      "id": "v838",
       "word": "uitmaken",
       "translation": "to matter; to break up; to make up",
       "conjugations": {
@@ -17283,7 +34193,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v421",
+      "id": "v839",
+      "word": "uitnodigen",
+      "translation": "to invite",
+      "conjugations": {
+        "present": {
+          "ik": "uitnodiig",
+          "jij": "uitnodiigt",
+          "u": "uitnodiigt",
+          "hij/zij": "uitnodiigt",
+          "wij": "uitnodigen",
+          "jullie": "uitnodigen",
+          "zij_plural": "uitnodigen"
+        },
+        "past": {
+          "ik": "uitnodiigde",
+          "jij": "uitnodiigde",
+          "u": "uitnodiigde",
+          "hij/zij": "uitnodiigde",
+          "wij": "uitnodiigden",
+          "jullie": "uitnodiigden",
+          "zij_plural": "uitnodiigden"
+        },
+        "perfect": "geuitnodiigd"
+      }
+    },
+    {
+      "id": "v840",
       "word": "uitoefenen",
       "translation": "to exercise; to practice",
       "conjugations": {
@@ -17309,7 +34245,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v422",
+      "id": "v841",
       "word": "uitputten",
       "translation": "to exhaust",
       "conjugations": {
@@ -17335,7 +34271,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v423",
+      "id": "v842",
+      "word": "uitroepen",
+      "translation": "to exclaim; to proclaim",
+      "conjugations": {
+        "present": {
+          "ik": "uitroep",
+          "jij": "uitroept",
+          "u": "uitroept",
+          "hij/zij": "uitroept",
+          "wij": "uitroepen",
+          "jullie": "uitroepen",
+          "zij_plural": "uitroepen"
+        },
+        "past": {
+          "ik": "uitroepte",
+          "jij": "uitroepte",
+          "u": "uitroepte",
+          "hij/zij": "uitroepte",
+          "wij": "uitroepten",
+          "jullie": "uitroepten",
+          "zij_plural": "uitroepten"
+        },
+        "perfect": "geuitroept"
+      }
+    },
+    {
+      "id": "v843",
+      "word": "uitrusten",
+      "translation": "to rest; to equip",
+      "conjugations": {
+        "present": {
+          "ik": "uitrust",
+          "jij": "uitrust",
+          "u": "uitrust",
+          "hij/zij": "uitrust",
+          "wij": "uitrusten",
+          "jullie": "uitrusten",
+          "zij_plural": "uitrusten"
+        },
+        "past": {
+          "ik": "uitrustte",
+          "jij": "uitrustte",
+          "u": "uitrustte",
+          "hij/zij": "uitrustte",
+          "wij": "uitrustten",
+          "jullie": "uitrustten",
+          "zij_plural": "uitrustten"
+        },
+        "perfect": "geuitrustt"
+      }
+    },
+    {
+      "id": "v844",
+      "word": "uitsluiten",
+      "translation": "to exclude",
+      "conjugations": {
+        "present": {
+          "ik": "uitsluit",
+          "jij": "uitsluit",
+          "u": "uitsluit",
+          "hij/zij": "uitsluit",
+          "wij": "uitsluiten",
+          "jullie": "uitsluiten",
+          "zij_plural": "uitsluiten"
+        },
+        "past": {
+          "ik": "uitsluitte",
+          "jij": "uitsluitte",
+          "u": "uitsluitte",
+          "hij/zij": "uitsluitte",
+          "wij": "uitsluitten",
+          "jullie": "uitsluitten",
+          "zij_plural": "uitsluitten"
+        },
+        "perfect": "geuitsluitt"
+      }
+    },
+    {
+      "id": "v845",
       "word": "uitspreken",
       "translation": "to pronounce; to express",
       "conjugations": {
@@ -17361,7 +34375,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v424",
+      "id": "v846",
       "word": "uitsteken",
       "translation": "to stick out",
       "conjugations": {
@@ -17387,7 +34401,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v425",
+      "id": "v847",
       "word": "uitstellen",
       "translation": "to postpone",
       "conjugations": {
@@ -17413,7 +34427,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v426",
+      "id": "v848",
+      "word": "uitstrekken",
+      "translation": "to stretch out",
+      "conjugations": {
+        "present": {
+          "ik": "uitstrekk",
+          "jij": "uitstrekkt",
+          "u": "uitstrekkt",
+          "hij/zij": "uitstrekkt",
+          "wij": "uitstrekken",
+          "jullie": "uitstrekken",
+          "zij_plural": "uitstrekken"
+        },
+        "past": {
+          "ik": "uitstrekkte",
+          "jij": "uitstrekkte",
+          "u": "uitstrekkte",
+          "hij/zij": "uitstrekkte",
+          "wij": "uitstrekkten",
+          "jullie": "uitstrekkten",
+          "zij_plural": "uitstrekkten"
+        },
+        "perfect": "geuitstrekkt"
+      }
+    },
+    {
+      "id": "v849",
+      "word": "uitvallen",
+      "translation": "to fall out; to fail",
+      "conjugations": {
+        "present": {
+          "ik": "uitvall",
+          "jij": "uitvallt",
+          "u": "uitvallt",
+          "hij/zij": "uitvallt",
+          "wij": "uitvallen",
+          "jullie": "uitvallen",
+          "zij_plural": "uitvallen"
+        },
+        "past": {
+          "ik": "uitvallde",
+          "jij": "uitvallde",
+          "u": "uitvallde",
+          "hij/zij": "uitvallde",
+          "wij": "uitvallden",
+          "jullie": "uitvallden",
+          "zij_plural": "uitvallden"
+        },
+        "perfect": "geuitvalld"
+      }
+    },
+    {
+      "id": "v850",
+      "word": "uitvinden",
+      "translation": "to invent; to find out",
+      "conjugations": {
+        "present": {
+          "ik": "uitvind",
+          "jij": "uitvindt",
+          "u": "uitvindt",
+          "hij/zij": "uitvindt",
+          "wij": "uitvinden",
+          "jullie": "uitvinden",
+          "zij_plural": "uitvinden"
+        },
+        "past": {
+          "ik": "uitvindde",
+          "jij": "uitvindde",
+          "u": "uitvindde",
+          "hij/zij": "uitvindde",
+          "wij": "uitvindden",
+          "jullie": "uitvindden",
+          "zij_plural": "uitvindden"
+        },
+        "perfect": "geuitvindd"
+      }
+    },
+    {
+      "id": "v851",
       "word": "uitvoeren",
       "translation": "to carry out; to export",
       "conjugations": {
@@ -17439,7 +34531,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v427",
+      "id": "v852",
       "word": "uitwerken",
       "translation": "to work out",
       "conjugations": {
@@ -17465,7 +34557,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v428",
+      "id": "v853",
+      "word": "uitzenden",
+      "translation": "to broadcast; to send out",
+      "conjugations": {
+        "present": {
+          "ik": "uitzend",
+          "jij": "uitzendt",
+          "u": "uitzendt",
+          "hij/zij": "uitzendt",
+          "wij": "uitzenden",
+          "jullie": "uitzenden",
+          "zij_plural": "uitzenden"
+        },
+        "past": {
+          "ik": "uitzendde",
+          "jij": "uitzendde",
+          "u": "uitzendde",
+          "hij/zij": "uitzendde",
+          "wij": "uitzendden",
+          "jullie": "uitzendden",
+          "zij_plural": "uitzendden"
+        },
+        "perfect": "geuitzendd"
+      }
+    },
+    {
+      "id": "v854",
       "word": "uitzien",
       "translation": "to look out; to look forward to",
       "conjugations": {
@@ -17491,7 +34609,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v429",
+      "id": "v855",
+      "word": "uitzoeken",
+      "translation": "to sort out; to choose",
+      "conjugations": {
+        "present": {
+          "ik": "uitzoek",
+          "jij": "uitzoekt",
+          "u": "uitzoekt",
+          "hij/zij": "uitzoekt",
+          "wij": "uitzoeken",
+          "jullie": "uitzoeken",
+          "zij_plural": "uitzoeken"
+        },
+        "past": {
+          "ik": "uitzoekte",
+          "jij": "uitzoekte",
+          "u": "uitzoekte",
+          "hij/zij": "uitzoekte",
+          "wij": "uitzoekten",
+          "jullie": "uitzoekten",
+          "zij_plural": "uitzoekten"
+        },
+        "perfect": "geuitzoekt"
+      }
+    },
+    {
+      "id": "v856",
       "word": "vallen",
       "translation": "to fall",
       "conjugations": {
@@ -17517,7 +34661,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v430",
+      "id": "v857",
       "word": "vangen",
       "translation": "to catch",
       "conjugations": {
@@ -17543,7 +34687,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v431",
+      "id": "v858",
+      "word": "varen",
+      "translation": "to sail",
+      "conjugations": {
+        "present": {
+          "ik": "vaar",
+          "jij": "vaart",
+          "u": "vaart",
+          "hij/zij": "vaart",
+          "wij": "varen",
+          "jullie": "varen",
+          "zij_plural": "varen"
+        },
+        "past": {
+          "ik": "vaarde",
+          "jij": "vaarde",
+          "u": "vaarde",
+          "hij/zij": "vaarde",
+          "wij": "vaarden",
+          "jullie": "vaarden",
+          "zij_plural": "vaarden"
+        },
+        "perfect": "gevaard"
+      }
+    },
+    {
+      "id": "v859",
+      "word": "variëren",
+      "translation": "to vary",
+      "conjugations": {
+        "present": {
+          "ik": "variër",
+          "jij": "variërt",
+          "u": "variërt",
+          "hij/zij": "variërt",
+          "wij": "variëren",
+          "jullie": "variëren",
+          "zij_plural": "variëren"
+        },
+        "past": {
+          "ik": "variërde",
+          "jij": "variërde",
+          "u": "variërde",
+          "hij/zij": "variërde",
+          "wij": "variërden",
+          "jullie": "variërden",
+          "zij_plural": "variërden"
+        },
+        "perfect": "gevariërd"
+      }
+    },
+    {
+      "id": "v860",
+      "word": "vasthouden",
+      "translation": "to hold on to",
+      "conjugations": {
+        "present": {
+          "ik": "vasthoud",
+          "jij": "vasthoudt",
+          "u": "vasthoudt",
+          "hij/zij": "vasthoudt",
+          "wij": "vasthouden",
+          "jullie": "vasthouden",
+          "zij_plural": "vasthouden"
+        },
+        "past": {
+          "ik": "vasthoudde",
+          "jij": "vasthoudde",
+          "u": "vasthoudde",
+          "hij/zij": "vasthoudde",
+          "wij": "vasthoudden",
+          "jullie": "vasthoudden",
+          "zij_plural": "vasthoudden"
+        },
+        "perfect": "gevasthoudd"
+      }
+    },
+    {
+      "id": "v861",
+      "word": "vastleggen",
+      "translation": "to record; to fix",
+      "conjugations": {
+        "present": {
+          "ik": "vastlegg",
+          "jij": "vastleggt",
+          "u": "vastleggt",
+          "hij/zij": "vastleggt",
+          "wij": "vastleggen",
+          "jullie": "vastleggen",
+          "zij_plural": "vastleggen"
+        },
+        "past": {
+          "ik": "vastleggde",
+          "jij": "vastleggde",
+          "u": "vastleggde",
+          "hij/zij": "vastleggde",
+          "wij": "vastleggden",
+          "jullie": "vastleggden",
+          "zij_plural": "vastleggden"
+        },
+        "perfect": "gevastleggd"
+      }
+    },
+    {
+      "id": "v862",
       "word": "vaststellen",
       "translation": "to establish; to determine",
       "conjugations": {
@@ -17569,7 +34817,137 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v432",
+      "id": "v863",
+      "word": "vatten",
+      "translation": "to catch; to understand",
+      "conjugations": {
+        "present": {
+          "ik": "vatt",
+          "jij": "vatt",
+          "u": "vatt",
+          "hij/zij": "vatt",
+          "wij": "vatten",
+          "jullie": "vatten",
+          "zij_plural": "vatten"
+        },
+        "past": {
+          "ik": "vattte",
+          "jij": "vattte",
+          "u": "vattte",
+          "hij/zij": "vattte",
+          "wij": "vattten",
+          "jullie": "vattten",
+          "zij_plural": "vattten"
+        },
+        "perfect": "gevattt"
+      }
+    },
+    {
+      "id": "v864",
+      "word": "vechten",
+      "translation": "to fight",
+      "conjugations": {
+        "present": {
+          "ik": "vecht",
+          "jij": "vecht",
+          "u": "vecht",
+          "hij/zij": "vecht",
+          "wij": "vechten",
+          "jullie": "vechten",
+          "zij_plural": "vechten"
+        },
+        "past": {
+          "ik": "vechtte",
+          "jij": "vechtte",
+          "u": "vechtte",
+          "hij/zij": "vechtte",
+          "wij": "vechtten",
+          "jullie": "vechtten",
+          "zij_plural": "vechtten"
+        },
+        "perfect": "gevechtt"
+      }
+    },
+    {
+      "id": "v865",
+      "word": "vegen",
+      "translation": "to sweep",
+      "conjugations": {
+        "present": {
+          "ik": "veeg",
+          "jij": "veegt",
+          "u": "veegt",
+          "hij/zij": "veegt",
+          "wij": "vegen",
+          "jullie": "vegen",
+          "zij_plural": "vegen"
+        },
+        "past": {
+          "ik": "veegde",
+          "jij": "veegde",
+          "u": "veegde",
+          "hij/zij": "veegde",
+          "wij": "veegden",
+          "jullie": "veegden",
+          "zij_plural": "veegden"
+        },
+        "perfect": "geveegd"
+      }
+    },
+    {
+      "id": "v866",
+      "word": "velen",
+      "translation": "to bear, to endure",
+      "conjugations": {
+        "present": {
+          "ik": "veel",
+          "jij": "veelt",
+          "u": "veelt",
+          "hij/zij": "veelt",
+          "wij": "velen",
+          "jullie": "velen",
+          "zij_plural": "velen"
+        },
+        "past": {
+          "ik": "veelde",
+          "jij": "veelde",
+          "u": "veelde",
+          "hij/zij": "veelde",
+          "wij": "veelden",
+          "jullie": "veelden",
+          "zij_plural": "veelden"
+        },
+        "perfect": "geveeld"
+      }
+    },
+    {
+      "id": "v867",
+      "word": "vellen",
+      "translation": "to fell; to pass (judgment)",
+      "conjugations": {
+        "present": {
+          "ik": "vell",
+          "jij": "vellt",
+          "u": "vellt",
+          "hij/zij": "vellt",
+          "wij": "vellen",
+          "jullie": "vellen",
+          "zij_plural": "vellen"
+        },
+        "past": {
+          "ik": "vellde",
+          "jij": "vellde",
+          "u": "vellde",
+          "hij/zij": "vellde",
+          "wij": "vellden",
+          "jullie": "vellden",
+          "zij_plural": "vellden"
+        },
+        "perfect": "gevelld"
+      }
+    },
+    {
+      "id": "v868",
       "word": "veranderen",
       "translation": "to change",
       "conjugations": {
@@ -17595,7 +34973,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v433",
+      "id": "v869",
+      "word": "verantwoorden",
+      "translation": "to account for",
+      "conjugations": {
+        "present": {
+          "ik": "verantwoord",
+          "jij": "verantwoordt",
+          "u": "verantwoordt",
+          "hij/zij": "verantwoordt",
+          "wij": "verantwoorden",
+          "jullie": "verantwoorden",
+          "zij_plural": "verantwoorden"
+        },
+        "past": {
+          "ik": "verantwoordde",
+          "jij": "verantwoordde",
+          "u": "verantwoordde",
+          "hij/zij": "verantwoordde",
+          "wij": "verantwoordden",
+          "jullie": "verantwoordden",
+          "zij_plural": "verantwoordden"
+        },
+        "perfect": "verantwoordd"
+      }
+    },
+    {
+      "id": "v870",
+      "word": "verbazen",
+      "translation": "to surprise, to amaze",
+      "conjugations": {
+        "present": {
+          "ik": "verbaas",
+          "jij": "verbaast",
+          "u": "verbaast",
+          "hij/zij": "verbaast",
+          "wij": "verbazen",
+          "jullie": "verbazen",
+          "zij_plural": "verbazen"
+        },
+        "past": {
+          "ik": "verbaaste",
+          "jij": "verbaaste",
+          "u": "verbaaste",
+          "hij/zij": "verbaaste",
+          "wij": "verbaasten",
+          "jullie": "verbaasten",
+          "zij_plural": "verbaasten"
+        },
+        "perfect": "verbaast"
+      }
+    },
+    {
+      "id": "v871",
+      "word": "verbeelden",
+      "translation": "to imagine; to depict",
+      "conjugations": {
+        "present": {
+          "ik": "verbeeld",
+          "jij": "verbeeldt",
+          "u": "verbeeldt",
+          "hij/zij": "verbeeldt",
+          "wij": "verbeelden",
+          "jullie": "verbeelden",
+          "zij_plural": "verbeelden"
+        },
+        "past": {
+          "ik": "verbeeldde",
+          "jij": "verbeeldde",
+          "u": "verbeeldde",
+          "hij/zij": "verbeeldde",
+          "wij": "verbeeldden",
+          "jullie": "verbeeldden",
+          "zij_plural": "verbeeldden"
+        },
+        "perfect": "verbeeldd"
+      }
+    },
+    {
+      "id": "v872",
       "word": "verbergen",
       "translation": "to hide",
       "conjugations": {
@@ -17621,7 +35077,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v434",
+      "id": "v873",
       "word": "verbeteren",
       "translation": "to improve",
       "conjugations": {
@@ -17647,7 +35103,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v435",
+      "id": "v874",
       "word": "verbieden",
       "translation": "to forbid",
       "conjugations": {
@@ -17673,7 +35129,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v436",
+      "id": "v875",
       "word": "verbinden",
       "translation": "to connect",
       "conjugations": {
@@ -17699,7 +35155,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v437",
+      "id": "v876",
+      "word": "verblijven",
+      "translation": "to stay, to reside",
+      "conjugations": {
+        "present": {
+          "ik": "verblijf",
+          "jij": "verblijft",
+          "u": "verblijft",
+          "hij/zij": "verblijft",
+          "wij": "verblijven",
+          "jullie": "verblijven",
+          "zij_plural": "verblijven"
+        },
+        "past": {
+          "ik": "verblijfte",
+          "jij": "verblijfte",
+          "u": "verblijfte",
+          "hij/zij": "verblijfte",
+          "wij": "verblijften",
+          "jullie": "verblijften",
+          "zij_plural": "verblijften"
+        },
+        "perfect": "verblijft"
+      }
+    },
+    {
+      "id": "v877",
+      "word": "verbouwen",
+      "translation": "to renovate; to grow",
+      "conjugations": {
+        "present": {
+          "ik": "verbouw",
+          "jij": "verbouwt",
+          "u": "verbouwt",
+          "hij/zij": "verbouwt",
+          "wij": "verbouwen",
+          "jullie": "verbouwen",
+          "zij_plural": "verbouwen"
+        },
+        "past": {
+          "ik": "verbouwde",
+          "jij": "verbouwde",
+          "u": "verbouwde",
+          "hij/zij": "verbouwde",
+          "wij": "verbouwden",
+          "jullie": "verbouwden",
+          "zij_plural": "verbouwden"
+        },
+        "perfect": "verbouwd"
+      }
+    },
+    {
+      "id": "v878",
+      "word": "verbranden",
+      "translation": "to burn",
+      "conjugations": {
+        "present": {
+          "ik": "verbrand",
+          "jij": "verbrandt",
+          "u": "verbrandt",
+          "hij/zij": "verbrandt",
+          "wij": "verbranden",
+          "jullie": "verbranden",
+          "zij_plural": "verbranden"
+        },
+        "past": {
+          "ik": "verbrandde",
+          "jij": "verbrandde",
+          "u": "verbrandde",
+          "hij/zij": "verbrandde",
+          "wij": "verbrandden",
+          "jullie": "verbrandden",
+          "zij_plural": "verbrandden"
+        },
+        "perfect": "verbrandd"
+      }
+    },
+    {
+      "id": "v879",
       "word": "verbreken",
       "translation": "to break (connection)",
       "conjugations": {
@@ -17725,7 +35259,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v438",
+      "id": "v880",
       "word": "verdedigen",
       "translation": "to defend",
       "conjugations": {
@@ -17751,7 +35285,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v439",
+      "id": "v881",
       "word": "verdelen",
       "translation": "to divide; to distribute",
       "conjugations": {
@@ -17777,7 +35311,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v440",
+      "id": "v882",
+      "word": "verdenken",
+      "translation": "to suspect",
+      "conjugations": {
+        "present": {
+          "ik": "verdenk",
+          "jij": "verdenkt",
+          "u": "verdenkt",
+          "hij/zij": "verdenkt",
+          "wij": "verdenken",
+          "jullie": "verdenken",
+          "zij_plural": "verdenken"
+        },
+        "past": {
+          "ik": "verdenkte",
+          "jij": "verdenkte",
+          "u": "verdenkte",
+          "hij/zij": "verdenkte",
+          "wij": "verdenkten",
+          "jullie": "verdenkten",
+          "zij_plural": "verdenkten"
+        },
+        "perfect": "verdenkt"
+      }
+    },
+    {
+      "id": "v883",
       "word": "verdienen",
       "translation": "to earn; to deserve",
       "conjugations": {
@@ -17803,7 +35363,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v441",
+      "id": "v884",
+      "word": "verdiepen",
+      "translation": "to deepen; to immerse",
+      "conjugations": {
+        "present": {
+          "ik": "verdiep",
+          "jij": "verdiept",
+          "u": "verdiept",
+          "hij/zij": "verdiept",
+          "wij": "verdiepen",
+          "jullie": "verdiepen",
+          "zij_plural": "verdiepen"
+        },
+        "past": {
+          "ik": "verdiepte",
+          "jij": "verdiepte",
+          "u": "verdiepte",
+          "hij/zij": "verdiepte",
+          "wij": "verdiepten",
+          "jullie": "verdiepten",
+          "zij_plural": "verdiepten"
+        },
+        "perfect": "verdiept"
+      }
+    },
+    {
+      "id": "v885",
+      "word": "verdoven",
+      "translation": "to numb; to anesthetize",
+      "conjugations": {
+        "present": {
+          "ik": "verdoof",
+          "jij": "verdooft",
+          "u": "verdooft",
+          "hij/zij": "verdooft",
+          "wij": "verdoven",
+          "jullie": "verdoven",
+          "zij_plural": "verdoven"
+        },
+        "past": {
+          "ik": "verdoofte",
+          "jij": "verdoofte",
+          "u": "verdoofte",
+          "hij/zij": "verdoofte",
+          "wij": "verdooften",
+          "jullie": "verdooften",
+          "zij_plural": "verdooften"
+        },
+        "perfect": "verdooft"
+      }
+    },
+    {
+      "id": "v886",
       "word": "verdragen",
       "translation": "to tolerate; to bear",
       "conjugations": {
@@ -17829,7 +35441,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v442",
+      "id": "v887",
+      "word": "verdrijven",
+      "translation": "to drive away",
+      "conjugations": {
+        "present": {
+          "ik": "verdrijf",
+          "jij": "verdrijft",
+          "u": "verdrijft",
+          "hij/zij": "verdrijft",
+          "wij": "verdrijven",
+          "jullie": "verdrijven",
+          "zij_plural": "verdrijven"
+        },
+        "past": {
+          "ik": "verdrijfte",
+          "jij": "verdrijfte",
+          "u": "verdrijfte",
+          "hij/zij": "verdrijfte",
+          "wij": "verdrijften",
+          "jullie": "verdrijften",
+          "zij_plural": "verdrijften"
+        },
+        "perfect": "verdrijft"
+      }
+    },
+    {
+      "id": "v888",
+      "word": "verdrinken",
+      "translation": "to drown",
+      "conjugations": {
+        "present": {
+          "ik": "verdrink",
+          "jij": "verdrinkt",
+          "u": "verdrinkt",
+          "hij/zij": "verdrinkt",
+          "wij": "verdrinken",
+          "jullie": "verdrinken",
+          "zij_plural": "verdrinken"
+        },
+        "past": {
+          "ik": "verdrinkte",
+          "jij": "verdrinkte",
+          "u": "verdrinkte",
+          "hij/zij": "verdrinkte",
+          "wij": "verdrinkten",
+          "jullie": "verdrinkten",
+          "zij_plural": "verdrinkten"
+        },
+        "perfect": "verdrinkt"
+      }
+    },
+    {
+      "id": "v889",
+      "word": "verduidelijken",
+      "translation": "to clarify",
+      "conjugations": {
+        "present": {
+          "ik": "verduidelijk",
+          "jij": "verduidelijkt",
+          "u": "verduidelijkt",
+          "hij/zij": "verduidelijkt",
+          "wij": "verduidelijken",
+          "jullie": "verduidelijken",
+          "zij_plural": "verduidelijken"
+        },
+        "past": {
+          "ik": "verduidelijkte",
+          "jij": "verduidelijkte",
+          "u": "verduidelijkte",
+          "hij/zij": "verduidelijkte",
+          "wij": "verduidelijkten",
+          "jullie": "verduidelijkten",
+          "zij_plural": "verduidelijkten"
+        },
+        "perfect": "verduidelijkt"
+      }
+    },
+    {
+      "id": "v890",
       "word": "verdwijnen",
       "translation": "to disappear",
       "conjugations": {
@@ -17855,7 +35545,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v443",
+      "id": "v891",
       "word": "vereisen",
       "translation": "to require",
       "conjugations": {
@@ -17881,7 +35571,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v444",
+      "id": "v892",
       "word": "verenigen",
       "translation": "to unite",
       "conjugations": {
@@ -17907,7 +35597,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v445",
+      "id": "v893",
+      "word": "vergaan",
+      "translation": "to perish; to decay",
+      "conjugations": {
+        "present": {
+          "ik": "vergaa",
+          "jij": "vergaat",
+          "u": "vergaat",
+          "hij/zij": "vergaat",
+          "wij": "vergaan",
+          "jullie": "vergaan",
+          "zij_plural": "vergaan"
+        },
+        "past": {
+          "ik": "vergaade",
+          "jij": "vergaade",
+          "u": "vergaade",
+          "hij/zij": "vergaade",
+          "wij": "vergaaden",
+          "jullie": "vergaaden",
+          "zij_plural": "vergaaden"
+        },
+        "perfect": "vergaad"
+      }
+    },
+    {
+      "id": "v894",
       "word": "vergelijken",
       "translation": "to compare",
       "conjugations": {
@@ -17933,7 +35649,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v446",
+      "id": "v895",
+      "word": "vergen",
+      "translation": "to require, to demand",
+      "conjugations": {
+        "present": {
+          "ik": "verg",
+          "jij": "vergt",
+          "u": "vergt",
+          "hij/zij": "vergt",
+          "wij": "vergen",
+          "jullie": "vergen",
+          "zij_plural": "vergen"
+        },
+        "past": {
+          "ik": "vergde",
+          "jij": "vergde",
+          "u": "vergde",
+          "hij/zij": "vergde",
+          "wij": "vergden",
+          "jullie": "vergden",
+          "zij_plural": "vergden"
+        },
+        "perfect": "vergd"
+      }
+    },
+    {
+      "id": "v896",
       "word": "vergeten",
       "translation": "to forget",
       "conjugations": {
@@ -17959,7 +35701,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v447",
+      "id": "v897",
+      "word": "vergeven",
+      "translation": "to forgive",
+      "conjugations": {
+        "present": {
+          "ik": "vergeef",
+          "jij": "vergeeft",
+          "u": "vergeeft",
+          "hij/zij": "vergeeft",
+          "wij": "vergeven",
+          "jullie": "vergeven",
+          "zij_plural": "vergeven"
+        },
+        "past": {
+          "ik": "vergeefte",
+          "jij": "vergeefte",
+          "u": "vergeefte",
+          "hij/zij": "vergeefte",
+          "wij": "vergeeften",
+          "jullie": "vergeeften",
+          "zij_plural": "vergeeften"
+        },
+        "perfect": "vergeeft"
+      }
+    },
+    {
+      "id": "v898",
       "word": "vergroten",
       "translation": "to enlarge; to increase",
       "conjugations": {
@@ -17985,7 +35753,189 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v448",
+      "id": "v899",
+      "word": "verheffen",
+      "translation": "to raise, to elevate",
+      "conjugations": {
+        "present": {
+          "ik": "verheff",
+          "jij": "verhefft",
+          "u": "verhefft",
+          "hij/zij": "verhefft",
+          "wij": "verheffen",
+          "jullie": "verheffen",
+          "zij_plural": "verheffen"
+        },
+        "past": {
+          "ik": "verheffte",
+          "jij": "verheffte",
+          "u": "verheffte",
+          "hij/zij": "verheffte",
+          "wij": "verhefften",
+          "jullie": "verhefften",
+          "zij_plural": "verhefften"
+        },
+        "perfect": "verhefft"
+      }
+    },
+    {
+      "id": "v900",
+      "word": "verheugen",
+      "translation": "to please; to look forward to",
+      "conjugations": {
+        "present": {
+          "ik": "verheug",
+          "jij": "verheugt",
+          "u": "verheugt",
+          "hij/zij": "verheugt",
+          "wij": "verheugen",
+          "jullie": "verheugen",
+          "zij_plural": "verheugen"
+        },
+        "past": {
+          "ik": "verheugde",
+          "jij": "verheugde",
+          "u": "verheugde",
+          "hij/zij": "verheugde",
+          "wij": "verheugden",
+          "jullie": "verheugden",
+          "zij_plural": "verheugden"
+        },
+        "perfect": "verheugd"
+      }
+    },
+    {
+      "id": "v901",
+      "word": "verhinderen",
+      "translation": "to prevent",
+      "conjugations": {
+        "present": {
+          "ik": "verhindeer",
+          "jij": "verhindeert",
+          "u": "verhindeert",
+          "hij/zij": "verhindeert",
+          "wij": "verhinderen",
+          "jullie": "verhinderen",
+          "zij_plural": "verhinderen"
+        },
+        "past": {
+          "ik": "verhindeerde",
+          "jij": "verhindeerde",
+          "u": "verhindeerde",
+          "hij/zij": "verhindeerde",
+          "wij": "verhindeerden",
+          "jullie": "verhindeerden",
+          "zij_plural": "verhindeerden"
+        },
+        "perfect": "verhindeerd"
+      }
+    },
+    {
+      "id": "v902",
+      "word": "verhogen",
+      "translation": "to increase, to raise",
+      "conjugations": {
+        "present": {
+          "ik": "verhoog",
+          "jij": "verhoogt",
+          "u": "verhoogt",
+          "hij/zij": "verhoogt",
+          "wij": "verhogen",
+          "jullie": "verhogen",
+          "zij_plural": "verhogen"
+        },
+        "past": {
+          "ik": "verhoogde",
+          "jij": "verhoogde",
+          "u": "verhoogde",
+          "hij/zij": "verhoogde",
+          "wij": "verhoogden",
+          "jullie": "verhoogden",
+          "zij_plural": "verhoogden"
+        },
+        "perfect": "verhoogd"
+      }
+    },
+    {
+      "id": "v903",
+      "word": "verhuizen",
+      "translation": "to move (house)",
+      "conjugations": {
+        "present": {
+          "ik": "verhuis",
+          "jij": "verhuist",
+          "u": "verhuist",
+          "hij/zij": "verhuist",
+          "wij": "verhuizen",
+          "jullie": "verhuizen",
+          "zij_plural": "verhuizen"
+        },
+        "past": {
+          "ik": "verhuiste",
+          "jij": "verhuiste",
+          "u": "verhuiste",
+          "hij/zij": "verhuiste",
+          "wij": "verhuisten",
+          "jullie": "verhuisten",
+          "zij_plural": "verhuisten"
+        },
+        "perfect": "verhuist"
+      }
+    },
+    {
+      "id": "v904",
+      "word": "verkennen",
+      "translation": "to explore, to scout",
+      "conjugations": {
+        "present": {
+          "ik": "verkenn",
+          "jij": "verkennt",
+          "u": "verkennt",
+          "hij/zij": "verkennt",
+          "wij": "verkennen",
+          "jullie": "verkennen",
+          "zij_plural": "verkennen"
+        },
+        "past": {
+          "ik": "verkennde",
+          "jij": "verkennde",
+          "u": "verkennde",
+          "hij/zij": "verkennde",
+          "wij": "verkennden",
+          "jullie": "verkennden",
+          "zij_plural": "verkennden"
+        },
+        "perfect": "verkennd"
+      }
+    },
+    {
+      "id": "v905",
+      "word": "verkeren",
+      "translation": "to be (in a state)",
+      "conjugations": {
+        "present": {
+          "ik": "verkeer",
+          "jij": "verkeert",
+          "u": "verkeert",
+          "hij/zij": "verkeert",
+          "wij": "verkeren",
+          "jullie": "verkeren",
+          "zij_plural": "verkeren"
+        },
+        "past": {
+          "ik": "verkeerde",
+          "jij": "verkeerde",
+          "u": "verkeerde",
+          "hij/zij": "verkeerde",
+          "wij": "verkeerden",
+          "jullie": "verkeerden",
+          "zij_plural": "verkeerden"
+        },
+        "perfect": "verkeerd"
+      }
+    },
+    {
+      "id": "v906",
       "word": "verkiezen",
       "translation": "to prefer; to elect",
       "conjugations": {
@@ -18011,7 +35961,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v449",
+      "id": "v907",
       "word": "verklaren",
       "translation": "to explain; to declare",
       "conjugations": {
@@ -18037,7 +35987,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v450",
+      "id": "v908",
+      "word": "verkondigen",
+      "translation": "to proclaim",
+      "conjugations": {
+        "present": {
+          "ik": "verkondiig",
+          "jij": "verkondiigt",
+          "u": "verkondiigt",
+          "hij/zij": "verkondiigt",
+          "wij": "verkondigen",
+          "jullie": "verkondigen",
+          "zij_plural": "verkondigen"
+        },
+        "past": {
+          "ik": "verkondiigde",
+          "jij": "verkondiigde",
+          "u": "verkondiigde",
+          "hij/zij": "verkondiigde",
+          "wij": "verkondiigden",
+          "jullie": "verkondiigden",
+          "zij_plural": "verkondiigden"
+        },
+        "perfect": "verkondiigd"
+      }
+    },
+    {
+      "id": "v909",
       "word": "verkopen",
       "translation": "to sell",
       "conjugations": {
@@ -18063,7 +36039,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v451",
+      "id": "v910",
       "word": "verkrijgen",
       "translation": "to obtain",
       "conjugations": {
@@ -18089,7 +36065,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v452",
+      "id": "v911",
       "word": "verlangen",
       "translation": "to desire; to long for",
       "conjugations": {
@@ -18115,7 +36091,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v453",
+      "id": "v912",
       "word": "verlaten",
       "translation": "to leave",
       "conjugations": {
@@ -18141,7 +36117,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v454",
+      "id": "v913",
+      "word": "verleiden",
+      "translation": "to seduce; to tempt",
+      "conjugations": {
+        "present": {
+          "ik": "verleid",
+          "jij": "verleidt",
+          "u": "verleidt",
+          "hij/zij": "verleidt",
+          "wij": "verleiden",
+          "jullie": "verleiden",
+          "zij_plural": "verleiden"
+        },
+        "past": {
+          "ik": "verleidde",
+          "jij": "verleidde",
+          "u": "verleidde",
+          "hij/zij": "verleidde",
+          "wij": "verleidden",
+          "jullie": "verleidden",
+          "zij_plural": "verleidden"
+        },
+        "perfect": "verleidd"
+      }
+    },
+    {
+      "id": "v914",
+      "word": "verlenen",
+      "translation": "to grant, to provide",
+      "conjugations": {
+        "present": {
+          "ik": "verleen",
+          "jij": "verleent",
+          "u": "verleent",
+          "hij/zij": "verleent",
+          "wij": "verlenen",
+          "jullie": "verlenen",
+          "zij_plural": "verlenen"
+        },
+        "past": {
+          "ik": "verleende",
+          "jij": "verleende",
+          "u": "verleende",
+          "hij/zij": "verleende",
+          "wij": "verleenden",
+          "jullie": "verleenden",
+          "zij_plural": "verleenden"
+        },
+        "perfect": "verleend"
+      }
+    },
+    {
+      "id": "v915",
+      "word": "verlengen",
+      "translation": "to extend, to renew",
+      "conjugations": {
+        "present": {
+          "ik": "verleng",
+          "jij": "verlengt",
+          "u": "verlengt",
+          "hij/zij": "verlengt",
+          "wij": "verlengen",
+          "jullie": "verlengen",
+          "zij_plural": "verlengen"
+        },
+        "past": {
+          "ik": "verlengde",
+          "jij": "verlengde",
+          "u": "verlengde",
+          "hij/zij": "verlengde",
+          "wij": "verlengden",
+          "jullie": "verlengden",
+          "zij_plural": "verlengden"
+        },
+        "perfect": "verlengd"
+      }
+    },
+    {
+      "id": "v916",
+      "word": "verlichten",
+      "translation": "to lighten; to illuminate",
+      "conjugations": {
+        "present": {
+          "ik": "verlicht",
+          "jij": "verlicht",
+          "u": "verlicht",
+          "hij/zij": "verlicht",
+          "wij": "verlichten",
+          "jullie": "verlichten",
+          "zij_plural": "verlichten"
+        },
+        "past": {
+          "ik": "verlichtte",
+          "jij": "verlichtte",
+          "u": "verlichtte",
+          "hij/zij": "verlichtte",
+          "wij": "verlichtten",
+          "jullie": "verlichtten",
+          "zij_plural": "verlichtten"
+        },
+        "perfect": "verlichtt"
+      }
+    },
+    {
+      "id": "v917",
       "word": "verliezen",
       "translation": "to lose",
       "conjugations": {
@@ -18167,7 +36247,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v455",
+      "id": "v918",
+      "word": "verlossen",
+      "translation": "to deliver; to redeem",
+      "conjugations": {
+        "present": {
+          "ik": "verloss",
+          "jij": "verlosst",
+          "u": "verlosst",
+          "hij/zij": "verlosst",
+          "wij": "verlossen",
+          "jullie": "verlossen",
+          "zij_plural": "verlossen"
+        },
+        "past": {
+          "ik": "verlosste",
+          "jij": "verlosste",
+          "u": "verlosste",
+          "hij/zij": "verlosste",
+          "wij": "verlossten",
+          "jullie": "verlossten",
+          "zij_plural": "verlossten"
+        },
+        "perfect": "verlosst"
+      }
+    },
+    {
+      "id": "v919",
+      "word": "vermelden",
+      "translation": "to mention",
+      "conjugations": {
+        "present": {
+          "ik": "vermeld",
+          "jij": "vermeldt",
+          "u": "vermeldt",
+          "hij/zij": "vermeldt",
+          "wij": "vermelden",
+          "jullie": "vermelden",
+          "zij_plural": "vermelden"
+        },
+        "past": {
+          "ik": "vermeldde",
+          "jij": "vermeldde",
+          "u": "vermeldde",
+          "hij/zij": "vermeldde",
+          "wij": "vermeldden",
+          "jullie": "vermeldden",
+          "zij_plural": "vermeldden"
+        },
+        "perfect": "vermeldd"
+      }
+    },
+    {
+      "id": "v920",
       "word": "vermijden",
       "translation": "to avoid",
       "conjugations": {
@@ -18193,7 +36325,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v456",
+      "id": "v921",
       "word": "verminderen",
       "translation": "to reduce",
       "conjugations": {
@@ -18219,7 +36351,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v457",
+      "id": "v922",
+      "word": "vermoeden",
+      "translation": "to suspect; to presume",
+      "conjugations": {
+        "present": {
+          "ik": "vermoed",
+          "jij": "vermoedt",
+          "u": "vermoedt",
+          "hij/zij": "vermoedt",
+          "wij": "vermoeden",
+          "jullie": "vermoeden",
+          "zij_plural": "vermoeden"
+        },
+        "past": {
+          "ik": "vermoedde",
+          "jij": "vermoedde",
+          "u": "vermoedde",
+          "hij/zij": "vermoedde",
+          "wij": "vermoedden",
+          "jullie": "vermoedden",
+          "zij_plural": "vermoedden"
+        },
+        "perfect": "vermoedd"
+      }
+    },
+    {
+      "id": "v923",
+      "word": "vermoeien",
+      "translation": "to tire",
+      "conjugations": {
+        "present": {
+          "ik": "vermoei",
+          "jij": "vermoeit",
+          "u": "vermoeit",
+          "hij/zij": "vermoeit",
+          "wij": "vermoeien",
+          "jullie": "vermoeien",
+          "zij_plural": "vermoeien"
+        },
+        "past": {
+          "ik": "vermoeide",
+          "jij": "vermoeide",
+          "u": "vermoeide",
+          "hij/zij": "vermoeide",
+          "wij": "vermoeiden",
+          "jullie": "vermoeiden",
+          "zij_plural": "vermoeiden"
+        },
+        "perfect": "vermoeid"
+      }
+    },
+    {
+      "id": "v924",
       "word": "vermoorden",
       "translation": "to murder",
       "conjugations": {
@@ -18245,7 +36429,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v458",
+      "id": "v925",
+      "word": "vernederen",
+      "translation": "to humiliate",
+      "conjugations": {
+        "present": {
+          "ik": "vernedeer",
+          "jij": "vernedeert",
+          "u": "vernedeert",
+          "hij/zij": "vernedeert",
+          "wij": "vernederen",
+          "jullie": "vernederen",
+          "zij_plural": "vernederen"
+        },
+        "past": {
+          "ik": "vernedeerde",
+          "jij": "vernedeerde",
+          "u": "vernedeerde",
+          "hij/zij": "vernedeerde",
+          "wij": "vernedeerden",
+          "jullie": "vernedeerden",
+          "zij_plural": "vernedeerden"
+        },
+        "perfect": "vernedeerd"
+      }
+    },
+    {
+      "id": "v926",
+      "word": "vernemen",
+      "translation": "to hear, to learn",
+      "conjugations": {
+        "present": {
+          "ik": "verneem",
+          "jij": "verneemt",
+          "u": "verneemt",
+          "hij/zij": "verneemt",
+          "wij": "vernemen",
+          "jullie": "vernemen",
+          "zij_plural": "vernemen"
+        },
+        "past": {
+          "ik": "verneemde",
+          "jij": "verneemde",
+          "u": "verneemde",
+          "hij/zij": "verneemde",
+          "wij": "verneemden",
+          "jullie": "verneemden",
+          "zij_plural": "verneemden"
+        },
+        "perfect": "verneemd"
+      }
+    },
+    {
+      "id": "v927",
+      "word": "vernielen",
+      "translation": "to destroy, to vandalize",
+      "conjugations": {
+        "present": {
+          "ik": "verniel",
+          "jij": "vernielt",
+          "u": "vernielt",
+          "hij/zij": "vernielt",
+          "wij": "vernielen",
+          "jullie": "vernielen",
+          "zij_plural": "vernielen"
+        },
+        "past": {
+          "ik": "vernielde",
+          "jij": "vernielde",
+          "u": "vernielde",
+          "hij/zij": "vernielde",
+          "wij": "vernielden",
+          "jullie": "vernielden",
+          "zij_plural": "vernielden"
+        },
+        "perfect": "vernield"
+      }
+    },
+    {
+      "id": "v928",
       "word": "vernietigen",
       "translation": "to destroy",
       "conjugations": {
@@ -18271,7 +36533,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v459",
+      "id": "v929",
+      "word": "vernieuwen",
+      "translation": "to renew, to innovate",
+      "conjugations": {
+        "present": {
+          "ik": "vernieuw",
+          "jij": "vernieuwt",
+          "u": "vernieuwt",
+          "hij/zij": "vernieuwt",
+          "wij": "vernieuwen",
+          "jullie": "vernieuwen",
+          "zij_plural": "vernieuwen"
+        },
+        "past": {
+          "ik": "vernieuwde",
+          "jij": "vernieuwde",
+          "u": "vernieuwde",
+          "hij/zij": "vernieuwde",
+          "wij": "vernieuwden",
+          "jullie": "vernieuwden",
+          "zij_plural": "vernieuwden"
+        },
+        "perfect": "vernieuwd"
+      }
+    },
+    {
+      "id": "v930",
+      "word": "veronderstellen",
+      "translation": "to assume, to suppose",
+      "conjugations": {
+        "present": {
+          "ik": "veronderstell",
+          "jij": "veronderstellt",
+          "u": "veronderstellt",
+          "hij/zij": "veronderstellt",
+          "wij": "veronderstellen",
+          "jullie": "veronderstellen",
+          "zij_plural": "veronderstellen"
+        },
+        "past": {
+          "ik": "veronderstellde",
+          "jij": "veronderstellde",
+          "u": "veronderstellde",
+          "hij/zij": "veronderstellde",
+          "wij": "veronderstellden",
+          "jullie": "veronderstellden",
+          "zij_plural": "veronderstellden"
+        },
+        "perfect": "veronderstelld"
+      }
+    },
+    {
+      "id": "v931",
       "word": "verontschuldigen",
       "translation": "to apologize",
       "conjugations": {
@@ -18297,7 +36611,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v460",
+      "id": "v932",
+      "word": "veroordelen",
+      "translation": "to condemn; to convict",
+      "conjugations": {
+        "present": {
+          "ik": "veroordeel",
+          "jij": "veroordeelt",
+          "u": "veroordeelt",
+          "hij/zij": "veroordeelt",
+          "wij": "veroordelen",
+          "jullie": "veroordelen",
+          "zij_plural": "veroordelen"
+        },
+        "past": {
+          "ik": "veroordeelde",
+          "jij": "veroordeelde",
+          "u": "veroordeelde",
+          "hij/zij": "veroordeelde",
+          "wij": "veroordeelden",
+          "jullie": "veroordeelden",
+          "zij_plural": "veroordeelden"
+        },
+        "perfect": "veroordeeld"
+      }
+    },
+    {
+      "id": "v933",
       "word": "veroorloven",
       "translation": "to afford",
       "conjugations": {
@@ -18323,7 +36663,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v461",
+      "id": "v934",
       "word": "veroorzaken",
       "translation": "to cause",
       "conjugations": {
@@ -18349,7 +36689,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v462",
+      "id": "v935",
+      "word": "veroveren",
+      "translation": "to conquer",
+      "conjugations": {
+        "present": {
+          "ik": "veroveer",
+          "jij": "veroveert",
+          "u": "veroveert",
+          "hij/zij": "veroveert",
+          "wij": "veroveren",
+          "jullie": "veroveren",
+          "zij_plural": "veroveren"
+        },
+        "past": {
+          "ik": "veroveerde",
+          "jij": "veroveerde",
+          "u": "veroveerde",
+          "hij/zij": "veroveerde",
+          "wij": "veroveerden",
+          "jullie": "veroveerden",
+          "zij_plural": "veroveerden"
+        },
+        "perfect": "veroveerd"
+      }
+    },
+    {
+      "id": "v936",
+      "word": "verplaatsen",
+      "translation": "to move, to relocate",
+      "conjugations": {
+        "present": {
+          "ik": "verplaats",
+          "jij": "verplaatst",
+          "u": "verplaatst",
+          "hij/zij": "verplaatst",
+          "wij": "verplaatsen",
+          "jullie": "verplaatsen",
+          "zij_plural": "verplaatsen"
+        },
+        "past": {
+          "ik": "verplaatste",
+          "jij": "verplaatste",
+          "u": "verplaatste",
+          "hij/zij": "verplaatste",
+          "wij": "verplaatsten",
+          "jullie": "verplaatsten",
+          "zij_plural": "verplaatsten"
+        },
+        "perfect": "verplaatst"
+      }
+    },
+    {
+      "id": "v937",
       "word": "verplichten",
       "translation": "to oblige",
       "conjugations": {
@@ -18375,7 +36767,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v463",
+      "id": "v938",
+      "word": "verraden",
+      "translation": "to betray",
+      "conjugations": {
+        "present": {
+          "ik": "verraad",
+          "jij": "verraadt",
+          "u": "verraadt",
+          "hij/zij": "verraadt",
+          "wij": "verraden",
+          "jullie": "verraden",
+          "zij_plural": "verraden"
+        },
+        "past": {
+          "ik": "verraadde",
+          "jij": "verraadde",
+          "u": "verraadde",
+          "hij/zij": "verraadde",
+          "wij": "verraadden",
+          "jullie": "verraadden",
+          "zij_plural": "verraadden"
+        },
+        "perfect": "verraadd"
+      }
+    },
+    {
+      "id": "v939",
       "word": "verrassen",
       "translation": "to surprise",
       "conjugations": {
@@ -18401,7 +36819,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v464",
+      "id": "v940",
+      "word": "verrichten",
+      "translation": "to perform, to carry out",
+      "conjugations": {
+        "present": {
+          "ik": "verricht",
+          "jij": "verricht",
+          "u": "verricht",
+          "hij/zij": "verricht",
+          "wij": "verrichten",
+          "jullie": "verrichten",
+          "zij_plural": "verrichten"
+        },
+        "past": {
+          "ik": "verrichtte",
+          "jij": "verrichtte",
+          "u": "verrichtte",
+          "hij/zij": "verrichtte",
+          "wij": "verrichtten",
+          "jullie": "verrichtten",
+          "zij_plural": "verrichtten"
+        },
+        "perfect": "verrichtt"
+      }
+    },
+    {
+      "id": "v941",
       "word": "verschaffen",
       "translation": "to provide",
       "conjugations": {
@@ -18427,7 +36871,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v465",
+      "id": "v942",
       "word": "verschijnen",
       "translation": "to appear",
       "conjugations": {
@@ -18453,7 +36897,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v466",
+      "id": "v943",
       "word": "verschillen",
       "translation": "to differ",
       "conjugations": {
@@ -18479,7 +36923,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v467",
+      "id": "v944",
+      "word": "verschuiven",
+      "translation": "to shift",
+      "conjugations": {
+        "present": {
+          "ik": "verschuif",
+          "jij": "verschuift",
+          "u": "verschuift",
+          "hij/zij": "verschuift",
+          "wij": "verschuiven",
+          "jullie": "verschuiven",
+          "zij_plural": "verschuiven"
+        },
+        "past": {
+          "ik": "verschuifte",
+          "jij": "verschuifte",
+          "u": "verschuifte",
+          "hij/zij": "verschuifte",
+          "wij": "verschuiften",
+          "jullie": "verschuiften",
+          "zij_plural": "verschuiften"
+        },
+        "perfect": "verschuift"
+      }
+    },
+    {
+      "id": "v945",
+      "word": "verslaan",
+      "translation": "to defeat",
+      "conjugations": {
+        "present": {
+          "ik": "verslaa",
+          "jij": "verslaat",
+          "u": "verslaat",
+          "hij/zij": "verslaat",
+          "wij": "verslaan",
+          "jullie": "verslaan",
+          "zij_plural": "verslaan"
+        },
+        "past": {
+          "ik": "verslaade",
+          "jij": "verslaade",
+          "u": "verslaade",
+          "hij/zij": "verslaade",
+          "wij": "verslaaden",
+          "jullie": "verslaaden",
+          "zij_plural": "verslaaden"
+        },
+        "perfect": "verslaad"
+      }
+    },
+    {
+      "id": "v946",
       "word": "verspreiden",
       "translation": "to spread",
       "conjugations": {
@@ -18505,7 +37001,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v468",
+      "id": "v947",
       "word": "verstaan",
       "translation": "to understand (hearing)",
       "conjugations": {
@@ -18531,7 +37027,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v469",
+      "id": "v948",
       "word": "verstellen",
       "translation": "to adjust",
       "conjugations": {
@@ -18557,7 +37053,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v470",
+      "id": "v949",
       "word": "versterken",
       "translation": "to strengthen",
       "conjugations": {
@@ -18583,7 +37079,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v471",
+      "id": "v950",
+      "word": "verstoppen",
+      "translation": "to hide",
+      "conjugations": {
+        "present": {
+          "ik": "verstopp",
+          "jij": "verstoppt",
+          "u": "verstoppt",
+          "hij/zij": "verstoppt",
+          "wij": "verstoppen",
+          "jullie": "verstoppen",
+          "zij_plural": "verstoppen"
+        },
+        "past": {
+          "ik": "verstoppte",
+          "jij": "verstoppte",
+          "u": "verstoppte",
+          "hij/zij": "verstoppte",
+          "wij": "verstoppten",
+          "jullie": "verstoppten",
+          "zij_plural": "verstoppten"
+        },
+        "perfect": "verstoppt"
+      }
+    },
+    {
+      "id": "v951",
       "word": "verstoren",
       "translation": "to disturb",
       "conjugations": {
@@ -18609,7 +37131,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v472",
+      "id": "v952",
+      "word": "verstrekken",
+      "translation": "to provide, to supply",
+      "conjugations": {
+        "present": {
+          "ik": "verstrekk",
+          "jij": "verstrekkt",
+          "u": "verstrekkt",
+          "hij/zij": "verstrekkt",
+          "wij": "verstrekken",
+          "jullie": "verstrekken",
+          "zij_plural": "verstrekken"
+        },
+        "past": {
+          "ik": "verstrekkte",
+          "jij": "verstrekkte",
+          "u": "verstrekkte",
+          "hij/zij": "verstrekkte",
+          "wij": "verstrekkten",
+          "jullie": "verstrekkten",
+          "zij_plural": "verstrekkten"
+        },
+        "perfect": "verstrekkt"
+      }
+    },
+    {
+      "id": "v953",
+      "word": "vertalen",
+      "translation": "to translate",
+      "conjugations": {
+        "present": {
+          "ik": "vertaal",
+          "jij": "vertaalt",
+          "u": "vertaalt",
+          "hij/zij": "vertaalt",
+          "wij": "vertalen",
+          "jullie": "vertalen",
+          "zij_plural": "vertalen"
+        },
+        "past": {
+          "ik": "vertaalde",
+          "jij": "vertaalde",
+          "u": "vertaalde",
+          "hij/zij": "vertaalde",
+          "wij": "vertaalden",
+          "jullie": "vertaalden",
+          "zij_plural": "vertaalden"
+        },
+        "perfect": "vertaald"
+      }
+    },
+    {
+      "id": "v954",
       "word": "vertegenwoordigen",
       "translation": "to represent",
       "conjugations": {
@@ -18635,7 +37209,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v473",
+      "id": "v955",
       "word": "vertellen",
       "translation": "to tell",
       "conjugations": {
@@ -18661,7 +37235,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v474",
+      "id": "v956",
       "word": "vertonen",
       "translation": "to show; to display",
       "conjugations": {
@@ -18687,7 +37261,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v475",
+      "id": "v957",
       "word": "vertrekken",
       "translation": "to depart",
       "conjugations": {
@@ -18713,7 +37287,137 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v476",
+      "id": "v958",
+      "word": "vervallen",
+      "translation": "to expire; to decay",
+      "conjugations": {
+        "present": {
+          "ik": "vervall",
+          "jij": "vervallt",
+          "u": "vervallt",
+          "hij/zij": "vervallt",
+          "wij": "vervallen",
+          "jullie": "vervallen",
+          "zij_plural": "vervallen"
+        },
+        "past": {
+          "ik": "vervallde",
+          "jij": "vervallde",
+          "u": "vervallde",
+          "hij/zij": "vervallde",
+          "wij": "vervallden",
+          "jullie": "vervallden",
+          "zij_plural": "vervallden"
+        },
+        "perfect": "vervalld"
+      }
+    },
+    {
+      "id": "v959",
+      "word": "vervangen",
+      "translation": "to replace",
+      "conjugations": {
+        "present": {
+          "ik": "vervang",
+          "jij": "vervangt",
+          "u": "vervangt",
+          "hij/zij": "vervangt",
+          "wij": "vervangen",
+          "jullie": "vervangen",
+          "zij_plural": "vervangen"
+        },
+        "past": {
+          "ik": "vervangde",
+          "jij": "vervangde",
+          "u": "vervangde",
+          "hij/zij": "vervangde",
+          "wij": "vervangden",
+          "jullie": "vervangden",
+          "zij_plural": "vervangden"
+        },
+        "perfect": "vervangd"
+      }
+    },
+    {
+      "id": "v960",
+      "word": "vervelen",
+      "translation": "to bore",
+      "conjugations": {
+        "present": {
+          "ik": "verveel",
+          "jij": "verveelt",
+          "u": "verveelt",
+          "hij/zij": "verveelt",
+          "wij": "vervelen",
+          "jullie": "vervelen",
+          "zij_plural": "vervelen"
+        },
+        "past": {
+          "ik": "verveelde",
+          "jij": "verveelde",
+          "u": "verveelde",
+          "hij/zij": "verveelde",
+          "wij": "verveelden",
+          "jullie": "verveelden",
+          "zij_plural": "verveelden"
+        },
+        "perfect": "verveeld"
+      }
+    },
+    {
+      "id": "v961",
+      "word": "verven",
+      "translation": "to paint",
+      "conjugations": {
+        "present": {
+          "ik": "verf",
+          "jij": "verft",
+          "u": "verft",
+          "hij/zij": "verft",
+          "wij": "verven",
+          "jullie": "verven",
+          "zij_plural": "verven"
+        },
+        "past": {
+          "ik": "verfte",
+          "jij": "verfte",
+          "u": "verfte",
+          "hij/zij": "verfte",
+          "wij": "verften",
+          "jullie": "verften",
+          "zij_plural": "verften"
+        },
+        "perfect": "verft"
+      }
+    },
+    {
+      "id": "v962",
+      "word": "vervoeren",
+      "translation": "to transport",
+      "conjugations": {
+        "present": {
+          "ik": "vervoer",
+          "jij": "vervoert",
+          "u": "vervoert",
+          "hij/zij": "vervoert",
+          "wij": "vervoeren",
+          "jullie": "vervoeren",
+          "zij_plural": "vervoeren"
+        },
+        "past": {
+          "ik": "vervoerde",
+          "jij": "vervoerde",
+          "u": "vervoerde",
+          "hij/zij": "vervoerde",
+          "wij": "vervoerden",
+          "jullie": "vervoerden",
+          "zij_plural": "vervoerden"
+        },
+        "perfect": "vervoerd"
+      }
+    },
+    {
+      "id": "v963",
       "word": "vervolgen",
       "translation": "to continue; to prosecute",
       "conjugations": {
@@ -18739,7 +37443,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v477",
+      "id": "v964",
+      "word": "vervullen",
+      "translation": "to fulfill",
+      "conjugations": {
+        "present": {
+          "ik": "vervull",
+          "jij": "vervullt",
+          "u": "vervullt",
+          "hij/zij": "vervullt",
+          "wij": "vervullen",
+          "jullie": "vervullen",
+          "zij_plural": "vervullen"
+        },
+        "past": {
+          "ik": "vervullde",
+          "jij": "vervullde",
+          "u": "vervullde",
+          "hij/zij": "vervullde",
+          "wij": "vervullden",
+          "jullie": "vervullden",
+          "zij_plural": "vervullden"
+        },
+        "perfect": "vervulld"
+      }
+    },
+    {
+      "id": "v965",
+      "word": "verwaarlozen",
+      "translation": "to neglect",
+      "conjugations": {
+        "present": {
+          "ik": "verwaarloos",
+          "jij": "verwaarloost",
+          "u": "verwaarloost",
+          "hij/zij": "verwaarloost",
+          "wij": "verwaarlozen",
+          "jullie": "verwaarlozen",
+          "zij_plural": "verwaarlozen"
+        },
+        "past": {
+          "ik": "verwaarlooste",
+          "jij": "verwaarlooste",
+          "u": "verwaarlooste",
+          "hij/zij": "verwaarlooste",
+          "wij": "verwaarloosten",
+          "jullie": "verwaarloosten",
+          "zij_plural": "verwaarloosten"
+        },
+        "perfect": "verwaarloost"
+      }
+    },
+    {
+      "id": "v966",
       "word": "verwachten",
       "translation": "to expect",
       "conjugations": {
@@ -18765,7 +37521,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v478",
+      "id": "v967",
+      "word": "verwarmen",
+      "translation": "to heat",
+      "conjugations": {
+        "present": {
+          "ik": "verwarm",
+          "jij": "verwarmt",
+          "u": "verwarmt",
+          "hij/zij": "verwarmt",
+          "wij": "verwarmen",
+          "jullie": "verwarmen",
+          "zij_plural": "verwarmen"
+        },
+        "past": {
+          "ik": "verwarmde",
+          "jij": "verwarmde",
+          "u": "verwarmde",
+          "hij/zij": "verwarmde",
+          "wij": "verwarmden",
+          "jullie": "verwarmden",
+          "zij_plural": "verwarmden"
+        },
+        "perfect": "verwarmd"
+      }
+    },
+    {
+      "id": "v968",
       "word": "verwarren",
       "translation": "to confuse",
       "conjugations": {
@@ -18791,7 +37573,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v479",
+      "id": "v969",
       "word": "verwerken",
       "translation": "to process",
       "conjugations": {
@@ -18817,7 +37599,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v480",
+      "id": "v970",
       "word": "verwerpen",
       "translation": "to reject",
       "conjugations": {
@@ -18843,7 +37625,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v481",
+      "id": "v971",
       "word": "verwerven",
       "translation": "to acquire",
       "conjugations": {
@@ -18869,7 +37651,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v482",
+      "id": "v972",
+      "word": "verwezenlijken",
+      "translation": "to realize, to achieve",
+      "conjugations": {
+        "present": {
+          "ik": "verwezenlijk",
+          "jij": "verwezenlijkt",
+          "u": "verwezenlijkt",
+          "hij/zij": "verwezenlijkt",
+          "wij": "verwezenlijken",
+          "jullie": "verwezenlijken",
+          "zij_plural": "verwezenlijken"
+        },
+        "past": {
+          "ik": "verwezenlijkte",
+          "jij": "verwezenlijkte",
+          "u": "verwezenlijkte",
+          "hij/zij": "verwezenlijkte",
+          "wij": "verwezenlijkten",
+          "jullie": "verwezenlijkten",
+          "zij_plural": "verwezenlijkten"
+        },
+        "perfect": "verwezenlijkt"
+      }
+    },
+    {
+      "id": "v973",
       "word": "verwijderen",
       "translation": "to remove",
       "conjugations": {
@@ -18895,7 +37703,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v483",
+      "id": "v974",
       "word": "verwijten",
       "translation": "to blame; to reproach",
       "conjugations": {
@@ -18921,7 +37729,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v484",
+      "id": "v975",
       "word": "verwijzen",
       "translation": "to refer",
       "conjugations": {
@@ -18947,7 +37755,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v485",
+      "id": "v976",
+      "word": "verwisselen",
+      "translation": "to exchange, to swap",
+      "conjugations": {
+        "present": {
+          "ik": "verwisseel",
+          "jij": "verwisseelt",
+          "u": "verwisseelt",
+          "hij/zij": "verwisseelt",
+          "wij": "verwisselen",
+          "jullie": "verwisselen",
+          "zij_plural": "verwisselen"
+        },
+        "past": {
+          "ik": "verwisseelde",
+          "jij": "verwisseelde",
+          "u": "verwisseelde",
+          "hij/zij": "verwisseelde",
+          "wij": "verwisseelden",
+          "jullie": "verwisseelden",
+          "zij_plural": "verwisseelden"
+        },
+        "perfect": "verwisseeld"
+      }
+    },
+    {
+      "id": "v977",
+      "word": "verwonderen",
+      "translation": "to surprise",
+      "conjugations": {
+        "present": {
+          "ik": "verwondeer",
+          "jij": "verwondeert",
+          "u": "verwondeert",
+          "hij/zij": "verwondeert",
+          "wij": "verwonderen",
+          "jullie": "verwonderen",
+          "zij_plural": "verwonderen"
+        },
+        "past": {
+          "ik": "verwondeerde",
+          "jij": "verwondeerde",
+          "u": "verwondeerde",
+          "hij/zij": "verwondeerde",
+          "wij": "verwondeerden",
+          "jullie": "verwondeerden",
+          "zij_plural": "verwondeerden"
+        },
+        "perfect": "verwondeerd"
+      }
+    },
+    {
+      "id": "v978",
       "word": "verzamelen",
       "translation": "to collect",
       "conjugations": {
@@ -18973,7 +37833,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v486",
+      "id": "v979",
       "word": "verzekeren",
       "translation": "to insure; to assure",
       "conjugations": {
@@ -18999,7 +37859,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v487",
+      "id": "v980",
       "word": "verzetten",
       "translation": "to move; to resist",
       "conjugations": {
@@ -19025,7 +37885,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v488",
+      "id": "v981",
+      "word": "verzinnen",
+      "translation": "to invent, to make up",
+      "conjugations": {
+        "present": {
+          "ik": "verzinn",
+          "jij": "verzinnt",
+          "u": "verzinnt",
+          "hij/zij": "verzinnt",
+          "wij": "verzinnen",
+          "jullie": "verzinnen",
+          "zij_plural": "verzinnen"
+        },
+        "past": {
+          "ik": "verzinnde",
+          "jij": "verzinnde",
+          "u": "verzinnde",
+          "hij/zij": "verzinnde",
+          "wij": "verzinnden",
+          "jullie": "verzinnden",
+          "zij_plural": "verzinnden"
+        },
+        "perfect": "verzinnd"
+      }
+    },
+    {
+      "id": "v982",
       "word": "verzoeken",
       "translation": "to request",
       "conjugations": {
@@ -19051,7 +37937,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v489",
+      "id": "v983",
+      "word": "verzoenen",
+      "translation": "to reconcile",
+      "conjugations": {
+        "present": {
+          "ik": "verzoen",
+          "jij": "verzoent",
+          "u": "verzoent",
+          "hij/zij": "verzoent",
+          "wij": "verzoenen",
+          "jullie": "verzoenen",
+          "zij_plural": "verzoenen"
+        },
+        "past": {
+          "ik": "verzoende",
+          "jij": "verzoende",
+          "u": "verzoende",
+          "hij/zij": "verzoende",
+          "wij": "verzoenden",
+          "jullie": "verzoenden",
+          "zij_plural": "verzoenden"
+        },
+        "perfect": "verzoend"
+      }
+    },
+    {
+      "id": "v984",
       "word": "verzorgen",
       "translation": "to take care of",
       "conjugations": {
@@ -19077,7 +37989,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v490",
+      "id": "v985",
+      "word": "verzwakken",
+      "translation": "to weaken",
+      "conjugations": {
+        "present": {
+          "ik": "verzwakk",
+          "jij": "verzwakkt",
+          "u": "verzwakkt",
+          "hij/zij": "verzwakkt",
+          "wij": "verzwakken",
+          "jullie": "verzwakken",
+          "zij_plural": "verzwakken"
+        },
+        "past": {
+          "ik": "verzwakkte",
+          "jij": "verzwakkte",
+          "u": "verzwakkte",
+          "hij/zij": "verzwakkte",
+          "wij": "verzwakkten",
+          "jullie": "verzwakkten",
+          "zij_plural": "verzwakkten"
+        },
+        "perfect": "verzwakkt"
+      }
+    },
+    {
+      "id": "v986",
+      "word": "verzwijgen",
+      "translation": "to conceal, to keep silent about",
+      "conjugations": {
+        "present": {
+          "ik": "verzwijg",
+          "jij": "verzwijgt",
+          "u": "verzwijgt",
+          "hij/zij": "verzwijgt",
+          "wij": "verzwijgen",
+          "jullie": "verzwijgen",
+          "zij_plural": "verzwijgen"
+        },
+        "past": {
+          "ik": "verzwijgde",
+          "jij": "verzwijgde",
+          "u": "verzwijgde",
+          "hij/zij": "verzwijgde",
+          "wij": "verzwijgden",
+          "jullie": "verzwijgden",
+          "zij_plural": "verzwijgden"
+        },
+        "perfect": "verzwijgd"
+      }
+    },
+    {
+      "id": "v987",
       "word": "vestigen",
       "translation": "to establish; to settle",
       "conjugations": {
@@ -19103,7 +38067,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v491",
+      "id": "v988",
       "word": "vieren",
       "translation": "to celebrate",
       "conjugations": {
@@ -19129,7 +38093,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v492",
+      "id": "v989",
       "word": "vinden",
       "translation": "to find; to think",
       "conjugations": {
@@ -19155,7 +38119,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v493",
+      "id": "v990",
+      "word": "vissen",
+      "translation": "to fish",
+      "conjugations": {
+        "present": {
+          "ik": "viss",
+          "jij": "visst",
+          "u": "visst",
+          "hij/zij": "visst",
+          "wij": "vissen",
+          "jullie": "vissen",
+          "zij_plural": "vissen"
+        },
+        "past": {
+          "ik": "visste",
+          "jij": "visste",
+          "u": "visste",
+          "hij/zij": "visste",
+          "wij": "vissten",
+          "jullie": "vissten",
+          "zij_plural": "vissten"
+        },
+        "perfect": "gevisst"
+      }
+    },
+    {
+      "id": "v991",
       "word": "vliegen",
       "translation": "to fly",
       "conjugations": {
@@ -19181,7 +38171,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v494",
+      "id": "v992",
       "word": "vloeien",
       "translation": "to flow",
       "conjugations": {
@@ -19207,7 +38197,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v495",
+      "id": "v993",
+      "word": "vloeken",
+      "translation": "to curse, to swear",
+      "conjugations": {
+        "present": {
+          "ik": "vloek",
+          "jij": "vloekt",
+          "u": "vloekt",
+          "hij/zij": "vloekt",
+          "wij": "vloeken",
+          "jullie": "vloeken",
+          "zij_plural": "vloeken"
+        },
+        "past": {
+          "ik": "vloekte",
+          "jij": "vloekte",
+          "u": "vloekte",
+          "hij/zij": "vloekte",
+          "wij": "vloekten",
+          "jullie": "vloekten",
+          "zij_plural": "vloekten"
+        },
+        "perfect": "gevloekt"
+      }
+    },
+    {
+      "id": "v994",
       "word": "vluchten",
       "translation": "to flee",
       "conjugations": {
@@ -19233,7 +38249,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v496",
+      "id": "v995",
       "word": "voeden",
       "translation": "to feed; to nourish",
       "conjugations": {
@@ -19259,7 +38275,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v497",
+      "id": "v996",
+      "word": "voegen",
+      "translation": "to add; to join",
+      "conjugations": {
+        "present": {
+          "ik": "voeg",
+          "jij": "voegt",
+          "u": "voegt",
+          "hij/zij": "voegt",
+          "wij": "voegen",
+          "jullie": "voegen",
+          "zij_plural": "voegen"
+        },
+        "past": {
+          "ik": "voegde",
+          "jij": "voegde",
+          "u": "voegde",
+          "hij/zij": "voegde",
+          "wij": "voegden",
+          "jullie": "voegden",
+          "zij_plural": "voegden"
+        },
+        "perfect": "gevoegd"
+      }
+    },
+    {
+      "id": "v997",
       "word": "voelen",
       "translation": "to feel",
       "conjugations": {
@@ -19285,7 +38327,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v498",
+      "id": "v998",
       "word": "voeren",
       "translation": "to conduct; to feed",
       "conjugations": {
@@ -19311,7 +38353,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v499",
+      "id": "v999",
       "word": "voldoen",
       "translation": "to satisfy; to meet (requirements)",
       "conjugations": {
@@ -19337,7 +38379,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v500",
+      "id": "v1000",
       "word": "volgen",
       "translation": "to follow",
       "conjugations": {
@@ -19363,7 +38405,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v501",
+      "id": "v1001",
+      "word": "volhouden",
+      "translation": "to persist; to maintain",
+      "conjugations": {
+        "present": {
+          "ik": "volhoud",
+          "jij": "volhoudt",
+          "u": "volhoudt",
+          "hij/zij": "volhoudt",
+          "wij": "volhouden",
+          "jullie": "volhouden",
+          "zij_plural": "volhouden"
+        },
+        "past": {
+          "ik": "volhoudde",
+          "jij": "volhoudde",
+          "u": "volhoudde",
+          "hij/zij": "volhoudde",
+          "wij": "volhoudden",
+          "jullie": "volhoudden",
+          "zij_plural": "volhoudden"
+        },
+        "perfect": "gevolhoudd"
+      }
+    },
+    {
+      "id": "v1002",
       "word": "volstaan",
       "translation": "to suffice",
       "conjugations": {
@@ -19389,7 +38457,163 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v502",
+      "id": "v1003",
+      "word": "voltooien",
+      "translation": "to complete, to finish",
+      "conjugations": {
+        "present": {
+          "ik": "voltooi",
+          "jij": "voltooit",
+          "u": "voltooit",
+          "hij/zij": "voltooit",
+          "wij": "voltooien",
+          "jullie": "voltooien",
+          "zij_plural": "voltooien"
+        },
+        "past": {
+          "ik": "voltooide",
+          "jij": "voltooide",
+          "u": "voltooide",
+          "hij/zij": "voltooide",
+          "wij": "voltooiden",
+          "jullie": "voltooiden",
+          "zij_plural": "voltooiden"
+        },
+        "perfect": "gevoltooid"
+      }
+    },
+    {
+      "id": "v1004",
+      "word": "voorafgaan",
+      "translation": "to precede",
+      "conjugations": {
+        "present": {
+          "ik": "voorafgaa",
+          "jij": "voorafgaat",
+          "u": "voorafgaat",
+          "hij/zij": "voorafgaat",
+          "wij": "voorafgaan",
+          "jullie": "voorafgaan",
+          "zij_plural": "voorafgaan"
+        },
+        "past": {
+          "ik": "voorafgaade",
+          "jij": "voorafgaade",
+          "u": "voorafgaade",
+          "hij/zij": "voorafgaade",
+          "wij": "voorafgaaden",
+          "jullie": "voorafgaaden",
+          "zij_plural": "voorafgaaden"
+        },
+        "perfect": "gevoorafgaad"
+      }
+    },
+    {
+      "id": "v1005",
+      "word": "voorbereiden",
+      "translation": "to prepare",
+      "conjugations": {
+        "present": {
+          "ik": "voorbereid",
+          "jij": "voorbereidt",
+          "u": "voorbereidt",
+          "hij/zij": "voorbereidt",
+          "wij": "voorbereiden",
+          "jullie": "voorbereiden",
+          "zij_plural": "voorbereiden"
+        },
+        "past": {
+          "ik": "voorbereidde",
+          "jij": "voorbereidde",
+          "u": "voorbereidde",
+          "hij/zij": "voorbereidde",
+          "wij": "voorbereidden",
+          "jullie": "voorbereidden",
+          "zij_plural": "voorbereidden"
+        },
+        "perfect": "gevoorbereidd"
+      }
+    },
+    {
+      "id": "v1006",
+      "word": "voorbijgaan",
+      "translation": "to pass by",
+      "conjugations": {
+        "present": {
+          "ik": "voorbijgaa",
+          "jij": "voorbijgaat",
+          "u": "voorbijgaat",
+          "hij/zij": "voorbijgaat",
+          "wij": "voorbijgaan",
+          "jullie": "voorbijgaan",
+          "zij_plural": "voorbijgaan"
+        },
+        "past": {
+          "ik": "voorbijgaade",
+          "jij": "voorbijgaade",
+          "u": "voorbijgaade",
+          "hij/zij": "voorbijgaade",
+          "wij": "voorbijgaaden",
+          "jullie": "voorbijgaaden",
+          "zij_plural": "voorbijgaaden"
+        },
+        "perfect": "gevoorbijgaad"
+      }
+    },
+    {
+      "id": "v1007",
+      "word": "voordoen",
+      "translation": "to occur; to demonstrate",
+      "conjugations": {
+        "present": {
+          "ik": "voordo",
+          "jij": "voordot",
+          "u": "voordot",
+          "hij/zij": "voordot",
+          "wij": "voordoen",
+          "jullie": "voordoen",
+          "zij_plural": "voordoen"
+        },
+        "past": {
+          "ik": "voordode",
+          "jij": "voordode",
+          "u": "voordode",
+          "hij/zij": "voordode",
+          "wij": "voordoden",
+          "jullie": "voordoden",
+          "zij_plural": "voordoden"
+        },
+        "perfect": "gevoordod"
+      }
+    },
+    {
+      "id": "v1008",
+      "word": "voorgaan",
+      "translation": "to precede; to lead",
+      "conjugations": {
+        "present": {
+          "ik": "voorgaa",
+          "jij": "voorgaat",
+          "u": "voorgaat",
+          "hij/zij": "voorgaat",
+          "wij": "voorgaan",
+          "jullie": "voorgaan",
+          "zij_plural": "voorgaan"
+        },
+        "past": {
+          "ik": "voorgaade",
+          "jij": "voorgaade",
+          "u": "voorgaade",
+          "hij/zij": "voorgaade",
+          "wij": "voorgaaden",
+          "jullie": "voorgaaden",
+          "zij_plural": "voorgaaden"
+        },
+        "perfect": "gevoorgaad"
+      }
+    },
+    {
+      "id": "v1009",
       "word": "voorkomen",
       "translation": "to prevent; to occur; to appear",
       "conjugations": {
@@ -19415,7 +38639,111 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v503",
+      "id": "v1010",
+      "word": "voorleggen",
+      "translation": "to present, to submit",
+      "conjugations": {
+        "present": {
+          "ik": "voorlegg",
+          "jij": "voorleggt",
+          "u": "voorleggt",
+          "hij/zij": "voorleggt",
+          "wij": "voorleggen",
+          "jullie": "voorleggen",
+          "zij_plural": "voorleggen"
+        },
+        "past": {
+          "ik": "voorleggde",
+          "jij": "voorleggde",
+          "u": "voorleggde",
+          "hij/zij": "voorleggde",
+          "wij": "voorleggden",
+          "jullie": "voorleggden",
+          "zij_plural": "voorleggden"
+        },
+        "perfect": "gevoorleggd"
+      }
+    },
+    {
+      "id": "v1011",
+      "word": "voorlezen",
+      "translation": "to read aloud",
+      "conjugations": {
+        "present": {
+          "ik": "voorlees",
+          "jij": "voorleest",
+          "u": "voorleest",
+          "hij/zij": "voorleest",
+          "wij": "voorlezen",
+          "jullie": "voorlezen",
+          "zij_plural": "voorlezen"
+        },
+        "past": {
+          "ik": "voorleeste",
+          "jij": "voorleeste",
+          "u": "voorleeste",
+          "hij/zij": "voorleeste",
+          "wij": "voorleesten",
+          "jullie": "voorleesten",
+          "zij_plural": "voorleesten"
+        },
+        "perfect": "gevoorleest"
+      }
+    },
+    {
+      "id": "v1012",
+      "word": "voorschrijven",
+      "translation": "to prescribe",
+      "conjugations": {
+        "present": {
+          "ik": "voorschrijf",
+          "jij": "voorschrijft",
+          "u": "voorschrijft",
+          "hij/zij": "voorschrijft",
+          "wij": "voorschrijven",
+          "jullie": "voorschrijven",
+          "zij_plural": "voorschrijven"
+        },
+        "past": {
+          "ik": "voorschrijfte",
+          "jij": "voorschrijfte",
+          "u": "voorschrijfte",
+          "hij/zij": "voorschrijfte",
+          "wij": "voorschrijften",
+          "jullie": "voorschrijften",
+          "zij_plural": "voorschrijften"
+        },
+        "perfect": "gevoorschrijft"
+      }
+    },
+    {
+      "id": "v1013",
+      "word": "voorspellen",
+      "translation": "to predict",
+      "conjugations": {
+        "present": {
+          "ik": "voorspell",
+          "jij": "voorspellt",
+          "u": "voorspellt",
+          "hij/zij": "voorspellt",
+          "wij": "voorspellen",
+          "jullie": "voorspellen",
+          "zij_plural": "voorspellen"
+        },
+        "past": {
+          "ik": "voorspellde",
+          "jij": "voorspellde",
+          "u": "voorspellde",
+          "hij/zij": "voorspellde",
+          "wij": "voorspellden",
+          "jullie": "voorspellden",
+          "zij_plural": "voorspellden"
+        },
+        "perfect": "gevoorspelld"
+      }
+    },
+    {
+      "id": "v1014",
       "word": "voorstellen",
       "translation": "to introduce; to propose; to imagine",
       "conjugations": {
@@ -19441,7 +38769,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v504",
+      "id": "v1015",
       "word": "voortbrengen",
       "translation": "to produce",
       "conjugations": {
@@ -19467,7 +38795,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v505",
+      "id": "v1016",
+      "word": "voortgaan",
+      "translation": "to continue",
+      "conjugations": {
+        "present": {
+          "ik": "voortgaa",
+          "jij": "voortgaat",
+          "u": "voortgaat",
+          "hij/zij": "voortgaat",
+          "wij": "voortgaan",
+          "jullie": "voortgaan",
+          "zij_plural": "voortgaan"
+        },
+        "past": {
+          "ik": "voortgaade",
+          "jij": "voortgaade",
+          "u": "voortgaade",
+          "hij/zij": "voortgaade",
+          "wij": "voortgaaden",
+          "jullie": "voortgaaden",
+          "zij_plural": "voortgaaden"
+        },
+        "perfect": "gevoortgaad"
+      }
+    },
+    {
+      "id": "v1017",
+      "word": "voortkomen",
+      "translation": "to come from, to result from",
+      "conjugations": {
+        "present": {
+          "ik": "voortkoom",
+          "jij": "voortkoomt",
+          "u": "voortkoomt",
+          "hij/zij": "voortkoomt",
+          "wij": "voortkomen",
+          "jullie": "voortkomen",
+          "zij_plural": "voortkomen"
+        },
+        "past": {
+          "ik": "voortkoomde",
+          "jij": "voortkoomde",
+          "u": "voortkoomde",
+          "hij/zij": "voortkoomde",
+          "wij": "voortkoomden",
+          "jullie": "voortkoomden",
+          "zij_plural": "voortkoomden"
+        },
+        "perfect": "gevoortkoomd"
+      }
+    },
+    {
+      "id": "v1018",
+      "word": "voortzetten",
+      "translation": "to continue",
+      "conjugations": {
+        "present": {
+          "ik": "voortzett",
+          "jij": "voortzett",
+          "u": "voortzett",
+          "hij/zij": "voortzett",
+          "wij": "voortzetten",
+          "jullie": "voortzetten",
+          "zij_plural": "voortzetten"
+        },
+        "past": {
+          "ik": "voortzettte",
+          "jij": "voortzettte",
+          "u": "voortzettte",
+          "hij/zij": "voortzettte",
+          "wij": "voortzettten",
+          "jullie": "voortzettten",
+          "zij_plural": "voortzettten"
+        },
+        "perfect": "gevoortzettt"
+      }
+    },
+    {
+      "id": "v1019",
       "word": "voorzien",
       "translation": "to foresee; to provide",
       "conjugations": {
@@ -19493,7 +38899,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v506",
+      "id": "v1020",
       "word": "vorderen",
       "translation": "to progress; to demand",
       "conjugations": {
@@ -19519,7 +38925,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v507",
+      "id": "v1021",
       "word": "vormen",
       "translation": "to form",
       "conjugations": {
@@ -19545,7 +38951,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v508",
+      "id": "v1022",
+      "word": "vouwen",
+      "translation": "to fold",
+      "conjugations": {
+        "present": {
+          "ik": "vouw",
+          "jij": "vouwt",
+          "u": "vouwt",
+          "hij/zij": "vouwt",
+          "wij": "vouwen",
+          "jullie": "vouwen",
+          "zij_plural": "vouwen"
+        },
+        "past": {
+          "ik": "vouwde",
+          "jij": "vouwde",
+          "u": "vouwde",
+          "hij/zij": "vouwde",
+          "wij": "vouwden",
+          "jullie": "vouwden",
+          "zij_plural": "vouwden"
+        },
+        "perfect": "gevouwd"
+      }
+    },
+    {
+      "id": "v1023",
       "word": "vragen",
       "translation": "to ask",
       "conjugations": {
@@ -19571,7 +39003,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v509",
+      "id": "v1024",
+      "word": "vreten",
+      "translation": "to eat (animals); to gorge",
+      "conjugations": {
+        "present": {
+          "ik": "vreet",
+          "jij": "vreet",
+          "u": "vreet",
+          "hij/zij": "vreet",
+          "wij": "vreten",
+          "jullie": "vreten",
+          "zij_plural": "vreten"
+        },
+        "past": {
+          "ik": "vreette",
+          "jij": "vreette",
+          "u": "vreette",
+          "hij/zij": "vreette",
+          "wij": "vreetten",
+          "jullie": "vreetten",
+          "zij_plural": "vreetten"
+        },
+        "perfect": "gevreett"
+      }
+    },
+    {
+      "id": "v1025",
       "word": "vrezen",
       "translation": "to fear",
       "conjugations": {
@@ -19597,7 +39055,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v510",
+      "id": "v1026",
+      "word": "vriezen",
+      "translation": "to freeze",
+      "conjugations": {
+        "present": {
+          "ik": "vries",
+          "jij": "vriest",
+          "u": "vriest",
+          "hij/zij": "vriest",
+          "wij": "vriezen",
+          "jullie": "vriezen",
+          "zij_plural": "vriezen"
+        },
+        "past": {
+          "ik": "vrieste",
+          "jij": "vrieste",
+          "u": "vrieste",
+          "hij/zij": "vrieste",
+          "wij": "vriesten",
+          "jullie": "vriesten",
+          "zij_plural": "vriesten"
+        },
+        "perfect": "gevriest"
+      }
+    },
+    {
+      "id": "v1027",
       "word": "vullen",
       "translation": "to fill",
       "conjugations": {
@@ -19623,7 +39107,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v511",
+      "id": "v1028",
       "word": "vuren",
       "translation": "to fire",
       "conjugations": {
@@ -19649,7 +39133,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v512",
+      "id": "v1029",
       "word": "waaien",
       "translation": "to blow (wind)",
       "conjugations": {
@@ -19675,7 +39159,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v513",
+      "id": "v1030",
       "word": "waarderen",
       "translation": "to appreciate; to value",
       "conjugations": {
@@ -19701,7 +39185,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v514",
+      "id": "v1031",
       "word": "waarnemen",
       "translation": "to observe; to deputize",
       "conjugations": {
@@ -19727,7 +39211,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v515",
+      "id": "v1032",
       "word": "waarschuwen",
       "translation": "to warn",
       "conjugations": {
@@ -19753,7 +39237,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v516",
+      "id": "v1033",
       "word": "wachten",
       "translation": "to wait",
       "conjugations": {
@@ -19779,7 +39263,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v517",
+      "id": "v1034",
       "word": "wagen",
       "translation": "to dare; to risk",
       "conjugations": {
@@ -19805,7 +39289,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v518",
+      "id": "v1035",
+      "word": "waken",
+      "translation": "to watch, to guard",
+      "conjugations": {
+        "present": {
+          "ik": "waak",
+          "jij": "waakt",
+          "u": "waakt",
+          "hij/zij": "waakt",
+          "wij": "waken",
+          "jullie": "waken",
+          "zij_plural": "waken"
+        },
+        "past": {
+          "ik": "waakte",
+          "jij": "waakte",
+          "u": "waakte",
+          "hij/zij": "waakte",
+          "wij": "waakten",
+          "jullie": "waakten",
+          "zij_plural": "waakten"
+        },
+        "perfect": "gewaakt"
+      }
+    },
+    {
+      "id": "v1036",
       "word": "wandelen",
       "translation": "to walk, to stroll",
       "conjugations": {
@@ -19831,7 +39341,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v519",
+      "id": "v1037",
+      "word": "wankelen",
+      "translation": "to totter, to waver",
+      "conjugations": {
+        "present": {
+          "ik": "wankeel",
+          "jij": "wankeelt",
+          "u": "wankeelt",
+          "hij/zij": "wankeelt",
+          "wij": "wankelen",
+          "jullie": "wankelen",
+          "zij_plural": "wankelen"
+        },
+        "past": {
+          "ik": "wankeelde",
+          "jij": "wankeelde",
+          "u": "wankeelde",
+          "hij/zij": "wankeelde",
+          "wij": "wankeelden",
+          "jullie": "wankeelden",
+          "zij_plural": "wankeelden"
+        },
+        "perfect": "gewankeeld"
+      }
+    },
+    {
+      "id": "v1038",
+      "word": "wapenen",
+      "translation": "to arm",
+      "conjugations": {
+        "present": {
+          "ik": "wapeen",
+          "jij": "wapeent",
+          "u": "wapeent",
+          "hij/zij": "wapeent",
+          "wij": "wapenen",
+          "jullie": "wapenen",
+          "zij_plural": "wapenen"
+        },
+        "past": {
+          "ik": "wapeende",
+          "jij": "wapeende",
+          "u": "wapeende",
+          "hij/zij": "wapeende",
+          "wij": "wapeenden",
+          "jullie": "wapeenden",
+          "zij_plural": "wapeenden"
+        },
+        "perfect": "gewapeend"
+      }
+    },
+    {
+      "id": "v1039",
       "word": "wassen",
       "translation": "to wash; to grow",
       "conjugations": {
@@ -19857,7 +39419,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v520",
+      "id": "v1040",
+      "word": "weergeven",
+      "translation": "to reproduce; to render",
+      "conjugations": {
+        "present": {
+          "ik": "weergeef",
+          "jij": "weergeeft",
+          "u": "weergeeft",
+          "hij/zij": "weergeeft",
+          "wij": "weergeven",
+          "jullie": "weergeven",
+          "zij_plural": "weergeven"
+        },
+        "past": {
+          "ik": "weergeefte",
+          "jij": "weergeefte",
+          "u": "weergeefte",
+          "hij/zij": "weergeefte",
+          "wij": "weergeeften",
+          "jullie": "weergeeften",
+          "zij_plural": "weergeeften"
+        },
+        "perfect": "geweergeeft"
+      }
+    },
+    {
+      "id": "v1041",
+      "word": "weerhouden",
+      "translation": "to restrain; to prevent",
+      "conjugations": {
+        "present": {
+          "ik": "weerhoud",
+          "jij": "weerhoudt",
+          "u": "weerhoudt",
+          "hij/zij": "weerhoudt",
+          "wij": "weerhouden",
+          "jullie": "weerhouden",
+          "zij_plural": "weerhouden"
+        },
+        "past": {
+          "ik": "weerhoudde",
+          "jij": "weerhoudde",
+          "u": "weerhoudde",
+          "hij/zij": "weerhoudde",
+          "wij": "weerhoudden",
+          "jullie": "weerhoudden",
+          "zij_plural": "weerhoudden"
+        },
+        "perfect": "geweerhoudd"
+      }
+    },
+    {
+      "id": "v1042",
+      "word": "weerspiegelen",
+      "translation": "to reflect",
+      "conjugations": {
+        "present": {
+          "ik": "weerspiegeel",
+          "jij": "weerspiegeelt",
+          "u": "weerspiegeelt",
+          "hij/zij": "weerspiegeelt",
+          "wij": "weerspiegelen",
+          "jullie": "weerspiegelen",
+          "zij_plural": "weerspiegelen"
+        },
+        "past": {
+          "ik": "weerspiegeelde",
+          "jij": "weerspiegeelde",
+          "u": "weerspiegeelde",
+          "hij/zij": "weerspiegeelde",
+          "wij": "weerspiegeelden",
+          "jullie": "weerspiegeelden",
+          "zij_plural": "weerspiegeelden"
+        },
+        "perfect": "geweerspiegeeld"
+      }
+    },
+    {
+      "id": "v1043",
       "word": "wegen",
       "translation": "to weigh",
       "conjugations": {
@@ -19883,7 +39523,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v521",
+      "id": "v1044",
+      "word": "weggaan",
+      "translation": "to leave, to go away",
+      "conjugations": {
+        "present": {
+          "ik": "weggaa",
+          "jij": "weggaat",
+          "u": "weggaat",
+          "hij/zij": "weggaat",
+          "wij": "weggaan",
+          "jullie": "weggaan",
+          "zij_plural": "weggaan"
+        },
+        "past": {
+          "ik": "weggaade",
+          "jij": "weggaade",
+          "u": "weggaade",
+          "hij/zij": "weggaade",
+          "wij": "weggaaden",
+          "jullie": "weggaaden",
+          "zij_plural": "weggaaden"
+        },
+        "perfect": "geweggaad"
+      }
+    },
+    {
+      "id": "v1045",
+      "word": "wegnemen",
+      "translation": "to take away",
+      "conjugations": {
+        "present": {
+          "ik": "wegneem",
+          "jij": "wegneemt",
+          "u": "wegneemt",
+          "hij/zij": "wegneemt",
+          "wij": "wegnemen",
+          "jullie": "wegnemen",
+          "zij_plural": "wegnemen"
+        },
+        "past": {
+          "ik": "wegneemde",
+          "jij": "wegneemde",
+          "u": "wegneemde",
+          "hij/zij": "wegneemde",
+          "wij": "wegneemden",
+          "jullie": "wegneemden",
+          "zij_plural": "wegneemden"
+        },
+        "perfect": "gewegneemd"
+      }
+    },
+    {
+      "id": "v1046",
       "word": "weigeren",
       "translation": "to refuse",
       "conjugations": {
@@ -19909,7 +39601,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v522",
+      "id": "v1047",
       "word": "wekken",
       "translation": "to wake; to arouse",
       "conjugations": {
@@ -19935,7 +39627,85 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v523",
+      "id": "v1048",
+      "word": "wenden",
+      "translation": "to turn",
+      "conjugations": {
+        "present": {
+          "ik": "wend",
+          "jij": "wendt",
+          "u": "wendt",
+          "hij/zij": "wendt",
+          "wij": "wenden",
+          "jullie": "wenden",
+          "zij_plural": "wenden"
+        },
+        "past": {
+          "ik": "wendde",
+          "jij": "wendde",
+          "u": "wendde",
+          "hij/zij": "wendde",
+          "wij": "wendden",
+          "jullie": "wendden",
+          "zij_plural": "wendden"
+        },
+        "perfect": "gewendd"
+      }
+    },
+    {
+      "id": "v1049",
+      "word": "wenen",
+      "translation": "to weep",
+      "conjugations": {
+        "present": {
+          "ik": "ween",
+          "jij": "weent",
+          "u": "weent",
+          "hij/zij": "weent",
+          "wij": "wenen",
+          "jullie": "wenen",
+          "zij_plural": "wenen"
+        },
+        "past": {
+          "ik": "weende",
+          "jij": "weende",
+          "u": "weende",
+          "hij/zij": "weende",
+          "wij": "weenden",
+          "jullie": "weenden",
+          "zij_plural": "weenden"
+        },
+        "perfect": "geweend"
+      }
+    },
+    {
+      "id": "v1050",
+      "word": "wennen",
+      "translation": "to get used to",
+      "conjugations": {
+        "present": {
+          "ik": "wenn",
+          "jij": "wennt",
+          "u": "wennt",
+          "hij/zij": "wennt",
+          "wij": "wennen",
+          "jullie": "wennen",
+          "zij_plural": "wennen"
+        },
+        "past": {
+          "ik": "wennde",
+          "jij": "wennde",
+          "u": "wennde",
+          "hij/zij": "wennde",
+          "wij": "wennden",
+          "jullie": "wennden",
+          "zij_plural": "wennden"
+        },
+        "perfect": "gewennd"
+      }
+    },
+    {
+      "id": "v1051",
       "word": "wensen",
       "translation": "to wish",
       "conjugations": {
@@ -19961,7 +39731,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v524",
+      "id": "v1052",
+      "word": "weren",
+      "translation": "to keep out; to defend",
+      "conjugations": {
+        "present": {
+          "ik": "weer",
+          "jij": "weert",
+          "u": "weert",
+          "hij/zij": "weert",
+          "wij": "weren",
+          "jullie": "weren",
+          "zij_plural": "weren"
+        },
+        "past": {
+          "ik": "weerde",
+          "jij": "weerde",
+          "u": "weerde",
+          "hij/zij": "weerde",
+          "wij": "weerden",
+          "jullie": "weerden",
+          "zij_plural": "weerden"
+        },
+        "perfect": "geweerd"
+      }
+    },
+    {
+      "id": "v1053",
       "word": "werken",
       "translation": "to work",
       "conjugations": {
@@ -19987,7 +39783,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v525",
+      "id": "v1054",
       "word": "werpen",
       "translation": "to throw",
       "conjugations": {
@@ -20013,7 +39809,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v526",
+      "id": "v1055",
       "word": "weten",
       "translation": "to know",
       "conjugations": {
@@ -20039,7 +39835,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v527",
+      "id": "v1056",
       "word": "wetten",
       "translation": "to sharpen",
       "conjugations": {
@@ -20065,7 +39861,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v528",
+      "id": "v1057",
+      "word": "wiegen",
+      "translation": "to rock; to cradle",
+      "conjugations": {
+        "present": {
+          "ik": "wieg",
+          "jij": "wiegt",
+          "u": "wiegt",
+          "hij/zij": "wiegt",
+          "wij": "wiegen",
+          "jullie": "wiegen",
+          "zij_plural": "wiegen"
+        },
+        "past": {
+          "ik": "wiegde",
+          "jij": "wiegde",
+          "u": "wiegde",
+          "hij/zij": "wiegde",
+          "wij": "wiegden",
+          "jullie": "wiegden",
+          "zij_plural": "wiegden"
+        },
+        "perfect": "gewiegd"
+      }
+    },
+    {
+      "id": "v1058",
       "word": "wijden",
       "translation": "to devote; to consecrate",
       "conjugations": {
@@ -20091,7 +39913,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v529",
+      "id": "v1059",
+      "word": "wijken",
+      "translation": "to yield; to retreat",
+      "conjugations": {
+        "present": {
+          "ik": "wijk",
+          "jij": "wijkt",
+          "u": "wijkt",
+          "hij/zij": "wijkt",
+          "wij": "wijken",
+          "jullie": "wijken",
+          "zij_plural": "wijken"
+        },
+        "past": {
+          "ik": "wijkte",
+          "jij": "wijkte",
+          "u": "wijkte",
+          "hij/zij": "wijkte",
+          "wij": "wijkten",
+          "jullie": "wijkten",
+          "zij_plural": "wijkten"
+        },
+        "perfect": "gewijkt"
+      }
+    },
+    {
+      "id": "v1060",
       "word": "wijzen",
       "translation": "to point",
       "conjugations": {
@@ -20117,7 +39965,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v530",
+      "id": "v1061",
       "word": "wijzigen",
       "translation": "to change, to modify",
       "conjugations": {
@@ -20143,7 +39991,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v531",
+      "id": "v1062",
       "word": "willen",
       "translation": "to want",
       "conjugations": {
@@ -20169,7 +40017,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v532",
+      "id": "v1063",
       "word": "winnen",
       "translation": "to win",
       "conjugations": {
@@ -20195,7 +40043,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v533",
+      "id": "v1064",
       "word": "wisselen",
       "translation": "to exchange; to change",
       "conjugations": {
@@ -20221,7 +40069,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v534",
+      "id": "v1065",
       "word": "wonen",
       "translation": "to live (reside)",
       "conjugations": {
@@ -20247,7 +40095,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v535",
+      "id": "v1066",
       "word": "worden",
       "translation": "to become",
       "conjugations": {
@@ -20273,7 +40121,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v536",
+      "id": "v1067",
+      "word": "worstelen",
+      "translation": "to wrestle; to struggle",
+      "conjugations": {
+        "present": {
+          "ik": "worsteel",
+          "jij": "worsteelt",
+          "u": "worsteelt",
+          "hij/zij": "worsteelt",
+          "wij": "worstelen",
+          "jullie": "worstelen",
+          "zij_plural": "worstelen"
+        },
+        "past": {
+          "ik": "worsteelde",
+          "jij": "worsteelde",
+          "u": "worsteelde",
+          "hij/zij": "worsteelde",
+          "wij": "worsteelden",
+          "jullie": "worsteelden",
+          "zij_plural": "worsteelden"
+        },
+        "perfect": "geworsteeld"
+      }
+    },
+    {
+      "id": "v1068",
       "word": "wrijven",
       "translation": "to rub",
       "conjugations": {
@@ -20299,7 +40173,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v537",
+      "id": "v1069",
+      "word": "zaaien",
+      "translation": "to sow",
+      "conjugations": {
+        "present": {
+          "ik": "zaai",
+          "jij": "zaait",
+          "u": "zaait",
+          "hij/zij": "zaait",
+          "wij": "zaaien",
+          "jullie": "zaaien",
+          "zij_plural": "zaaien"
+        },
+        "past": {
+          "ik": "zaaide",
+          "jij": "zaaide",
+          "u": "zaaide",
+          "hij/zij": "zaaide",
+          "wij": "zaaiden",
+          "jullie": "zaaiden",
+          "zij_plural": "zaaiden"
+        },
+        "perfect": "gezaaid"
+      }
+    },
+    {
+      "id": "v1070",
+      "word": "zakken",
+      "translation": "to sink; to fail",
+      "conjugations": {
+        "present": {
+          "ik": "zakk",
+          "jij": "zakkt",
+          "u": "zakkt",
+          "hij/zij": "zakkt",
+          "wij": "zakken",
+          "jullie": "zakken",
+          "zij_plural": "zakken"
+        },
+        "past": {
+          "ik": "zakkte",
+          "jij": "zakkte",
+          "u": "zakkte",
+          "hij/zij": "zakkte",
+          "wij": "zakkten",
+          "jullie": "zakkten",
+          "zij_plural": "zakkten"
+        },
+        "perfect": "gezakkt"
+      }
+    },
+    {
+      "id": "v1071",
       "word": "zeggen",
       "translation": "to say",
       "conjugations": {
@@ -20325,7 +40251,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v538",
+      "id": "v1072",
       "word": "zeilen",
       "translation": "to sail",
       "conjugations": {
@@ -20351,7 +40277,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v539",
+      "id": "v1073",
       "word": "zenden",
       "translation": "to send",
       "conjugations": {
@@ -20377,7 +40303,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v540",
+      "id": "v1074",
       "word": "zetten",
       "translation": "to put; to set",
       "conjugations": {
@@ -20403,7 +40329,33 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v541",
+      "id": "v1075",
+      "word": "zeuren",
+      "translation": "to nag, to whine",
+      "conjugations": {
+        "present": {
+          "ik": "zeur",
+          "jij": "zeurt",
+          "u": "zeurt",
+          "hij/zij": "zeurt",
+          "wij": "zeuren",
+          "jullie": "zeuren",
+          "zij_plural": "zeuren"
+        },
+        "past": {
+          "ik": "zeurde",
+          "jij": "zeurde",
+          "u": "zeurde",
+          "hij/zij": "zeurde",
+          "wij": "zeurden",
+          "jullie": "zeurden",
+          "zij_plural": "zeurden"
+        },
+        "perfect": "gezeurd"
+      }
+    },
+    {
+      "id": "v1076",
       "word": "zien",
       "translation": "to see",
       "conjugations": {
@@ -20429,7 +40381,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v542",
+      "id": "v1077",
       "word": "zijn",
       "translation": "to be",
       "conjugations": {
@@ -20455,7 +40407,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v543",
+      "id": "v1078",
+      "word": "zingen",
+      "translation": "to sing",
+      "conjugations": {
+        "present": {
+          "ik": "zing",
+          "jij": "zingt",
+          "u": "zingt",
+          "hij/zij": "zingt",
+          "wij": "zingen",
+          "jullie": "zingen",
+          "zij_plural": "zingen"
+        },
+        "past": {
+          "ik": "zong",
+          "jij": "zong",
+          "u": "zong",
+          "hij/zij": "zong",
+          "wij": "zongen",
+          "jullie": "zongen",
+          "zij_plural": "zongen"
+        },
+        "perfect": "gezongen"
+      }
+    },
+    {
+      "id": "v1079",
+      "word": "zinken",
+      "translation": "to sink",
+      "conjugations": {
+        "present": {
+          "ik": "zink",
+          "jij": "zinkt",
+          "u": "zinkt",
+          "hij/zij": "zinkt",
+          "wij": "zinken",
+          "jullie": "zinken",
+          "zij_plural": "zinken"
+        },
+        "past": {
+          "ik": "zinkte",
+          "jij": "zinkte",
+          "u": "zinkte",
+          "hij/zij": "zinkte",
+          "wij": "zinkten",
+          "jullie": "zinkten",
+          "zij_plural": "zinkten"
+        },
+        "perfect": "gezinkt"
+      }
+    },
+    {
+      "id": "v1080",
       "word": "zinnen",
       "translation": "to ponder",
       "conjugations": {
@@ -20481,7 +40485,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v544",
+      "id": "v1081",
       "word": "zitten",
       "translation": "to sit",
       "conjugations": {
@@ -20507,7 +40511,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v545",
+      "id": "v1082",
       "word": "zoeken",
       "translation": "to search",
       "conjugations": {
@@ -20533,7 +40537,59 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v546",
+      "id": "v1083",
+      "word": "zoemen",
+      "translation": "to buzz, to hum",
+      "conjugations": {
+        "present": {
+          "ik": "zoem",
+          "jij": "zoemt",
+          "u": "zoemt",
+          "hij/zij": "zoemt",
+          "wij": "zoemen",
+          "jullie": "zoemen",
+          "zij_plural": "zoemen"
+        },
+        "past": {
+          "ik": "zoemde",
+          "jij": "zoemde",
+          "u": "zoemde",
+          "hij/zij": "zoemde",
+          "wij": "zoemden",
+          "jullie": "zoemden",
+          "zij_plural": "zoemden"
+        },
+        "perfect": "gezoemd"
+      }
+    },
+    {
+      "id": "v1084",
+      "word": "zoenen",
+      "translation": "to kiss",
+      "conjugations": {
+        "present": {
+          "ik": "zoen",
+          "jij": "zoent",
+          "u": "zoent",
+          "hij/zij": "zoent",
+          "wij": "zoenen",
+          "jullie": "zoenen",
+          "zij_plural": "zoenen"
+        },
+        "past": {
+          "ik": "zoende",
+          "jij": "zoende",
+          "u": "zoende",
+          "hij/zij": "zoende",
+          "wij": "zoenden",
+          "jullie": "zoenden",
+          "zij_plural": "zoenden"
+        },
+        "perfect": "gezoend"
+      }
+    },
+    {
+      "id": "v1085",
       "word": "zorgen",
       "translation": "to take care of; to worry",
       "conjugations": {
@@ -20559,7 +40615,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v547",
+      "id": "v1086",
       "word": "zuchten",
       "translation": "to sigh",
       "conjugations": {
@@ -20585,7 +40641,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v548",
+      "id": "v1087",
       "word": "zuigen",
       "translation": "to suck",
       "conjugations": {
@@ -20611,7 +40667,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v549",
+      "id": "v1088",
       "word": "zullen",
       "translation": "to shall, will",
       "conjugations": {
@@ -20637,7 +40693,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v550",
+      "id": "v1089",
       "word": "zwaaien",
       "translation": "to wave",
       "conjugations": {
@@ -20663,7 +40719,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v551",
+      "id": "v1090",
       "word": "zwellen",
       "translation": "to swell",
       "conjugations": {
@@ -20689,7 +40745,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v552",
+      "id": "v1091",
       "word": "zwemmen",
       "translation": "to swim",
       "conjugations": {
@@ -20715,7 +40771,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v553",
+      "id": "v1092",
       "word": "zweren",
       "translation": "to swear",
       "conjugations": {
@@ -20741,7 +40797,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v554",
+      "id": "v1093",
       "word": "zwerven",
       "translation": "to wander",
       "conjugations": {
@@ -20767,7 +40823,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v555",
+      "id": "v1094",
       "word": "zweten",
       "translation": "to sweat",
       "conjugations": {
@@ -20793,7 +40849,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v556",
+      "id": "v1095",
       "word": "zweven",
       "translation": "to float, to hover",
       "conjugations": {
@@ -20819,7 +40875,7 @@ const SEED_DATA = {
       }
     },
     {
-      "id": "v557",
+      "id": "v1096",
       "word": "zwijgen",
       "translation": "to be silent",
       "conjugations": {
@@ -20868,2301 +40924,4671 @@ const SEED_DATA = {
     },
     {
       "id": "a5",
+      "word": "aangezien",
+      "translation": "since, considering"
+    },
+    {
+      "id": "a6",
       "word": "aantrekkelijk",
       "translation": "attractive"
     },
     {
-      "id": "a6",
+      "id": "a7",
+      "word": "aanvaardbaar",
+      "translation": "acceptable"
+    },
+    {
+      "id": "a8",
       "word": "aanvankelijk",
       "translation": "initial"
     },
     {
-      "id": "a7",
+      "id": "a9",
       "word": "aanwezig",
       "translation": "present"
     },
     {
-      "id": "a8",
+      "id": "a10",
       "word": "aanzienlijk",
       "translation": "considerable"
     },
     {
-      "id": "a9",
+      "id": "a11",
       "word": "aardig",
       "translation": "nice, kind"
     },
     {
-      "id": "a10",
+      "id": "a12",
       "word": "aards",
       "translation": "earthly"
     },
     {
-      "id": "a11",
+      "id": "a13",
+      "word": "abrupt",
+      "translation": "abrupt"
+    },
+    {
+      "id": "a14",
       "word": "absoluut",
       "translation": "absolute"
     },
     {
-      "id": "a12",
+      "id": "a15",
+      "word": "abstract",
+      "translation": "abstract"
+    },
+    {
+      "id": "a16",
+      "word": "absurd",
+      "translation": "absurd"
+    },
+    {
+      "id": "a17",
+      "word": "academisch",
+      "translation": "academic"
+    },
+    {
+      "id": "a18",
+      "word": "achteloos",
+      "translation": "careless, casual"
+    },
+    {
+      "id": "a19",
+      "word": "achteraan",
+      "translation": "at the back"
+    },
+    {
+      "id": "a20",
+      "word": "achteraf",
+      "translation": "afterwards; in hindsight"
+    },
+    {
+      "id": "a21",
       "word": "actief",
       "translation": "active"
     },
     {
-      "id": "a13",
+      "id": "a22",
+      "word": "actueel",
+      "translation": "current, topical"
+    },
+    {
+      "id": "a23",
+      "word": "acuut",
+      "translation": "acute"
+    },
+    {
+      "id": "a24",
+      "word": "adequaat",
+      "translation": "adequate"
+    },
+    {
+      "id": "a25",
       "word": "administratief",
       "translation": "administrative"
     },
     {
-      "id": "a14",
+      "id": "a26",
       "word": "afgezien",
       "translation": "apart from"
     },
     {
-      "id": "a15",
+      "id": "a27",
       "word": "afhankelijk",
       "translation": "dependent"
     },
     {
-      "id": "a16",
+      "id": "a28",
       "word": "afkomstig",
       "translation": "originating from"
     },
     {
-      "id": "a17",
+      "id": "a29",
       "word": "afschuwelijk",
       "translation": "horrible, awful"
     },
     {
-      "id": "a18",
+      "id": "a30",
+      "word": "afwezig",
+      "translation": "absent"
+    },
+    {
+      "id": "a31",
       "word": "afzonderlijk",
       "translation": "separate, individual"
     },
     {
-      "id": "a19",
+      "id": "a32",
       "word": "agressief",
       "translation": "aggressive"
     },
     {
-      "id": "a20",
+      "id": "a33",
+      "word": "akelig",
+      "translation": "unpleasant, nasty"
+    },
+    {
+      "id": "a34",
       "word": "algemeen",
       "translation": "general"
     },
     {
-      "id": "a21",
+      "id": "a35",
+      "word": "alledaags",
+      "translation": "everyday, ordinary"
+    },
+    {
+      "id": "a36",
       "word": "allerlei",
       "translation": "all kinds of"
     },
     {
-      "id": "a22",
+      "id": "a37",
+      "word": "ambtelijk",
+      "translation": "official, bureaucratic"
+    },
+    {
+      "id": "a38",
+      "word": "ander",
+      "translation": "other"
+    },
+    {
+      "id": "a39",
+      "word": "anderhalf",
+      "translation": "one and a half"
+    },
+    {
+      "id": "a40",
+      "word": "anders",
+      "translation": "different; otherwise"
+    },
+    {
+      "id": "a41",
+      "word": "anderzijds",
+      "translation": "on the other hand"
+    },
+    {
+      "id": "a42",
       "word": "angstig",
       "translation": "anxious, fearful"
     },
     {
-      "id": "a23",
+      "id": "a43",
+      "word": "anoniem",
+      "translation": "anonymous"
+    },
+    {
+      "id": "a44",
+      "word": "antiek",
+      "translation": "antique"
+    },
+    {
+      "id": "a45",
       "word": "apart",
       "translation": "separate; special"
     },
     {
-      "id": "a24",
+      "id": "a46",
+      "word": "artistiek",
+      "translation": "artistic"
+    },
+    {
+      "id": "a47",
       "word": "automatisch",
       "translation": "automatic"
     },
     {
-      "id": "a25",
+      "id": "a48",
+      "word": "autonoom",
+      "translation": "autonomous"
+    },
+    {
+      "id": "a49",
       "word": "bang",
       "translation": "afraid, scared"
     },
     {
-      "id": "a26",
+      "id": "a50",
       "word": "bar",
       "translation": "harsh; bar"
     },
     {
-      "id": "a27",
+      "id": "a51",
       "word": "bedacht",
       "translation": "prepared for; devised"
     },
     {
-      "id": "a28",
+      "id": "a52",
+      "word": "bedekt",
+      "translation": "covered"
+    },
+    {
+      "id": "a53",
+      "word": "begaafd",
+      "translation": "gifted, talented"
+    },
+    {
+      "id": "a54",
       "word": "begrijpelijk",
       "translation": "understandable"
     },
     {
-      "id": "a29",
+      "id": "a55",
+      "word": "beheerst",
+      "translation": "controlled, composed"
+    },
+    {
+      "id": "a56",
+      "word": "behoedzaam",
+      "translation": "cautious"
+    },
+    {
+      "id": "a57",
       "word": "behoorlijk",
       "translation": "considerable; proper"
     },
     {
-      "id": "a30",
+      "id": "a58",
       "word": "beide",
       "translation": "both"
     },
     {
-      "id": "a31",
+      "id": "a59",
       "word": "bekend",
       "translation": "known, famous"
     },
     {
-      "id": "a32",
+      "id": "a60",
+      "word": "bekwaam",
+      "translation": "capable, competent"
+    },
+    {
+      "id": "a61",
       "word": "belachelijk",
       "translation": "ridiculous"
     },
     {
-      "id": "a33",
+      "id": "a62",
       "word": "belangrijk",
       "translation": "important"
     },
     {
-      "id": "a34",
+      "id": "a63",
+      "word": "beleefd",
+      "translation": "polite"
+    },
+    {
+      "id": "a64",
+      "word": "benodigd",
+      "translation": "required, needed"
+    },
+    {
+      "id": "a65",
       "word": "bepaald",
       "translation": "certain, specific"
     },
     {
-      "id": "a35",
+      "id": "a66",
       "word": "beperkt",
       "translation": "limited"
     },
     {
-      "id": "a36",
+      "id": "a67",
       "word": "bereid",
       "translation": "willing, prepared"
     },
     {
-      "id": "a37",
+      "id": "a68",
       "word": "beroemd",
       "translation": "famous"
     },
     {
-      "id": "a38",
+      "id": "a69",
+      "word": "berucht",
+      "translation": "notorious"
+    },
+    {
+      "id": "a70",
       "word": "bescheiden",
       "translation": "modest"
     },
     {
-      "id": "a39",
+      "id": "a71",
       "word": "beschikbaar",
       "translation": "available"
     },
     {
-      "id": "a40",
+      "id": "a72",
+      "word": "beslissend",
+      "translation": "decisive"
+    },
+    {
+      "id": "a73",
       "word": "beslist",
       "translation": "definite, resolute"
     },
     {
-      "id": "a41",
+      "id": "a74",
       "word": "besloten",
       "translation": "closed; private"
     },
     {
-      "id": "a42",
+      "id": "a75",
       "word": "best",
       "translation": "best"
     },
     {
-      "id": "a43",
+      "id": "a76",
       "word": "beter",
       "translation": "better"
     },
     {
-      "id": "a44",
+      "id": "a77",
       "word": "betreffende",
       "translation": "concerning, regarding"
     },
     {
-      "id": "a45",
+      "id": "a78",
       "word": "betrekkelijk",
       "translation": "relative, relatively"
     },
     {
-      "id": "a46",
+      "id": "a79",
       "word": "betrokken",
       "translation": "involved, concerned"
     },
     {
-      "id": "a47",
+      "id": "a80",
       "word": "betrouwbaar",
       "translation": "reliable"
     },
     {
-      "id": "a48",
+      "id": "a81",
+      "word": "bevoegd",
+      "translation": "authorized, competent"
+    },
+    {
+      "id": "a82",
+      "word": "bevriend",
+      "translation": "friendly, befriended"
+    },
+    {
+      "id": "a83",
       "word": "bewust",
       "translation": "conscious, aware"
     },
     {
-      "id": "a49",
+      "id": "a84",
+      "word": "bezet",
+      "translation": "occupied"
+    },
+    {
+      "id": "a85",
       "word": "bezig",
       "translation": "busy"
     },
     {
-      "id": "a50",
+      "id": "a86",
       "word": "bezorgd",
       "translation": "worried, concerned"
     },
     {
-      "id": "a51",
+      "id": "a87",
       "word": "bijzonder",
       "translation": "special, remarkable"
     },
     {
-      "id": "a52",
+      "id": "a88",
+      "word": "binnenlands",
+      "translation": "domestic"
+    },
+    {
+      "id": "a89",
       "word": "biologisch",
       "translation": "biological, organic"
     },
     {
-      "id": "a53",
+      "id": "a90",
       "word": "bitter",
       "translation": "bitter"
     },
     {
-      "id": "a54",
+      "id": "a91",
       "word": "blank",
       "translation": "white, pale"
     },
     {
-      "id": "a55",
+      "id": "a92",
       "word": "blauw",
       "translation": "blue"
     },
     {
-      "id": "a56",
+      "id": "a93",
       "word": "bleek",
       "translation": "pale"
     },
     {
-      "id": "a57",
+      "id": "a94",
       "word": "blij",
       "translation": "happy, glad"
     },
     {
-      "id": "a58",
+      "id": "a95",
       "word": "blijkbaar",
       "translation": "apparently"
     },
     {
-      "id": "a59",
+      "id": "a96",
+      "word": "blijvend",
+      "translation": "lasting, permanent"
+    },
+    {
+      "id": "a97",
       "word": "blind",
       "translation": "blind"
     },
     {
-      "id": "a60",
+      "id": "a98",
       "word": "blond",
       "translation": "blond"
     },
     {
-      "id": "a61",
+      "id": "a99",
       "word": "bloot",
       "translation": "bare, naked"
     },
     {
-      "id": "a62",
+      "id": "a100",
+      "word": "boeiend",
+      "translation": "fascinating"
+    },
+    {
+      "id": "a101",
+      "word": "bont",
+      "translation": "colorful; fur"
+    },
+    {
+      "id": "a102",
       "word": "boos",
       "translation": "angry"
     },
     {
-      "id": "a63",
+      "id": "a103",
+      "word": "bot",
+      "translation": "blunt; bone"
+    },
+    {
+      "id": "a104",
+      "word": "bovengenoemd",
+      "translation": "above-mentioned"
+    },
+    {
+      "id": "a105",
+      "word": "bovenop",
+      "translation": "on top of"
+    },
+    {
+      "id": "a106",
+      "word": "bovenstaand",
+      "translation": "above-mentioned"
+    },
+    {
+      "id": "a107",
       "word": "braaf",
       "translation": "well-behaved, good"
     },
     {
-      "id": "a64",
+      "id": "a108",
       "word": "breed",
       "translation": "wide, broad"
     },
     {
-      "id": "a65",
+      "id": "a109",
+      "word": "briljant",
+      "translation": "brilliant"
+    },
+    {
+      "id": "a110",
+      "word": "bruikbaar",
+      "translation": "usable"
+    },
+    {
+      "id": "a111",
       "word": "bruin",
       "translation": "brown"
     },
     {
-      "id": "a66",
+      "id": "a112",
+      "word": "brutaal",
+      "translation": "rude, cheeky"
+    },
+    {
+      "id": "a113",
+      "word": "buitengewoon",
+      "translation": "extraordinary"
+    },
+    {
+      "id": "a114",
+      "word": "buitenlands",
+      "translation": "foreign"
+    },
+    {
+      "id": "a115",
       "word": "burgerlijk",
       "translation": "civil; bourgeois"
     },
     {
-      "id": "a67",
+      "id": "a116",
       "word": "centraal",
       "translation": "central"
     },
     {
-      "id": "a68",
+      "id": "a117",
+      "word": "charmant",
+      "translation": "charming"
+    },
+    {
+      "id": "a118",
       "word": "chemisch",
       "translation": "chemical"
     },
     {
-      "id": "a69",
+      "id": "a119",
       "word": "christelijk",
       "translation": "Christian"
     },
     {
-      "id": "a70",
+      "id": "a120",
+      "word": "chronisch",
+      "translation": "chronic"
+    },
+    {
+      "id": "a121",
+      "word": "cognitief",
+      "translation": "cognitive"
+    },
+    {
+      "id": "a122",
       "word": "collectief",
       "translation": "collective"
     },
     {
-      "id": "a71",
+      "id": "a123",
+      "word": "commercieel",
+      "translation": "commercial"
+    },
+    {
+      "id": "a124",
       "word": "communistisch",
       "translation": "communist"
     },
     {
-      "id": "a72",
+      "id": "a125",
       "word": "compleet",
       "translation": "complete"
     },
     {
-      "id": "a73",
+      "id": "a126",
+      "word": "complex",
+      "translation": "complex"
+    },
+    {
+      "id": "a127",
       "word": "concreet",
       "translation": "concrete, specific"
     },
     {
-      "id": "a74",
+      "id": "a128",
+      "word": "consequent",
+      "translation": "consistent"
+    },
+    {
+      "id": "a129",
+      "word": "conservatief",
+      "translation": "conservative"
+    },
+    {
+      "id": "a130",
+      "word": "constant",
+      "translation": "constant"
+    },
+    {
+      "id": "a131",
+      "word": "correct",
+      "translation": "correct"
+    },
+    {
+      "id": "a132",
+      "word": "creatief",
+      "translation": "creative"
+    },
+    {
+      "id": "a133",
       "word": "cultureel",
       "translation": "cultural"
     },
     {
-      "id": "a75",
+      "id": "a134",
+      "word": "daadwerkelijk",
+      "translation": "actual, real"
+    },
+    {
+      "id": "a135",
+      "word": "dadelijk",
+      "translation": "immediately"
+    },
+    {
+      "id": "a136",
       "word": "dagelijks",
       "translation": "daily"
     },
     {
-      "id": "a76",
+      "id": "a137",
       "word": "dankbaar",
       "translation": "grateful"
     },
     {
-      "id": "a77",
+      "id": "a138",
+      "word": "dapper",
+      "translation": "brave"
+    },
+    {
+      "id": "a139",
       "word": "definitief",
       "translation": "definitive, final"
     },
     {
-      "id": "a78",
+      "id": "a140",
+      "word": "deftig",
+      "translation": "distinguished, posh"
+    },
+    {
+      "id": "a141",
       "word": "degelijk",
       "translation": "solid, thorough"
     },
     {
-      "id": "a79",
+      "id": "a142",
       "word": "democratisch",
       "translation": "democratic"
     },
     {
-      "id": "a80",
+      "id": "a143",
       "word": "denkbaar",
       "translation": "conceivable"
     },
     {
-      "id": "a81",
+      "id": "a144",
+      "word": "denkbeeldig",
+      "translation": "imaginary"
+    },
+    {
+      "id": "a145",
       "word": "derde",
       "translation": "third"
     },
     {
-      "id": "a82",
+      "id": "a146",
       "word": "dergelijk",
       "translation": "such, similar"
     },
     {
-      "id": "a83",
+      "id": "a147",
+      "word": "deskundig",
+      "translation": "expert, skilled"
+    },
+    {
+      "id": "a148",
       "word": "dicht",
       "translation": "closed; dense; near"
     },
     {
-      "id": "a84",
+      "id": "a149",
       "word": "dichtbij",
       "translation": "nearby"
     },
     {
-      "id": "a85",
+      "id": "a150",
       "word": "diep",
       "translation": "deep"
     },
     {
-      "id": "a86",
+      "id": "a151",
       "word": "dik",
       "translation": "thick, fat"
     },
     {
-      "id": "a87",
+      "id": "a152",
+      "word": "dikwijls",
+      "translation": "often"
+    },
+    {
+      "id": "a153",
       "word": "direct",
       "translation": "direct"
     },
     {
-      "id": "a88",
+      "id": "a154",
       "word": "divers",
       "translation": "various"
     },
     {
-      "id": "a89",
+      "id": "a155",
       "word": "dodelijk",
       "translation": "deadly"
     },
     {
-      "id": "a90",
+      "id": "a156",
+      "word": "doeltreffend",
+      "translation": "effective"
+    },
+    {
+      "id": "a157",
+      "word": "dof",
+      "translation": "dull, muffled"
+    },
+    {
+      "id": "a158",
       "word": "dol",
       "translation": "crazy; fond of"
     },
     {
-      "id": "a91",
+      "id": "a159",
       "word": "dom",
       "translation": "stupid"
     },
     {
-      "id": "a92",
+      "id": "a160",
       "word": "donker",
       "translation": "dark"
     },
     {
-      "id": "a93",
+      "id": "a161",
+      "word": "doodstil",
+      "translation": "dead silent"
+    },
+    {
+      "id": "a162",
+      "word": "doorzichtig",
+      "translation": "transparent"
+    },
+    {
+      "id": "a163",
+      "word": "dramatisch",
+      "translation": "dramatic"
+    },
+    {
+      "id": "a164",
+      "word": "driftig",
+      "translation": "hot-tempered"
+    },
+    {
+      "id": "a165",
+      "word": "dringend",
+      "translation": "urgent"
+    },
+    {
+      "id": "a166",
+      "word": "droevig",
+      "translation": "sad"
+    },
+    {
+      "id": "a167",
       "word": "dronken",
       "translation": "drunk"
     },
     {
-      "id": "a94",
+      "id": "a168",
       "word": "droog",
       "translation": "dry"
     },
     {
-      "id": "a95",
+      "id": "a169",
       "word": "druk",
       "translation": "busy; pressure"
     },
     {
-      "id": "a96",
+      "id": "a170",
+      "word": "dubbel",
+      "translation": "double"
+    },
+    {
+      "id": "a171",
       "word": "duidelijk",
       "translation": "clear, obvious"
     },
     {
-      "id": "a97",
+      "id": "a172",
       "word": "duister",
       "translation": "dark, obscure"
     },
     {
-      "id": "a98",
+      "id": "a173",
       "word": "duizend",
       "translation": "thousand"
     },
     {
-      "id": "a99",
+      "id": "a174",
+      "word": "dun",
+      "translation": "thin"
+    },
+    {
+      "id": "a175",
       "word": "duur",
       "translation": "expensive"
     },
     {
-      "id": "a100",
+      "id": "a176",
       "word": "duurzaam",
       "translation": "sustainable, durable"
     },
     {
-      "id": "a101",
+      "id": "a177",
+      "word": "dwaas",
+      "translation": "foolish"
+    },
+    {
+      "id": "a178",
+      "word": "dwars",
+      "translation": "diagonal; stubborn"
+    },
+    {
+      "id": "a179",
+      "word": "echt",
+      "translation": "real; really"
+    },
+    {
+      "id": "a180",
       "word": "economisch",
       "translation": "economic"
     },
     {
-      "id": "a102",
+      "id": "a181",
+      "word": "edel",
+      "translation": "noble"
+    },
+    {
+      "id": "a182",
       "word": "eens",
       "translation": "once; agreed"
     },
     {
-      "id": "a103",
+      "id": "a183",
       "word": "eenvoudig",
       "translation": "simple"
     },
     {
-      "id": "a104",
+      "id": "a184",
+      "word": "eenzaam",
+      "translation": "lonely"
+    },
+    {
+      "id": "a185",
+      "word": "eenzijdig",
+      "translation": "one-sided"
+    },
+    {
+      "id": "a186",
       "word": "eerder",
       "translation": "earlier; rather"
     },
     {
-      "id": "a105",
+      "id": "a187",
       "word": "eerlijk",
       "translation": "honest"
     },
     {
-      "id": "a106",
+      "id": "a188",
       "word": "eerst",
       "translation": "first"
     },
     {
-      "id": "a107",
+      "id": "a189",
+      "word": "eeuwig",
+      "translation": "eternal"
+    },
+    {
+      "id": "a190",
       "word": "effectief",
       "translation": "effective"
     },
     {
-      "id": "a108",
+      "id": "a191",
+      "word": "efficiënt",
+      "translation": "efficient"
+    },
+    {
+      "id": "a192",
       "word": "eigen",
       "translation": "own"
     },
     {
-      "id": "a109",
+      "id": "a193",
       "word": "eigenaardig",
       "translation": "peculiar, strange"
     },
     {
-      "id": "a110",
+      "id": "a194",
       "word": "eigenlijk",
       "translation": "actually; real"
     },
     {
-      "id": "a111",
+      "id": "a195",
       "word": "eindelijk",
       "translation": "finally"
     },
     {
-      "id": "a112",
+      "id": "a196",
+      "word": "eindeloos",
+      "translation": "endless"
+    },
+    {
+      "id": "a197",
+      "word": "elegant",
+      "translation": "elegant"
+    },
+    {
+      "id": "a198",
       "word": "elektrisch",
       "translation": "electric"
     },
     {
-      "id": "a113",
+      "id": "a199",
+      "word": "elektronisch",
+      "translation": "electronic"
+    },
+    {
+      "id": "a200",
+      "word": "elementair",
+      "translation": "elementary"
+    },
+    {
+      "id": "a201",
       "word": "elf",
       "translation": "eleven"
     },
     {
-      "id": "a114",
+      "id": "a202",
+      "word": "ellendig",
+      "translation": "miserable"
+    },
+    {
+      "id": "a203",
+      "word": "emotioneel",
+      "translation": "emotional"
+    },
+    {
+      "id": "a204",
       "word": "empirisch",
       "translation": "empirical"
     },
     {
-      "id": "a115",
+      "id": "a205",
+      "word": "enerzijds",
+      "translation": "on the one hand"
+    },
+    {
+      "id": "a206",
+      "word": "eng",
+      "translation": "scary; narrow"
+    },
+    {
+      "id": "a207",
       "word": "enig",
       "translation": "only; some; unique"
     },
     {
-      "id": "a116",
+      "id": "a208",
+      "word": "enigszins",
+      "translation": "somewhat"
+    },
+    {
+      "id": "a209",
       "word": "enkel",
       "translation": "single; only"
     },
     {
-      "id": "a117",
+      "id": "a210",
       "word": "enorm",
       "translation": "enormous"
     },
     {
-      "id": "a118",
+      "id": "a211",
       "word": "enthousiast",
       "translation": "enthusiastic"
     },
     {
-      "id": "a119",
+      "id": "a212",
+      "word": "enzovoort",
+      "translation": "and so on"
+    },
+    {
+      "id": "a213",
+      "word": "erfelijk",
+      "translation": "hereditary"
+    },
+    {
+      "id": "a214",
       "word": "erg",
       "translation": "bad; very"
     },
     {
-      "id": "a120",
+      "id": "a215",
       "word": "ergens",
       "translation": "somewhere"
     },
     {
-      "id": "a121",
+      "id": "a216",
       "word": "ernstig",
       "translation": "serious"
     },
     {
-      "id": "a122",
+      "id": "a217",
+      "word": "erotisch",
+      "translation": "erotic"
+    },
+    {
+      "id": "a218",
       "word": "essentieel",
       "translation": "essential"
     },
     {
-      "id": "a123",
+      "id": "a219",
       "word": "ethisch",
       "translation": "ethical"
     },
     {
-      "id": "a124",
+      "id": "a220",
       "word": "eventueel",
       "translation": "possible, potential"
     },
     {
-      "id": "a125",
+      "id": "a221",
+      "word": "evenwichtig",
+      "translation": "balanced"
+    },
+    {
+      "id": "a222",
+      "word": "exact",
+      "translation": "exact"
+    },
+    {
+      "id": "a223",
+      "word": "exclusief",
+      "translation": "exclusive"
+    },
+    {
+      "id": "a224",
+      "word": "experimenteel",
+      "translation": "experimental"
+    },
+    {
+      "id": "a225",
+      "word": "expliciet",
+      "translation": "explicit"
+    },
+    {
+      "id": "a226",
+      "word": "extern",
+      "translation": "external"
+    },
+    {
+      "id": "a227",
+      "word": "extreem",
+      "translation": "extreme"
+    },
+    {
+      "id": "a228",
+      "word": "fantastisch",
+      "translation": "fantastic"
+    },
+    {
+      "id": "a229",
+      "word": "fataal",
+      "translation": "fatal"
+    },
+    {
+      "id": "a230",
+      "word": "fatsoenlijk",
+      "translation": "decent, proper"
+    },
+    {
+      "id": "a231",
+      "word": "feestelijk",
+      "translation": "festive"
+    },
+    {
+      "id": "a232",
       "word": "feitelijk",
       "translation": "actual, factual"
     },
     {
-      "id": "a126",
+      "id": "a233",
+      "word": "fel",
+      "translation": "fierce; bright"
+    },
+    {
+      "id": "a234",
+      "word": "fijn",
+      "translation": "fine; nice"
+    },
+    {
+      "id": "a235",
+      "word": "filosofisch",
+      "translation": "philosophical"
+    },
+    {
+      "id": "a236",
       "word": "financieel",
       "translation": "financial"
     },
     {
-      "id": "a127",
+      "id": "a237",
       "word": "flauw",
       "translation": "faint; lame"
     },
     {
-      "id": "a128",
+      "id": "a238",
+      "word": "flink",
+      "translation": "considerable; brave"
+    },
+    {
+      "id": "a239",
       "word": "formeel",
       "translation": "formal"
     },
     {
-      "id": "a129",
+      "id": "a240",
+      "word": "fors",
+      "translation": "sturdy; substantial"
+    },
+    {
+      "id": "a241",
+      "word": "fraai",
+      "translation": "beautiful, fine"
+    },
+    {
+      "id": "a242",
       "word": "fris",
       "translation": "fresh, cool"
     },
     {
-      "id": "a130",
+      "id": "a243",
+      "word": "functioneel",
+      "translation": "functional"
+    },
+    {
+      "id": "a244",
+      "word": "fundamenteel",
+      "translation": "fundamental"
+    },
+    {
+      "id": "a245",
       "word": "fysiek",
       "translation": "physical"
     },
     {
-      "id": "a131",
+      "id": "a246",
+      "word": "gangbaar",
+      "translation": "common, current"
+    },
+    {
+      "id": "a247",
       "word": "gauw",
       "translation": "quick, soon"
     },
     {
-      "id": "a132",
+      "id": "a248",
       "word": "geacht",
       "translation": "esteemed"
     },
     {
-      "id": "a133",
+      "id": "a249",
+      "word": "geboren",
+      "translation": "born"
+    },
+    {
+      "id": "a250",
+      "word": "gebrekkig",
+      "translation": "deficient, poor"
+    },
+    {
+      "id": "a251",
+      "word": "gebruikelijk",
+      "translation": "usual, customary"
+    },
+    {
+      "id": "a252",
+      "word": "gecompliceerd",
+      "translation": "complicated"
+    },
+    {
+      "id": "a253",
+      "word": "gedeeltelijk",
+      "translation": "partial"
+    },
+    {
+      "id": "a254",
+      "word": "gedreven",
+      "translation": "driven, passionate"
+    },
+    {
+      "id": "a255",
+      "word": "geduldig",
+      "translation": "patient"
+    },
+    {
+      "id": "a256",
       "word": "gedurende",
       "translation": "during"
     },
     {
-      "id": "a134",
+      "id": "a257",
       "word": "geel",
       "translation": "yellow"
     },
     {
-      "id": "a135",
+      "id": "a258",
       "word": "geen",
       "translation": "no, none"
     },
     {
-      "id": "a136",
+      "id": "a259",
+      "word": "geestelijk",
+      "translation": "spiritual; mental"
+    },
+    {
+      "id": "a260",
       "word": "geheimzinnig",
       "translation": "mysterious"
     },
     {
-      "id": "a137",
+      "id": "a261",
       "word": "gek",
       "translation": "crazy, silly"
     },
     {
-      "id": "a138",
+      "id": "a262",
       "word": "geldig",
       "translation": "valid"
     },
     {
-      "id": "a139",
+      "id": "a263",
+      "word": "geleerd",
+      "translation": "learned, scholarly"
+    },
+    {
+      "id": "a264",
+      "word": "gelegen",
+      "translation": "situated; convenient"
+    },
+    {
+      "id": "a265",
       "word": "geleidelijk",
       "translation": "gradual"
     },
     {
-      "id": "a140",
+      "id": "a266",
+      "word": "geliefd",
+      "translation": "beloved"
+    },
+    {
+      "id": "a267",
+      "word": "gelijk",
+      "translation": "equal; right"
+    },
+    {
+      "id": "a268",
+      "word": "gelijktijdig",
+      "translation": "simultaneous"
+    },
+    {
+      "id": "a269",
       "word": "gelukkig",
       "translation": "happy; fortunately"
     },
     {
-      "id": "a141",
+      "id": "a270",
       "word": "gemakkelijk",
       "translation": "easy"
     },
     {
-      "id": "a142",
+      "id": "a271",
+      "word": "gemeen",
+      "translation": "mean; common"
+    },
+    {
+      "id": "a272",
+      "word": "gemeenschappelijk",
+      "translation": "communal, shared"
+    },
+    {
+      "id": "a273",
+      "word": "gemeentelijk",
+      "translation": "municipal"
+    },
+    {
+      "id": "a274",
       "word": "gemiddeld",
       "translation": "average"
     },
     {
-      "id": "a143",
+      "id": "a275",
+      "word": "geneigd",
+      "translation": "inclined"
+    },
+    {
+      "id": "a276",
+      "word": "genetisch",
+      "translation": "genetic"
+    },
+    {
+      "id": "a277",
       "word": "genoeg",
       "translation": "enough"
     },
     {
-      "id": "a144",
+      "id": "a278",
       "word": "geraakt",
       "translation": "touched, affected"
     },
     {
-      "id": "a145",
+      "id": "a279",
       "word": "gereed",
       "translation": "ready, prepared"
     },
     {
-      "id": "a146",
+      "id": "a280",
       "word": "geregeld",
       "translation": "regular"
     },
     {
-      "id": "a147",
+      "id": "a281",
+      "word": "gering",
+      "translation": "small, slight"
+    },
+    {
+      "id": "a282",
       "word": "gerust",
       "translation": "reassured, calm"
     },
     {
-      "id": "a148",
+      "id": "a283",
       "word": "geschikt",
       "translation": "suitable"
     },
     {
-      "id": "a149",
+      "id": "a284",
+      "word": "geslaagd",
+      "translation": "successful"
+    },
+    {
+      "id": "a285",
+      "word": "gesloten",
+      "translation": "closed"
+    },
+    {
+      "id": "a286",
       "word": "gespannen",
       "translation": "tense, nervous"
     },
     {
-      "id": "a150",
+      "id": "a287",
+      "word": "gesteld",
+      "translation": "set; disposed"
+    },
+    {
+      "id": "a288",
       "word": "getrouwd",
       "translation": "married"
     },
     {
-      "id": "a151",
+      "id": "a289",
       "word": "gevaarlijk",
       "translation": "dangerous"
     },
     {
-      "id": "a152",
+      "id": "a290",
+      "word": "gevangen",
+      "translation": "captured, imprisoned"
+    },
+    {
+      "id": "a291",
+      "word": "gevestigd",
+      "translation": "established"
+    },
+    {
+      "id": "a292",
       "word": "gevoelig",
       "translation": "sensitive"
     },
     {
-      "id": "a153",
+      "id": "a293",
       "word": "geweldig",
       "translation": "tremendous, great"
     },
     {
-      "id": "a154",
+      "id": "a294",
+      "word": "gewijd",
+      "translation": "devoted; sacred"
+    },
+    {
+      "id": "a295",
       "word": "gewoon",
       "translation": "normal, ordinary"
     },
     {
-      "id": "a155",
+      "id": "a296",
+      "word": "gewoonlijk",
+      "translation": "usually"
+    },
+    {
+      "id": "a297",
       "word": "gezamenlijk",
       "translation": "joint, collective"
     },
     {
-      "id": "a156",
+      "id": "a298",
+      "word": "gezellig",
+      "translation": "cozy, sociable"
+    },
+    {
+      "id": "a299",
       "word": "gezeten",
       "translation": "seated; established"
     },
     {
-      "id": "a157",
+      "id": "a300",
       "word": "gezond",
       "translation": "healthy"
     },
     {
-      "id": "a158",
+      "id": "a301",
+      "word": "geïnteresseerd",
+      "translation": "interested"
+    },
+    {
+      "id": "a302",
+      "word": "giftig",
+      "translation": "poisonous, toxic"
+    },
+    {
+      "id": "a303",
+      "word": "gigantisch",
+      "translation": "gigantic"
+    },
+    {
+      "id": "a304",
       "word": "glad",
       "translation": "smooth; slippery"
     },
     {
-      "id": "a159",
+      "id": "a305",
+      "word": "globaal",
+      "translation": "global; rough"
+    },
+    {
+      "id": "a306",
       "word": "goddelijk",
       "translation": "divine"
     },
     {
-      "id": "a160",
+      "id": "a307",
       "word": "godsdienstig",
       "translation": "religious"
     },
     {
-      "id": "a161",
+      "id": "a308",
       "word": "goed",
       "translation": "good"
     },
     {
-      "id": "a162",
+      "id": "a309",
       "word": "goedkoop",
       "translation": "cheap"
     },
     {
-      "id": "a163",
+      "id": "a310",
       "word": "graag",
       "translation": "gladly, willingly"
     },
     {
-      "id": "a164",
+      "id": "a311",
+      "word": "grappig",
+      "translation": "funny"
+    },
+    {
+      "id": "a312",
+      "word": "gratis",
+      "translation": "free (no cost)"
+    },
+    {
+      "id": "a313",
       "word": "grauw",
       "translation": "gray, grim"
     },
     {
-      "id": "a165",
+      "id": "a314",
+      "word": "gretig",
+      "translation": "eager, greedy"
+    },
+    {
+      "id": "a315",
+      "word": "griezelig",
+      "translation": "creepy"
+    },
+    {
+      "id": "a316",
+      "word": "grijs",
+      "translation": "gray"
+    },
+    {
+      "id": "a317",
+      "word": "grillig",
+      "translation": "capricious, erratic"
+    },
+    {
+      "id": "a318",
+      "word": "grimmig",
+      "translation": "grim, fierce"
+    },
+    {
+      "id": "a319",
+      "word": "groen",
+      "translation": "green"
+    },
+    {
+      "id": "a320",
       "word": "grof",
       "translation": "coarse, rude"
     },
     {
-      "id": "a166",
+      "id": "a321",
       "word": "grondig",
       "translation": "thorough"
     },
     {
-      "id": "a167",
+      "id": "a322",
       "word": "groot",
       "translation": "big, great"
     },
     {
-      "id": "a168",
+      "id": "a323",
+      "word": "groots",
+      "translation": "grand, grandiose"
+    },
+    {
+      "id": "a324",
       "word": "grootst",
       "translation": "greatest, largest"
     },
     {
-      "id": "a169",
+      "id": "a325",
       "word": "grotendeels",
       "translation": "largely, mostly"
     },
     {
-      "id": "a170",
+      "id": "a326",
+      "word": "gruwelijk",
+      "translation": "gruesome, horrible"
+    },
+    {
+      "id": "a327",
+      "word": "gunstig",
+      "translation": "favorable"
+    },
+    {
+      "id": "a328",
       "word": "haastig",
       "translation": "hasty"
     },
     {
-      "id": "a171",
+      "id": "a329",
       "word": "half",
       "translation": "half"
     },
     {
-      "id": "a172",
+      "id": "a330",
       "word": "handig",
       "translation": "handy, clever"
     },
     {
-      "id": "a173",
+      "id": "a331",
       "word": "hard",
       "translation": "hard; fast; loud"
     },
     {
-      "id": "a174",
+      "id": "a332",
+      "word": "hardnekkig",
+      "translation": "stubborn, persistent"
+    },
+    {
+      "id": "a333",
+      "word": "hardop",
+      "translation": "aloud"
+    },
+    {
+      "id": "a334",
       "word": "hartelijk",
       "translation": "warm, cordial"
     },
     {
-      "id": "a175",
+      "id": "a335",
+      "word": "hartstochtelijk",
+      "translation": "passionate"
+    },
+    {
+      "id": "a336",
+      "word": "hecht",
+      "translation": "close, tight"
+    },
+    {
+      "id": "a337",
+      "word": "hedendaags",
+      "translation": "contemporary"
+    },
+    {
+      "id": "a338",
+      "word": "heel",
+      "translation": "whole; very"
+    },
+    {
+      "id": "a339",
+      "word": "heerlijk",
+      "translation": "delicious; wonderful"
+    },
+    {
+      "id": "a340",
+      "word": "heet",
+      "translation": "hot"
+    },
+    {
+      "id": "a341",
       "word": "heftig",
       "translation": "fierce, intense"
     },
     {
-      "id": "a176",
+      "id": "a342",
+      "word": "heilig",
+      "translation": "holy, sacred"
+    },
+    {
+      "id": "a343",
+      "word": "heimelijk",
+      "translation": "secret, stealthy"
+    },
+    {
+      "id": "a344",
+      "word": "helder",
+      "translation": "clear, bright"
+    },
+    {
+      "id": "a345",
+      "word": "helemaal",
+      "translation": "completely"
+    },
+    {
+      "id": "a346",
       "word": "herhaaldelijk",
       "translation": "repeatedly"
     },
     {
-      "id": "a177",
+      "id": "a347",
+      "word": "hetzelfde",
+      "translation": "the same"
+    },
+    {
+      "id": "a348",
       "word": "heus",
       "translation": "really; genuine"
     },
     {
-      "id": "a178",
+      "id": "a349",
+      "word": "hevig",
+      "translation": "fierce, severe"
+    },
+    {
+      "id": "a350",
       "word": "hevige",
       "translation": "fierce, severe"
     },
     {
-      "id": "a179",
+      "id": "a351",
+      "word": "hinderlijk",
+      "translation": "annoying"
+    },
+    {
+      "id": "a352",
       "word": "historisch",
       "translation": "historical"
     },
     {
-      "id": "a180",
+      "id": "a353",
       "word": "hoe",
       "translation": "how"
     },
     {
-      "id": "a181",
+      "id": "a354",
       "word": "honderd",
       "translation": "hundred"
     },
     {
-      "id": "a182",
+      "id": "a355",
+      "word": "hoofdzakelijk",
+      "translation": "mainly"
+    },
+    {
+      "id": "a356",
       "word": "hoog",
       "translation": "high, tall"
     },
     {
-      "id": "a183",
+      "id": "a357",
+      "word": "hopeloos",
+      "translation": "hopeless"
+    },
+    {
+      "id": "a358",
+      "word": "horizontaal",
+      "translation": "horizontal"
+    },
+    {
+      "id": "a359",
+      "word": "huidig",
+      "translation": "current, present"
+    },
+    {
+      "id": "a360",
       "word": "huiselijk",
       "translation": "domestic, homely"
     },
     {
-      "id": "a184",
+      "id": "a361",
+      "word": "hulpeloos",
+      "translation": "helpless"
+    },
+    {
+      "id": "a362",
       "word": "ideaal",
       "translation": "ideal"
     },
     {
-      "id": "a185",
+      "id": "a363",
+      "word": "identiek",
+      "translation": "identical"
+    },
+    {
+      "id": "a364",
+      "word": "idioot",
+      "translation": "idiotic; idiot"
+    },
+    {
+      "id": "a365",
+      "word": "ieder",
+      "translation": "every, each"
+    },
+    {
+      "id": "a366",
+      "word": "iedereen",
+      "translation": "everyone"
+    },
+    {
+      "id": "a367",
+      "word": "iemand",
+      "translation": "someone"
+    },
+    {
+      "id": "a368",
+      "word": "iets",
+      "translation": "something"
+    },
+    {
+      "id": "a369",
       "word": "ijzeren",
       "translation": "iron (made of)"
     },
     {
-      "id": "a186",
+      "id": "a370",
+      "word": "illegaal",
+      "translation": "illegal"
+    },
+    {
+      "id": "a371",
       "word": "immers",
       "translation": "after all"
     },
     {
-      "id": "a187",
+      "id": "a372",
+      "word": "inclusief",
+      "translation": "inclusive"
+    },
+    {
+      "id": "a373",
+      "word": "inderdaad",
+      "translation": "indeed"
+    },
+    {
+      "id": "a374",
+      "word": "indirect",
+      "translation": "indirect"
+    },
+    {
+      "id": "a375",
+      "word": "individueel",
+      "translation": "individual"
+    },
+    {
+      "id": "a376",
       "word": "indrukwekkend",
       "translation": "impressive"
     },
     {
-      "id": "a188",
+      "id": "a377",
       "word": "industrieel",
       "translation": "industrial"
     },
     {
-      "id": "a189",
+      "id": "a378",
+      "word": "ingewikkeld",
+      "translation": "complicated"
+    },
+    {
+      "id": "a379",
+      "word": "inheems",
+      "translation": "indigenous"
+    },
+    {
+      "id": "a380",
+      "word": "inhoudelijk",
+      "translation": "substantive, content-related"
+    },
+    {
+      "id": "a381",
       "word": "inmiddels",
       "translation": "meanwhile"
     },
     {
-      "id": "a190",
+      "id": "a382",
+      "word": "innerlijk",
+      "translation": "inner, internal"
+    },
+    {
+      "id": "a383",
+      "word": "innig",
+      "translation": "intimate, heartfelt"
+    },
+    {
+      "id": "a384",
+      "word": "integendeel",
+      "translation": "on the contrary"
+    },
+    {
+      "id": "a385",
       "word": "intellectueel",
       "translation": "intellectual"
     },
     {
-      "id": "a191",
+      "id": "a386",
       "word": "intelligent",
       "translation": "intelligent"
     },
     {
-      "id": "a192",
+      "id": "a387",
       "word": "intens",
       "translation": "intense"
     },
     {
-      "id": "a193",
+      "id": "a388",
       "word": "intensief",
       "translation": "intensive"
     },
     {
-      "id": "a194",
+      "id": "a389",
       "word": "interessant",
       "translation": "interesting"
     },
     {
-      "id": "a195",
+      "id": "a390",
+      "word": "intern",
+      "translation": "internal"
+    },
+    {
+      "id": "a391",
       "word": "internationaal",
       "translation": "international"
     },
     {
-      "id": "a196",
+      "id": "a392",
+      "word": "intiem",
+      "translation": "intimate"
+    },
+    {
+      "id": "a393",
+      "word": "inwendig",
+      "translation": "internal, inner"
+    },
+    {
+      "id": "a394",
+      "word": "ironisch",
+      "translation": "ironic"
+    },
+    {
+      "id": "a395",
       "word": "jaarlijks",
       "translation": "annual"
     },
     {
-      "id": "a197",
+      "id": "a396",
       "word": "jaloers",
       "translation": "jealous"
     },
     {
-      "id": "a198",
+      "id": "a397",
       "word": "jammer",
       "translation": "unfortunate; a pity"
     },
     {
-      "id": "a199",
+      "id": "a398",
       "word": "jarenlang",
       "translation": "for years"
     },
     {
-      "id": "a200",
+      "id": "a399",
+      "word": "jeugdig",
+      "translation": "youthful"
+    },
+    {
+      "id": "a400",
       "word": "jong",
       "translation": "young"
     },
     {
-      "id": "a201",
+      "id": "a401",
       "word": "juist",
       "translation": "correct; precisely"
     },
     {
-      "id": "a202",
+      "id": "a402",
       "word": "juridisch",
       "translation": "legal, juridical"
     },
     {
-      "id": "a203",
+      "id": "a403",
       "word": "kaal",
       "translation": "bald; bare"
     },
     {
-      "id": "a204",
+      "id": "a404",
+      "word": "kalm",
+      "translation": "calm"
+    },
+    {
+      "id": "a405",
+      "word": "kapot",
+      "translation": "broken"
+    },
+    {
+      "id": "a406",
+      "word": "karakteristiek",
+      "translation": "characteristic"
+    },
+    {
+      "id": "a407",
+      "word": "katholiek",
+      "translation": "Catholic"
+    },
+    {
+      "id": "a408",
+      "word": "kenbaar",
+      "translation": "recognizable; known"
+    },
+    {
+      "id": "a409",
+      "word": "kenmerkend",
+      "translation": "characteristic"
+    },
+    {
+      "id": "a410",
+      "word": "kennelijk",
+      "translation": "apparently"
+    },
+    {
+      "id": "a411",
       "word": "kerkelijk",
       "translation": "ecclesiastical"
     },
     {
-      "id": "a205",
+      "id": "a412",
+      "word": "keurig",
+      "translation": "neat, proper"
+    },
+    {
+      "id": "a413",
+      "word": "kinderlijk",
+      "translation": "childlike"
+    },
+    {
+      "id": "a414",
+      "word": "klaar",
+      "translation": "ready; finished"
+    },
+    {
+      "id": "a415",
+      "word": "klassiek",
+      "translation": "classical"
+    },
+    {
+      "id": "a416",
       "word": "klein",
       "translation": "small"
     },
     {
-      "id": "a206",
+      "id": "a417",
+      "word": "kleurig",
+      "translation": "colorful"
+    },
+    {
+      "id": "a418",
+      "word": "knap",
+      "translation": "handsome; clever"
+    },
+    {
+      "id": "a419",
+      "word": "koel",
+      "translation": "cool"
+    },
+    {
+      "id": "a420",
       "word": "koninklijk",
       "translation": "royal"
     },
     {
-      "id": "a207",
+      "id": "a421",
+      "word": "koppig",
+      "translation": "stubborn"
+    },
+    {
+      "id": "a422",
       "word": "kort",
       "translation": "short"
     },
     {
-      "id": "a208",
+      "id": "a423",
+      "word": "kostbaar",
+      "translation": "precious, valuable"
+    },
+    {
+      "id": "a424",
       "word": "koud",
       "translation": "cold"
     },
     {
-      "id": "a209",
+      "id": "a425",
       "word": "krachtens",
       "translation": "by virtue of"
     },
     {
-      "id": "a210",
+      "id": "a426",
       "word": "krachtig",
       "translation": "powerful, strong"
     },
     {
-      "id": "a211",
+      "id": "a427",
+      "word": "krankzinnig",
+      "translation": "insane"
+    },
+    {
+      "id": "a428",
       "word": "kritisch",
       "translation": "critical"
     },
     {
-      "id": "a212",
+      "id": "a429",
       "word": "kunstmatig",
       "translation": "artificial"
     },
     {
-      "id": "a213",
+      "id": "a430",
       "word": "kwaad",
       "translation": "angry; evil"
     },
     {
-      "id": "a214",
+      "id": "a431",
+      "word": "kwalijk",
+      "translation": "wrong; badly"
+    },
+    {
+      "id": "a432",
+      "word": "kwetsbaar",
+      "translation": "vulnerable"
+    },
+    {
+      "id": "a433",
+      "word": "kwijt",
+      "translation": "lost, missing"
+    },
+    {
+      "id": "a434",
       "word": "laag",
       "translation": "low"
     },
     {
-      "id": "a215",
+      "id": "a435",
       "word": "laat",
       "translation": "late"
     },
     {
-      "id": "a216",
+      "id": "a436",
       "word": "laatst",
       "translation": "last, latest"
     },
     {
-      "id": "a217",
+      "id": "a437",
       "word": "landelijk",
       "translation": "national; rural"
     },
     {
-      "id": "a218",
+      "id": "a438",
       "word": "lang",
       "translation": "long; tall"
     },
     {
-      "id": "a219",
+      "id": "a439",
+      "word": "langdurig",
+      "translation": "prolonged, lengthy"
+    },
+    {
+      "id": "a440",
       "word": "langs",
       "translation": "along"
     },
     {
-      "id": "a220",
+      "id": "a441",
       "word": "langzaam",
       "translation": "slow"
     },
     {
-      "id": "a221",
+      "id": "a442",
       "word": "langzamerhand",
       "translation": "gradually"
     },
     {
-      "id": "a222",
+      "id": "a443",
+      "word": "lastig",
+      "translation": "difficult; annoying"
+    },
+    {
+      "id": "a444",
+      "word": "later",
+      "translation": "later"
+    },
+    {
+      "id": "a445",
+      "word": "lauw",
+      "translation": "lukewarm"
+    },
+    {
+      "id": "a446",
+      "word": "leeg",
+      "translation": "empty"
+    },
+    {
+      "id": "a447",
+      "word": "lekker",
+      "translation": "tasty; nice"
+    },
+    {
+      "id": "a448",
       "word": "lelijk",
       "translation": "ugly"
     },
     {
-      "id": "a223",
+      "id": "a449",
       "word": "letterlijk",
       "translation": "literal"
     },
     {
-      "id": "a224",
+      "id": "a450",
       "word": "leuk",
       "translation": "fun, nice"
     },
     {
-      "id": "a225",
+      "id": "a451",
       "word": "levend",
       "translation": "alive, living"
     },
     {
-      "id": "a226",
+      "id": "a452",
+      "word": "levendig",
+      "translation": "lively"
+    },
+    {
+      "id": "a453",
       "word": "liberaal",
       "translation": "liberal"
     },
     {
-      "id": "a227",
+      "id": "a454",
       "word": "lichamelijk",
       "translation": "physical, bodily"
     },
     {
-      "id": "a228",
+      "id": "a455",
       "word": "lief",
       "translation": "sweet, dear"
     },
     {
-      "id": "a229",
+      "id": "a456",
       "word": "liefst",
       "translation": "preferably; dearest"
     },
     {
-      "id": "a230",
+      "id": "a457",
       "word": "link",
       "translation": "risky, dangerous"
     },
     {
-      "id": "a231",
+      "id": "a458",
       "word": "links",
       "translation": "left"
     },
     {
-      "id": "a232",
+      "id": "a459",
+      "word": "literair",
+      "translation": "literary"
+    },
+    {
+      "id": "a460",
       "word": "logisch",
       "translation": "logical"
     },
     {
-      "id": "a233",
+      "id": "a461",
       "word": "lokaal",
       "translation": "local"
     },
     {
-      "id": "a234",
+      "id": "a462",
+      "word": "lopend",
+      "translation": "running; current"
+    },
+    {
+      "id": "a463",
       "word": "los",
       "translation": "loose"
     },
     {
-      "id": "a235",
+      "id": "a464",
+      "word": "louter",
+      "translation": "pure; merely"
+    },
+    {
+      "id": "a465",
+      "word": "luchtig",
+      "translation": "light; airy"
+    },
+    {
+      "id": "a466",
       "word": "lui",
       "translation": "lazy"
     },
     {
-      "id": "a236",
+      "id": "a467",
+      "word": "luid",
+      "translation": "loud"
+    },
+    {
+      "id": "a468",
+      "word": "luidruchtig",
+      "translation": "noisy"
+    },
+    {
+      "id": "a469",
       "word": "maar",
       "translation": "but; only"
     },
     {
-      "id": "a237",
+      "id": "a470",
+      "word": "maatschappelijk",
+      "translation": "social, societal"
+    },
+    {
+      "id": "a471",
+      "word": "machteloos",
+      "translation": "powerless"
+    },
+    {
+      "id": "a472",
       "word": "machtig",
       "translation": "powerful"
     },
     {
-      "id": "a238",
+      "id": "a473",
       "word": "mager",
       "translation": "thin, lean"
     },
     {
-      "id": "a239",
+      "id": "a474",
+      "word": "magisch",
+      "translation": "magical"
+    },
+    {
+      "id": "a475",
+      "word": "makkelijk",
+      "translation": "easy"
+    },
+    {
+      "id": "a476",
+      "word": "mannelijk",
+      "translation": "male; masculine"
+    },
+    {
+      "id": "a477",
+      "word": "massaal",
+      "translation": "massive, mass"
+    },
+    {
+      "id": "a478",
+      "word": "massief",
+      "translation": "massive, solid"
+    },
+    {
+      "id": "a479",
+      "word": "materieel",
+      "translation": "material"
+    },
+    {
+      "id": "a480",
       "word": "matig",
       "translation": "moderate"
     },
     {
-      "id": "a240",
+      "id": "a481",
+      "word": "maximaal",
+      "translation": "maximum"
+    },
+    {
+      "id": "a482",
+      "word": "mechanisch",
+      "translation": "mechanical"
+    },
+    {
+      "id": "a483",
       "word": "mede",
       "translation": "also, co-"
     },
     {
-      "id": "a241",
+      "id": "a484",
+      "word": "medisch",
+      "translation": "medical"
+    },
+    {
+      "id": "a485",
+      "word": "meedogenloos",
+      "translation": "merciless"
+    },
+    {
+      "id": "a486",
+      "word": "meerdere",
+      "translation": "several; superior"
+    },
+    {
+      "id": "a487",
+      "word": "meestal",
+      "translation": "mostly, usually"
+    },
+    {
+      "id": "a488",
       "word": "menselijk",
       "translation": "human"
     },
     {
-      "id": "a242",
+      "id": "a489",
+      "word": "mentaal",
+      "translation": "mental"
+    },
+    {
+      "id": "a490",
+      "word": "merkwaardig",
+      "translation": "remarkable, strange"
+    },
+    {
+      "id": "a491",
+      "word": "meteen",
+      "translation": "immediately"
+    },
+    {
+      "id": "a492",
+      "word": "middelbaar",
+      "translation": "secondary; average"
+    },
+    {
+      "id": "a493",
+      "word": "mild",
+      "translation": "mild; generous"
+    },
+    {
+      "id": "a494",
       "word": "militair",
       "translation": "military"
     },
     {
-      "id": "a243",
+      "id": "a495",
+      "word": "minder",
+      "translation": "less; fewer"
+    },
+    {
+      "id": "a496",
+      "word": "minimaal",
+      "translation": "minimal"
+    },
+    {
+      "id": "a497",
       "word": "minst",
       "translation": "least"
     },
     {
-      "id": "a244",
+      "id": "a498",
+      "word": "minstens",
+      "translation": "at least"
+    },
+    {
+      "id": "a499",
       "word": "misschien",
       "translation": "perhaps, maybe"
     },
     {
-      "id": "a245",
+      "id": "a500",
       "word": "modern",
       "translation": "modern"
     },
     {
-      "id": "a246",
+      "id": "a501",
+      "word": "moe",
+      "translation": "tired"
+    },
+    {
+      "id": "a502",
+      "word": "moedig",
+      "translation": "courageous, brave"
+    },
+    {
+      "id": "a503",
       "word": "moeilijk",
       "translation": "difficult"
     },
     {
-      "id": "a247",
+      "id": "a504",
+      "word": "moeizaam",
+      "translation": "laborious, difficult"
+    },
+    {
+      "id": "a505",
       "word": "mogelijk",
       "translation": "possible"
     },
     {
-      "id": "a248",
+      "id": "a506",
+      "word": "momenteel",
+      "translation": "currently"
+    },
+    {
+      "id": "a507",
       "word": "mooi",
       "translation": "beautiful"
     },
     {
-      "id": "a249",
+      "id": "a508",
       "word": "moreel",
       "translation": "moral"
     },
     {
-      "id": "a250",
+      "id": "a509",
+      "word": "muzikaal",
+      "translation": "musical"
+    },
+    {
+      "id": "a510",
+      "word": "mysterieus",
+      "translation": "mysterious"
+    },
+    {
+      "id": "a511",
+      "word": "naakt",
+      "translation": "naked"
+    },
+    {
+      "id": "a512",
+      "word": "naast",
+      "translation": "next to; nearest"
+    },
+    {
+      "id": "a513",
+      "word": "nabij",
+      "translation": "near, close"
+    },
+    {
+      "id": "a514",
+      "word": "nachtelijk",
+      "translation": "nightly, nocturnal"
+    },
+    {
+      "id": "a515",
       "word": "nader",
       "translation": "further, closer"
     },
     {
-      "id": "a251",
+      "id": "a516",
+      "word": "nadrukkelijk",
+      "translation": "emphatic"
+    },
+    {
+      "id": "a517",
       "word": "namelijk",
       "translation": "namely"
     },
     {
-      "id": "a252",
+      "id": "a518",
       "word": "nare",
       "translation": "unpleasant, nasty"
     },
     {
-      "id": "a253",
+      "id": "a519",
+      "word": "nat",
+      "translation": "wet"
+    },
+    {
+      "id": "a520",
+      "word": "nationaal",
+      "translation": "national"
+    },
+    {
+      "id": "a521",
       "word": "natuurlijk",
       "translation": "natural; of course"
     },
     {
-      "id": "a254",
+      "id": "a522",
       "word": "nauw",
       "translation": "narrow; close"
     },
     {
-      "id": "a255",
+      "id": "a523",
       "word": "nauwelijks",
       "translation": "hardly, barely"
     },
     {
-      "id": "a256",
+      "id": "a524",
       "word": "nauwkeurig",
       "translation": "precise, accurate"
     },
     {
-      "id": "a257",
+      "id": "a525",
+      "word": "naïef",
+      "translation": "naive"
+    },
+    {
+      "id": "a526",
       "word": "neer",
       "translation": "down"
     },
     {
-      "id": "a258",
+      "id": "a527",
       "word": "negatief",
       "translation": "negative"
     },
     {
-      "id": "a259",
+      "id": "a528",
       "word": "nergens",
       "translation": "nowhere"
     },
     {
-      "id": "a260",
+      "id": "a529",
+      "word": "nerveus",
+      "translation": "nervous"
+    },
+    {
+      "id": "a530",
       "word": "net",
       "translation": "neat; just"
     },
     {
-      "id": "a261",
+      "id": "a531",
+      "word": "netjes",
+      "translation": "neat, tidy"
+    },
+    {
+      "id": "a532",
       "word": "neutraal",
       "translation": "neutral"
     },
     {
-      "id": "a262",
+      "id": "a533",
+      "word": "niemand",
+      "translation": "nobody"
+    },
+    {
+      "id": "a534",
       "word": "nieuw",
       "translation": "new"
     },
     {
-      "id": "a263",
+      "id": "a535",
+      "word": "nieuwsgierig",
+      "translation": "curious"
+    },
+    {
+      "id": "a536",
       "word": "nodig",
       "translation": "necessary"
     },
     {
-      "id": "a264",
+      "id": "a537",
       "word": "noodzakelijk",
       "translation": "necessary"
     },
     {
-      "id": "a265",
+      "id": "a538",
+      "word": "noordelijk",
+      "translation": "northern"
+    },
+    {
+      "id": "a539",
       "word": "normaal",
       "translation": "normal"
     },
     {
-      "id": "a266",
+      "id": "a540",
+      "word": "nors",
+      "translation": "grumpy, surly"
+    },
+    {
+      "id": "a541",
+      "word": "nuchter",
+      "translation": "sober; sensible"
+    },
+    {
+      "id": "a542",
+      "word": "nutteloos",
+      "translation": "useless"
+    },
+    {
+      "id": "a543",
       "word": "nuttig",
       "translation": "useful"
     },
     {
-      "id": "a267",
+      "id": "a544",
+      "word": "objectief",
+      "translation": "objective"
+    },
+    {
+      "id": "a545",
       "word": "officieel",
       "translation": "official"
     },
     {
-      "id": "a268",
+      "id": "a546",
+      "word": "omgekeerd",
+      "translation": "reversed; vice versa"
+    },
+    {
+      "id": "a547",
+      "word": "omvangrijk",
+      "translation": "extensive, large"
+    },
+    {
+      "id": "a548",
       "word": "onafhankelijk",
       "translation": "independent"
     },
     {
-      "id": "a269",
+      "id": "a549",
       "word": "onbekend",
       "translation": "unknown"
     },
     {
-      "id": "a270",
+      "id": "a550",
+      "word": "onbeweeglijk",
+      "translation": "motionless"
+    },
+    {
+      "id": "a551",
       "word": "ondanks",
       "translation": "despite"
     },
     {
-      "id": "a271",
+      "id": "a552",
+      "word": "ondergeschikt",
+      "translation": "subordinate"
+    },
+    {
+      "id": "a553",
+      "word": "ondergronds",
+      "translation": "underground"
+    },
+    {
+      "id": "a554",
+      "word": "onderling",
+      "translation": "mutual"
+    },
+    {
+      "id": "a555",
       "word": "ondertussen",
       "translation": "meanwhile"
     },
     {
-      "id": "a272",
+      "id": "a556",
+      "word": "oneindig",
+      "translation": "infinite"
+    },
+    {
+      "id": "a557",
       "word": "ongelooflijk",
       "translation": "incredible"
     },
     {
-      "id": "a273",
+      "id": "a558",
+      "word": "ongelukkig",
+      "translation": "unhappy; unfortunate"
+    },
+    {
+      "id": "a559",
       "word": "ongerust",
       "translation": "worried"
     },
     {
-      "id": "a274",
+      "id": "a560",
       "word": "ongetwijfeld",
       "translation": "undoubtedly"
     },
     {
-      "id": "a275",
+      "id": "a561",
       "word": "ongeveer",
       "translation": "approximately"
     },
     {
-      "id": "a276",
+      "id": "a562",
+      "word": "ongewenst",
+      "translation": "unwanted"
+    },
+    {
+      "id": "a563",
       "word": "onmiddellijk",
       "translation": "immediate"
     },
     {
-      "id": "a277",
+      "id": "a564",
+      "word": "onmisbaar",
+      "translation": "indispensable"
+    },
+    {
+      "id": "a565",
       "word": "onmogelijk",
       "translation": "impossible"
     },
     {
-      "id": "a278",
+      "id": "a566",
+      "word": "onnodig",
+      "translation": "unnecessary"
+    },
+    {
+      "id": "a567",
+      "word": "onnozel",
+      "translation": "silly, naive"
+    },
+    {
+      "id": "a568",
+      "word": "onrustig",
+      "translation": "restless"
+    },
+    {
+      "id": "a569",
       "word": "onschuldig",
       "translation": "innocent"
     },
     {
-      "id": "a279",
+      "id": "a570",
+      "word": "ontwikkeld",
+      "translation": "developed; educated"
+    },
+    {
+      "id": "a571",
+      "word": "ontzettend",
+      "translation": "tremendous; terrible"
+    },
+    {
+      "id": "a572",
+      "word": "onvermijdelijk",
+      "translation": "inevitable"
+    },
+    {
+      "id": "a573",
+      "word": "onverschillig",
+      "translation": "indifferent"
+    },
+    {
+      "id": "a574",
+      "word": "onverwacht",
+      "translation": "unexpected"
+    },
+    {
+      "id": "a575",
       "word": "onvoldoende",
       "translation": "insufficient"
     },
     {
-      "id": "a280",
+      "id": "a576",
       "word": "onvoorstelbaar",
       "translation": "unimaginable"
     },
     {
-      "id": "a281",
+      "id": "a577",
       "word": "onwaarschijnlijk",
       "translation": "unlikely"
     },
     {
-      "id": "a282",
+      "id": "a578",
       "word": "onzeker",
       "translation": "uncertain"
     },
     {
-      "id": "a283",
+      "id": "a579",
+      "word": "onzichtbaar",
+      "translation": "invisible"
+    },
+    {
+      "id": "a580",
       "word": "ooit",
       "translation": "ever; once"
     },
     {
-      "id": "a284",
+      "id": "a581",
       "word": "ook",
       "translation": "also, too"
     },
     {
-      "id": "a285",
+      "id": "a582",
+      "word": "oorspronkelijk",
+      "translation": "original"
+    },
+    {
+      "id": "a583",
+      "word": "oostelijk",
+      "translation": "eastern"
+    },
+    {
+      "id": "a584",
       "word": "open",
       "translation": "open"
     },
     {
-      "id": "a286",
+      "id": "a585",
       "word": "openbaar",
       "translation": "public"
     },
     {
-      "id": "a287",
+      "id": "a586",
+      "word": "openlijk",
+      "translation": "openly, publicly"
+    },
+    {
+      "id": "a587",
+      "word": "opgewekt",
+      "translation": "cheerful"
+    },
+    {
+      "id": "a588",
+      "word": "opgewonden",
+      "translation": "excited"
+    },
+    {
+      "id": "a589",
       "word": "opmerkelijk",
       "translation": "remarkable"
     },
     {
-      "id": "a288",
+      "id": "a590",
       "word": "opnieuw",
       "translation": "again, anew"
     },
     {
-      "id": "a289",
+      "id": "a591",
+      "word": "oppervlakkig",
+      "translation": "superficial"
+    },
+    {
+      "id": "a592",
+      "word": "oprecht",
+      "translation": "sincere"
+    },
+    {
+      "id": "a593",
+      "word": "optimaal",
+      "translation": "optimal"
+    },
+    {
+      "id": "a594",
       "word": "opvallend",
       "translation": "striking, remarkable"
     },
     {
-      "id": "a290",
+      "id": "a595",
+      "word": "opzettelijk",
+      "translation": "intentional, deliberate"
+    },
+    {
+      "id": "a596",
       "word": "opzij",
       "translation": "aside"
     },
     {
-      "id": "a291",
+      "id": "a597",
+      "word": "organisch",
+      "translation": "organic"
+    },
+    {
+      "id": "a598",
+      "word": "origineel",
+      "translation": "original"
+    },
+    {
+      "id": "a599",
       "word": "oud",
       "translation": "old"
     },
     {
-      "id": "a292",
+      "id": "a600",
+      "word": "ouderlijk",
+      "translation": "parental"
+    },
+    {
+      "id": "a601",
+      "word": "ouderwets",
+      "translation": "old-fashioned"
+    },
+    {
+      "id": "a602",
       "word": "overal",
       "translation": "everywhere"
     },
     {
-      "id": "a293",
+      "id": "a603",
+      "word": "overbodig",
+      "translation": "superfluous"
+    },
+    {
+      "id": "a604",
+      "word": "overdreven",
+      "translation": "exaggerated"
+    },
+    {
+      "id": "a605",
       "word": "overig",
       "translation": "remaining, other"
     },
     {
-      "id": "a294",
+      "id": "a606",
       "word": "overige",
       "translation": "remaining"
     },
     {
-      "id": "a295",
+      "id": "a607",
       "word": "overigens",
       "translation": "by the way; moreover"
     },
     {
-      "id": "a296",
+      "id": "a608",
+      "word": "overtuigd",
+      "translation": "convinced"
+    },
+    {
+      "id": "a609",
+      "word": "overvloedig",
+      "translation": "abundant"
+    },
+    {
+      "id": "a610",
+      "word": "overwegend",
+      "translation": "predominantly"
+    },
+    {
+      "id": "a611",
+      "word": "paars",
+      "translation": "purple"
+    },
+    {
+      "id": "a612",
+      "word": "parlementair",
+      "translation": "parliamentary"
+    },
+    {
+      "id": "a613",
+      "word": "particulier",
+      "translation": "private; individual"
+    },
+    {
+      "id": "a614",
+      "word": "passief",
+      "translation": "passive"
+    },
+    {
+      "id": "a615",
+      "word": "perfect",
+      "translation": "perfect"
+    },
+    {
+      "id": "a616",
       "word": "permanent",
       "translation": "permanent"
     },
     {
-      "id": "a297",
+      "id": "a617",
       "word": "persoonlijk",
       "translation": "personal"
     },
     {
-      "id": "a298",
+      "id": "a618",
+      "word": "pijnlijk",
+      "translation": "painful"
+    },
+    {
+      "id": "a619",
       "word": "plaatselijk",
       "translation": "local"
     },
     {
-      "id": "a299",
+      "id": "a620",
       "word": "plat",
       "translation": "flat"
     },
     {
-      "id": "a300",
+      "id": "a621",
+      "word": "plechtig",
+      "translation": "solemn"
+    },
+    {
+      "id": "a622",
+      "word": "plezierig",
+      "translation": "pleasant, enjoyable"
+    },
+    {
+      "id": "a623",
       "word": "plotseling",
       "translation": "sudden"
     },
     {
-      "id": "a301",
+      "id": "a624",
       "word": "populair",
       "translation": "popular"
     },
     {
-      "id": "a302",
+      "id": "a625",
       "word": "positief",
       "translation": "positive"
     },
     {
-      "id": "a303",
+      "id": "a626",
+      "word": "potentieel",
+      "translation": "potential"
+    },
+    {
+      "id": "a627",
       "word": "prachtig",
       "translation": "magnificent, wonderful"
     },
     {
-      "id": "a304",
+      "id": "a628",
       "word": "praktisch",
       "translation": "practical"
     },
     {
-      "id": "a305",
+      "id": "a629",
       "word": "precies",
       "translation": "precise, exactly"
     },
     {
-      "id": "a306",
+      "id": "a630",
       "word": "prettig",
       "translation": "pleasant"
     },
     {
-      "id": "a307",
+      "id": "a631",
       "word": "preventief",
       "translation": "preventive"
     },
     {
-      "id": "a308",
+      "id": "a632",
+      "word": "prima",
+      "translation": "excellent, fine"
+    },
+    {
+      "id": "a633",
+      "word": "primair",
+      "translation": "primary"
+    },
+    {
+      "id": "a634",
+      "word": "primitief",
+      "translation": "primitive"
+    },
+    {
+      "id": "a635",
+      "word": "principieel",
+      "translation": "on principle"
+    },
+    {
+      "id": "a636",
       "word": "prive",
       "translation": "private"
     },
     {
-      "id": "a309",
+      "id": "a637",
       "word": "professioneel",
       "translation": "professional"
     },
     {
-      "id": "a310",
+      "id": "a638",
+      "word": "progressief",
+      "translation": "progressive"
+    },
+    {
+      "id": "a639",
+      "word": "provinciaal",
+      "translation": "provincial"
+    },
+    {
+      "id": "a640",
+      "word": "psychisch",
+      "translation": "psychological"
+    },
+    {
+      "id": "a641",
+      "word": "psychologisch",
+      "translation": "psychological"
+    },
+    {
+      "id": "a642",
       "word": "puur",
       "translation": "pure"
     },
     {
-      "id": "a311",
+      "id": "a643",
       "word": "raar",
       "translation": "strange"
     },
     {
-      "id": "a312",
+      "id": "a644",
+      "word": "radicaal",
+      "translation": "radical"
+    },
+    {
+      "id": "a645",
+      "word": "rationeel",
+      "translation": "rational"
+    },
+    {
+      "id": "a646",
+      "word": "rauw",
+      "translation": "raw"
+    },
+    {
+      "id": "a647",
+      "word": "realistisch",
+      "translation": "realistic"
+    },
+    {
+      "id": "a648",
       "word": "recent",
       "translation": "recent"
     },
     {
-      "id": "a313",
+      "id": "a649",
       "word": "rechtop",
       "translation": "upright"
     },
     {
-      "id": "a314",
+      "id": "a650",
       "word": "rechts",
       "translation": "right (direction)"
     },
     {
-      "id": "a315",
+      "id": "a651",
       "word": "rechtstreeks",
       "translation": "direct"
     },
     {
-      "id": "a316",
+      "id": "a652",
       "word": "rechtvaardig",
       "translation": "just, fair"
     },
     {
-      "id": "a317",
+      "id": "a653",
       "word": "redelijk",
       "translation": "reasonable"
     },
     {
-      "id": "a318",
+      "id": "a654",
       "word": "reeds",
       "translation": "already"
     },
     {
-      "id": "a319",
+      "id": "a655",
       "word": "regelmatig",
       "translation": "regular"
     },
     {
-      "id": "a320",
+      "id": "a656",
       "word": "regionaal",
       "translation": "regional"
     },
     {
-      "id": "a321",
+      "id": "a657",
       "word": "relatief",
       "translation": "relative"
     },
     {
-      "id": "a322",
+      "id": "a658",
+      "word": "relevant",
+      "translation": "relevant"
+    },
+    {
+      "id": "a659",
       "word": "religieus",
       "translation": "religious"
     },
     {
-      "id": "a323",
+      "id": "a660",
+      "word": "reusachtig",
+      "translation": "enormous"
+    },
+    {
+      "id": "a661",
+      "word": "reëel",
+      "translation": "real, realistic"
+    },
+    {
+      "id": "a662",
       "word": "rijk",
       "translation": "rich"
     },
     {
-      "id": "a324",
+      "id": "a663",
+      "word": "rijp",
+      "translation": "ripe; mature"
+    },
+    {
+      "id": "a664",
       "word": "romantisch",
       "translation": "romantic"
     },
     {
-      "id": "a325",
+      "id": "a665",
       "word": "rond",
       "translation": "round"
     },
     {
-      "id": "a326",
+      "id": "a666",
+      "word": "rondom",
+      "translation": "around, all around"
+    },
+    {
+      "id": "a667",
       "word": "rood",
       "translation": "red"
     },
     {
-      "id": "a327",
+      "id": "a668",
+      "word": "rot",
+      "translation": "rotten; lousy"
+    },
+    {
+      "id": "a669",
+      "word": "roze",
+      "translation": "pink"
+    },
+    {
+      "id": "a670",
       "word": "ruim",
       "translation": "spacious; ample"
     },
     {
-      "id": "a328",
+      "id": "a671",
       "word": "ruimtelijk",
       "translation": "spatial"
     },
     {
-      "id": "a329",
+      "id": "a672",
       "word": "rustig",
       "translation": "calm, quiet"
     },
     {
-      "id": "a330",
+      "id": "a673",
+      "word": "ruw",
+      "translation": "rough"
+    },
+    {
+      "id": "a674",
+      "word": "saai",
+      "translation": "boring"
+    },
+    {
+      "id": "a675",
+      "word": "samen",
+      "translation": "together"
+    },
+    {
+      "id": "a676",
+      "word": "schaars",
+      "translation": "scarce"
+    },
+    {
+      "id": "a677",
       "word": "schadelijk",
       "translation": "harmful"
     },
     {
-      "id": "a331",
+      "id": "a678",
+      "word": "scheef",
+      "translation": "crooked, slanted"
+    },
+    {
+      "id": "a679",
       "word": "scherp",
       "translation": "sharp"
     },
     {
-      "id": "a332",
+      "id": "a680",
+      "word": "schijnbaar",
+      "translation": "apparently"
+    },
+    {
+      "id": "a681",
+      "word": "schitterend",
+      "translation": "splendid, brilliant"
+    },
+    {
+      "id": "a682",
       "word": "schoon",
       "translation": "clean; beautiful"
     },
     {
-      "id": "a333",
+      "id": "a683",
+      "word": "schriftelijk",
+      "translation": "written"
+    },
+    {
+      "id": "a684",
+      "word": "schuin",
+      "translation": "slanted, diagonal"
+    },
+    {
+      "id": "a685",
       "word": "schuldig",
       "translation": "guilty"
     },
     {
-      "id": "a334",
+      "id": "a686",
+      "word": "seksueel",
+      "translation": "sexual"
+    },
+    {
+      "id": "a687",
+      "word": "serieus",
+      "translation": "serious"
+    },
+    {
+      "id": "a688",
+      "word": "sierlijk",
+      "translation": "graceful, elegant"
+    },
+    {
+      "id": "a689",
+      "word": "simpel",
+      "translation": "simple"
+    },
+    {
+      "id": "a690",
+      "word": "slank",
+      "translation": "slim, slender"
+    },
+    {
+      "id": "a691",
+      "word": "slap",
+      "translation": "weak; limp"
+    },
+    {
+      "id": "a692",
+      "word": "slaperig",
+      "translation": "sleepy"
+    },
+    {
+      "id": "a693",
       "word": "slecht",
       "translation": "bad"
     },
     {
-      "id": "a335",
+      "id": "a694",
       "word": "slechts",
       "translation": "only, merely"
     },
     {
-      "id": "a336",
+      "id": "a695",
       "word": "slim",
       "translation": "clever, smart"
     },
     {
-      "id": "a337",
+      "id": "a696",
+      "word": "slordig",
+      "translation": "sloppy, messy"
+    },
+    {
+      "id": "a697",
       "word": "smal",
       "translation": "narrow"
     },
     {
-      "id": "a338",
+      "id": "a698",
+      "word": "smerig",
+      "translation": "dirty, filthy"
+    },
+    {
+      "id": "a699",
       "word": "snel",
       "translation": "fast, quick"
     },
     {
-      "id": "a339",
+      "id": "a700",
       "word": "sociaal",
       "translation": "social"
     },
     {
-      "id": "a340",
+      "id": "a701",
+      "word": "socialistisch",
+      "translation": "socialist"
+    },
+    {
+      "id": "a702",
       "word": "soepel",
       "translation": "flexible, supple"
     },
     {
-      "id": "a341",
+      "id": "a703",
+      "word": "somber",
+      "translation": "gloomy, somber"
+    },
+    {
+      "id": "a704",
       "word": "speciaal",
       "translation": "special"
     },
     {
-      "id": "a342",
+      "id": "a705",
+      "word": "specifiek",
+      "translation": "specific"
+    },
+    {
+      "id": "a706",
+      "word": "speels",
+      "translation": "playful"
+    },
+    {
+      "id": "a707",
+      "word": "spoedig",
+      "translation": "soon, speedy"
+    },
+    {
+      "id": "a708",
+      "word": "spontaan",
+      "translation": "spontaneous"
+    },
+    {
+      "id": "a709",
+      "word": "star",
+      "translation": "rigid, stiff"
+    },
+    {
+      "id": "a710",
+      "word": "stedelijk",
+      "translation": "urban"
+    },
+    {
+      "id": "a711",
       "word": "steeds",
       "translation": "always; increasingly"
     },
     {
-      "id": "a343",
+      "id": "a712",
+      "word": "steil",
+      "translation": "steep"
+    },
+    {
+      "id": "a713",
+      "word": "stellig",
+      "translation": "definite, emphatic"
+    },
+    {
+      "id": "a714",
       "word": "sterk",
       "translation": "strong"
     },
     {
-      "id": "a344",
+      "id": "a715",
+      "word": "stevig",
+      "translation": "firm, sturdy"
+    },
+    {
+      "id": "a716",
+      "word": "stiekem",
+      "translation": "sneaky, secretly"
+    },
+    {
+      "id": "a717",
+      "word": "stijf",
+      "translation": "stiff"
+    },
+    {
+      "id": "a718",
       "word": "stil",
       "translation": "quiet, silent"
     },
     {
-      "id": "a345",
+      "id": "a719",
       "word": "stom",
       "translation": "stupid; mute"
     },
     {
-      "id": "a346",
+      "id": "a720",
+      "word": "strak",
+      "translation": "tight; taut"
+    },
+    {
+      "id": "a721",
       "word": "straks",
       "translation": "soon; later"
     },
     {
-      "id": "a347",
+      "id": "a722",
+      "word": "stralend",
+      "translation": "radiant, beaming"
+    },
+    {
+      "id": "a723",
+      "word": "strategisch",
+      "translation": "strategic"
+    },
+    {
+      "id": "a724",
+      "word": "streng",
+      "translation": "strict, severe"
+    },
+    {
+      "id": "a725",
       "word": "strijdig",
       "translation": "conflicting"
     },
     {
-      "id": "a348",
+      "id": "a726",
       "word": "strikt",
       "translation": "strict"
     },
     {
-      "id": "a349",
+      "id": "a727",
+      "word": "structureel",
+      "translation": "structural"
+    },
+    {
+      "id": "a728",
+      "word": "subjectief",
+      "translation": "subjective"
+    },
+    {
+      "id": "a729",
+      "word": "subtiel",
+      "translation": "subtle"
+    },
+    {
+      "id": "a730",
+      "word": "succesvol",
+      "translation": "successful"
+    },
+    {
+      "id": "a731",
+      "word": "symbolisch",
+      "translation": "symbolic"
+    },
+    {
+      "id": "a732",
+      "word": "sympathiek",
+      "translation": "likeable, nice"
+    },
+    {
+      "id": "a733",
+      "word": "systematisch",
+      "translation": "systematic"
+    },
+    {
+      "id": "a734",
+      "word": "taai",
+      "translation": "tough"
+    },
+    {
+      "id": "a735",
+      "word": "talloos",
+      "translation": "countless"
+    },
+    {
+      "id": "a736",
+      "word": "talrijk",
+      "translation": "numerous"
+    },
+    {
+      "id": "a737",
       "word": "tamelijk",
       "translation": "fairly, rather"
     },
     {
-      "id": "a350",
+      "id": "a738",
       "word": "technisch",
       "translation": "technical"
     },
     {
-      "id": "a351",
+      "id": "a739",
+      "word": "teder",
+      "translation": "tender"
+    },
+    {
+      "id": "a740",
       "word": "tegelijk",
       "translation": "at the same time"
     },
     {
-      "id": "a352",
+      "id": "a741",
       "word": "tegelijkertijd",
       "translation": "at the same time"
     },
     {
-      "id": "a353",
+      "id": "a742",
       "word": "tegemoet",
       "translation": "towards"
     },
     {
-      "id": "a354",
+      "id": "a743",
       "word": "tegen",
       "translation": "against"
     },
     {
-      "id": "a355",
+      "id": "a744",
       "word": "tegenover",
       "translation": "opposite; towards"
     },
     {
-      "id": "a356",
+      "id": "a745",
       "word": "tegenwoordig",
       "translation": "nowadays; present"
     },
     {
-      "id": "a357",
+      "id": "a746",
       "word": "tenminste",
       "translation": "at least"
     },
     {
-      "id": "a358",
+      "id": "a747",
+      "word": "terecht",
+      "translation": "justified; rightly"
+    },
+    {
+      "id": "a748",
       "word": "terug",
       "translation": "back"
     },
     {
-      "id": "a359",
+      "id": "a749",
       "word": "tevoren",
       "translation": "beforehand"
     },
     {
-      "id": "a360",
+      "id": "a750",
       "word": "tevreden",
       "translation": "satisfied"
     },
     {
-      "id": "a361",
+      "id": "a751",
+      "word": "theologisch",
+      "translation": "theological"
+    },
+    {
+      "id": "a752",
+      "word": "theoretisch",
+      "translation": "theoretical"
+    },
+    {
+      "id": "a753",
       "word": "thuis",
       "translation": "at home"
     },
     {
-      "id": "a362",
+      "id": "a754",
       "word": "tien",
       "translation": "ten"
     },
     {
-      "id": "a363",
+      "id": "a755",
       "word": "tijdelijk",
       "translation": "temporary"
     },
     {
-      "id": "a364",
+      "id": "a756",
+      "word": "tijdig",
+      "translation": "timely"
+    },
+    {
+      "id": "a757",
       "word": "toch",
       "translation": "yet, still; anyway"
     },
     {
-      "id": "a365",
+      "id": "a758",
       "word": "toe",
       "translation": "to; closed"
     },
     {
-      "id": "a366",
+      "id": "a759",
+      "word": "toegankelijk",
+      "translation": "accessible"
+    },
+    {
+      "id": "a760",
       "word": "toekomstig",
       "translation": "future"
     },
     {
-      "id": "a367",
+      "id": "a761",
+      "word": "toenmalig",
+      "translation": "then, at that time"
+    },
+    {
+      "id": "a762",
+      "word": "toevallig",
+      "translation": "coincidental; by chance"
+    },
+    {
+      "id": "a763",
+      "word": "totaal",
+      "translation": "total"
+    },
+    {
+      "id": "a764",
+      "word": "traag",
+      "translation": "slow, sluggish"
+    },
+    {
+      "id": "a765",
       "word": "traditioneel",
       "translation": "traditional"
     },
     {
-      "id": "a368",
+      "id": "a766",
+      "word": "tragisch",
+      "translation": "tragic"
+    },
+    {
+      "id": "a767",
+      "word": "treurig",
+      "translation": "sad, sorrowful"
+    },
+    {
+      "id": "a768",
+      "word": "triest",
+      "translation": "sad, dreary"
+    },
+    {
+      "id": "a769",
+      "word": "tropisch",
+      "translation": "tropical"
+    },
+    {
+      "id": "a770",
       "word": "trots",
       "translation": "proud"
     },
     {
-      "id": "a369",
+      "id": "a771",
       "word": "trouw",
       "translation": "faithful, loyal"
     },
     {
-      "id": "a370",
+      "id": "a772",
+      "word": "trouwens",
+      "translation": "by the way; besides"
+    },
+    {
+      "id": "a773",
       "word": "typisch",
       "translation": "typical"
     },
     {
-      "id": "a371",
+      "id": "a774",
+      "word": "uitbundig",
+      "translation": "exuberant"
+    },
+    {
+      "id": "a775",
+      "word": "uitdrukkelijk",
+      "translation": "explicit"
+    },
+    {
+      "id": "a776",
       "word": "uiteindelijk",
       "translation": "ultimately, finally"
     },
     {
-      "id": "a372",
+      "id": "a777",
       "word": "uiteraard",
       "translation": "of course, naturally"
     },
     {
-      "id": "a373",
+      "id": "a778",
       "word": "uitermate",
       "translation": "extremely"
     },
     {
-      "id": "a374",
+      "id": "a779",
       "word": "uiterst",
       "translation": "utmost, extreme"
     },
     {
-      "id": "a375",
+      "id": "a780",
       "word": "uitgebreid",
       "translation": "extensive"
     },
     {
-      "id": "a376",
+      "id": "a781",
+      "word": "uitgeput",
+      "translation": "exhausted"
+    },
+    {
+      "id": "a782",
+      "word": "uitgesproken",
+      "translation": "outspoken"
+    },
+    {
+      "id": "a783",
+      "word": "uitgestrekt",
+      "translation": "vast, extensive"
+    },
+    {
+      "id": "a784",
       "word": "uitsluitend",
       "translation": "exclusively"
     },
     {
-      "id": "a377",
+      "id": "a785",
+      "word": "uitstekend",
+      "translation": "excellent"
+    },
+    {
+      "id": "a786",
+      "word": "uitvoerig",
+      "translation": "detailed, thorough"
+    },
+    {
+      "id": "a787",
+      "word": "uitzonderlijk",
+      "translation": "exceptional"
+    },
+    {
+      "id": "a788",
+      "word": "uniek",
+      "translation": "unique"
+    },
+    {
+      "id": "a789",
+      "word": "universeel",
+      "translation": "universal"
+    },
+    {
+      "id": "a790",
+      "word": "universitair",
+      "translation": "university (adj.)"
+    },
+    {
+      "id": "a791",
       "word": "vaag",
       "translation": "vague"
     },
     {
-      "id": "a378",
+      "id": "a792",
       "word": "vaak",
       "translation": "often"
     },
     {
-      "id": "a379",
+      "id": "a793",
       "word": "vals",
       "translation": "false; fake"
     },
     {
-      "id": "a380",
+      "id": "a794",
       "word": "van",
       "translation": "of, from"
     },
     {
-      "id": "a381",
+      "id": "a795",
       "word": "vandaag",
       "translation": "today"
     },
     {
-      "id": "a382",
+      "id": "a796",
       "word": "vast",
       "translation": "firm; fixed; stuck"
     },
     {
-      "id": "a383",
+      "id": "a797",
+      "word": "vastbesloten",
+      "translation": "determined"
+    },
+    {
+      "id": "a798",
       "word": "veelal",
       "translation": "often, mostly"
     },
     {
-      "id": "a384",
+      "id": "a799",
+      "word": "veelvuldig",
+      "translation": "frequent"
+    },
+    {
+      "id": "a800",
       "word": "veilig",
       "translation": "safe"
     },
     {
-      "id": "a385",
+      "id": "a801",
       "word": "ver",
       "translation": "far"
     },
     {
-      "id": "a386",
+      "id": "a802",
       "word": "verantwoordelijk",
       "translation": "responsible"
     },
     {
-      "id": "a387",
+      "id": "a803",
+      "word": "verbaal",
+      "translation": "verbal"
+    },
+    {
+      "id": "a804",
+      "word": "verbaasd",
+      "translation": "surprised"
+    },
+    {
+      "id": "a805",
+      "word": "verboden",
+      "translation": "forbidden"
+    },
+    {
+      "id": "a806",
+      "word": "verdacht",
+      "translation": "suspicious"
+    },
+    {
+      "id": "a807",
       "word": "verder",
       "translation": "further"
     },
     {
-      "id": "a388",
+      "id": "a808",
+      "word": "verdrietig",
+      "translation": "sad"
+    },
+    {
+      "id": "a809",
+      "word": "vergeefs",
+      "translation": "in vain"
+    },
+    {
+      "id": "a810",
       "word": "verkeerd",
       "translation": "wrong"
     },
     {
-      "id": "a389",
+      "id": "a811",
+      "word": "verlegen",
+      "translation": "shy; embarrassed"
+    },
+    {
+      "id": "a812",
+      "word": "verliefd",
+      "translation": "in love"
+    },
+    {
+      "id": "a813",
+      "word": "verloren",
+      "translation": "lost"
+    },
+    {
+      "id": "a814",
+      "word": "vermoedelijk",
+      "translation": "presumably"
+    },
+    {
+      "id": "a815",
       "word": "verplicht",
       "translation": "obligatory"
     },
     {
-      "id": "a390",
+      "id": "a816",
+      "word": "vers",
+      "translation": "fresh"
+    },
+    {
+      "id": "a817",
       "word": "verscheiden",
       "translation": "several; diverse"
     },
     {
-      "id": "a391",
+      "id": "a818",
       "word": "verschillend",
       "translation": "different, various"
     },
     {
-      "id": "a392",
+      "id": "a819",
+      "word": "verschrikkelijk",
+      "translation": "terrible, horrible"
+    },
+    {
+      "id": "a820",
       "word": "verstandig",
       "translation": "wise, sensible"
     },
     {
-      "id": "a393",
+      "id": "a821",
+      "word": "verticaal",
+      "translation": "vertical"
+    },
+    {
+      "id": "a822",
+      "word": "vertrouwd",
+      "translation": "trusted; familiar"
+    },
+    {
+      "id": "a823",
+      "word": "vertrouwelijk",
+      "translation": "confidential"
+    },
+    {
+      "id": "a824",
+      "word": "vervelend",
+      "translation": "annoying; boring"
+    },
+    {
+      "id": "a825",
       "word": "vervolgens",
       "translation": "subsequently"
     },
     {
-      "id": "a394",
+      "id": "a826",
       "word": "verwant",
       "translation": "related"
     },
     {
-      "id": "a395",
+      "id": "a827",
+      "word": "verward",
+      "translation": "confused"
+    },
+    {
+      "id": "a828",
       "word": "vet",
       "translation": "fat"
     },
     {
-      "id": "a396",
+      "id": "a829",
+      "word": "vierkant",
+      "translation": "square"
+    },
+    {
+      "id": "a830",
+      "word": "vies",
+      "translation": "dirty; disgusting"
+    },
+    {
+      "id": "a831",
       "word": "vijandig",
       "translation": "hostile"
     },
     {
-      "id": "a397",
+      "id": "a832",
+      "word": "vitaal",
+      "translation": "vital"
+    },
+    {
+      "id": "a833",
       "word": "vlak",
       "translation": "flat; just"
     },
     {
-      "id": "a398",
+      "id": "a834",
+      "word": "vlot",
+      "translation": "fluent; smooth"
+    },
+    {
+      "id": "a835",
+      "word": "vluchtig",
+      "translation": "brief; volatile"
+    },
+    {
+      "id": "a836",
       "word": "vlug",
       "translation": "quick"
     },
     {
-      "id": "a399",
+      "id": "a837",
+      "word": "vochtig",
+      "translation": "moist, damp"
+    },
+    {
+      "id": "a838",
       "word": "vol",
       "translation": "full"
     },
     {
-      "id": "a400",
+      "id": "a839",
       "word": "voldoende",
       "translation": "sufficient"
     },
     {
-      "id": "a401",
+      "id": "a840",
       "word": "volgend",
       "translation": "next, following"
     },
     {
-      "id": "a402",
+      "id": "a841",
       "word": "volgens",
       "translation": "according to"
     },
     {
-      "id": "a403",
+      "id": "a842",
       "word": "volkomen",
       "translation": "complete, perfect"
     },
     {
-      "id": "a404",
+      "id": "a843",
       "word": "volledig",
       "translation": "complete"
     },
     {
-      "id": "a405",
+      "id": "a844",
+      "word": "volmaakt",
+      "translation": "perfect"
+    },
+    {
+      "id": "a845",
       "word": "volop",
       "translation": "plenty of"
     },
     {
-      "id": "a406",
+      "id": "a846",
+      "word": "volstrekt",
+      "translation": "absolute, utter"
+    },
+    {
+      "id": "a847",
+      "word": "vooraf",
+      "translation": "beforehand"
+    },
+    {
+      "id": "a848",
       "word": "voorbij",
       "translation": "past, over"
     },
     {
-      "id": "a407",
+      "id": "a849",
       "word": "voorlopig",
       "translation": "provisional; for now"
     },
     {
-      "id": "a408",
+      "id": "a850",
+      "word": "voormalig",
+      "translation": "former"
+    },
+    {
+      "id": "a851",
       "word": "voornaam",
       "translation": "distinguished; first (name)"
     },
     {
-      "id": "a409",
+      "id": "a852",
       "word": "voornamelijk",
       "translation": "mainly"
     },
     {
-      "id": "a410",
+      "id": "a853",
       "word": "voorop",
       "translation": "in front; first"
     },
     {
-      "id": "a411",
+      "id": "a854",
       "word": "voortdurend",
       "translation": "continuous"
     },
     {
-      "id": "a412",
+      "id": "a855",
+      "word": "voortreffelijk",
+      "translation": "excellent"
+    },
+    {
+      "id": "a856",
       "word": "vooruit",
       "translation": "forward"
     },
     {
-      "id": "a413",
+      "id": "a857",
       "word": "voorzichtig",
       "translation": "careful"
     },
     {
-      "id": "a414",
+      "id": "a858",
+      "word": "vorig",
+      "translation": "previous, last"
+    },
+    {
+      "id": "a859",
+      "word": "vredig",
+      "translation": "peaceful"
+    },
+    {
+      "id": "a860",
+      "word": "vreedzaam",
+      "translation": "peaceful"
+    },
+    {
+      "id": "a861",
       "word": "vreemd",
       "translation": "strange; foreign"
     },
     {
-      "id": "a415",
+      "id": "a862",
+      "word": "vreselijk",
+      "translation": "terrible, awful"
+    },
+    {
+      "id": "a863",
       "word": "vriendelijk",
       "translation": "friendly"
     },
     {
-      "id": "a416",
+      "id": "a864",
       "word": "vrij",
       "translation": "free"
     },
     {
-      "id": "a417",
+      "id": "a865",
       "word": "vrijwel",
       "translation": "virtually, almost"
     },
     {
-      "id": "a418",
+      "id": "a866",
+      "word": "vrijwillig",
+      "translation": "voluntary"
+    },
+    {
+      "id": "a867",
       "word": "vroeg",
       "translation": "early"
     },
     {
-      "id": "a419",
+      "id": "a868",
       "word": "vroeger",
       "translation": "formerly"
     },
     {
-      "id": "a420",
+      "id": "a869",
       "word": "vrolijk",
       "translation": "cheerful"
     },
     {
-      "id": "a421",
+      "id": "a870",
       "word": "vrouwelijk",
       "translation": "female; feminine"
     },
     {
-      "id": "a422",
+      "id": "a871",
+      "word": "vruchtbaar",
+      "translation": "fertile; fruitful"
+    },
+    {
+      "id": "a872",
       "word": "vuil",
       "translation": "dirty"
     },
     {
-      "id": "a423",
+      "id": "a873",
+      "word": "vurig",
+      "translation": "fervent, ardent"
+    },
+    {
+      "id": "a874",
+      "word": "waar",
+      "translation": "true; where"
+    },
+    {
+      "id": "a875",
       "word": "waard",
       "translation": "worth"
     },
     {
-      "id": "a424",
+      "id": "a876",
+      "word": "waardevol",
+      "translation": "valuable"
+    },
+    {
+      "id": "a877",
       "word": "waardig",
       "translation": "dignified"
     },
     {
-      "id": "a425",
+      "id": "a878",
       "word": "waarheen",
       "translation": "where to"
     },
     {
-      "id": "a426",
+      "id": "a879",
       "word": "waarlijk",
       "translation": "truly"
     },
     {
-      "id": "a427",
+      "id": "a880",
       "word": "waarom",
       "translation": "why"
     },
     {
-      "id": "a428",
+      "id": "a881",
       "word": "waarschijnlijk",
       "translation": "probably"
     },
     {
-      "id": "a429",
+      "id": "a882",
+      "word": "wakker",
+      "translation": "awake"
+    },
+    {
+      "id": "a883",
+      "word": "wanhopig",
+      "translation": "desperate"
+    },
+    {
+      "id": "a884",
       "word": "warm",
       "translation": "warm"
     },
     {
-      "id": "a430",
+      "id": "a885",
+      "word": "wederzijds",
+      "translation": "mutual"
+    },
+    {
+      "id": "a886",
       "word": "wegens",
       "translation": "because of"
     },
     {
-      "id": "a431",
+      "id": "a887",
       "word": "weinig",
       "translation": "few, little"
     },
     {
-      "id": "a432",
+      "id": "a888",
       "word": "welk",
       "translation": "which"
     },
     {
-      "id": "a433",
+      "id": "a889",
+      "word": "welkom",
+      "translation": "welcome"
+    },
+    {
+      "id": "a890",
+      "word": "wenselijk",
+      "translation": "desirable"
+    },
+    {
+      "id": "a891",
       "word": "werkelijk",
       "translation": "real, actual"
     },
     {
-      "id": "a434",
+      "id": "a892",
+      "word": "werkzaam",
+      "translation": "working; active"
+    },
+    {
+      "id": "a893",
+      "word": "westelijk",
+      "translation": "western"
+    },
+    {
+      "id": "a894",
+      "word": "westers",
+      "translation": "Western"
+    },
+    {
+      "id": "a895",
       "word": "wetenschappelijk",
       "translation": "scientific"
     },
     {
-      "id": "a435",
+      "id": "a896",
       "word": "wettelijk",
       "translation": "legal"
     },
     {
-      "id": "a436",
+      "id": "a897",
       "word": "wezenlijk",
       "translation": "essential"
     },
     {
-      "id": "a437",
+      "id": "a898",
       "word": "wijd",
       "translation": "wide"
     },
     {
-      "id": "a438",
+      "id": "a899",
+      "word": "wijs",
+      "translation": "wise"
+    },
+    {
+      "id": "a900",
       "word": "wild",
       "translation": "wild"
     },
     {
-      "id": "a439",
+      "id": "a901",
+      "word": "willekeurig",
+      "translation": "random; arbitrary"
+    },
+    {
+      "id": "a902",
       "word": "wit",
       "translation": "white"
     },
     {
-      "id": "a440",
+      "id": "a903",
+      "word": "woedend",
+      "translation": "furious"
+    },
+    {
+      "id": "a904",
+      "word": "woest",
+      "translation": "wild; furious"
+    },
+    {
+      "id": "a905",
+      "word": "wonderlijk",
+      "translation": "strange, wonderful"
+    },
+    {
+      "id": "a906",
       "word": "wreed",
       "translation": "cruel"
     },
     {
-      "id": "a441",
+      "id": "a907",
       "word": "zacht",
       "translation": "soft; gentle"
     },
     {
-      "id": "a442",
+      "id": "a908",
       "word": "zakelijk",
       "translation": "businesslike"
     },
     {
-      "id": "a443",
+      "id": "a909",
+      "word": "zedelijk",
+      "translation": "moral"
+    },
+    {
+      "id": "a910",
+      "word": "zeer",
+      "translation": "very; sore"
+    },
+    {
+      "id": "a911",
       "word": "zeker",
       "translation": "certain, sure"
     },
     {
-      "id": "a444",
+      "id": "a912",
       "word": "zelden",
       "translation": "seldom, rarely"
     },
     {
-      "id": "a445",
+      "id": "a913",
+      "word": "zeldzaam",
+      "translation": "rare"
+    },
+    {
+      "id": "a914",
       "word": "zelf",
       "translation": "self"
     },
     {
-      "id": "a446",
+      "id": "a915",
       "word": "zelfstandig",
       "translation": "independent"
     },
     {
-      "id": "a447",
+      "id": "a916",
+      "word": "zenuwachtig",
+      "translation": "nervous"
+    },
+    {
+      "id": "a917",
       "word": "zestig",
       "translation": "sixty"
     },
     {
-      "id": "a448",
+      "id": "a918",
       "word": "zeventig",
       "translation": "seventy"
     },
     {
-      "id": "a449",
+      "id": "a919",
       "word": "zichtbaar",
       "translation": "visible"
     },
     {
-      "id": "a450",
+      "id": "a920",
       "word": "ziek",
       "translation": "sick"
     },
     {
-      "id": "a451",
+      "id": "a921",
+      "word": "zielig",
+      "translation": "pitiful"
+    },
+    {
+      "id": "a922",
+      "word": "zilveren",
+      "translation": "silver"
+    },
+    {
+      "id": "a923",
       "word": "zinloos",
       "translation": "pointless"
     },
     {
-      "id": "a452",
+      "id": "a924",
+      "word": "zinvol",
+      "translation": "meaningful"
+    },
+    {
+      "id": "a925",
       "word": "zo",
       "translation": "so; like this"
     },
     {
-      "id": "a453",
+      "id": "a926",
+      "word": "zoet",
+      "translation": "sweet"
+    },
+    {
+      "id": "a927",
       "word": "zogeheten",
       "translation": "so-called"
     },
     {
-      "id": "a454",
+      "id": "a928",
       "word": "zogenaamd",
       "translation": "so-called"
     },
     {
-      "id": "a455",
+      "id": "a929",
       "word": "zonnig",
       "translation": "sunny"
     },
     {
-      "id": "a456",
+      "id": "a930",
       "word": "zorgvuldig",
       "translation": "careful, thorough"
     },
     {
-      "id": "a457",
+      "id": "a931",
       "word": "zuidelijk",
       "translation": "southern"
     },
     {
-      "id": "a458",
+      "id": "a932",
       "word": "zuinig",
       "translation": "economical, thrifty"
     },
     {
-      "id": "a459",
+      "id": "a933",
       "word": "zuiver",
       "translation": "pure, clean"
     },
     {
-      "id": "a460",
+      "id": "a934",
       "word": "zuur",
       "translation": "sour"
     },
     {
-      "id": "a461",
+      "id": "a935",
       "word": "zwaar",
       "translation": "heavy"
     },
     {
-      "id": "a462",
+      "id": "a936",
       "word": "zwak",
       "translation": "weak"
     },
     {
-      "id": "a463",
+      "id": "a937",
       "word": "zwanger",
       "translation": "pregnant"
     },
     {
-      "id": "a464",
+      "id": "a938",
       "word": "zwart",
       "translation": "black"
     }
