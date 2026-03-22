@@ -213,16 +213,33 @@ const Quiz = (() => {
 
     if (candidates.length === 0) return [];
 
+    // Add randomness: shuffle first, then use spaced repetition to bias toward priority words
+    shuffleArray(candidates);
+
     const wordIds = [...new Set(candidates.map(c => c.wordId))];
     const prioritized = SpacedRepetition.getNextWords(wordIds, wordIds.length);
 
+    // Build a priority score with randomness added
     const priorityMap = {};
-    prioritized.forEach((id, i) => priorityMap[id] = i);
+    prioritized.forEach((id, i) => {
+      // Add random jitter so same-priority words get mixed up
+      priorityMap[id] = i + Math.random() * Math.min(count, 20);
+    });
     candidates.sort((a, b) => (priorityMap[a.wordId] ?? 999) - (priorityMap[b.wordId] ?? 999));
 
-    const selected = candidates.slice(0, count * 2);
+    // Pick top candidates
+    const selected = candidates.slice(0, count);
+
+    // Final shuffle so the order within a session is random
     shuffleArray(selected);
-    return selected.slice(0, count);
+
+    // Mark unseen words so we can show a learn card first
+    for (const q of selected) {
+      const stats = SpacedRepetition.getWordData(q.wordId);
+      q.isNew = !stats;
+    }
+
+    return selected;
   }
 
   function renderQuestion() {
@@ -247,6 +264,12 @@ const Quiz = (() => {
     const progress = session.endless
       ? `Question ${session.totalAnswered + 1}`
       : `Question ${session.currentIndex + 1} / ${session.questions.length}`;
+
+    // Show learn card for new words before quizzing
+    if (q.isNew && !q._learned) {
+      renderLearnCard(q, progress);
+      return;
+    }
 
     const mc = useMultipleChoice(q);
     let questionHtml = '';
@@ -335,6 +358,79 @@ const Quiz = (() => {
     `;
 
     document.getElementById('quiz-answer')?.focus();
+  }
+
+  function renderLearnCard(q, progress) {
+    const container = document.getElementById('quiz-content');
+    const w = q.word;
+
+    let infoHtml = '';
+
+    // Determine word type from ID prefix
+    const wordType = w.id.startsWith('n') ? 'noun' : w.id.startsWith('v') ? 'verb' : 'adjective';
+
+    if (wordType === 'noun') {
+      infoHtml = `
+        <p class="learn-label">Noun</p>
+        <p class="learn-word"><span class="learn-article">${esc(w.article || '')}</span> ${esc(w.word)}</p>
+        <p class="learn-translation">${esc(w.translation)}</p>
+      `;
+    } else if (wordType === 'verb') {
+      const conj = w.conjugations || {};
+      const present = conj.present || {};
+      const past = conj.past || {};
+
+      // Show a compact conjugation preview
+      const previewPersons = ['ik', 'jij', 'hij/zij', 'wij'];
+      let conjRows = previewPersons.map(p => {
+        const pLabel = p === 'zij_plural' ? 'zij (pl.)' : p;
+        return `<tr>
+          <td class="person-label">${esc(pLabel)}</td>
+          <td>${esc(present[p] || '-')}</td>
+          <td>${esc(past[p] || '-')}</td>
+        </tr>`;
+      }).join('');
+
+      infoHtml = `
+        <p class="learn-label">Verb</p>
+        <p class="learn-word">${esc(w.word)}</p>
+        <p class="learn-translation">${esc(w.translation)}</p>
+        <table class="learn-conj-table">
+          <thead><tr><th></th><th>Present</th><th>Past</th></tr></thead>
+          <tbody>${conjRows}</tbody>
+        </table>
+        ${conj.perfect ? `<p class="learn-perfect">Perfect: <strong>${esc(conj.perfect)}</strong></p>` : ''}
+      `;
+    } else {
+      infoHtml = `
+        <p class="learn-label">Adjective</p>
+        <p class="learn-word">${esc(w.word)}</p>
+        <p class="learn-translation">${esc(w.translation)}</p>
+      `;
+    }
+
+    container.innerHTML = `
+      <div class="quiz-session">
+        <div class="quiz-header">
+          <span class="quiz-progress">${progress}</span>
+          <span class="quiz-score">${session.totalCorrect} / ${session.totalAnswered} correct</span>
+          ${session.endless ? '<button class="btn btn-sm" onclick="Quiz.endSession()">Stop</button>' : ''}
+        </div>
+        <div class="quiz-card learn-card">
+          <p class="learn-new-badge">New Word</p>
+          ${infoHtml}
+          <button class="btn btn-primary" onclick="Quiz.dismissLearnCard()" autofocus>Got it, quiz me!</button>
+        </div>
+      </div>
+    `;
+
+    container.querySelector('.btn-primary')?.focus();
+  }
+
+  function dismissLearnCard() {
+    const q = session.questions[session.currentIndex];
+    q._learned = true;
+    renderQuestion();
   }
 
   function renderMCQuestion(prompt, word, hint, q) {
@@ -583,5 +679,5 @@ const Quiz = (() => {
     }
   }
 
-  return { init, start, submitAnswer, submitDeHet, submitMC, nextQuestion, endSession, renderSetup };
+  return { init, start, submitAnswer, submitDeHet, submitMC, nextQuestion, endSession, dismissLearnCard, renderSetup };
 })();
