@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dutch Learning</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="nav">
+    <span class="app-title">Dutch Learning</span>
+    <button class="nav-btn active" id="nav-manager" onclick="switchView('manager')">Manager</button>
+    <button class="nav-btn" id="nav-quiz" onclick="switchView('quiz')">Quiz</button>
+    <button class="nav-btn" id="nav-progress" onclick="switchView('progress')">Progress</button>
+    <button class="nav-btn" id="nav-data" onclick="switchView('data')">Data</button>
+  </nav>
+
+  <div class="main">
+    <div id="view-manager" class="view active">
+      <div id="manager-content"></div>
+    </div>
+
+    <div id="view-quiz" class="view">
+      <div id="quiz-content"></div>
+    </div>
+
+    <div id="view-progress" class="view">
+      <div id="progress-content"></div>
+    </div>
+
+    <div id="view-data" class="view">
+      <h2>Data Management</h2>
+      <div class="data-section">
+        <h3>Export / Import</h3>
+        <p style="color: var(--text-muted); margin-bottom: 1rem; font-size: 0.9rem;">
+          Export your word lists as JSON to back up or share. Import to load new words.
+        </p>
+        <div class="data-actions">
+          <button class="btn" onclick="exportData()">Export JSON</button>
+          <button class="btn" onclick="document.getElementById('import-file').click()">Import JSON</button>
+          <input type="file" id="import-file" accept=".json" style="display:none" onchange="importData(event)">
+        </div>
+      </div>
+      <div class="data-section">
+        <h3>Reset</h3>
+        <p style="color: var(--text-muted); margin-bottom: 1rem; font-size: 0.9rem;">
+          Reset everything to the original seed data. This clears all your changes and quiz history.
+        </p>
+        <div class="data-actions">
+          <button class="btn btn-danger" onclick="resetData()">Reset to Seed Data</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="seed.js"></script>
+  <script src="js/spaced.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/manager.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/progress.js"></script>
+  <script>
+    function switchView(view) {
+      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      document.getElementById('view-' + view).classList.add('active');
+      document.getElementById('nav-' + view).classList.add('active');
+
+      if (view === 'manager') Manager.init();
+      if (view === 'quiz') Quiz.init();
+      if (view === 'progress') Progress.init();
+    }
+
+    function exportData() {
+      const json = Store.exportData();
+      const blob = new Blob([json], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'dutch-learning-data.json';
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function importData(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          Store.importData(e.target.result);
+          alert('Data imported successfully!');
+          Manager.init();
+        } catch (err) {
+          alert('Import failed: ' + err.message);
+        }
+      };
+      reader.readAsText(file);
+      event.target.value = '';
+    }
+
+    function resetData() {
+      if (!confirm('This will erase all your changes and quiz history. Are you sure?')) return;
+      Store.resetToSeed();
+      Manager.init();
+      alert('Data reset to seed values.');
+    }
+
+    // Init
+    Manager.init();
+  </script>
+</body>
+</html>
