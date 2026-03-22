@@ -1,12 +1,2322 @@
 [
-  { "id": "a1", "word": "groot", "translation": "big" },
-  { "id": "a2", "word": "klein", "translation": "small" },
-  { "id": "a3", "word": "goed", "translation": "good" },
-  { "id": "a4", "word": "slecht", "translation": "bad" },
-  { "id": "a5", "word": "oud", "translation": "old" },
-  { "id": "a6", "word": "nieuw", "translation": "new" },
-  { "id": "a7", "word": "mooi", "translation": "beautiful" },
-  { "id": "a8", "word": "lelijk", "translation": "ugly" },
-  { "id": "a9", "word": "snel", "translation": "fast" },
-  { "id": "a10", "word": "langzaam", "translation": "slow" }
+  {
+    "id": "a1",
+    "word": "aandachtig",
+    "translation": "attentive"
+  },
+  {
+    "id": "a2",
+    "word": "aangeboren",
+    "translation": "innate, inborn"
+  },
+  {
+    "id": "a3",
+    "word": "aangenaam",
+    "translation": "pleasant"
+  },
+  {
+    "id": "a4",
+    "word": "aangewezen",
+    "translation": "designated; dependent on"
+  },
+  {
+    "id": "a5",
+    "word": "aantrekkelijk",
+    "translation": "attractive"
+  },
+  {
+    "id": "a6",
+    "word": "aanvankelijk",
+    "translation": "initial"
+  },
+  {
+    "id": "a7",
+    "word": "aanwezig",
+    "translation": "present"
+  },
+  {
+    "id": "a8",
+    "word": "aanzienlijk",
+    "translation": "considerable"
+  },
+  {
+    "id": "a9",
+    "word": "aardig",
+    "translation": "nice, kind"
+  },
+  {
+    "id": "a10",
+    "word": "aards",
+    "translation": "earthly"
+  },
+  {
+    "id": "a11",
+    "word": "absoluut",
+    "translation": "absolute"
+  },
+  {
+    "id": "a12",
+    "word": "actief",
+    "translation": "active"
+  },
+  {
+    "id": "a13",
+    "word": "administratief",
+    "translation": "administrative"
+  },
+  {
+    "id": "a14",
+    "word": "afgezien",
+    "translation": "apart from"
+  },
+  {
+    "id": "a15",
+    "word": "afhankelijk",
+    "translation": "dependent"
+  },
+  {
+    "id": "a16",
+    "word": "afkomstig",
+    "translation": "originating from"
+  },
+  {
+    "id": "a17",
+    "word": "afschuwelijk",
+    "translation": "horrible, awful"
+  },
+  {
+    "id": "a18",
+    "word": "afzonderlijk",
+    "translation": "separate, individual"
+  },
+  {
+    "id": "a19",
+    "word": "agressief",
+    "translation": "aggressive"
+  },
+  {
+    "id": "a20",
+    "word": "algemeen",
+    "translation": "general"
+  },
+  {
+    "id": "a21",
+    "word": "allerlei",
+    "translation": "all kinds of"
+  },
+  {
+    "id": "a22",
+    "word": "angstig",
+    "translation": "anxious, fearful"
+  },
+  {
+    "id": "a23",
+    "word": "apart",
+    "translation": "separate; special"
+  },
+  {
+    "id": "a24",
+    "word": "automatisch",
+    "translation": "automatic"
+  },
+  {
+    "id": "a25",
+    "word": "bang",
+    "translation": "afraid, scared"
+  },
+  {
+    "id": "a26",
+    "word": "bar",
+    "translation": "harsh; bar"
+  },
+  {
+    "id": "a27",
+    "word": "bedacht",
+    "translation": "prepared for; devised"
+  },
+  {
+    "id": "a28",
+    "word": "begrijpelijk",
+    "translation": "understandable"
+  },
+  {
+    "id": "a29",
+    "word": "behoorlijk",
+    "translation": "considerable; proper"
+  },
+  {
+    "id": "a30",
+    "word": "beide",
+    "translation": "both"
+  },
+  {
+    "id": "a31",
+    "word": "bekend",
+    "translation": "known, famous"
+  },
+  {
+    "id": "a32",
+    "word": "belachelijk",
+    "translation": "ridiculous"
+  },
+  {
+    "id": "a33",
+    "word": "belangrijk",
+    "translation": "important"
+  },
+  {
+    "id": "a34",
+    "word": "bepaald",
+    "translation": "certain, specific"
+  },
+  {
+    "id": "a35",
+    "word": "beperkt",
+    "translation": "limited"
+  },
+  {
+    "id": "a36",
+    "word": "bereid",
+    "translation": "willing, prepared"
+  },
+  {
+    "id": "a37",
+    "word": "beroemd",
+    "translation": "famous"
+  },
+  {
+    "id": "a38",
+    "word": "bescheiden",
+    "translation": "modest"
+  },
+  {
+    "id": "a39",
+    "word": "beschikbaar",
+    "translation": "available"
+  },
+  {
+    "id": "a40",
+    "word": "beslist",
+    "translation": "definite, resolute"
+  },
+  {
+    "id": "a41",
+    "word": "besloten",
+    "translation": "closed; private"
+  },
+  {
+    "id": "a42",
+    "word": "best",
+    "translation": "best"
+  },
+  {
+    "id": "a43",
+    "word": "beter",
+    "translation": "better"
+  },
+  {
+    "id": "a44",
+    "word": "betreffende",
+    "translation": "concerning, regarding"
+  },
+  {
+    "id": "a45",
+    "word": "betrekkelijk",
+    "translation": "relative, relatively"
+  },
+  {
+    "id": "a46",
+    "word": "betrokken",
+    "translation": "involved, concerned"
+  },
+  {
+    "id": "a47",
+    "word": "betrouwbaar",
+    "translation": "reliable"
+  },
+  {
+    "id": "a48",
+    "word": "bewust",
+    "translation": "conscious, aware"
+  },
+  {
+    "id": "a49",
+    "word": "bezig",
+    "translation": "busy"
+  },
+  {
+    "id": "a50",
+    "word": "bezorgd",
+    "translation": "worried, concerned"
+  },
+  {
+    "id": "a51",
+    "word": "bijzonder",
+    "translation": "special, remarkable"
+  },
+  {
+    "id": "a52",
+    "word": "biologisch",
+    "translation": "biological, organic"
+  },
+  {
+    "id": "a53",
+    "word": "bitter",
+    "translation": "bitter"
+  },
+  {
+    "id": "a54",
+    "word": "blank",
+    "translation": "white, pale"
+  },
+  {
+    "id": "a55",
+    "word": "blauw",
+    "translation": "blue"
+  },
+  {
+    "id": "a56",
+    "word": "bleek",
+    "translation": "pale"
+  },
+  {
+    "id": "a57",
+    "word": "blij",
+    "translation": "happy, glad"
+  },
+  {
+    "id": "a58",
+    "word": "blijkbaar",
+    "translation": "apparently"
+  },
+  {
+    "id": "a59",
+    "word": "blind",
+    "translation": "blind"
+  },
+  {
+    "id": "a60",
+    "word": "blond",
+    "translation": "blond"
+  },
+  {
+    "id": "a61",
+    "word": "bloot",
+    "translation": "bare, naked"
+  },
+  {
+    "id": "a62",
+    "word": "boos",
+    "translation": "angry"
+  },
+  {
+    "id": "a63",
+    "word": "braaf",
+    "translation": "well-behaved, good"
+  },
+  {
+    "id": "a64",
+    "word": "breed",
+    "translation": "wide, broad"
+  },
+  {
+    "id": "a65",
+    "word": "bruin",
+    "translation": "brown"
+  },
+  {
+    "id": "a66",
+    "word": "burgerlijk",
+    "translation": "civil; bourgeois"
+  },
+  {
+    "id": "a67",
+    "word": "centraal",
+    "translation": "central"
+  },
+  {
+    "id": "a68",
+    "word": "chemisch",
+    "translation": "chemical"
+  },
+  {
+    "id": "a69",
+    "word": "christelijk",
+    "translation": "Christian"
+  },
+  {
+    "id": "a70",
+    "word": "collectief",
+    "translation": "collective"
+  },
+  {
+    "id": "a71",
+    "word": "communistisch",
+    "translation": "communist"
+  },
+  {
+    "id": "a72",
+    "word": "compleet",
+    "translation": "complete"
+  },
+  {
+    "id": "a73",
+    "word": "concreet",
+    "translation": "concrete, specific"
+  },
+  {
+    "id": "a74",
+    "word": "cultureel",
+    "translation": "cultural"
+  },
+  {
+    "id": "a75",
+    "word": "dagelijks",
+    "translation": "daily"
+  },
+  {
+    "id": "a76",
+    "word": "dankbaar",
+    "translation": "grateful"
+  },
+  {
+    "id": "a77",
+    "word": "definitief",
+    "translation": "definitive, final"
+  },
+  {
+    "id": "a78",
+    "word": "degelijk",
+    "translation": "solid, thorough"
+  },
+  {
+    "id": "a79",
+    "word": "democratisch",
+    "translation": "democratic"
+  },
+  {
+    "id": "a80",
+    "word": "denkbaar",
+    "translation": "conceivable"
+  },
+  {
+    "id": "a81",
+    "word": "derde",
+    "translation": "third"
+  },
+  {
+    "id": "a82",
+    "word": "dergelijk",
+    "translation": "such, similar"
+  },
+  {
+    "id": "a83",
+    "word": "dicht",
+    "translation": "closed; dense; near"
+  },
+  {
+    "id": "a84",
+    "word": "dichtbij",
+    "translation": "nearby"
+  },
+  {
+    "id": "a85",
+    "word": "diep",
+    "translation": "deep"
+  },
+  {
+    "id": "a86",
+    "word": "dik",
+    "translation": "thick, fat"
+  },
+  {
+    "id": "a87",
+    "word": "direct",
+    "translation": "direct"
+  },
+  {
+    "id": "a88",
+    "word": "divers",
+    "translation": "various"
+  },
+  {
+    "id": "a89",
+    "word": "dodelijk",
+    "translation": "deadly"
+  },
+  {
+    "id": "a90",
+    "word": "dol",
+    "translation": "crazy; fond of"
+  },
+  {
+    "id": "a91",
+    "word": "dom",
+    "translation": "stupid"
+  },
+  {
+    "id": "a92",
+    "word": "donker",
+    "translation": "dark"
+  },
+  {
+    "id": "a93",
+    "word": "dronken",
+    "translation": "drunk"
+  },
+  {
+    "id": "a94",
+    "word": "droog",
+    "translation": "dry"
+  },
+  {
+    "id": "a95",
+    "word": "druk",
+    "translation": "busy; pressure"
+  },
+  {
+    "id": "a96",
+    "word": "duidelijk",
+    "translation": "clear, obvious"
+  },
+  {
+    "id": "a97",
+    "word": "duister",
+    "translation": "dark, obscure"
+  },
+  {
+    "id": "a98",
+    "word": "duizend",
+    "translation": "thousand"
+  },
+  {
+    "id": "a99",
+    "word": "duur",
+    "translation": "expensive"
+  },
+  {
+    "id": "a100",
+    "word": "duurzaam",
+    "translation": "sustainable, durable"
+  },
+  {
+    "id": "a101",
+    "word": "economisch",
+    "translation": "economic"
+  },
+  {
+    "id": "a102",
+    "word": "eens",
+    "translation": "once; agreed"
+  },
+  {
+    "id": "a103",
+    "word": "eenvoudig",
+    "translation": "simple"
+  },
+  {
+    "id": "a104",
+    "word": "eerder",
+    "translation": "earlier; rather"
+  },
+  {
+    "id": "a105",
+    "word": "eerlijk",
+    "translation": "honest"
+  },
+  {
+    "id": "a106",
+    "word": "eerst",
+    "translation": "first"
+  },
+  {
+    "id": "a107",
+    "word": "effectief",
+    "translation": "effective"
+  },
+  {
+    "id": "a108",
+    "word": "eigen",
+    "translation": "own"
+  },
+  {
+    "id": "a109",
+    "word": "eigenaardig",
+    "translation": "peculiar, strange"
+  },
+  {
+    "id": "a110",
+    "word": "eigenlijk",
+    "translation": "actually; real"
+  },
+  {
+    "id": "a111",
+    "word": "eindelijk",
+    "translation": "finally"
+  },
+  {
+    "id": "a112",
+    "word": "elektrisch",
+    "translation": "electric"
+  },
+  {
+    "id": "a113",
+    "word": "elf",
+    "translation": "eleven"
+  },
+  {
+    "id": "a114",
+    "word": "empirisch",
+    "translation": "empirical"
+  },
+  {
+    "id": "a115",
+    "word": "enig",
+    "translation": "only; some; unique"
+  },
+  {
+    "id": "a116",
+    "word": "enkel",
+    "translation": "single; only"
+  },
+  {
+    "id": "a117",
+    "word": "enorm",
+    "translation": "enormous"
+  },
+  {
+    "id": "a118",
+    "word": "enthousiast",
+    "translation": "enthusiastic"
+  },
+  {
+    "id": "a119",
+    "word": "erg",
+    "translation": "bad; very"
+  },
+  {
+    "id": "a120",
+    "word": "ergens",
+    "translation": "somewhere"
+  },
+  {
+    "id": "a121",
+    "word": "ernstig",
+    "translation": "serious"
+  },
+  {
+    "id": "a122",
+    "word": "essentieel",
+    "translation": "essential"
+  },
+  {
+    "id": "a123",
+    "word": "ethisch",
+    "translation": "ethical"
+  },
+  {
+    "id": "a124",
+    "word": "eventueel",
+    "translation": "possible, potential"
+  },
+  {
+    "id": "a125",
+    "word": "feitelijk",
+    "translation": "actual, factual"
+  },
+  {
+    "id": "a126",
+    "word": "financieel",
+    "translation": "financial"
+  },
+  {
+    "id": "a127",
+    "word": "flauw",
+    "translation": "faint; lame"
+  },
+  {
+    "id": "a128",
+    "word": "formeel",
+    "translation": "formal"
+  },
+  {
+    "id": "a129",
+    "word": "fris",
+    "translation": "fresh, cool"
+  },
+  {
+    "id": "a130",
+    "word": "fysiek",
+    "translation": "physical"
+  },
+  {
+    "id": "a131",
+    "word": "gauw",
+    "translation": "quick, soon"
+  },
+  {
+    "id": "a132",
+    "word": "geacht",
+    "translation": "esteemed"
+  },
+  {
+    "id": "a133",
+    "word": "gedurende",
+    "translation": "during"
+  },
+  {
+    "id": "a134",
+    "word": "geel",
+    "translation": "yellow"
+  },
+  {
+    "id": "a135",
+    "word": "geen",
+    "translation": "no, none"
+  },
+  {
+    "id": "a136",
+    "word": "geheimzinnig",
+    "translation": "mysterious"
+  },
+  {
+    "id": "a137",
+    "word": "gek",
+    "translation": "crazy, silly"
+  },
+  {
+    "id": "a138",
+    "word": "geldig",
+    "translation": "valid"
+  },
+  {
+    "id": "a139",
+    "word": "geleidelijk",
+    "translation": "gradual"
+  },
+  {
+    "id": "a140",
+    "word": "gelukkig",
+    "translation": "happy; fortunately"
+  },
+  {
+    "id": "a141",
+    "word": "gemakkelijk",
+    "translation": "easy"
+  },
+  {
+    "id": "a142",
+    "word": "gemiddeld",
+    "translation": "average"
+  },
+  {
+    "id": "a143",
+    "word": "genoeg",
+    "translation": "enough"
+  },
+  {
+    "id": "a144",
+    "word": "geraakt",
+    "translation": "touched, affected"
+  },
+  {
+    "id": "a145",
+    "word": "gereed",
+    "translation": "ready, prepared"
+  },
+  {
+    "id": "a146",
+    "word": "geregeld",
+    "translation": "regular"
+  },
+  {
+    "id": "a147",
+    "word": "gerust",
+    "translation": "reassured, calm"
+  },
+  {
+    "id": "a148",
+    "word": "geschikt",
+    "translation": "suitable"
+  },
+  {
+    "id": "a149",
+    "word": "gespannen",
+    "translation": "tense, nervous"
+  },
+  {
+    "id": "a150",
+    "word": "getrouwd",
+    "translation": "married"
+  },
+  {
+    "id": "a151",
+    "word": "gevaarlijk",
+    "translation": "dangerous"
+  },
+  {
+    "id": "a152",
+    "word": "gevoelig",
+    "translation": "sensitive"
+  },
+  {
+    "id": "a153",
+    "word": "geweldig",
+    "translation": "tremendous, great"
+  },
+  {
+    "id": "a154",
+    "word": "gewoon",
+    "translation": "normal, ordinary"
+  },
+  {
+    "id": "a155",
+    "word": "gezamenlijk",
+    "translation": "joint, collective"
+  },
+  {
+    "id": "a156",
+    "word": "gezeten",
+    "translation": "seated; established"
+  },
+  {
+    "id": "a157",
+    "word": "gezond",
+    "translation": "healthy"
+  },
+  {
+    "id": "a158",
+    "word": "glad",
+    "translation": "smooth; slippery"
+  },
+  {
+    "id": "a159",
+    "word": "goddelijk",
+    "translation": "divine"
+  },
+  {
+    "id": "a160",
+    "word": "godsdienstig",
+    "translation": "religious"
+  },
+  {
+    "id": "a161",
+    "word": "goed",
+    "translation": "good"
+  },
+  {
+    "id": "a162",
+    "word": "goedkoop",
+    "translation": "cheap"
+  },
+  {
+    "id": "a163",
+    "word": "graag",
+    "translation": "gladly, willingly"
+  },
+  {
+    "id": "a164",
+    "word": "grauw",
+    "translation": "gray, grim"
+  },
+  {
+    "id": "a165",
+    "word": "grof",
+    "translation": "coarse, rude"
+  },
+  {
+    "id": "a166",
+    "word": "grondig",
+    "translation": "thorough"
+  },
+  {
+    "id": "a167",
+    "word": "groot",
+    "translation": "big, great"
+  },
+  {
+    "id": "a168",
+    "word": "grootst",
+    "translation": "greatest, largest"
+  },
+  {
+    "id": "a169",
+    "word": "grotendeels",
+    "translation": "largely, mostly"
+  },
+  {
+    "id": "a170",
+    "word": "haastig",
+    "translation": "hasty"
+  },
+  {
+    "id": "a171",
+    "word": "half",
+    "translation": "half"
+  },
+  {
+    "id": "a172",
+    "word": "handig",
+    "translation": "handy, clever"
+  },
+  {
+    "id": "a173",
+    "word": "hard",
+    "translation": "hard; fast; loud"
+  },
+  {
+    "id": "a174",
+    "word": "hartelijk",
+    "translation": "warm, cordial"
+  },
+  {
+    "id": "a175",
+    "word": "heftig",
+    "translation": "fierce, intense"
+  },
+  {
+    "id": "a176",
+    "word": "herhaaldelijk",
+    "translation": "repeatedly"
+  },
+  {
+    "id": "a177",
+    "word": "heus",
+    "translation": "really; genuine"
+  },
+  {
+    "id": "a178",
+    "word": "hevige",
+    "translation": "fierce, severe"
+  },
+  {
+    "id": "a179",
+    "word": "historisch",
+    "translation": "historical"
+  },
+  {
+    "id": "a180",
+    "word": "hoe",
+    "translation": "how"
+  },
+  {
+    "id": "a181",
+    "word": "honderd",
+    "translation": "hundred"
+  },
+  {
+    "id": "a182",
+    "word": "hoog",
+    "translation": "high, tall"
+  },
+  {
+    "id": "a183",
+    "word": "huiselijk",
+    "translation": "domestic, homely"
+  },
+  {
+    "id": "a184",
+    "word": "ideaal",
+    "translation": "ideal"
+  },
+  {
+    "id": "a185",
+    "word": "ijzeren",
+    "translation": "iron (made of)"
+  },
+  {
+    "id": "a186",
+    "word": "immers",
+    "translation": "after all"
+  },
+  {
+    "id": "a187",
+    "word": "indrukwekkend",
+    "translation": "impressive"
+  },
+  {
+    "id": "a188",
+    "word": "industrieel",
+    "translation": "industrial"
+  },
+  {
+    "id": "a189",
+    "word": "inmiddels",
+    "translation": "meanwhile"
+  },
+  {
+    "id": "a190",
+    "word": "intellectueel",
+    "translation": "intellectual"
+  },
+  {
+    "id": "a191",
+    "word": "intelligent",
+    "translation": "intelligent"
+  },
+  {
+    "id": "a192",
+    "word": "intens",
+    "translation": "intense"
+  },
+  {
+    "id": "a193",
+    "word": "intensief",
+    "translation": "intensive"
+  },
+  {
+    "id": "a194",
+    "word": "interessant",
+    "translation": "interesting"
+  },
+  {
+    "id": "a195",
+    "word": "internationaal",
+    "translation": "international"
+  },
+  {
+    "id": "a196",
+    "word": "jaarlijks",
+    "translation": "annual"
+  },
+  {
+    "id": "a197",
+    "word": "jaloers",
+    "translation": "jealous"
+  },
+  {
+    "id": "a198",
+    "word": "jammer",
+    "translation": "unfortunate; a pity"
+  },
+  {
+    "id": "a199",
+    "word": "jarenlang",
+    "translation": "for years"
+  },
+  {
+    "id": "a200",
+    "word": "jong",
+    "translation": "young"
+  },
+  {
+    "id": "a201",
+    "word": "juist",
+    "translation": "correct; precisely"
+  },
+  {
+    "id": "a202",
+    "word": "juridisch",
+    "translation": "legal, juridical"
+  },
+  {
+    "id": "a203",
+    "word": "kaal",
+    "translation": "bald; bare"
+  },
+  {
+    "id": "a204",
+    "word": "kerkelijk",
+    "translation": "ecclesiastical"
+  },
+  {
+    "id": "a205",
+    "word": "klein",
+    "translation": "small"
+  },
+  {
+    "id": "a206",
+    "word": "koninklijk",
+    "translation": "royal"
+  },
+  {
+    "id": "a207",
+    "word": "kort",
+    "translation": "short"
+  },
+  {
+    "id": "a208",
+    "word": "koud",
+    "translation": "cold"
+  },
+  {
+    "id": "a209",
+    "word": "krachtens",
+    "translation": "by virtue of"
+  },
+  {
+    "id": "a210",
+    "word": "krachtig",
+    "translation": "powerful, strong"
+  },
+  {
+    "id": "a211",
+    "word": "kritisch",
+    "translation": "critical"
+  },
+  {
+    "id": "a212",
+    "word": "kunstmatig",
+    "translation": "artificial"
+  },
+  {
+    "id": "a213",
+    "word": "kwaad",
+    "translation": "angry; evil"
+  },
+  {
+    "id": "a214",
+    "word": "laag",
+    "translation": "low"
+  },
+  {
+    "id": "a215",
+    "word": "laat",
+    "translation": "late"
+  },
+  {
+    "id": "a216",
+    "word": "laatst",
+    "translation": "last, latest"
+  },
+  {
+    "id": "a217",
+    "word": "landelijk",
+    "translation": "national; rural"
+  },
+  {
+    "id": "a218",
+    "word": "lang",
+    "translation": "long; tall"
+  },
+  {
+    "id": "a219",
+    "word": "langs",
+    "translation": "along"
+  },
+  {
+    "id": "a220",
+    "word": "langzaam",
+    "translation": "slow"
+  },
+  {
+    "id": "a221",
+    "word": "langzamerhand",
+    "translation": "gradually"
+  },
+  {
+    "id": "a222",
+    "word": "lelijk",
+    "translation": "ugly"
+  },
+  {
+    "id": "a223",
+    "word": "letterlijk",
+    "translation": "literal"
+  },
+  {
+    "id": "a224",
+    "word": "leuk",
+    "translation": "fun, nice"
+  },
+  {
+    "id": "a225",
+    "word": "levend",
+    "translation": "alive, living"
+  },
+  {
+    "id": "a226",
+    "word": "liberaal",
+    "translation": "liberal"
+  },
+  {
+    "id": "a227",
+    "word": "lichamelijk",
+    "translation": "physical, bodily"
+  },
+  {
+    "id": "a228",
+    "word": "lief",
+    "translation": "sweet, dear"
+  },
+  {
+    "id": "a229",
+    "word": "liefst",
+    "translation": "preferably; dearest"
+  },
+  {
+    "id": "a230",
+    "word": "link",
+    "translation": "risky, dangerous"
+  },
+  {
+    "id": "a231",
+    "word": "links",
+    "translation": "left"
+  },
+  {
+    "id": "a232",
+    "word": "logisch",
+    "translation": "logical"
+  },
+  {
+    "id": "a233",
+    "word": "lokaal",
+    "translation": "local"
+  },
+  {
+    "id": "a234",
+    "word": "los",
+    "translation": "loose"
+  },
+  {
+    "id": "a235",
+    "word": "lui",
+    "translation": "lazy"
+  },
+  {
+    "id": "a236",
+    "word": "maar",
+    "translation": "but; only"
+  },
+  {
+    "id": "a237",
+    "word": "machtig",
+    "translation": "powerful"
+  },
+  {
+    "id": "a238",
+    "word": "mager",
+    "translation": "thin, lean"
+  },
+  {
+    "id": "a239",
+    "word": "matig",
+    "translation": "moderate"
+  },
+  {
+    "id": "a240",
+    "word": "mede",
+    "translation": "also, co-"
+  },
+  {
+    "id": "a241",
+    "word": "menselijk",
+    "translation": "human"
+  },
+  {
+    "id": "a242",
+    "word": "militair",
+    "translation": "military"
+  },
+  {
+    "id": "a243",
+    "word": "minst",
+    "translation": "least"
+  },
+  {
+    "id": "a244",
+    "word": "misschien",
+    "translation": "perhaps, maybe"
+  },
+  {
+    "id": "a245",
+    "word": "modern",
+    "translation": "modern"
+  },
+  {
+    "id": "a246",
+    "word": "moeilijk",
+    "translation": "difficult"
+  },
+  {
+    "id": "a247",
+    "word": "mogelijk",
+    "translation": "possible"
+  },
+  {
+    "id": "a248",
+    "word": "mooi",
+    "translation": "beautiful"
+  },
+  {
+    "id": "a249",
+    "word": "moreel",
+    "translation": "moral"
+  },
+  {
+    "id": "a250",
+    "word": "nader",
+    "translation": "further, closer"
+  },
+  {
+    "id": "a251",
+    "word": "namelijk",
+    "translation": "namely"
+  },
+  {
+    "id": "a252",
+    "word": "nare",
+    "translation": "unpleasant, nasty"
+  },
+  {
+    "id": "a253",
+    "word": "natuurlijk",
+    "translation": "natural; of course"
+  },
+  {
+    "id": "a254",
+    "word": "nauw",
+    "translation": "narrow; close"
+  },
+  {
+    "id": "a255",
+    "word": "nauwelijks",
+    "translation": "hardly, barely"
+  },
+  {
+    "id": "a256",
+    "word": "nauwkeurig",
+    "translation": "precise, accurate"
+  },
+  {
+    "id": "a257",
+    "word": "neer",
+    "translation": "down"
+  },
+  {
+    "id": "a258",
+    "word": "negatief",
+    "translation": "negative"
+  },
+  {
+    "id": "a259",
+    "word": "nergens",
+    "translation": "nowhere"
+  },
+  {
+    "id": "a260",
+    "word": "net",
+    "translation": "neat; just"
+  },
+  {
+    "id": "a261",
+    "word": "neutraal",
+    "translation": "neutral"
+  },
+  {
+    "id": "a262",
+    "word": "nieuw",
+    "translation": "new"
+  },
+  {
+    "id": "a263",
+    "word": "nodig",
+    "translation": "necessary"
+  },
+  {
+    "id": "a264",
+    "word": "noodzakelijk",
+    "translation": "necessary"
+  },
+  {
+    "id": "a265",
+    "word": "normaal",
+    "translation": "normal"
+  },
+  {
+    "id": "a266",
+    "word": "nuttig",
+    "translation": "useful"
+  },
+  {
+    "id": "a267",
+    "word": "officieel",
+    "translation": "official"
+  },
+  {
+    "id": "a268",
+    "word": "onafhankelijk",
+    "translation": "independent"
+  },
+  {
+    "id": "a269",
+    "word": "onbekend",
+    "translation": "unknown"
+  },
+  {
+    "id": "a270",
+    "word": "ondanks",
+    "translation": "despite"
+  },
+  {
+    "id": "a271",
+    "word": "ondertussen",
+    "translation": "meanwhile"
+  },
+  {
+    "id": "a272",
+    "word": "ongelooflijk",
+    "translation": "incredible"
+  },
+  {
+    "id": "a273",
+    "word": "ongerust",
+    "translation": "worried"
+  },
+  {
+    "id": "a274",
+    "word": "ongetwijfeld",
+    "translation": "undoubtedly"
+  },
+  {
+    "id": "a275",
+    "word": "ongeveer",
+    "translation": "approximately"
+  },
+  {
+    "id": "a276",
+    "word": "onmiddellijk",
+    "translation": "immediate"
+  },
+  {
+    "id": "a277",
+    "word": "onmogelijk",
+    "translation": "impossible"
+  },
+  {
+    "id": "a278",
+    "word": "onschuldig",
+    "translation": "innocent"
+  },
+  {
+    "id": "a279",
+    "word": "onvoldoende",
+    "translation": "insufficient"
+  },
+  {
+    "id": "a280",
+    "word": "onvoorstelbaar",
+    "translation": "unimaginable"
+  },
+  {
+    "id": "a281",
+    "word": "onwaarschijnlijk",
+    "translation": "unlikely"
+  },
+  {
+    "id": "a282",
+    "word": "onzeker",
+    "translation": "uncertain"
+  },
+  {
+    "id": "a283",
+    "word": "ooit",
+    "translation": "ever; once"
+  },
+  {
+    "id": "a284",
+    "word": "ook",
+    "translation": "also, too"
+  },
+  {
+    "id": "a285",
+    "word": "open",
+    "translation": "open"
+  },
+  {
+    "id": "a286",
+    "word": "openbaar",
+    "translation": "public"
+  },
+  {
+    "id": "a287",
+    "word": "opmerkelijk",
+    "translation": "remarkable"
+  },
+  {
+    "id": "a288",
+    "word": "opnieuw",
+    "translation": "again, anew"
+  },
+  {
+    "id": "a289",
+    "word": "opvallend",
+    "translation": "striking, remarkable"
+  },
+  {
+    "id": "a290",
+    "word": "opzij",
+    "translation": "aside"
+  },
+  {
+    "id": "a291",
+    "word": "oud",
+    "translation": "old"
+  },
+  {
+    "id": "a292",
+    "word": "overal",
+    "translation": "everywhere"
+  },
+  {
+    "id": "a293",
+    "word": "overig",
+    "translation": "remaining, other"
+  },
+  {
+    "id": "a294",
+    "word": "overige",
+    "translation": "remaining"
+  },
+  {
+    "id": "a295",
+    "word": "overigens",
+    "translation": "by the way; moreover"
+  },
+  {
+    "id": "a296",
+    "word": "permanent",
+    "translation": "permanent"
+  },
+  {
+    "id": "a297",
+    "word": "persoonlijk",
+    "translation": "personal"
+  },
+  {
+    "id": "a298",
+    "word": "plaatselijk",
+    "translation": "local"
+  },
+  {
+    "id": "a299",
+    "word": "plat",
+    "translation": "flat"
+  },
+  {
+    "id": "a300",
+    "word": "plotseling",
+    "translation": "sudden"
+  },
+  {
+    "id": "a301",
+    "word": "populair",
+    "translation": "popular"
+  },
+  {
+    "id": "a302",
+    "word": "positief",
+    "translation": "positive"
+  },
+  {
+    "id": "a303",
+    "word": "prachtig",
+    "translation": "magnificent, wonderful"
+  },
+  {
+    "id": "a304",
+    "word": "praktisch",
+    "translation": "practical"
+  },
+  {
+    "id": "a305",
+    "word": "precies",
+    "translation": "precise, exactly"
+  },
+  {
+    "id": "a306",
+    "word": "prettig",
+    "translation": "pleasant"
+  },
+  {
+    "id": "a307",
+    "word": "preventief",
+    "translation": "preventive"
+  },
+  {
+    "id": "a308",
+    "word": "prive",
+    "translation": "private"
+  },
+  {
+    "id": "a309",
+    "word": "professioneel",
+    "translation": "professional"
+  },
+  {
+    "id": "a310",
+    "word": "puur",
+    "translation": "pure"
+  },
+  {
+    "id": "a311",
+    "word": "raar",
+    "translation": "strange"
+  },
+  {
+    "id": "a312",
+    "word": "recent",
+    "translation": "recent"
+  },
+  {
+    "id": "a313",
+    "word": "rechtop",
+    "translation": "upright"
+  },
+  {
+    "id": "a314",
+    "word": "rechts",
+    "translation": "right (direction)"
+  },
+  {
+    "id": "a315",
+    "word": "rechtstreeks",
+    "translation": "direct"
+  },
+  {
+    "id": "a316",
+    "word": "rechtvaardig",
+    "translation": "just, fair"
+  },
+  {
+    "id": "a317",
+    "word": "redelijk",
+    "translation": "reasonable"
+  },
+  {
+    "id": "a318",
+    "word": "reeds",
+    "translation": "already"
+  },
+  {
+    "id": "a319",
+    "word": "regelmatig",
+    "translation": "regular"
+  },
+  {
+    "id": "a320",
+    "word": "regionaal",
+    "translation": "regional"
+  },
+  {
+    "id": "a321",
+    "word": "relatief",
+    "translation": "relative"
+  },
+  {
+    "id": "a322",
+    "word": "religieus",
+    "translation": "religious"
+  },
+  {
+    "id": "a323",
+    "word": "rijk",
+    "translation": "rich"
+  },
+  {
+    "id": "a324",
+    "word": "romantisch",
+    "translation": "romantic"
+  },
+  {
+    "id": "a325",
+    "word": "rond",
+    "translation": "round"
+  },
+  {
+    "id": "a326",
+    "word": "rood",
+    "translation": "red"
+  },
+  {
+    "id": "a327",
+    "word": "ruim",
+    "translation": "spacious; ample"
+  },
+  {
+    "id": "a328",
+    "word": "ruimtelijk",
+    "translation": "spatial"
+  },
+  {
+    "id": "a329",
+    "word": "rustig",
+    "translation": "calm, quiet"
+  },
+  {
+    "id": "a330",
+    "word": "schadelijk",
+    "translation": "harmful"
+  },
+  {
+    "id": "a331",
+    "word": "scherp",
+    "translation": "sharp"
+  },
+  {
+    "id": "a332",
+    "word": "schoon",
+    "translation": "clean; beautiful"
+  },
+  {
+    "id": "a333",
+    "word": "schuldig",
+    "translation": "guilty"
+  },
+  {
+    "id": "a334",
+    "word": "slecht",
+    "translation": "bad"
+  },
+  {
+    "id": "a335",
+    "word": "slechts",
+    "translation": "only, merely"
+  },
+  {
+    "id": "a336",
+    "word": "slim",
+    "translation": "clever, smart"
+  },
+  {
+    "id": "a337",
+    "word": "smal",
+    "translation": "narrow"
+  },
+  {
+    "id": "a338",
+    "word": "snel",
+    "translation": "fast, quick"
+  },
+  {
+    "id": "a339",
+    "word": "sociaal",
+    "translation": "social"
+  },
+  {
+    "id": "a340",
+    "word": "soepel",
+    "translation": "flexible, supple"
+  },
+  {
+    "id": "a341",
+    "word": "speciaal",
+    "translation": "special"
+  },
+  {
+    "id": "a342",
+    "word": "steeds",
+    "translation": "always; increasingly"
+  },
+  {
+    "id": "a343",
+    "word": "sterk",
+    "translation": "strong"
+  },
+  {
+    "id": "a344",
+    "word": "stil",
+    "translation": "quiet, silent"
+  },
+  {
+    "id": "a345",
+    "word": "stom",
+    "translation": "stupid; mute"
+  },
+  {
+    "id": "a346",
+    "word": "straks",
+    "translation": "soon; later"
+  },
+  {
+    "id": "a347",
+    "word": "strijdig",
+    "translation": "conflicting"
+  },
+  {
+    "id": "a348",
+    "word": "strikt",
+    "translation": "strict"
+  },
+  {
+    "id": "a349",
+    "word": "tamelijk",
+    "translation": "fairly, rather"
+  },
+  {
+    "id": "a350",
+    "word": "technisch",
+    "translation": "technical"
+  },
+  {
+    "id": "a351",
+    "word": "tegelijk",
+    "translation": "at the same time"
+  },
+  {
+    "id": "a352",
+    "word": "tegelijkertijd",
+    "translation": "at the same time"
+  },
+  {
+    "id": "a353",
+    "word": "tegemoet",
+    "translation": "towards"
+  },
+  {
+    "id": "a354",
+    "word": "tegen",
+    "translation": "against"
+  },
+  {
+    "id": "a355",
+    "word": "tegenover",
+    "translation": "opposite; towards"
+  },
+  {
+    "id": "a356",
+    "word": "tegenwoordig",
+    "translation": "nowadays; present"
+  },
+  {
+    "id": "a357",
+    "word": "tenminste",
+    "translation": "at least"
+  },
+  {
+    "id": "a358",
+    "word": "terug",
+    "translation": "back"
+  },
+  {
+    "id": "a359",
+    "word": "tevoren",
+    "translation": "beforehand"
+  },
+  {
+    "id": "a360",
+    "word": "tevreden",
+    "translation": "satisfied"
+  },
+  {
+    "id": "a361",
+    "word": "thuis",
+    "translation": "at home"
+  },
+  {
+    "id": "a362",
+    "word": "tien",
+    "translation": "ten"
+  },
+  {
+    "id": "a363",
+    "word": "tijdelijk",
+    "translation": "temporary"
+  },
+  {
+    "id": "a364",
+    "word": "toch",
+    "translation": "yet, still; anyway"
+  },
+  {
+    "id": "a365",
+    "word": "toe",
+    "translation": "to; closed"
+  },
+  {
+    "id": "a366",
+    "word": "toekomstig",
+    "translation": "future"
+  },
+  {
+    "id": "a367",
+    "word": "traditioneel",
+    "translation": "traditional"
+  },
+  {
+    "id": "a368",
+    "word": "trots",
+    "translation": "proud"
+  },
+  {
+    "id": "a369",
+    "word": "trouw",
+    "translation": "faithful, loyal"
+  },
+  {
+    "id": "a370",
+    "word": "typisch",
+    "translation": "typical"
+  },
+  {
+    "id": "a371",
+    "word": "uiteindelijk",
+    "translation": "ultimately, finally"
+  },
+  {
+    "id": "a372",
+    "word": "uiteraard",
+    "translation": "of course, naturally"
+  },
+  {
+    "id": "a373",
+    "word": "uitermate",
+    "translation": "extremely"
+  },
+  {
+    "id": "a374",
+    "word": "uiterst",
+    "translation": "utmost, extreme"
+  },
+  {
+    "id": "a375",
+    "word": "uitgebreid",
+    "translation": "extensive"
+  },
+  {
+    "id": "a376",
+    "word": "uitsluitend",
+    "translation": "exclusively"
+  },
+  {
+    "id": "a377",
+    "word": "vaag",
+    "translation": "vague"
+  },
+  {
+    "id": "a378",
+    "word": "vaak",
+    "translation": "often"
+  },
+  {
+    "id": "a379",
+    "word": "vals",
+    "translation": "false; fake"
+  },
+  {
+    "id": "a380",
+    "word": "van",
+    "translation": "of, from"
+  },
+  {
+    "id": "a381",
+    "word": "vandaag",
+    "translation": "today"
+  },
+  {
+    "id": "a382",
+    "word": "vast",
+    "translation": "firm; fixed; stuck"
+  },
+  {
+    "id": "a383",
+    "word": "veelal",
+    "translation": "often, mostly"
+  },
+  {
+    "id": "a384",
+    "word": "veilig",
+    "translation": "safe"
+  },
+  {
+    "id": "a385",
+    "word": "ver",
+    "translation": "far"
+  },
+  {
+    "id": "a386",
+    "word": "verantwoordelijk",
+    "translation": "responsible"
+  },
+  {
+    "id": "a387",
+    "word": "verder",
+    "translation": "further"
+  },
+  {
+    "id": "a388",
+    "word": "verkeerd",
+    "translation": "wrong"
+  },
+  {
+    "id": "a389",
+    "word": "verplicht",
+    "translation": "obligatory"
+  },
+  {
+    "id": "a390",
+    "word": "verscheiden",
+    "translation": "several; diverse"
+  },
+  {
+    "id": "a391",
+    "word": "verschillend",
+    "translation": "different, various"
+  },
+  {
+    "id": "a392",
+    "word": "verstandig",
+    "translation": "wise, sensible"
+  },
+  {
+    "id": "a393",
+    "word": "vervolgens",
+    "translation": "subsequently"
+  },
+  {
+    "id": "a394",
+    "word": "verwant",
+    "translation": "related"
+  },
+  {
+    "id": "a395",
+    "word": "vet",
+    "translation": "fat"
+  },
+  {
+    "id": "a396",
+    "word": "vijandig",
+    "translation": "hostile"
+  },
+  {
+    "id": "a397",
+    "word": "vlak",
+    "translation": "flat; just"
+  },
+  {
+    "id": "a398",
+    "word": "vlug",
+    "translation": "quick"
+  },
+  {
+    "id": "a399",
+    "word": "vol",
+    "translation": "full"
+  },
+  {
+    "id": "a400",
+    "word": "voldoende",
+    "translation": "sufficient"
+  },
+  {
+    "id": "a401",
+    "word": "volgend",
+    "translation": "next, following"
+  },
+  {
+    "id": "a402",
+    "word": "volgens",
+    "translation": "according to"
+  },
+  {
+    "id": "a403",
+    "word": "volkomen",
+    "translation": "complete, perfect"
+  },
+  {
+    "id": "a404",
+    "word": "volledig",
+    "translation": "complete"
+  },
+  {
+    "id": "a405",
+    "word": "volop",
+    "translation": "plenty of"
+  },
+  {
+    "id": "a406",
+    "word": "voorbij",
+    "translation": "past, over"
+  },
+  {
+    "id": "a407",
+    "word": "voorlopig",
+    "translation": "provisional; for now"
+  },
+  {
+    "id": "a408",
+    "word": "voornaam",
+    "translation": "distinguished; first (name)"
+  },
+  {
+    "id": "a409",
+    "word": "voornamelijk",
+    "translation": "mainly"
+  },
+  {
+    "id": "a410",
+    "word": "voorop",
+    "translation": "in front; first"
+  },
+  {
+    "id": "a411",
+    "word": "voortdurend",
+    "translation": "continuous"
+  },
+  {
+    "id": "a412",
+    "word": "vooruit",
+    "translation": "forward"
+  },
+  {
+    "id": "a413",
+    "word": "voorzichtig",
+    "translation": "careful"
+  },
+  {
+    "id": "a414",
+    "word": "vreemd",
+    "translation": "strange; foreign"
+  },
+  {
+    "id": "a415",
+    "word": "vriendelijk",
+    "translation": "friendly"
+  },
+  {
+    "id": "a416",
+    "word": "vrij",
+    "translation": "free"
+  },
+  {
+    "id": "a417",
+    "word": "vrijwel",
+    "translation": "virtually, almost"
+  },
+  {
+    "id": "a418",
+    "word": "vroeg",
+    "translation": "early"
+  },
+  {
+    "id": "a419",
+    "word": "vroeger",
+    "translation": "formerly"
+  },
+  {
+    "id": "a420",
+    "word": "vrolijk",
+    "translation": "cheerful"
+  },
+  {
+    "id": "a421",
+    "word": "vrouwelijk",
+    "translation": "female; feminine"
+  },
+  {
+    "id": "a422",
+    "word": "vuil",
+    "translation": "dirty"
+  },
+  {
+    "id": "a423",
+    "word": "waard",
+    "translation": "worth"
+  },
+  {
+    "id": "a424",
+    "word": "waardig",
+    "translation": "dignified"
+  },
+  {
+    "id": "a425",
+    "word": "waarheen",
+    "translation": "where to"
+  },
+  {
+    "id": "a426",
+    "word": "waarlijk",
+    "translation": "truly"
+  },
+  {
+    "id": "a427",
+    "word": "waarom",
+    "translation": "why"
+  },
+  {
+    "id": "a428",
+    "word": "waarschijnlijk",
+    "translation": "probably"
+  },
+  {
+    "id": "a429",
+    "word": "warm",
+    "translation": "warm"
+  },
+  {
+    "id": "a430",
+    "word": "wegens",
+    "translation": "because of"
+  },
+  {
+    "id": "a431",
+    "word": "weinig",
+    "translation": "few, little"
+  },
+  {
+    "id": "a432",
+    "word": "welk",
+    "translation": "which"
+  },
+  {
+    "id": "a433",
+    "word": "werkelijk",
+    "translation": "real, actual"
+  },
+  {
+    "id": "a434",
+    "word": "wetenschappelijk",
+    "translation": "scientific"
+  },
+  {
+    "id": "a435",
+    "word": "wettelijk",
+    "translation": "legal"
+  },
+  {
+    "id": "a436",
+    "word": "wezenlijk",
+    "translation": "essential"
+  },
+  {
+    "id": "a437",
+    "word": "wijd",
+    "translation": "wide"
+  },
+  {
+    "id": "a438",
+    "word": "wild",
+    "translation": "wild"
+  },
+  {
+    "id": "a439",
+    "word": "wit",
+    "translation": "white"
+  },
+  {
+    "id": "a440",
+    "word": "wreed",
+    "translation": "cruel"
+  },
+  {
+    "id": "a441",
+    "word": "zacht",
+    "translation": "soft; gentle"
+  },
+  {
+    "id": "a442",
+    "word": "zakelijk",
+    "translation": "businesslike"
+  },
+  {
+    "id": "a443",
+    "word": "zeker",
+    "translation": "certain, sure"
+  },
+  {
+    "id": "a444",
+    "word": "zelden",
+    "translation": "seldom, rarely"
+  },
+  {
+    "id": "a445",
+    "word": "zelf",
+    "translation": "self"
+  },
+  {
+    "id": "a446",
+    "word": "zelfstandig",
+    "translation": "independent"
+  },
+  {
+    "id": "a447",
+    "word": "zestig",
+    "translation": "sixty"
+  },
+  {
+    "id": "a448",
+    "word": "zeventig",
+    "translation": "seventy"
+  },
+  {
+    "id": "a449",
+    "word": "zichtbaar",
+    "translation": "visible"
+  },
+  {
+    "id": "a450",
+    "word": "ziek",
+    "translation": "sick"
+  },
+  {
+    "id": "a451",
+    "word": "zinloos",
+    "translation": "pointless"
+  },
+  {
+    "id": "a452",
+    "word": "zo",
+    "translation": "so; like this"
+  },
+  {
+    "id": "a453",
+    "word": "zogeheten",
+    "translation": "so-called"
+  },
+  {
+    "id": "a454",
+    "word": "zogenaamd",
+    "translation": "so-called"
+  },
+  {
+    "id": "a455",
+    "word": "zonnig",
+    "translation": "sunny"
+  },
+  {
+    "id": "a456",
+    "word": "zorgvuldig",
+    "translation": "careful, thorough"
+  },
+  {
+    "id": "a457",
+    "word": "zuidelijk",
+    "translation": "southern"
+  },
+  {
+    "id": "a458",
+    "word": "zuinig",
+    "translation": "economical, thrifty"
+  },
+  {
+    "id": "a459",
+    "word": "zuiver",
+    "translation": "pure, clean"
+  },
+  {
+    "id": "a460",
+    "word": "zuur",
+    "translation": "sour"
+  },
+  {
+    "id": "a461",
+    "word": "zwaar",
+    "translation": "heavy"
+  },
+  {
+    "id": "a462",
+    "word": "zwak",
+    "translation": "weak"
+  },
+  {
+    "id": "a463",
+    "word": "zwanger",
+    "translation": "pregnant"
+  },
+  {
+    "id": "a464",
+    "word": "zwart",
+    "translation": "black"
+  }
 ]

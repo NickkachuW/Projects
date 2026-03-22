@@ -1,12 +1,6362 @@
 [
-  { "id": "n1", "word": "huis", "translation": "house", "article": "het" },
-  { "id": "n2", "word": "boek", "translation": "book", "article": "het" },
-  { "id": "n3", "word": "man", "translation": "man", "article": "de" },
-  { "id": "n4", "word": "vrouw", "translation": "woman", "article": "de" },
-  { "id": "n5", "word": "kind", "translation": "child", "article": "het" },
-  { "id": "n6", "word": "school", "translation": "school", "article": "de" },
-  { "id": "n7", "word": "water", "translation": "water", "article": "het" },
-  { "id": "n8", "word": "stad", "translation": "city", "article": "de" },
-  { "id": "n9", "word": "auto", "translation": "car", "article": "de" },
-  { "id": "n10", "word": "dag", "translation": "day", "article": "de" }
+  {
+    "id": "n1",
+    "word": "aanbeveling",
+    "translation": "recommendation",
+    "article": "de"
+  },
+  {
+    "id": "n2",
+    "word": "aanblik",
+    "translation": "sight, view",
+    "article": "de"
+  },
+  {
+    "id": "n3",
+    "word": "aanbod",
+    "translation": "offer, supply",
+    "article": "het"
+  },
+  {
+    "id": "n4",
+    "word": "aandacht",
+    "translation": "attention",
+    "article": "de"
+  },
+  {
+    "id": "n5",
+    "word": "aandeel",
+    "translation": "share, part",
+    "article": "het"
+  },
+  {
+    "id": "n6",
+    "word": "aandoening",
+    "translation": "condition, ailment",
+    "article": "de"
+  },
+  {
+    "id": "n7",
+    "word": "aangelegenheid",
+    "translation": "matter, affair",
+    "article": "de"
+  },
+  {
+    "id": "n8",
+    "word": "aanhanger",
+    "translation": "supporter, follower",
+    "article": "de"
+  },
+  {
+    "id": "n9",
+    "word": "aankomst",
+    "translation": "arrival",
+    "article": "de"
+  },
+  {
+    "id": "n10",
+    "word": "aankoop",
+    "translation": "purchase",
+    "article": "de"
+  },
+  {
+    "id": "n11",
+    "word": "aanleg",
+    "translation": "talent; construction",
+    "article": "de"
+  },
+  {
+    "id": "n12",
+    "word": "aanleiding",
+    "translation": "cause, reason",
+    "article": "de"
+  },
+  {
+    "id": "n13",
+    "word": "aanmerking",
+    "translation": "consideration, remark",
+    "article": "de"
+  },
+  {
+    "id": "n14",
+    "word": "aanpak",
+    "translation": "approach",
+    "article": "de"
+  },
+  {
+    "id": "n15",
+    "word": "aanraking",
+    "translation": "touch, contact",
+    "article": "de"
+  },
+  {
+    "id": "n16",
+    "word": "aanslag",
+    "translation": "attack; deposit",
+    "article": "de"
+  },
+  {
+    "id": "n17",
+    "word": "aansluiting",
+    "translation": "connection",
+    "article": "de"
+  },
+  {
+    "id": "n18",
+    "word": "aanspraak",
+    "translation": "claim",
+    "article": "de"
+  },
+  {
+    "id": "n19",
+    "word": "aantal",
+    "translation": "number, quantity",
+    "article": "het"
+  },
+  {
+    "id": "n20",
+    "word": "aantekening",
+    "translation": "note",
+    "article": "de"
+  },
+  {
+    "id": "n21",
+    "word": "aanval",
+    "translation": "attack",
+    "article": "de"
+  },
+  {
+    "id": "n22",
+    "word": "aanvulling",
+    "translation": "supplement, addition",
+    "article": "de"
+  },
+  {
+    "id": "n23",
+    "word": "aanwezigheid",
+    "translation": "presence",
+    "article": "de"
+  },
+  {
+    "id": "n24",
+    "word": "aanwijzing",
+    "translation": "instruction, indication",
+    "article": "de"
+  },
+  {
+    "id": "n25",
+    "word": "aanzien",
+    "translation": "prestige; appearance",
+    "article": "het"
+  },
+  {
+    "id": "n26",
+    "word": "aard",
+    "translation": "nature, character",
+    "article": "de"
+  },
+  {
+    "id": "n27",
+    "word": "aardappel",
+    "translation": "potato",
+    "article": "de"
+  },
+  {
+    "id": "n28",
+    "word": "aarde",
+    "translation": "earth",
+    "article": "de"
+  },
+  {
+    "id": "n29",
+    "word": "accent",
+    "translation": "accent",
+    "article": "het"
+  },
+  {
+    "id": "n30",
+    "word": "actie",
+    "translation": "action",
+    "article": "de"
+  },
+  {
+    "id": "n31",
+    "word": "activiteit",
+    "translation": "activity",
+    "article": "de"
+  },
+  {
+    "id": "n32",
+    "word": "adem",
+    "translation": "breath",
+    "article": "de"
+  },
+  {
+    "id": "n33",
+    "word": "adres",
+    "translation": "address",
+    "article": "het"
+  },
+  {
+    "id": "n34",
+    "word": "advies",
+    "translation": "advice",
+    "article": "het"
+  },
+  {
+    "id": "n35",
+    "word": "advocaat",
+    "translation": "lawyer",
+    "article": "de"
+  },
+  {
+    "id": "n36",
+    "word": "afdeling",
+    "translation": "department",
+    "article": "de"
+  },
+  {
+    "id": "n37",
+    "word": "afkeer",
+    "translation": "aversion",
+    "article": "de"
+  },
+  {
+    "id": "n38",
+    "word": "afloop",
+    "translation": "end, outcome",
+    "article": "de"
+  },
+  {
+    "id": "n39",
+    "word": "afscheid",
+    "translation": "farewell",
+    "article": "het"
+  },
+  {
+    "id": "n40",
+    "word": "afspraak",
+    "translation": "appointment, agreement",
+    "article": "de"
+  },
+  {
+    "id": "n41",
+    "word": "afstand",
+    "translation": "distance",
+    "article": "de"
+  },
+  {
+    "id": "n42",
+    "word": "afwijking",
+    "translation": "deviation",
+    "article": "de"
+  },
+  {
+    "id": "n43",
+    "word": "agent",
+    "translation": "police officer; agent",
+    "article": "de"
+  },
+  {
+    "id": "n44",
+    "word": "alcohol",
+    "translation": "alcohol",
+    "article": "de"
+  },
+  {
+    "id": "n45",
+    "word": "alternatief",
+    "translation": "alternative",
+    "article": "het"
+  },
+  {
+    "id": "n46",
+    "word": "ambtenaar",
+    "translation": "civil servant",
+    "article": "de"
+  },
+  {
+    "id": "n47",
+    "word": "analyse",
+    "translation": "analysis",
+    "article": "de"
+  },
+  {
+    "id": "n48",
+    "word": "angst",
+    "translation": "fear, anxiety",
+    "article": "de"
+  },
+  {
+    "id": "n49",
+    "word": "antwoord",
+    "translation": "answer",
+    "article": "het"
+  },
+  {
+    "id": "n50",
+    "word": "apparaat",
+    "translation": "device, apparatus",
+    "article": "het"
+  },
+  {
+    "id": "n51",
+    "word": "appel",
+    "translation": "apple",
+    "article": "de"
+  },
+  {
+    "id": "n52",
+    "word": "arbeid",
+    "translation": "labor, work",
+    "article": "de"
+  },
+  {
+    "id": "n53",
+    "word": "arbeider",
+    "translation": "worker",
+    "article": "de"
+  },
+  {
+    "id": "n54",
+    "word": "argument",
+    "translation": "argument",
+    "article": "het"
+  },
+  {
+    "id": "n55",
+    "word": "arm",
+    "translation": "arm",
+    "article": "de"
+  },
+  {
+    "id": "n56",
+    "word": "artikel",
+    "translation": "article",
+    "article": "het"
+  },
+  {
+    "id": "n57",
+    "word": "arts",
+    "translation": "doctor",
+    "article": "de"
+  },
+  {
+    "id": "n58",
+    "word": "aspect",
+    "translation": "aspect",
+    "article": "het"
+  },
+  {
+    "id": "n59",
+    "word": "auteur",
+    "translation": "author",
+    "article": "de"
+  },
+  {
+    "id": "n60",
+    "word": "auto",
+    "translation": "car",
+    "article": "de"
+  },
+  {
+    "id": "n61",
+    "word": "autoriteit",
+    "translation": "authority",
+    "article": "de"
+  },
+  {
+    "id": "n62",
+    "word": "avond",
+    "translation": "evening",
+    "article": "de"
+  },
+  {
+    "id": "n63",
+    "word": "avontuur",
+    "translation": "adventure",
+    "article": "het"
+  },
+  {
+    "id": "n64",
+    "word": "baan",
+    "translation": "job; lane",
+    "article": "de"
+  },
+  {
+    "id": "n65",
+    "word": "baas",
+    "translation": "boss",
+    "article": "de"
+  },
+  {
+    "id": "n66",
+    "word": "baby",
+    "translation": "baby",
+    "article": "de"
+  },
+  {
+    "id": "n67",
+    "word": "bad",
+    "translation": "bath",
+    "article": "het"
+  },
+  {
+    "id": "n68",
+    "word": "badkamer",
+    "translation": "bathroom",
+    "article": "de"
+  },
+  {
+    "id": "n69",
+    "word": "bal",
+    "translation": "ball",
+    "article": "de"
+  },
+  {
+    "id": "n70",
+    "word": "band",
+    "translation": "band; tire; bond",
+    "article": "de"
+  },
+  {
+    "id": "n71",
+    "word": "bank",
+    "translation": "bank; couch",
+    "article": "de"
+  },
+  {
+    "id": "n72",
+    "word": "basis",
+    "translation": "basis, foundation",
+    "article": "de"
+  },
+  {
+    "id": "n73",
+    "word": "bed",
+    "translation": "bed",
+    "article": "het"
+  },
+  {
+    "id": "n74",
+    "word": "bedoeling",
+    "translation": "intention, purpose",
+    "article": "de"
+  },
+  {
+    "id": "n75",
+    "word": "bedrag",
+    "translation": "amount",
+    "article": "het"
+  },
+  {
+    "id": "n76",
+    "word": "bedreiging",
+    "translation": "threat",
+    "article": "de"
+  },
+  {
+    "id": "n77",
+    "word": "bedrijf",
+    "translation": "company, business",
+    "article": "het"
+  },
+  {
+    "id": "n78",
+    "word": "beeld",
+    "translation": "image, picture",
+    "article": "het"
+  },
+  {
+    "id": "n79",
+    "word": "been",
+    "translation": "leg; bone",
+    "article": "het"
+  },
+  {
+    "id": "n80",
+    "word": "beest",
+    "translation": "beast, animal",
+    "article": "het"
+  },
+  {
+    "id": "n81",
+    "word": "beet",
+    "translation": "bite",
+    "article": "de"
+  },
+  {
+    "id": "n82",
+    "word": "beetje",
+    "translation": "a little bit",
+    "article": "het"
+  },
+  {
+    "id": "n83",
+    "word": "begin",
+    "translation": "beginning",
+    "article": "het"
+  },
+  {
+    "id": "n84",
+    "word": "beginsel",
+    "translation": "principle",
+    "article": "het"
+  },
+  {
+    "id": "n85",
+    "word": "begrafenis",
+    "translation": "funeral",
+    "article": "de"
+  },
+  {
+    "id": "n86",
+    "word": "begrip",
+    "translation": "concept; understanding",
+    "article": "het"
+  },
+  {
+    "id": "n87",
+    "word": "behandeling",
+    "translation": "treatment",
+    "article": "de"
+  },
+  {
+    "id": "n88",
+    "word": "behoefte",
+    "translation": "need",
+    "article": "de"
+  },
+  {
+    "id": "n89",
+    "word": "bejaarde",
+    "translation": "elderly person",
+    "article": "de"
+  },
+  {
+    "id": "n90",
+    "word": "bel",
+    "translation": "bell",
+    "article": "de"
+  },
+  {
+    "id": "n91",
+    "word": "belang",
+    "translation": "interest, importance",
+    "article": "het"
+  },
+  {
+    "id": "n92",
+    "word": "belangstelling",
+    "translation": "interest",
+    "article": "de"
+  },
+  {
+    "id": "n93",
+    "word": "belasting",
+    "translation": "tax",
+    "article": "de"
+  },
+  {
+    "id": "n94",
+    "word": "beleid",
+    "translation": "policy",
+    "article": "het"
+  },
+  {
+    "id": "n95",
+    "word": "belofte",
+    "translation": "promise",
+    "article": "de"
+  },
+  {
+    "id": "n96",
+    "word": "bemanning",
+    "translation": "crew",
+    "article": "de"
+  },
+  {
+    "id": "n97",
+    "word": "bepaling",
+    "translation": "regulation; determination",
+    "article": "de"
+  },
+  {
+    "id": "n98",
+    "word": "beperking",
+    "translation": "limitation, restriction",
+    "article": "de"
+  },
+  {
+    "id": "n99",
+    "word": "berg",
+    "translation": "mountain",
+    "article": "de"
+  },
+  {
+    "id": "n100",
+    "word": "bericht",
+    "translation": "message, report",
+    "article": "het"
+  },
+  {
+    "id": "n101",
+    "word": "beroep",
+    "translation": "profession; appeal",
+    "article": "het"
+  },
+  {
+    "id": "n102",
+    "word": "beschaving",
+    "translation": "civilization",
+    "article": "de"
+  },
+  {
+    "id": "n103",
+    "word": "bescherming",
+    "translation": "protection",
+    "article": "de"
+  },
+  {
+    "id": "n104",
+    "word": "beschikking",
+    "translation": "disposal; decree",
+    "article": "de"
+  },
+  {
+    "id": "n105",
+    "word": "beschouwing",
+    "translation": "consideration, reflection",
+    "article": "de"
+  },
+  {
+    "id": "n106",
+    "word": "beschrijving",
+    "translation": "description",
+    "article": "de"
+  },
+  {
+    "id": "n107",
+    "word": "besef",
+    "translation": "realization, awareness",
+    "article": "het"
+  },
+  {
+    "id": "n108",
+    "word": "beslag",
+    "translation": "seizure; batter",
+    "article": "het"
+  },
+  {
+    "id": "n109",
+    "word": "beslissing",
+    "translation": "decision",
+    "article": "de"
+  },
+  {
+    "id": "n110",
+    "word": "besluit",
+    "translation": "decision, resolution",
+    "article": "het"
+  },
+  {
+    "id": "n111",
+    "word": "bespreking",
+    "translation": "discussion, review",
+    "article": "de"
+  },
+  {
+    "id": "n112",
+    "word": "bestuur",
+    "translation": "management, board",
+    "article": "het"
+  },
+  {
+    "id": "n113",
+    "word": "bestuursdwang",
+    "translation": "administrative enforcement",
+    "article": "de"
+  },
+  {
+    "id": "n114",
+    "word": "betekenis",
+    "translation": "meaning, significance",
+    "article": "de"
+  },
+  {
+    "id": "n115",
+    "word": "betrekking",
+    "translation": "position; relation",
+    "article": "de"
+  },
+  {
+    "id": "n116",
+    "word": "betrokkene",
+    "translation": "person involved",
+    "article": "de"
+  },
+  {
+    "id": "n117",
+    "word": "beurt",
+    "translation": "turn",
+    "article": "de"
+  },
+  {
+    "id": "n118",
+    "word": "bevel",
+    "translation": "command, order",
+    "article": "het"
+  },
+  {
+    "id": "n119",
+    "word": "bevolking",
+    "translation": "population",
+    "article": "de"
+  },
+  {
+    "id": "n120",
+    "word": "bevrijding",
+    "translation": "liberation",
+    "article": "de"
+  },
+  {
+    "id": "n121",
+    "word": "beweging",
+    "translation": "movement",
+    "article": "de"
+  },
+  {
+    "id": "n122",
+    "word": "bewijs",
+    "translation": "proof, evidence",
+    "article": "het"
+  },
+  {
+    "id": "n123",
+    "word": "bewondering",
+    "translation": "admiration",
+    "article": "de"
+  },
+  {
+    "id": "n124",
+    "word": "bewoner",
+    "translation": "resident, inhabitant",
+    "article": "de"
+  },
+  {
+    "id": "n125",
+    "word": "bewustzijn",
+    "translation": "consciousness",
+    "article": "het"
+  },
+  {
+    "id": "n126",
+    "word": "bezit",
+    "translation": "possession, property",
+    "article": "het"
+  },
+  {
+    "id": "n127",
+    "word": "bezoek",
+    "translation": "visit",
+    "article": "het"
+  },
+  {
+    "id": "n128",
+    "word": "bezoeker",
+    "translation": "visitor",
+    "article": "de"
+  },
+  {
+    "id": "n129",
+    "word": "bezwaar",
+    "translation": "objection",
+    "article": "het"
+  },
+  {
+    "id": "n130",
+    "word": "bibliotheek",
+    "translation": "library",
+    "article": "de"
+  },
+  {
+    "id": "n131",
+    "word": "bier",
+    "translation": "beer",
+    "article": "het"
+  },
+  {
+    "id": "n132",
+    "word": "bijbel",
+    "translation": "bible",
+    "article": "de"
+  },
+  {
+    "id": "n133",
+    "word": "bijdrage",
+    "translation": "contribution",
+    "article": "de"
+  },
+  {
+    "id": "n134",
+    "word": "bijeenkomst",
+    "translation": "meeting, gathering",
+    "article": "de"
+  },
+  {
+    "id": "n135",
+    "word": "bisschop",
+    "translation": "bishop",
+    "article": "de"
+  },
+  {
+    "id": "n136",
+    "word": "blad",
+    "translation": "leaf; sheet; magazine",
+    "article": "het"
+  },
+  {
+    "id": "n137",
+    "word": "bladzijde",
+    "translation": "page",
+    "article": "de"
+  },
+  {
+    "id": "n138",
+    "word": "blik",
+    "translation": "glance; tin can",
+    "article": "de"
+  },
+  {
+    "id": "n139",
+    "word": "bloed",
+    "translation": "blood",
+    "article": "het"
+  },
+  {
+    "id": "n140",
+    "word": "bloem",
+    "translation": "flower",
+    "article": "de"
+  },
+  {
+    "id": "n141",
+    "word": "blok",
+    "translation": "block",
+    "article": "het"
+  },
+  {
+    "id": "n142",
+    "word": "bocht",
+    "translation": "curve, bend",
+    "article": "de"
+  },
+  {
+    "id": "n143",
+    "word": "bodem",
+    "translation": "bottom; soil",
+    "article": "de"
+  },
+  {
+    "id": "n144",
+    "word": "boek",
+    "translation": "book",
+    "article": "het"
+  },
+  {
+    "id": "n145",
+    "word": "boel",
+    "translation": "a lot; mess",
+    "article": "de"
+  },
+  {
+    "id": "n146",
+    "word": "boer",
+    "translation": "farmer",
+    "article": "de"
+  },
+  {
+    "id": "n147",
+    "word": "boerderij",
+    "translation": "farm",
+    "article": "de"
+  },
+  {
+    "id": "n148",
+    "word": "boodschap",
+    "translation": "message; errand",
+    "article": "de"
+  },
+  {
+    "id": "n149",
+    "word": "boog",
+    "translation": "arch; bow",
+    "article": "de"
+  },
+  {
+    "id": "n150",
+    "word": "boom",
+    "translation": "tree",
+    "article": "de"
+  },
+  {
+    "id": "n151",
+    "word": "boord",
+    "translation": "board; collar",
+    "article": "het"
+  },
+  {
+    "id": "n152",
+    "word": "boot",
+    "translation": "boat",
+    "article": "de"
+  },
+  {
+    "id": "n153",
+    "word": "bord",
+    "translation": "plate; sign",
+    "article": "het"
+  },
+  {
+    "id": "n154",
+    "word": "borst",
+    "translation": "chest, breast",
+    "article": "de"
+  },
+  {
+    "id": "n155",
+    "word": "bos",
+    "translation": "forest; bunch",
+    "article": "het"
+  },
+  {
+    "id": "n156",
+    "word": "boter",
+    "translation": "butter",
+    "article": "de"
+  },
+  {
+    "id": "n157",
+    "word": "brand",
+    "translation": "fire",
+    "article": "de"
+  },
+  {
+    "id": "n158",
+    "word": "brief",
+    "translation": "letter",
+    "article": "de"
+  },
+  {
+    "id": "n159",
+    "word": "bril",
+    "translation": "glasses",
+    "article": "de"
+  },
+  {
+    "id": "n160",
+    "word": "broeder",
+    "translation": "brother (formal)",
+    "article": "de"
+  },
+  {
+    "id": "n161",
+    "word": "broek",
+    "translation": "pants",
+    "article": "de"
+  },
+  {
+    "id": "n162",
+    "word": "broer",
+    "translation": "brother",
+    "article": "de"
+  },
+  {
+    "id": "n163",
+    "word": "bron",
+    "translation": "source",
+    "article": "de"
+  },
+  {
+    "id": "n164",
+    "word": "brood",
+    "translation": "bread",
+    "article": "het"
+  },
+  {
+    "id": "n165",
+    "word": "brug",
+    "translation": "bridge",
+    "article": "de"
+  },
+  {
+    "id": "n166",
+    "word": "buik",
+    "translation": "belly, stomach",
+    "article": "de"
+  },
+  {
+    "id": "n167",
+    "word": "bundel",
+    "translation": "bundle; volume",
+    "article": "de"
+  },
+  {
+    "id": "n168",
+    "word": "bureau",
+    "translation": "desk; office",
+    "article": "het"
+  },
+  {
+    "id": "n169",
+    "word": "burgemeester",
+    "translation": "mayor",
+    "article": "de"
+  },
+  {
+    "id": "n170",
+    "word": "burger",
+    "translation": "citizen",
+    "article": "de"
+  },
+  {
+    "id": "n171",
+    "word": "bus",
+    "translation": "bus",
+    "article": "de"
+  },
+  {
+    "id": "n172",
+    "word": "buur",
+    "translation": "neighbor",
+    "article": "de"
+  },
+  {
+    "id": "n173",
+    "word": "buurt",
+    "translation": "neighborhood",
+    "article": "de"
+  },
+  {
+    "id": "n174",
+    "word": "categorie",
+    "translation": "category",
+    "article": "de"
+  },
+  {
+    "id": "n175",
+    "word": "cel",
+    "translation": "cell",
+    "article": "de"
+  },
+  {
+    "id": "n176",
+    "word": "cent",
+    "translation": "cent",
+    "article": "de"
+  },
+  {
+    "id": "n177",
+    "word": "centimeter",
+    "translation": "centimeter",
+    "article": "de"
+  },
+  {
+    "id": "n178",
+    "word": "centrum",
+    "translation": "center",
+    "article": "het"
+  },
+  {
+    "id": "n179",
+    "word": "champagne",
+    "translation": "champagne",
+    "article": "de"
+  },
+  {
+    "id": "n180",
+    "word": "chauffeur",
+    "translation": "driver",
+    "article": "de"
+  },
+  {
+    "id": "n181",
+    "word": "chef",
+    "translation": "chef; boss",
+    "article": "de"
+  },
+  {
+    "id": "n182",
+    "word": "christen",
+    "translation": "Christian",
+    "article": "de"
+  },
+  {
+    "id": "n183",
+    "word": "christendom",
+    "translation": "Christianity",
+    "article": "het"
+  },
+  {
+    "id": "n184",
+    "word": "cijfer",
+    "translation": "number; grade",
+    "article": "het"
+  },
+  {
+    "id": "n185",
+    "word": "cirkel",
+    "translation": "circle",
+    "article": "de"
+  },
+  {
+    "id": "n186",
+    "word": "college",
+    "translation": "lecture; board",
+    "article": "het"
+  },
+  {
+    "id": "n187",
+    "word": "combinatie",
+    "translation": "combination",
+    "article": "de"
+  },
+  {
+    "id": "n188",
+    "word": "commandant",
+    "translation": "commander",
+    "article": "de"
+  },
+  {
+    "id": "n189",
+    "word": "commentaar",
+    "translation": "commentary",
+    "article": "het"
+  },
+  {
+    "id": "n190",
+    "word": "commissaris",
+    "translation": "commissioner",
+    "article": "de"
+  },
+  {
+    "id": "n191",
+    "word": "commissie",
+    "translation": "committee",
+    "article": "de"
+  },
+  {
+    "id": "n192",
+    "word": "communicatie",
+    "translation": "communication",
+    "article": "de"
+  },
+  {
+    "id": "n193",
+    "word": "computer",
+    "translation": "computer",
+    "article": "de"
+  },
+  {
+    "id": "n194",
+    "word": "conclusie",
+    "translation": "conclusion",
+    "article": "de"
+  },
+  {
+    "id": "n195",
+    "word": "conflict",
+    "translation": "conflict",
+    "article": "het"
+  },
+  {
+    "id": "n196",
+    "word": "consequentie",
+    "translation": "consequence",
+    "article": "de"
+  },
+  {
+    "id": "n197",
+    "word": "consument",
+    "translation": "consumer",
+    "article": "de"
+  },
+  {
+    "id": "n198",
+    "word": "contact",
+    "translation": "contact",
+    "article": "het"
+  },
+  {
+    "id": "n199",
+    "word": "controle",
+    "translation": "control; check",
+    "article": "de"
+  },
+  {
+    "id": "n200",
+    "word": "crisis",
+    "translation": "crisis",
+    "article": "de"
+  },
+  {
+    "id": "n201",
+    "word": "criterium",
+    "translation": "criterion",
+    "article": "het"
+  },
+  {
+    "id": "n202",
+    "word": "criticus",
+    "translation": "critic",
+    "article": "de"
+  },
+  {
+    "id": "n203",
+    "word": "cultuur",
+    "translation": "culture",
+    "article": "de"
+  },
+  {
+    "id": "n204",
+    "word": "daad",
+    "translation": "deed, act",
+    "article": "de"
+  },
+  {
+    "id": "n205",
+    "word": "dag",
+    "translation": "day",
+    "article": "de"
+  },
+  {
+    "id": "n206",
+    "word": "dagboek",
+    "translation": "diary",
+    "article": "het"
+  },
+  {
+    "id": "n207",
+    "word": "dak",
+    "translation": "roof",
+    "article": "het"
+  },
+  {
+    "id": "n208",
+    "word": "dal",
+    "translation": "valley",
+    "article": "het"
+  },
+  {
+    "id": "n209",
+    "word": "dame",
+    "translation": "lady",
+    "article": "de"
+  },
+  {
+    "id": "n210",
+    "word": "dank",
+    "translation": "thanks",
+    "article": "de"
+  },
+  {
+    "id": "n211",
+    "word": "deel",
+    "translation": "part",
+    "article": "het"
+  },
+  {
+    "id": "n212",
+    "word": "deelnemer",
+    "translation": "participant",
+    "article": "de"
+  },
+  {
+    "id": "n213",
+    "word": "definitie",
+    "translation": "definition",
+    "article": "de"
+  },
+  {
+    "id": "n214",
+    "word": "deken",
+    "translation": "blanket; dean",
+    "article": "de"
+  },
+  {
+    "id": "n215",
+    "word": "democratie",
+    "translation": "democracy",
+    "article": "de"
+  },
+  {
+    "id": "n216",
+    "word": "denkbeeld",
+    "translation": "idea, notion",
+    "article": "het"
+  },
+  {
+    "id": "n217",
+    "word": "deskundige",
+    "translation": "expert",
+    "article": "de"
+  },
+  {
+    "id": "n218",
+    "word": "detail",
+    "translation": "detail",
+    "article": "het"
+  },
+  {
+    "id": "n219",
+    "word": "deur",
+    "translation": "door",
+    "article": "de"
+  },
+  {
+    "id": "n220",
+    "word": "diagnose",
+    "translation": "diagnosis",
+    "article": "de"
+  },
+  {
+    "id": "n221",
+    "word": "dichter",
+    "translation": "poet",
+    "article": "de"
+  },
+  {
+    "id": "n222",
+    "word": "dienst",
+    "translation": "service",
+    "article": "de"
+  },
+  {
+    "id": "n223",
+    "word": "diepte",
+    "translation": "depth",
+    "article": "de"
+  },
+  {
+    "id": "n224",
+    "word": "dier",
+    "translation": "animal",
+    "article": "het"
+  },
+  {
+    "id": "n225",
+    "word": "dimensie",
+    "translation": "dimension",
+    "article": "de"
+  },
+  {
+    "id": "n226",
+    "word": "ding",
+    "translation": "thing",
+    "article": "het"
+  },
+  {
+    "id": "n227",
+    "word": "directeur",
+    "translation": "director",
+    "article": "de"
+  },
+  {
+    "id": "n228",
+    "word": "directie",
+    "translation": "management, direction",
+    "article": "de"
+  },
+  {
+    "id": "n229",
+    "word": "discussie",
+    "translation": "discussion",
+    "article": "de"
+  },
+  {
+    "id": "n230",
+    "word": "dochter",
+    "translation": "daughter",
+    "article": "de"
+  },
+  {
+    "id": "n231",
+    "word": "document",
+    "translation": "document",
+    "article": "het"
+  },
+  {
+    "id": "n232",
+    "word": "dode",
+    "translation": "dead person",
+    "article": "de"
+  },
+  {
+    "id": "n233",
+    "word": "doek",
+    "translation": "cloth; canvas",
+    "article": "het"
+  },
+  {
+    "id": "n234",
+    "word": "doel",
+    "translation": "goal, purpose",
+    "article": "het"
+  },
+  {
+    "id": "n235",
+    "word": "doeleinde",
+    "translation": "purpose, objective",
+    "article": "het"
+  },
+  {
+    "id": "n236",
+    "word": "doelstelling",
+    "translation": "objective",
+    "article": "de"
+  },
+  {
+    "id": "n237",
+    "word": "dokter",
+    "translation": "doctor",
+    "article": "de"
+  },
+  {
+    "id": "n238",
+    "word": "dollar",
+    "translation": "dollar",
+    "article": "de"
+  },
+  {
+    "id": "n239",
+    "word": "dood",
+    "translation": "death",
+    "article": "de"
+  },
+  {
+    "id": "n240",
+    "word": "doos",
+    "translation": "box",
+    "article": "de"
+  },
+  {
+    "id": "n241",
+    "word": "dorp",
+    "translation": "village",
+    "article": "het"
+  },
+  {
+    "id": "n242",
+    "word": "draad",
+    "translation": "thread; wire",
+    "article": "de"
+  },
+  {
+    "id": "n243",
+    "word": "drank",
+    "translation": "drink; alcohol",
+    "article": "de"
+  },
+  {
+    "id": "n244",
+    "word": "drom",
+    "translation": "crowd",
+    "article": "de"
+  },
+  {
+    "id": "n245",
+    "word": "droom",
+    "translation": "dream",
+    "article": "de"
+  },
+  {
+    "id": "n246",
+    "word": "druif",
+    "translation": "grape",
+    "article": "de"
+  },
+  {
+    "id": "n247",
+    "word": "druppel",
+    "translation": "drop",
+    "article": "de"
+  },
+  {
+    "id": "n248",
+    "word": "duim",
+    "translation": "thumb",
+    "article": "de"
+  },
+  {
+    "id": "n249",
+    "word": "duisternis",
+    "translation": "darkness",
+    "article": "de"
+  },
+  {
+    "id": "n250",
+    "word": "echtgenoot",
+    "translation": "husband, spouse",
+    "article": "de"
+  },
+  {
+    "id": "n251",
+    "word": "economie",
+    "translation": "economy",
+    "article": "de"
+  },
+  {
+    "id": "n252",
+    "word": "eend",
+    "translation": "duck",
+    "article": "de"
+  },
+  {
+    "id": "n253",
+    "word": "eentje",
+    "translation": "one (informal)",
+    "article": "het"
+  },
+  {
+    "id": "n254",
+    "word": "eenzaamheid",
+    "translation": "loneliness",
+    "article": "de"
+  },
+  {
+    "id": "n255",
+    "word": "eer",
+    "translation": "honor",
+    "article": "de"
+  },
+  {
+    "id": "n256",
+    "word": "eeuwen",
+    "translation": "century",
+    "article": "de"
+  },
+  {
+    "id": "n257",
+    "word": "effect",
+    "translation": "effect",
+    "article": "het"
+  },
+  {
+    "id": "n258",
+    "word": "eigendom",
+    "translation": "property, ownership",
+    "article": "het"
+  },
+  {
+    "id": "n259",
+    "word": "einde",
+    "translation": "end",
+    "article": "het"
+  },
+  {
+    "id": "n260",
+    "word": "eis",
+    "translation": "demand, requirement",
+    "article": "de"
+  },
+  {
+    "id": "n261",
+    "word": "element",
+    "translation": "element",
+    "article": "het"
+  },
+  {
+    "id": "n262",
+    "word": "ellende",
+    "translation": "misery",
+    "article": "de"
+  },
+  {
+    "id": "n263",
+    "word": "engel",
+    "translation": "angel",
+    "article": "de"
+  },
+  {
+    "id": "n264",
+    "word": "erkenning",
+    "translation": "recognition",
+    "article": "de"
+  },
+  {
+    "id": "n265",
+    "word": "ernst",
+    "translation": "seriousness",
+    "article": "de"
+  },
+  {
+    "id": "n266",
+    "word": "ervaring",
+    "translation": "experience",
+    "article": "de"
+  },
+  {
+    "id": "n267",
+    "word": "exemplaar",
+    "translation": "copy; specimen",
+    "article": "het"
+  },
+  {
+    "id": "n268",
+    "word": "familie",
+    "translation": "family",
+    "article": "de"
+  },
+  {
+    "id": "n269",
+    "word": "familielid",
+    "translation": "family member",
+    "article": "het"
+  },
+  {
+    "id": "n270",
+    "word": "fantasie",
+    "translation": "fantasy, imagination",
+    "article": "de"
+  },
+  {
+    "id": "n271",
+    "word": "fase",
+    "translation": "phase",
+    "article": "de"
+  },
+  {
+    "id": "n272",
+    "word": "feit",
+    "translation": "fact",
+    "article": "het"
+  },
+  {
+    "id": "n273",
+    "word": "figuur",
+    "translation": "figure",
+    "article": "het"
+  },
+  {
+    "id": "n274",
+    "word": "filosofie",
+    "translation": "philosophy",
+    "article": "de"
+  },
+  {
+    "id": "n275",
+    "word": "filosoof",
+    "translation": "philosopher",
+    "article": "de"
+  },
+  {
+    "id": "n276",
+    "word": "firma",
+    "translation": "firm, company",
+    "article": "de"
+  },
+  {
+    "id": "n277",
+    "word": "flat",
+    "translation": "apartment",
+    "article": "de"
+  },
+  {
+    "id": "n278",
+    "word": "foto",
+    "translation": "photo",
+    "article": "de"
+  },
+  {
+    "id": "n279",
+    "word": "fout",
+    "translation": "mistake, error",
+    "article": "de"
+  },
+  {
+    "id": "n280",
+    "word": "fractie",
+    "translation": "fraction; political faction",
+    "article": "de"
+  },
+  {
+    "id": "n281",
+    "word": "front",
+    "translation": "front",
+    "article": "het"
+  },
+  {
+    "id": "n282",
+    "word": "functie",
+    "translation": "function, position",
+    "article": "de"
+  },
+  {
+    "id": "n283",
+    "word": "gang",
+    "translation": "corridor; course; pace",
+    "article": "de"
+  },
+  {
+    "id": "n284",
+    "word": "gas",
+    "translation": "gas",
+    "article": "het"
+  },
+  {
+    "id": "n285",
+    "word": "gast",
+    "translation": "guest",
+    "article": "de"
+  },
+  {
+    "id": "n286",
+    "word": "gebed",
+    "translation": "prayer",
+    "article": "het"
+  },
+  {
+    "id": "n287",
+    "word": "gebeurtenis",
+    "translation": "event",
+    "article": "de"
+  },
+  {
+    "id": "n288",
+    "word": "gebied",
+    "translation": "area, territory",
+    "article": "het"
+  },
+  {
+    "id": "n289",
+    "word": "gebouw",
+    "translation": "building",
+    "article": "het"
+  },
+  {
+    "id": "n290",
+    "word": "gebrek",
+    "translation": "lack; defect",
+    "article": "het"
+  },
+  {
+    "id": "n291",
+    "word": "gebruik",
+    "translation": "use",
+    "article": "het"
+  },
+  {
+    "id": "n292",
+    "word": "gebruiker",
+    "translation": "user",
+    "article": "de"
+  },
+  {
+    "id": "n293",
+    "word": "gedachte",
+    "translation": "thought",
+    "article": "de"
+  },
+  {
+    "id": "n294",
+    "word": "gedeelte",
+    "translation": "part, portion",
+    "article": "het"
+  },
+  {
+    "id": "n295",
+    "word": "gedrag",
+    "translation": "behavior",
+    "article": "het"
+  },
+  {
+    "id": "n296",
+    "word": "geduld",
+    "translation": "patience",
+    "article": "het"
+  },
+  {
+    "id": "n297",
+    "word": "geest",
+    "translation": "spirit, mind",
+    "article": "de"
+  },
+  {
+    "id": "n298",
+    "word": "gegeven",
+    "translation": "fact, datum",
+    "article": "het"
+  },
+  {
+    "id": "n299",
+    "word": "geheel",
+    "translation": "whole, entirety",
+    "article": "het"
+  },
+  {
+    "id": "n300",
+    "word": "geheim",
+    "translation": "secret",
+    "article": "het"
+  },
+  {
+    "id": "n301",
+    "word": "geld",
+    "translation": "money",
+    "article": "het"
+  },
+  {
+    "id": "n302",
+    "word": "gelegenheid",
+    "translation": "opportunity; occasion",
+    "article": "de"
+  },
+  {
+    "id": "n303",
+    "word": "geloof",
+    "translation": "faith, belief",
+    "article": "het"
+  },
+  {
+    "id": "n304",
+    "word": "geluid",
+    "translation": "sound",
+    "article": "het"
+  },
+  {
+    "id": "n305",
+    "word": "geluk",
+    "translation": "happiness; luck",
+    "article": "het"
+  },
+  {
+    "id": "n306",
+    "word": "gemeente",
+    "translation": "municipality",
+    "article": "de"
+  },
+  {
+    "id": "n307",
+    "word": "geneesmiddel",
+    "translation": "medicine, drug",
+    "article": "het"
+  },
+  {
+    "id": "n308",
+    "word": "generatie",
+    "translation": "generation",
+    "article": "de"
+  },
+  {
+    "id": "n309",
+    "word": "genoegen",
+    "translation": "pleasure",
+    "article": "het"
+  },
+  {
+    "id": "n310",
+    "word": "genot",
+    "translation": "enjoyment, pleasure",
+    "article": "het"
+  },
+  {
+    "id": "n311",
+    "word": "gerecht",
+    "translation": "dish; court",
+    "article": "het"
+  },
+  {
+    "id": "n312",
+    "word": "geschiedenis",
+    "translation": "history",
+    "article": "de"
+  },
+  {
+    "id": "n313",
+    "word": "geschrift",
+    "translation": "writing, document",
+    "article": "het"
+  },
+  {
+    "id": "n314",
+    "word": "geslacht",
+    "translation": "gender; generation",
+    "article": "het"
+  },
+  {
+    "id": "n315",
+    "word": "gesprek",
+    "translation": "conversation",
+    "article": "het"
+  },
+  {
+    "id": "n316",
+    "word": "gestalte",
+    "translation": "figure, shape",
+    "article": "de"
+  },
+  {
+    "id": "n317",
+    "word": "getal",
+    "translation": "number",
+    "article": "het"
+  },
+  {
+    "id": "n318",
+    "word": "getuige",
+    "translation": "witness",
+    "article": "de"
+  },
+  {
+    "id": "n319",
+    "word": "gevaar",
+    "translation": "danger",
+    "article": "het"
+  },
+  {
+    "id": "n320",
+    "word": "geval",
+    "translation": "case",
+    "article": "het"
+  },
+  {
+    "id": "n321",
+    "word": "gevangene",
+    "translation": "prisoner",
+    "article": "de"
+  },
+  {
+    "id": "n322",
+    "word": "gevangenis",
+    "translation": "prison",
+    "article": "de"
+  },
+  {
+    "id": "n323",
+    "word": "gevecht",
+    "translation": "fight, battle",
+    "article": "het"
+  },
+  {
+    "id": "n324",
+    "word": "gevoel",
+    "translation": "feeling",
+    "article": "het"
+  },
+  {
+    "id": "n325",
+    "word": "gevolg",
+    "translation": "consequence",
+    "article": "het"
+  },
+  {
+    "id": "n326",
+    "word": "geweld",
+    "translation": "violence",
+    "article": "het"
+  },
+  {
+    "id": "n327",
+    "word": "geweten",
+    "translation": "conscience",
+    "article": "het"
+  },
+  {
+    "id": "n328",
+    "word": "gewicht",
+    "translation": "weight",
+    "article": "het"
+  },
+  {
+    "id": "n329",
+    "word": "gewoonte",
+    "translation": "habit, custom",
+    "article": "de"
+  },
+  {
+    "id": "n330",
+    "word": "gezag",
+    "translation": "authority",
+    "article": "het"
+  },
+  {
+    "id": "n331",
+    "word": "gezicht",
+    "translation": "face",
+    "article": "het"
+  },
+  {
+    "id": "n332",
+    "word": "gezin",
+    "translation": "family (nuclear)",
+    "article": "het"
+  },
+  {
+    "id": "n333",
+    "word": "gezondheid",
+    "translation": "health",
+    "article": "de"
+  },
+  {
+    "id": "n334",
+    "word": "glas",
+    "translation": "glass",
+    "article": "het"
+  },
+  {
+    "id": "n335",
+    "word": "god",
+    "translation": "god",
+    "article": "de"
+  },
+  {
+    "id": "n336",
+    "word": "goud",
+    "translation": "gold",
+    "article": "het"
+  },
+  {
+    "id": "n337",
+    "word": "graad",
+    "translation": "degree",
+    "article": "de"
+  },
+  {
+    "id": "n338",
+    "word": "graaf",
+    "translation": "count (nobility)",
+    "article": "de"
+  },
+  {
+    "id": "n339",
+    "word": "graf",
+    "translation": "grave",
+    "article": "het"
+  },
+  {
+    "id": "n340",
+    "word": "grap",
+    "translation": "joke",
+    "article": "de"
+  },
+  {
+    "id": "n341",
+    "word": "grens",
+    "translation": "border, limit",
+    "article": "de"
+  },
+  {
+    "id": "n342",
+    "word": "groei",
+    "translation": "growth",
+    "article": "de"
+  },
+  {
+    "id": "n343",
+    "word": "groente",
+    "translation": "vegetable",
+    "article": "de"
+  },
+  {
+    "id": "n344",
+    "word": "groep",
+    "translation": "group",
+    "article": "de"
+  },
+  {
+    "id": "n345",
+    "word": "grond",
+    "translation": "ground; reason",
+    "article": "de"
+  },
+  {
+    "id": "n346",
+    "word": "grootmoeder",
+    "translation": "grandmother",
+    "article": "de"
+  },
+  {
+    "id": "n347",
+    "word": "grootte",
+    "translation": "size",
+    "article": "de"
+  },
+  {
+    "id": "n348",
+    "word": "grootvader",
+    "translation": "grandfather",
+    "article": "de"
+  },
+  {
+    "id": "n349",
+    "word": "gulden",
+    "translation": "guilder",
+    "article": "de"
+  },
+  {
+    "id": "n350",
+    "word": "gunst",
+    "translation": "favor",
+    "article": "de"
+  },
+  {
+    "id": "n351",
+    "word": "haar",
+    "translation": "hair",
+    "article": "het"
+  },
+  {
+    "id": "n352",
+    "word": "haat",
+    "translation": "hatred",
+    "article": "de"
+  },
+  {
+    "id": "n353",
+    "word": "hal",
+    "translation": "hall",
+    "article": "de"
+  },
+  {
+    "id": "n354",
+    "word": "hand",
+    "translation": "hand",
+    "article": "de"
+  },
+  {
+    "id": "n355",
+    "word": "handeling",
+    "translation": "action; plot",
+    "article": "de"
+  },
+  {
+    "id": "n356",
+    "word": "hart",
+    "translation": "heart",
+    "article": "het"
+  },
+  {
+    "id": "n357",
+    "word": "haven",
+    "translation": "harbor, port",
+    "article": "de"
+  },
+  {
+    "id": "n358",
+    "word": "hek",
+    "translation": "fence, gate",
+    "article": "het"
+  },
+  {
+    "id": "n359",
+    "word": "held",
+    "translation": "hero",
+    "article": "de"
+  },
+  {
+    "id": "n360",
+    "word": "helft",
+    "translation": "half",
+    "article": "de"
+  },
+  {
+    "id": "n361",
+    "word": "helling",
+    "translation": "slope",
+    "article": "de"
+  },
+  {
+    "id": "n362",
+    "word": "hemd",
+    "translation": "shirt, undershirt",
+    "article": "het"
+  },
+  {
+    "id": "n363",
+    "word": "hemel",
+    "translation": "sky, heaven",
+    "article": "de"
+  },
+  {
+    "id": "n364",
+    "word": "herinnering",
+    "translation": "memory, recollection",
+    "article": "de"
+  },
+  {
+    "id": "n365",
+    "word": "hersenen",
+    "translation": "brain",
+    "article": "de"
+  },
+  {
+    "id": "n366",
+    "word": "herstel",
+    "translation": "recovery",
+    "article": "het"
+  },
+  {
+    "id": "n367",
+    "word": "hertog",
+    "translation": "duke",
+    "article": "de"
+  },
+  {
+    "id": "n368",
+    "word": "heup",
+    "translation": "hip",
+    "article": "de"
+  },
+  {
+    "id": "n369",
+    "word": "historie",
+    "translation": "history",
+    "article": "de"
+  },
+  {
+    "id": "n370",
+    "word": "hitte",
+    "translation": "heat",
+    "article": "de"
+  },
+  {
+    "id": "n371",
+    "word": "hoek",
+    "translation": "corner; angle",
+    "article": "de"
+  },
+  {
+    "id": "n372",
+    "word": "hof",
+    "translation": "court; garden",
+    "article": "het"
+  },
+  {
+    "id": "n373",
+    "word": "hol",
+    "translation": "cave; hollow",
+    "article": "het"
+  },
+  {
+    "id": "n374",
+    "word": "hond",
+    "translation": "dog",
+    "article": "de"
+  },
+  {
+    "id": "n375",
+    "word": "honger",
+    "translation": "hunger",
+    "article": "de"
+  },
+  {
+    "id": "n376",
+    "word": "hoofd",
+    "translation": "head",
+    "article": "het"
+  },
+  {
+    "id": "n377",
+    "word": "hoofdstad",
+    "translation": "capital city",
+    "article": "de"
+  },
+  {
+    "id": "n378",
+    "word": "hoofdstuk",
+    "translation": "chapter",
+    "article": "het"
+  },
+  {
+    "id": "n379",
+    "word": "hoofdzaak",
+    "translation": "main thing",
+    "article": "de"
+  },
+  {
+    "id": "n380",
+    "word": "hoogte",
+    "translation": "height",
+    "article": "de"
+  },
+  {
+    "id": "n381",
+    "word": "hoop",
+    "translation": "hope; heap",
+    "article": "de"
+  },
+  {
+    "id": "n382",
+    "word": "horizon",
+    "translation": "horizon",
+    "article": "de"
+  },
+  {
+    "id": "n383",
+    "word": "horloge",
+    "translation": "watch",
+    "article": "het"
+  },
+  {
+    "id": "n384",
+    "word": "hotel",
+    "translation": "hotel",
+    "article": "het"
+  },
+  {
+    "id": "n385",
+    "word": "houding",
+    "translation": "attitude, posture",
+    "article": "de"
+  },
+  {
+    "id": "n386",
+    "word": "hout",
+    "translation": "wood",
+    "article": "het"
+  },
+  {
+    "id": "n387",
+    "word": "huis",
+    "translation": "house",
+    "article": "het"
+  },
+  {
+    "id": "n388",
+    "word": "hulp",
+    "translation": "help",
+    "article": "de"
+  },
+  {
+    "id": "n389",
+    "word": "hulpverlening",
+    "translation": "assistance, aid",
+    "article": "de"
+  },
+  {
+    "id": "n390",
+    "word": "humeur",
+    "translation": "mood",
+    "article": "het"
+  },
+  {
+    "id": "n391",
+    "word": "hut",
+    "translation": "hut; cabin",
+    "article": "de"
+  },
+  {
+    "id": "n392",
+    "word": "huwelijk",
+    "translation": "marriage",
+    "article": "het"
+  },
+  {
+    "id": "n393",
+    "word": "idee",
+    "translation": "idea",
+    "article": "het"
+  },
+  {
+    "id": "n394",
+    "word": "identiteit",
+    "translation": "identity",
+    "article": "de"
+  },
+  {
+    "id": "n395",
+    "word": "ijs",
+    "translation": "ice; ice cream",
+    "article": "het"
+  },
+  {
+    "id": "n396",
+    "word": "illusie",
+    "translation": "illusion",
+    "article": "de"
+  },
+  {
+    "id": "n397",
+    "word": "indeling",
+    "translation": "classification, layout",
+    "article": "de"
+  },
+  {
+    "id": "n398",
+    "word": "indruk",
+    "translation": "impression",
+    "article": "de"
+  },
+  {
+    "id": "n399",
+    "word": "industrie",
+    "translation": "industry",
+    "article": "de"
+  },
+  {
+    "id": "n400",
+    "word": "informatie",
+    "translation": "information",
+    "article": "de"
+  },
+  {
+    "id": "n401",
+    "word": "ingang",
+    "translation": "entrance",
+    "article": "de"
+  },
+  {
+    "id": "n402",
+    "word": "inhoud",
+    "translation": "content",
+    "article": "de"
+  },
+  {
+    "id": "n403",
+    "word": "inkomen",
+    "translation": "income",
+    "article": "het"
+  },
+  {
+    "id": "n404",
+    "word": "inleiding",
+    "translation": "introduction",
+    "article": "de"
+  },
+  {
+    "id": "n405",
+    "word": "inspanning",
+    "translation": "effort",
+    "article": "de"
+  },
+  {
+    "id": "n406",
+    "word": "instelling",
+    "translation": "institution; setting",
+    "article": "de"
+  },
+  {
+    "id": "n407",
+    "word": "instituut",
+    "translation": "institute",
+    "article": "het"
+  },
+  {
+    "id": "n408",
+    "word": "instructie",
+    "translation": "instruction",
+    "article": "de"
+  },
+  {
+    "id": "n409",
+    "word": "intelligentie",
+    "translation": "intelligence",
+    "article": "de"
+  },
+  {
+    "id": "n410",
+    "word": "interesse",
+    "translation": "interest",
+    "article": "de"
+  },
+  {
+    "id": "n411",
+    "word": "interpretatie",
+    "translation": "interpretation",
+    "article": "de"
+  },
+  {
+    "id": "n412",
+    "word": "interview",
+    "translation": "interview",
+    "article": "het"
+  },
+  {
+    "id": "n413",
+    "word": "invloed",
+    "translation": "influence",
+    "article": "de"
+  },
+  {
+    "id": "n414",
+    "word": "inwoner",
+    "translation": "inhabitant, resident",
+    "article": "de"
+  },
+  {
+    "id": "n415",
+    "word": "inzet",
+    "translation": "effort; stake",
+    "article": "de"
+  },
+  {
+    "id": "n416",
+    "word": "inzicht",
+    "translation": "insight",
+    "article": "het"
+  },
+  {
+    "id": "n417",
+    "word": "jaar",
+    "translation": "year",
+    "article": "het"
+  },
+  {
+    "id": "n418",
+    "word": "jacht",
+    "translation": "hunt",
+    "article": "de"
+  },
+  {
+    "id": "n419",
+    "word": "jasje",
+    "translation": "jacket",
+    "article": "het"
+  },
+  {
+    "id": "n420",
+    "word": "jeugd",
+    "translation": "youth",
+    "article": "de"
+  },
+  {
+    "id": "n421",
+    "word": "jongen",
+    "translation": "boy",
+    "article": "de"
+  },
+  {
+    "id": "n422",
+    "word": "jongere",
+    "translation": "young person",
+    "article": "de"
+  },
+  {
+    "id": "n423",
+    "word": "journalist",
+    "translation": "journalist",
+    "article": "de"
+  },
+  {
+    "id": "n424",
+    "word": "justitie",
+    "translation": "justice",
+    "article": "de"
+  },
+  {
+    "id": "n425",
+    "word": "kaart",
+    "translation": "card; map",
+    "article": "de"
+  },
+  {
+    "id": "n426",
+    "word": "kabinet",
+    "translation": "cabinet (government)",
+    "article": "het"
+  },
+  {
+    "id": "n427",
+    "word": "kamer",
+    "translation": "room",
+    "article": "de"
+  },
+  {
+    "id": "n428",
+    "word": "kameraad",
+    "translation": "comrade",
+    "article": "de"
+  },
+  {
+    "id": "n429",
+    "word": "kamp",
+    "translation": "camp",
+    "article": "het"
+  },
+  {
+    "id": "n430",
+    "word": "kanaal",
+    "translation": "channel; canal",
+    "article": "het"
+  },
+  {
+    "id": "n431",
+    "word": "kans",
+    "translation": "chance, opportunity",
+    "article": "de"
+  },
+  {
+    "id": "n432",
+    "word": "kant",
+    "translation": "side",
+    "article": "de"
+  },
+  {
+    "id": "n433",
+    "word": "kantoor",
+    "translation": "office",
+    "article": "het"
+  },
+  {
+    "id": "n434",
+    "word": "kapitaal",
+    "translation": "capital",
+    "article": "het"
+  },
+  {
+    "id": "n435",
+    "word": "karakter",
+    "translation": "character",
+    "article": "het"
+  },
+  {
+    "id": "n436",
+    "word": "kasteel",
+    "translation": "castle",
+    "article": "het"
+  },
+  {
+    "id": "n437",
+    "word": "kat",
+    "translation": "cat",
+    "article": "de"
+  },
+  {
+    "id": "n438",
+    "word": "keizer",
+    "translation": "emperor",
+    "article": "de"
+  },
+  {
+    "id": "n439",
+    "word": "kelder",
+    "translation": "basement, cellar",
+    "article": "de"
+  },
+  {
+    "id": "n440",
+    "word": "kennis",
+    "translation": "knowledge; acquaintance",
+    "article": "de"
+  },
+  {
+    "id": "n441",
+    "word": "kerk",
+    "translation": "church",
+    "article": "de"
+  },
+  {
+    "id": "n442",
+    "word": "kern",
+    "translation": "core, nucleus",
+    "article": "de"
+  },
+  {
+    "id": "n443",
+    "word": "keuken",
+    "translation": "kitchen",
+    "article": "de"
+  },
+  {
+    "id": "n444",
+    "word": "keuze",
+    "translation": "choice",
+    "article": "de"
+  },
+  {
+    "id": "n445",
+    "word": "kind",
+    "translation": "child",
+    "article": "het"
+  },
+  {
+    "id": "n446",
+    "word": "klacht",
+    "translation": "complaint",
+    "article": "de"
+  },
+  {
+    "id": "n447",
+    "word": "klank",
+    "translation": "sound",
+    "article": "de"
+  },
+  {
+    "id": "n448",
+    "word": "klant",
+    "translation": "customer",
+    "article": "de"
+  },
+  {
+    "id": "n449",
+    "word": "klap",
+    "translation": "blow; clap",
+    "article": "de"
+  },
+  {
+    "id": "n450",
+    "word": "klas",
+    "translation": "class",
+    "article": "de"
+  },
+  {
+    "id": "n451",
+    "word": "klasse",
+    "translation": "class",
+    "article": "de"
+  },
+  {
+    "id": "n452",
+    "word": "kleding",
+    "translation": "clothing",
+    "article": "de"
+  },
+  {
+    "id": "n453",
+    "word": "kleed",
+    "translation": "rug; garment",
+    "article": "het"
+  },
+  {
+    "id": "n454",
+    "word": "kleur",
+    "translation": "color",
+    "article": "de"
+  },
+  {
+    "id": "n455",
+    "word": "klimaat",
+    "translation": "climate",
+    "article": "het"
+  },
+  {
+    "id": "n456",
+    "word": "klomp",
+    "translation": "clog; lump",
+    "article": "de"
+  },
+  {
+    "id": "n457",
+    "word": "klooster",
+    "translation": "monastery",
+    "article": "het"
+  },
+  {
+    "id": "n458",
+    "word": "knie",
+    "translation": "knee",
+    "article": "de"
+  },
+  {
+    "id": "n459",
+    "word": "knoop",
+    "translation": "button; knot",
+    "article": "de"
+  },
+  {
+    "id": "n460",
+    "word": "koers",
+    "translation": "course; rate",
+    "article": "de"
+  },
+  {
+    "id": "n461",
+    "word": "kolonie",
+    "translation": "colony",
+    "article": "de"
+  },
+  {
+    "id": "n462",
+    "word": "koning",
+    "translation": "king",
+    "article": "de"
+  },
+  {
+    "id": "n463",
+    "word": "koninkrijk",
+    "translation": "kingdom",
+    "article": "het"
+  },
+  {
+    "id": "n464",
+    "word": "kop",
+    "translation": "head; cup",
+    "article": "de"
+  },
+  {
+    "id": "n465",
+    "word": "kopje",
+    "translation": "small cup",
+    "article": "het"
+  },
+  {
+    "id": "n466",
+    "word": "kosten",
+    "translation": "costs",
+    "article": "de"
+  },
+  {
+    "id": "n467",
+    "word": "kracht",
+    "translation": "strength, power",
+    "article": "de"
+  },
+  {
+    "id": "n468",
+    "word": "krant",
+    "translation": "newspaper",
+    "article": "de"
+  },
+  {
+    "id": "n469",
+    "word": "kritiek",
+    "translation": "criticism",
+    "article": "de"
+  },
+  {
+    "id": "n470",
+    "word": "kroon",
+    "translation": "crown",
+    "article": "de"
+  },
+  {
+    "id": "n471",
+    "word": "kruis",
+    "translation": "cross",
+    "article": "het"
+  },
+  {
+    "id": "n472",
+    "word": "kunst",
+    "translation": "art",
+    "article": "de"
+  },
+  {
+    "id": "n473",
+    "word": "kunstenaar",
+    "translation": "artist",
+    "article": "de"
+  },
+  {
+    "id": "n474",
+    "word": "kust",
+    "translation": "coast",
+    "article": "de"
+  },
+  {
+    "id": "n475",
+    "word": "kwaliteit",
+    "translation": "quality",
+    "article": "de"
+  },
+  {
+    "id": "n476",
+    "word": "kwartier",
+    "translation": "quarter (of an hour)",
+    "article": "het"
+  },
+  {
+    "id": "n477",
+    "word": "kwestie",
+    "translation": "matter, issue",
+    "article": "de"
+  },
+  {
+    "id": "n478",
+    "word": "laan",
+    "translation": "avenue",
+    "article": "de"
+  },
+  {
+    "id": "n479",
+    "word": "lach",
+    "translation": "laugh, smile",
+    "article": "de"
+  },
+  {
+    "id": "n480",
+    "word": "land",
+    "translation": "country; land",
+    "article": "het"
+  },
+  {
+    "id": "n481",
+    "word": "lap",
+    "translation": "patch, piece of cloth",
+    "article": "de"
+  },
+  {
+    "id": "n482",
+    "word": "last",
+    "translation": "burden; trouble",
+    "article": "de"
+  },
+  {
+    "id": "n483",
+    "word": "leed",
+    "translation": "suffering, sorrow",
+    "article": "het"
+  },
+  {
+    "id": "n484",
+    "word": "leeftijd",
+    "translation": "age",
+    "article": "de"
+  },
+  {
+    "id": "n485",
+    "word": "leer",
+    "translation": "leather; doctrine",
+    "article": "het"
+  },
+  {
+    "id": "n486",
+    "word": "leerling",
+    "translation": "pupil, student",
+    "article": "de"
+  },
+  {
+    "id": "n487",
+    "word": "leeuw",
+    "translation": "lion",
+    "article": "de"
+  },
+  {
+    "id": "n488",
+    "word": "leger",
+    "translation": "army",
+    "article": "het"
+  },
+  {
+    "id": "n489",
+    "word": "leider",
+    "translation": "leader",
+    "article": "de"
+  },
+  {
+    "id": "n490",
+    "word": "leiding",
+    "translation": "leadership; pipe",
+    "article": "de"
+  },
+  {
+    "id": "n491",
+    "word": "lengte",
+    "translation": "length",
+    "article": "de"
+  },
+  {
+    "id": "n492",
+    "word": "les",
+    "translation": "lesson",
+    "article": "de"
+  },
+  {
+    "id": "n493",
+    "word": "letter",
+    "translation": "letter (alphabet)",
+    "article": "de"
+  },
+  {
+    "id": "n494",
+    "word": "leven",
+    "translation": "life",
+    "article": "het"
+  },
+  {
+    "id": "n495",
+    "word": "lezer",
+    "translation": "reader",
+    "article": "de"
+  },
+  {
+    "id": "n496",
+    "word": "lichaam",
+    "translation": "body",
+    "article": "het"
+  },
+  {
+    "id": "n497",
+    "word": "licht",
+    "translation": "light",
+    "article": "het"
+  },
+  {
+    "id": "n498",
+    "word": "lid",
+    "translation": "member",
+    "article": "het"
+  },
+  {
+    "id": "n499",
+    "word": "liefde",
+    "translation": "love",
+    "article": "de"
+  },
+  {
+    "id": "n500",
+    "word": "liefhebber",
+    "translation": "lover, enthusiast",
+    "article": "de"
+  },
+  {
+    "id": "n501",
+    "word": "lijf",
+    "translation": "body",
+    "article": "het"
+  },
+  {
+    "id": "n502",
+    "word": "lijk",
+    "translation": "corpse",
+    "article": "het"
+  },
+  {
+    "id": "n503",
+    "word": "lijn",
+    "translation": "line",
+    "article": "de"
+  },
+  {
+    "id": "n504",
+    "word": "lijst",
+    "translation": "list; frame",
+    "article": "de"
+  },
+  {
+    "id": "n505",
+    "word": "lip",
+    "translation": "lip",
+    "article": "de"
+  },
+  {
+    "id": "n506",
+    "word": "literatuur",
+    "translation": "literature",
+    "article": "de"
+  },
+  {
+    "id": "n507",
+    "word": "lof",
+    "translation": "praise",
+    "article": "de"
+  },
+  {
+    "id": "n508",
+    "word": "lood",
+    "translation": "lead (metal)",
+    "article": "het"
+  },
+  {
+    "id": "n509",
+    "word": "loon",
+    "translation": "wage",
+    "article": "het"
+  },
+  {
+    "id": "n510",
+    "word": "loop",
+    "translation": "course; walk",
+    "article": "de"
+  },
+  {
+    "id": "n511",
+    "word": "lot",
+    "translation": "fate; lottery ticket",
+    "article": "het"
+  },
+  {
+    "id": "n512",
+    "word": "lucht",
+    "translation": "air; sky",
+    "article": "de"
+  },
+  {
+    "id": "n513",
+    "word": "luchtvaart",
+    "translation": "aviation",
+    "article": "de"
+  },
+  {
+    "id": "n514",
+    "word": "lust",
+    "translation": "desire; pleasure",
+    "article": "de"
+  },
+  {
+    "id": "n515",
+    "word": "maal",
+    "translation": "time (occasion); meal",
+    "article": "het"
+  },
+  {
+    "id": "n516",
+    "word": "maand",
+    "translation": "month",
+    "article": "de"
+  },
+  {
+    "id": "n517",
+    "word": "maandag",
+    "translation": "Monday",
+    "article": "de"
+  },
+  {
+    "id": "n518",
+    "word": "maatregel",
+    "translation": "measure",
+    "article": "de"
+  },
+  {
+    "id": "n519",
+    "word": "macht",
+    "translation": "power",
+    "article": "de"
+  },
+  {
+    "id": "n520",
+    "word": "man",
+    "translation": "man; husband",
+    "article": "de"
+  },
+  {
+    "id": "n521",
+    "word": "manier",
+    "translation": "way, manner",
+    "article": "de"
+  },
+  {
+    "id": "n522",
+    "word": "manifestatie",
+    "translation": "manifestation",
+    "article": "de"
+  },
+  {
+    "id": "n523",
+    "word": "massa",
+    "translation": "mass, crowd",
+    "article": "de"
+  },
+  {
+    "id": "n524",
+    "word": "materiaal",
+    "translation": "material",
+    "article": "het"
+  },
+  {
+    "id": "n525",
+    "word": "mechanisme",
+    "translation": "mechanism",
+    "article": "het"
+  },
+  {
+    "id": "n526",
+    "word": "medaille",
+    "translation": "medal",
+    "article": "de"
+  },
+  {
+    "id": "n527",
+    "word": "mededeling",
+    "translation": "announcement",
+    "article": "de"
+  },
+  {
+    "id": "n528",
+    "word": "medewerker",
+    "translation": "employee, colleague",
+    "article": "de"
+  },
+  {
+    "id": "n529",
+    "word": "medewerking",
+    "translation": "cooperation",
+    "article": "de"
+  },
+  {
+    "id": "n530",
+    "word": "medicijn",
+    "translation": "medicine",
+    "article": "het"
+  },
+  {
+    "id": "n531",
+    "word": "meerderheid",
+    "translation": "majority",
+    "article": "de"
+  },
+  {
+    "id": "n532",
+    "word": "meester",
+    "translation": "master; teacher",
+    "article": "de"
+  },
+  {
+    "id": "n533",
+    "word": "meisje",
+    "translation": "girl",
+    "article": "het"
+  },
+  {
+    "id": "n534",
+    "word": "melk",
+    "translation": "milk",
+    "article": "de"
+  },
+  {
+    "id": "n535",
+    "word": "mening",
+    "translation": "opinion",
+    "article": "de"
+  },
+  {
+    "id": "n536",
+    "word": "mens",
+    "translation": "human, person",
+    "article": "de"
+  },
+  {
+    "id": "n537",
+    "word": "mensenrecht",
+    "translation": "human right",
+    "article": "het"
+  },
+  {
+    "id": "n538",
+    "word": "mes",
+    "translation": "knife",
+    "article": "het"
+  },
+  {
+    "id": "n539",
+    "word": "methode",
+    "translation": "method",
+    "article": "de"
+  },
+  {
+    "id": "n540",
+    "word": "middag",
+    "translation": "afternoon",
+    "article": "de"
+  },
+  {
+    "id": "n541",
+    "word": "middel",
+    "translation": "means; waist",
+    "article": "het"
+  },
+  {
+    "id": "n542",
+    "word": "midden",
+    "translation": "middle, center",
+    "article": "het"
+  },
+  {
+    "id": "n543",
+    "word": "milieu",
+    "translation": "environment",
+    "article": "het"
+  },
+  {
+    "id": "n544",
+    "word": "miljoen",
+    "translation": "million",
+    "article": "het"
+  },
+  {
+    "id": "n545",
+    "word": "minachting",
+    "translation": "contempt",
+    "article": "de"
+  },
+  {
+    "id": "n546",
+    "word": "mineraal",
+    "translation": "mineral",
+    "article": "het"
+  },
+  {
+    "id": "n547",
+    "word": "minister",
+    "translation": "minister",
+    "article": "de"
+  },
+  {
+    "id": "n548",
+    "word": "ministerie",
+    "translation": "ministry",
+    "article": "het"
+  },
+  {
+    "id": "n549",
+    "word": "moeder",
+    "translation": "mother",
+    "article": "de"
+  },
+  {
+    "id": "n550",
+    "word": "moeilijkheden",
+    "translation": "difficulties",
+    "article": "de"
+  },
+  {
+    "id": "n551",
+    "word": "moeilijkheid",
+    "translation": "difficulty",
+    "article": "de"
+  },
+  {
+    "id": "n552",
+    "word": "moeite",
+    "translation": "effort, trouble",
+    "article": "de"
+  },
+  {
+    "id": "n553",
+    "word": "mogelijkheid",
+    "translation": "possibility",
+    "article": "de"
+  },
+  {
+    "id": "n554",
+    "word": "moment",
+    "translation": "moment",
+    "article": "het"
+  },
+  {
+    "id": "n555",
+    "word": "mond",
+    "translation": "mouth",
+    "article": "de"
+  },
+  {
+    "id": "n556",
+    "word": "monniken",
+    "translation": "monks",
+    "article": "de"
+  },
+  {
+    "id": "n557",
+    "word": "moord",
+    "translation": "murder",
+    "article": "de"
+  },
+  {
+    "id": "n558",
+    "word": "moraal",
+    "translation": "morality; moral",
+    "article": "de"
+  },
+  {
+    "id": "n559",
+    "word": "morgen",
+    "translation": "morning; tomorrow",
+    "article": "de"
+  },
+  {
+    "id": "n560",
+    "word": "moslim",
+    "translation": "Muslim",
+    "article": "de"
+  },
+  {
+    "id": "n561",
+    "word": "motor",
+    "translation": "engine; motorcycle",
+    "article": "de"
+  },
+  {
+    "id": "n562",
+    "word": "mouw",
+    "translation": "sleeve",
+    "article": "de"
+  },
+  {
+    "id": "n563",
+    "word": "munt",
+    "translation": "coin; currency",
+    "article": "de"
+  },
+  {
+    "id": "n564",
+    "word": "muur",
+    "translation": "wall",
+    "article": "de"
+  },
+  {
+    "id": "n565",
+    "word": "muziek",
+    "translation": "music",
+    "article": "de"
+  },
+  {
+    "id": "n566",
+    "word": "naam",
+    "translation": "name",
+    "article": "de"
+  },
+  {
+    "id": "n567",
+    "word": "nacht",
+    "translation": "night",
+    "article": "de"
+  },
+  {
+    "id": "n568",
+    "word": "nadruk",
+    "translation": "emphasis",
+    "article": "de"
+  },
+  {
+    "id": "n569",
+    "word": "natuur",
+    "translation": "nature",
+    "article": "de"
+  },
+  {
+    "id": "n570",
+    "word": "neiging",
+    "translation": "tendency, inclination",
+    "article": "de"
+  },
+  {
+    "id": "n571",
+    "word": "neus",
+    "translation": "nose",
+    "article": "de"
+  },
+  {
+    "id": "n572",
+    "word": "nieuws",
+    "translation": "news",
+    "article": "het"
+  },
+  {
+    "id": "n573",
+    "word": "niveau",
+    "translation": "level",
+    "article": "het"
+  },
+  {
+    "id": "n574",
+    "word": "nood",
+    "translation": "need, emergency",
+    "article": "de"
+  },
+  {
+    "id": "n575",
+    "word": "noodzaak",
+    "translation": "necessity",
+    "article": "de"
+  },
+  {
+    "id": "n576",
+    "word": "norm",
+    "translation": "norm, standard",
+    "article": "de"
+  },
+  {
+    "id": "n577",
+    "word": "nota",
+    "translation": "note; bill",
+    "article": "de"
+  },
+  {
+    "id": "n578",
+    "word": "nummer",
+    "translation": "number",
+    "article": "het"
+  },
+  {
+    "id": "n579",
+    "word": "nut",
+    "translation": "use, benefit",
+    "article": "het"
+  },
+  {
+    "id": "n580",
+    "word": "ochtend",
+    "translation": "morning",
+    "article": "de"
+  },
+  {
+    "id": "n581",
+    "word": "oefening",
+    "translation": "exercise",
+    "article": "de"
+  },
+  {
+    "id": "n582",
+    "word": "oever",
+    "translation": "bank (river)",
+    "article": "de"
+  },
+  {
+    "id": "n583",
+    "word": "offer",
+    "translation": "sacrifice",
+    "article": "het"
+  },
+  {
+    "id": "n584",
+    "word": "officier",
+    "translation": "officer",
+    "article": "de"
+  },
+  {
+    "id": "n585",
+    "word": "omgang",
+    "translation": "interaction",
+    "article": "de"
+  },
+  {
+    "id": "n586",
+    "word": "omgeving",
+    "translation": "surroundings, environment",
+    "article": "de"
+  },
+  {
+    "id": "n587",
+    "word": "omstandigheid",
+    "translation": "circumstance",
+    "article": "de"
+  },
+  {
+    "id": "n588",
+    "word": "omvang",
+    "translation": "size, extent",
+    "article": "de"
+  },
+  {
+    "id": "n589",
+    "word": "onderdeel",
+    "translation": "part, component",
+    "article": "het"
+  },
+  {
+    "id": "n590",
+    "word": "ondergang",
+    "translation": "downfall",
+    "article": "de"
+  },
+  {
+    "id": "n591",
+    "word": "ondernemer",
+    "translation": "entrepreneur",
+    "article": "de"
+  },
+  {
+    "id": "n592",
+    "word": "onderneming",
+    "translation": "enterprise, company",
+    "article": "de"
+  },
+  {
+    "id": "n593",
+    "word": "onderscheid",
+    "translation": "distinction",
+    "article": "het"
+  },
+  {
+    "id": "n594",
+    "word": "ondersteuning",
+    "translation": "support",
+    "article": "de"
+  },
+  {
+    "id": "n595",
+    "word": "onderwerp",
+    "translation": "subject, topic",
+    "article": "het"
+  },
+  {
+    "id": "n596",
+    "word": "onderwijs",
+    "translation": "education",
+    "article": "het"
+  },
+  {
+    "id": "n597",
+    "word": "onderwijzer",
+    "translation": "teacher",
+    "article": "de"
+  },
+  {
+    "id": "n598",
+    "word": "onderzoek",
+    "translation": "research, investigation",
+    "article": "het"
+  },
+  {
+    "id": "n599",
+    "word": "onderzoeker",
+    "translation": "researcher",
+    "article": "de"
+  },
+  {
+    "id": "n600",
+    "word": "ongeluk",
+    "translation": "accident; misfortune",
+    "article": "het"
+  },
+  {
+    "id": "n601",
+    "word": "onrecht",
+    "translation": "injustice",
+    "article": "het"
+  },
+  {
+    "id": "n602",
+    "word": "onrust",
+    "translation": "unrest",
+    "article": "de"
+  },
+  {
+    "id": "n603",
+    "word": "onschuld",
+    "translation": "innocence",
+    "article": "de"
+  },
+  {
+    "id": "n604",
+    "word": "ontdekking",
+    "translation": "discovery",
+    "article": "de"
+  },
+  {
+    "id": "n605",
+    "word": "ontmoeting",
+    "translation": "meeting, encounter",
+    "article": "de"
+  },
+  {
+    "id": "n606",
+    "word": "ontslag",
+    "translation": "dismissal, resignation",
+    "article": "het"
+  },
+  {
+    "id": "n607",
+    "word": "ontvangst",
+    "translation": "reception",
+    "article": "de"
+  },
+  {
+    "id": "n608",
+    "word": "ontwerp",
+    "translation": "design, plan",
+    "article": "het"
+  },
+  {
+    "id": "n609",
+    "word": "ontwikkeling",
+    "translation": "development",
+    "article": "de"
+  },
+  {
+    "id": "n610",
+    "word": "onzekerheid",
+    "translation": "uncertainty",
+    "article": "de"
+  },
+  {
+    "id": "n611",
+    "word": "oog",
+    "translation": "eye",
+    "article": "het"
+  },
+  {
+    "id": "n612",
+    "word": "oom",
+    "translation": "uncle",
+    "article": "de"
+  },
+  {
+    "id": "n613",
+    "word": "oor",
+    "translation": "ear",
+    "article": "het"
+  },
+  {
+    "id": "n614",
+    "word": "oordeel",
+    "translation": "judgment",
+    "article": "het"
+  },
+  {
+    "id": "n615",
+    "word": "oorlog",
+    "translation": "war",
+    "article": "de"
+  },
+  {
+    "id": "n616",
+    "word": "oorzaak",
+    "translation": "cause",
+    "article": "de"
+  },
+  {
+    "id": "n617",
+    "word": "oost",
+    "translation": "east",
+    "article": "het"
+  },
+  {
+    "id": "n618",
+    "word": "opdracht",
+    "translation": "assignment, order",
+    "article": "de"
+  },
+  {
+    "id": "n619",
+    "word": "opening",
+    "translation": "opening",
+    "article": "de"
+  },
+  {
+    "id": "n620",
+    "word": "operatie",
+    "translation": "operation",
+    "article": "de"
+  },
+  {
+    "id": "n621",
+    "word": "opgang",
+    "translation": "rise",
+    "article": "de"
+  },
+  {
+    "id": "n622",
+    "word": "opleiding",
+    "translation": "education, training",
+    "article": "de"
+  },
+  {
+    "id": "n623",
+    "word": "oplossing",
+    "translation": "solution",
+    "article": "de"
+  },
+  {
+    "id": "n624",
+    "word": "opmerking",
+    "translation": "remark",
+    "article": "de"
+  },
+  {
+    "id": "n625",
+    "word": "oppervlak",
+    "translation": "surface",
+    "article": "het"
+  },
+  {
+    "id": "n626",
+    "word": "oproep",
+    "translation": "call, appeal",
+    "article": "de"
+  },
+  {
+    "id": "n627",
+    "word": "opstand",
+    "translation": "revolt, uprising",
+    "article": "de"
+  },
+  {
+    "id": "n628",
+    "word": "opvatting",
+    "translation": "view, opinion",
+    "article": "de"
+  },
+  {
+    "id": "n629",
+    "word": "opvoeding",
+    "translation": "upbringing, education",
+    "article": "de"
+  },
+  {
+    "id": "n630",
+    "word": "opzicht",
+    "translation": "respect, regard",
+    "article": "het"
+  },
+  {
+    "id": "n631",
+    "word": "orde",
+    "translation": "order",
+    "article": "de"
+  },
+  {
+    "id": "n632",
+    "word": "orgaan",
+    "translation": "organ; body",
+    "article": "het"
+  },
+  {
+    "id": "n633",
+    "word": "organisatie",
+    "translation": "organization",
+    "article": "de"
+  },
+  {
+    "id": "n634",
+    "word": "ouder",
+    "translation": "parent",
+    "article": "de"
+  },
+  {
+    "id": "n635",
+    "word": "overheid",
+    "translation": "government",
+    "article": "de"
+  },
+  {
+    "id": "n636",
+    "word": "overleg",
+    "translation": "consultation",
+    "article": "het"
+  },
+  {
+    "id": "n637",
+    "word": "overtuiging",
+    "translation": "conviction",
+    "article": "de"
+  },
+  {
+    "id": "n638",
+    "word": "overweging",
+    "translation": "consideration",
+    "article": "de"
+  },
+  {
+    "id": "n639",
+    "word": "overwinning",
+    "translation": "victory",
+    "article": "de"
+  },
+  {
+    "id": "n640",
+    "word": "overzicht",
+    "translation": "overview",
+    "article": "het"
+  },
+  {
+    "id": "n641",
+    "word": "paar",
+    "translation": "pair; a few",
+    "article": "het"
+  },
+  {
+    "id": "n642",
+    "word": "paard",
+    "translation": "horse",
+    "article": "het"
+  },
+  {
+    "id": "n643",
+    "word": "pad",
+    "translation": "path",
+    "article": "het"
+  },
+  {
+    "id": "n644",
+    "word": "pagina",
+    "translation": "page",
+    "article": "de"
+  },
+  {
+    "id": "n645",
+    "word": "pak",
+    "translation": "suit; package",
+    "article": "het"
+  },
+  {
+    "id": "n646",
+    "word": "paleis",
+    "translation": "palace",
+    "article": "het"
+  },
+  {
+    "id": "n647",
+    "word": "pan",
+    "translation": "pan",
+    "article": "de"
+  },
+  {
+    "id": "n648",
+    "word": "paniek",
+    "translation": "panic",
+    "article": "de"
+  },
+  {
+    "id": "n649",
+    "word": "papier",
+    "translation": "paper",
+    "article": "het"
+  },
+  {
+    "id": "n650",
+    "word": "parlement",
+    "translation": "parliament",
+    "article": "het"
+  },
+  {
+    "id": "n651",
+    "word": "partij",
+    "translation": "party (political)",
+    "article": "de"
+  },
+  {
+    "id": "n652",
+    "word": "partner",
+    "translation": "partner",
+    "article": "de"
+  },
+  {
+    "id": "n653",
+    "word": "patient",
+    "translation": "patient",
+    "article": "de"
+  },
+  {
+    "id": "n654",
+    "word": "patroon",
+    "translation": "pattern; patron",
+    "article": "het"
+  },
+  {
+    "id": "n655",
+    "word": "paus",
+    "translation": "pope",
+    "article": "de"
+  },
+  {
+    "id": "n656",
+    "word": "pen",
+    "translation": "pen",
+    "article": "de"
+  },
+  {
+    "id": "n657",
+    "word": "periode",
+    "translation": "period",
+    "article": "de"
+  },
+  {
+    "id": "n658",
+    "word": "persoon",
+    "translation": "person",
+    "article": "de"
+  },
+  {
+    "id": "n659",
+    "word": "persoonlijkheid",
+    "translation": "personality",
+    "article": "de"
+  },
+  {
+    "id": "n660",
+    "word": "pijn",
+    "translation": "pain",
+    "article": "de"
+  },
+  {
+    "id": "n661",
+    "word": "pijp",
+    "translation": "pipe",
+    "article": "de"
+  },
+  {
+    "id": "n662",
+    "word": "plaat",
+    "translation": "plate; picture; record",
+    "article": "de"
+  },
+  {
+    "id": "n663",
+    "word": "plaats",
+    "translation": "place; city",
+    "article": "de"
+  },
+  {
+    "id": "n664",
+    "word": "plan",
+    "translation": "plan",
+    "article": "het"
+  },
+  {
+    "id": "n665",
+    "word": "plank",
+    "translation": "shelf; plank",
+    "article": "de"
+  },
+  {
+    "id": "n666",
+    "word": "plant",
+    "translation": "plant",
+    "article": "de"
+  },
+  {
+    "id": "n667",
+    "word": "platteland",
+    "translation": "countryside",
+    "article": "het"
+  },
+  {
+    "id": "n668",
+    "word": "plein",
+    "translation": "square (public)",
+    "article": "het"
+  },
+  {
+    "id": "n669",
+    "word": "plek",
+    "translation": "spot, place",
+    "article": "de"
+  },
+  {
+    "id": "n670",
+    "word": "plezier",
+    "translation": "fun, pleasure",
+    "article": "het"
+  },
+  {
+    "id": "n671",
+    "word": "plicht",
+    "translation": "duty",
+    "article": "de"
+  },
+  {
+    "id": "n672",
+    "word": "ploeg",
+    "translation": "team; plow",
+    "article": "de"
+  },
+  {
+    "id": "n673",
+    "word": "poes",
+    "translation": "cat (informal)",
+    "article": "de"
+  },
+  {
+    "id": "n674",
+    "word": "poging",
+    "translation": "attempt",
+    "article": "de"
+  },
+  {
+    "id": "n675",
+    "word": "politicus",
+    "translation": "politician",
+    "article": "de"
+  },
+  {
+    "id": "n676",
+    "word": "politie",
+    "translation": "police",
+    "article": "de"
+  },
+  {
+    "id": "n677",
+    "word": "politiek",
+    "translation": "politics; policy",
+    "article": "de"
+  },
+  {
+    "id": "n678",
+    "word": "pond",
+    "translation": "pound",
+    "article": "het"
+  },
+  {
+    "id": "n679",
+    "word": "pont",
+    "translation": "ferry",
+    "article": "de"
+  },
+  {
+    "id": "n680",
+    "word": "poort",
+    "translation": "gate",
+    "article": "de"
+  },
+  {
+    "id": "n681",
+    "word": "pop",
+    "translation": "doll; puppet",
+    "article": "de"
+  },
+  {
+    "id": "n682",
+    "word": "positie",
+    "translation": "position",
+    "article": "de"
+  },
+  {
+    "id": "n683",
+    "word": "post",
+    "translation": "mail; post",
+    "article": "de"
+  },
+  {
+    "id": "n684",
+    "word": "pot",
+    "translation": "pot, jar",
+    "article": "de"
+  },
+  {
+    "id": "n685",
+    "word": "praktijk",
+    "translation": "practice",
+    "article": "de"
+  },
+  {
+    "id": "n686",
+    "word": "president",
+    "translation": "president",
+    "article": "de"
+  },
+  {
+    "id": "n687",
+    "word": "prestatie",
+    "translation": "achievement",
+    "article": "de"
+  },
+  {
+    "id": "n688",
+    "word": "priester",
+    "translation": "priest",
+    "article": "de"
+  },
+  {
+    "id": "n689",
+    "word": "principe",
+    "translation": "principle",
+    "article": "het"
+  },
+  {
+    "id": "n690",
+    "word": "prins",
+    "translation": "prince",
+    "article": "de"
+  },
+  {
+    "id": "n691",
+    "word": "prinses",
+    "translation": "princess",
+    "article": "de"
+  },
+  {
+    "id": "n692",
+    "word": "probleem",
+    "translation": "problem",
+    "article": "het"
+  },
+  {
+    "id": "n693",
+    "word": "procedure",
+    "translation": "procedure",
+    "article": "de"
+  },
+  {
+    "id": "n694",
+    "word": "proces",
+    "translation": "process; trial",
+    "article": "het"
+  },
+  {
+    "id": "n695",
+    "word": "product",
+    "translation": "product",
+    "article": "het"
+  },
+  {
+    "id": "n696",
+    "word": "productie",
+    "translation": "production",
+    "article": "de"
+  },
+  {
+    "id": "n697",
+    "word": "professor",
+    "translation": "professor",
+    "article": "de"
+  },
+  {
+    "id": "n698",
+    "word": "programma",
+    "translation": "program",
+    "article": "het"
+  },
+  {
+    "id": "n699",
+    "word": "project",
+    "translation": "project",
+    "article": "het"
+  },
+  {
+    "id": "n700",
+    "word": "protest",
+    "translation": "protest",
+    "article": "het"
+  },
+  {
+    "id": "n701",
+    "word": "provincie",
+    "translation": "province",
+    "article": "de"
+  },
+  {
+    "id": "n702",
+    "word": "publiek",
+    "translation": "public; audience",
+    "article": "het"
+  },
+  {
+    "id": "n703",
+    "word": "punt",
+    "translation": "point; period",
+    "article": "het"
+  },
+  {
+    "id": "n704",
+    "word": "raad",
+    "translation": "council; advice",
+    "article": "de"
+  },
+  {
+    "id": "n705",
+    "word": "raam",
+    "translation": "window",
+    "article": "het"
+  },
+  {
+    "id": "n706",
+    "word": "rand",
+    "translation": "edge, margin",
+    "article": "de"
+  },
+  {
+    "id": "n707",
+    "word": "rang",
+    "translation": "rank",
+    "article": "de"
+  },
+  {
+    "id": "n708",
+    "word": "reactie",
+    "translation": "reaction",
+    "article": "de"
+  },
+  {
+    "id": "n709",
+    "word": "recht",
+    "translation": "right; law",
+    "article": "het"
+  },
+  {
+    "id": "n710",
+    "word": "rechter",
+    "translation": "judge",
+    "article": "de"
+  },
+  {
+    "id": "n711",
+    "word": "rechtvaardigheid",
+    "translation": "justice",
+    "article": "de"
+  },
+  {
+    "id": "n712",
+    "word": "rede",
+    "translation": "reason; speech",
+    "article": "de"
+  },
+  {
+    "id": "n713",
+    "word": "reden",
+    "translation": "reason",
+    "article": "de"
+  },
+  {
+    "id": "n714",
+    "word": "reeks",
+    "translation": "series",
+    "article": "de"
+  },
+  {
+    "id": "n715",
+    "word": "regel",
+    "translation": "rule; line",
+    "article": "de"
+  },
+  {
+    "id": "n716",
+    "word": "regeling",
+    "translation": "arrangement, regulation",
+    "article": "de"
+  },
+  {
+    "id": "n717",
+    "word": "regen",
+    "translation": "rain",
+    "article": "de"
+  },
+  {
+    "id": "n718",
+    "word": "regering",
+    "translation": "government",
+    "article": "de"
+  },
+  {
+    "id": "n719",
+    "word": "regime",
+    "translation": "regime",
+    "article": "het"
+  },
+  {
+    "id": "n720",
+    "word": "regio",
+    "translation": "region",
+    "article": "de"
+  },
+  {
+    "id": "n721",
+    "word": "reis",
+    "translation": "journey, trip",
+    "article": "de"
+  },
+  {
+    "id": "n722",
+    "word": "rekening",
+    "translation": "bill; account",
+    "article": "de"
+  },
+  {
+    "id": "n723",
+    "word": "relatie",
+    "translation": "relationship",
+    "article": "de"
+  },
+  {
+    "id": "n724",
+    "word": "religie",
+    "translation": "religion",
+    "article": "de"
+  },
+  {
+    "id": "n725",
+    "word": "rente",
+    "translation": "interest (financial)",
+    "article": "de"
+  },
+  {
+    "id": "n726",
+    "word": "reputatie",
+    "translation": "reputation",
+    "article": "de"
+  },
+  {
+    "id": "n727",
+    "word": "reserve",
+    "translation": "reserve",
+    "article": "de"
+  },
+  {
+    "id": "n728",
+    "word": "respect",
+    "translation": "respect",
+    "article": "het"
+  },
+  {
+    "id": "n729",
+    "word": "rest",
+    "translation": "rest, remainder",
+    "article": "de"
+  },
+  {
+    "id": "n730",
+    "word": "restaurant",
+    "translation": "restaurant",
+    "article": "het"
+  },
+  {
+    "id": "n731",
+    "word": "resultaat",
+    "translation": "result",
+    "article": "het"
+  },
+  {
+    "id": "n732",
+    "word": "richting",
+    "translation": "direction",
+    "article": "de"
+  },
+  {
+    "id": "n733",
+    "word": "rijkdom",
+    "translation": "wealth",
+    "article": "de"
+  },
+  {
+    "id": "n734",
+    "word": "ring",
+    "translation": "ring",
+    "article": "de"
+  },
+  {
+    "id": "n735",
+    "word": "risico",
+    "translation": "risk",
+    "article": "het"
+  },
+  {
+    "id": "n736",
+    "word": "rivier",
+    "translation": "river",
+    "article": "de"
+  },
+  {
+    "id": "n737",
+    "word": "roep",
+    "translation": "call; reputation",
+    "article": "de"
+  },
+  {
+    "id": "n738",
+    "word": "rok",
+    "translation": "skirt",
+    "article": "de"
+  },
+  {
+    "id": "n739",
+    "word": "rol",
+    "translation": "role",
+    "article": "de"
+  },
+  {
+    "id": "n740",
+    "word": "roman",
+    "translation": "novel",
+    "article": "de"
+  },
+  {
+    "id": "n741",
+    "word": "rook",
+    "translation": "smoke",
+    "article": "de"
+  },
+  {
+    "id": "n742",
+    "word": "rug",
+    "translation": "back",
+    "article": "de"
+  },
+  {
+    "id": "n743",
+    "word": "ruimte",
+    "translation": "space, room",
+    "article": "de"
+  },
+  {
+    "id": "n744",
+    "word": "rust",
+    "translation": "rest, peace",
+    "article": "de"
+  },
+  {
+    "id": "n745",
+    "word": "samenleving",
+    "translation": "society",
+    "article": "de"
+  },
+  {
+    "id": "n746",
+    "word": "samenstelling",
+    "translation": "composition",
+    "article": "de"
+  },
+  {
+    "id": "n747",
+    "word": "samenwerking",
+    "translation": "cooperation",
+    "article": "de"
+  },
+  {
+    "id": "n748",
+    "word": "schaduw",
+    "translation": "shadow",
+    "article": "de"
+  },
+  {
+    "id": "n749",
+    "word": "schande",
+    "translation": "shame, disgrace",
+    "article": "de"
+  },
+  {
+    "id": "n750",
+    "word": "schat",
+    "translation": "treasure; darling",
+    "article": "de"
+  },
+  {
+    "id": "n751",
+    "word": "scheiding",
+    "translation": "separation; divorce",
+    "article": "de"
+  },
+  {
+    "id": "n752",
+    "word": "schilderij",
+    "translation": "painting",
+    "article": "het"
+  },
+  {
+    "id": "n753",
+    "word": "schip",
+    "translation": "ship",
+    "article": "het"
+  },
+  {
+    "id": "n754",
+    "word": "school",
+    "translation": "school",
+    "article": "de"
+  },
+  {
+    "id": "n755",
+    "word": "schoonheid",
+    "translation": "beauty",
+    "article": "de"
+  },
+  {
+    "id": "n756",
+    "word": "schop",
+    "translation": "kick; shovel",
+    "article": "de"
+  },
+  {
+    "id": "n757",
+    "word": "schouder",
+    "translation": "shoulder",
+    "article": "de"
+  },
+  {
+    "id": "n758",
+    "word": "schrift",
+    "translation": "notebook; writing",
+    "article": "het"
+  },
+  {
+    "id": "n759",
+    "word": "schrijver",
+    "translation": "writer, author",
+    "article": "de"
+  },
+  {
+    "id": "n760",
+    "word": "schuld",
+    "translation": "debt; guilt",
+    "article": "de"
+  },
+  {
+    "id": "n761",
+    "word": "sector",
+    "translation": "sector",
+    "article": "de"
+  },
+  {
+    "id": "n762",
+    "word": "sfeer",
+    "translation": "atmosphere",
+    "article": "de"
+  },
+  {
+    "id": "n763",
+    "word": "signaal",
+    "translation": "signal",
+    "article": "het"
+  },
+  {
+    "id": "n764",
+    "word": "situatie",
+    "translation": "situation",
+    "article": "de"
+  },
+  {
+    "id": "n765",
+    "word": "slaap",
+    "translation": "sleep",
+    "article": "de"
+  },
+  {
+    "id": "n766",
+    "word": "slachtoffer",
+    "translation": "victim",
+    "article": "het"
+  },
+  {
+    "id": "n767",
+    "word": "slag",
+    "translation": "blow; battle",
+    "article": "de"
+  },
+  {
+    "id": "n768",
+    "word": "sleutel",
+    "translation": "key",
+    "article": "de"
+  },
+  {
+    "id": "n769",
+    "word": "slot",
+    "translation": "lock; castle; conclusion",
+    "article": "het"
+  },
+  {
+    "id": "n770",
+    "word": "smaak",
+    "translation": "taste",
+    "article": "de"
+  },
+  {
+    "id": "n771",
+    "word": "snee",
+    "translation": "cut, slice",
+    "article": "de"
+  },
+  {
+    "id": "n772",
+    "word": "snelheid",
+    "translation": "speed",
+    "article": "de"
+  },
+  {
+    "id": "n773",
+    "word": "soldaat",
+    "translation": "soldier",
+    "article": "de"
+  },
+  {
+    "id": "n774",
+    "word": "soort",
+    "translation": "kind, type; species",
+    "article": "de"
+  },
+  {
+    "id": "n775",
+    "word": "spanning",
+    "translation": "tension; excitement",
+    "article": "de"
+  },
+  {
+    "id": "n776",
+    "word": "spel",
+    "translation": "game",
+    "article": "het"
+  },
+  {
+    "id": "n777",
+    "word": "speler",
+    "translation": "player",
+    "article": "de"
+  },
+  {
+    "id": "n778",
+    "word": "spiegel",
+    "translation": "mirror",
+    "article": "de"
+  },
+  {
+    "id": "n779",
+    "word": "spier",
+    "translation": "muscle",
+    "article": "de"
+  },
+  {
+    "id": "n780",
+    "word": "spijt",
+    "translation": "regret",
+    "article": "de"
+  },
+  {
+    "id": "n781",
+    "word": "spoor",
+    "translation": "track; trace",
+    "article": "het"
+  },
+  {
+    "id": "n782",
+    "word": "sport",
+    "translation": "sport",
+    "article": "de"
+  },
+  {
+    "id": "n783",
+    "word": "spraak",
+    "translation": "speech",
+    "article": "de"
+  },
+  {
+    "id": "n784",
+    "word": "sprake",
+    "translation": "question (of); mention",
+    "article": "de"
+  },
+  {
+    "id": "n785",
+    "word": "spreker",
+    "translation": "speaker",
+    "article": "de"
+  },
+  {
+    "id": "n786",
+    "word": "staart",
+    "translation": "tail",
+    "article": "de"
+  },
+  {
+    "id": "n787",
+    "word": "staat",
+    "translation": "state",
+    "article": "de"
+  },
+  {
+    "id": "n788",
+    "word": "stad",
+    "translation": "city",
+    "article": "de"
+  },
+  {
+    "id": "n789",
+    "word": "stadium",
+    "translation": "stage; stadium",
+    "article": "het"
+  },
+  {
+    "id": "n790",
+    "word": "staf",
+    "translation": "staff",
+    "article": "de"
+  },
+  {
+    "id": "n791",
+    "word": "staking",
+    "translation": "strike",
+    "article": "de"
+  },
+  {
+    "id": "n792",
+    "word": "stam",
+    "translation": "tribe; trunk",
+    "article": "de"
+  },
+  {
+    "id": "n793",
+    "word": "standaard",
+    "translation": "standard",
+    "article": "de"
+  },
+  {
+    "id": "n794",
+    "word": "standpunt",
+    "translation": "standpoint, viewpoint",
+    "article": "het"
+  },
+  {
+    "id": "n795",
+    "word": "stap",
+    "translation": "step",
+    "article": "de"
+  },
+  {
+    "id": "n796",
+    "word": "steen",
+    "translation": "stone",
+    "article": "de"
+  },
+  {
+    "id": "n797",
+    "word": "steiger",
+    "translation": "scaffold; pier",
+    "article": "de"
+  },
+  {
+    "id": "n798",
+    "word": "stelling",
+    "translation": "statement; position",
+    "article": "de"
+  },
+  {
+    "id": "n799",
+    "word": "stelsel",
+    "translation": "system",
+    "article": "het"
+  },
+  {
+    "id": "n800",
+    "word": "stem",
+    "translation": "voice; vote",
+    "article": "de"
+  },
+  {
+    "id": "n801",
+    "word": "stemming",
+    "translation": "mood; vote",
+    "article": "de"
+  },
+  {
+    "id": "n802",
+    "word": "ster",
+    "translation": "star",
+    "article": "de"
+  },
+  {
+    "id": "n803",
+    "word": "steun",
+    "translation": "support",
+    "article": "de"
+  },
+  {
+    "id": "n804",
+    "word": "stichting",
+    "translation": "foundation (organization)",
+    "article": "de"
+  },
+  {
+    "id": "n805",
+    "word": "stijging",
+    "translation": "rise, increase",
+    "article": "de"
+  },
+  {
+    "id": "n806",
+    "word": "stijl",
+    "translation": "style",
+    "article": "de"
+  },
+  {
+    "id": "n807",
+    "word": "stilte",
+    "translation": "silence",
+    "article": "de"
+  },
+  {
+    "id": "n808",
+    "word": "stoel",
+    "translation": "chair",
+    "article": "de"
+  },
+  {
+    "id": "n809",
+    "word": "stof",
+    "translation": "material; dust",
+    "article": "de"
+  },
+  {
+    "id": "n810",
+    "word": "stok",
+    "translation": "stick",
+    "article": "de"
+  },
+  {
+    "id": "n811",
+    "word": "storm",
+    "translation": "storm",
+    "article": "de"
+  },
+  {
+    "id": "n812",
+    "word": "straat",
+    "translation": "street",
+    "article": "de"
+  },
+  {
+    "id": "n813",
+    "word": "straf",
+    "translation": "punishment",
+    "article": "de"
+  },
+  {
+    "id": "n814",
+    "word": "strategie",
+    "translation": "strategy",
+    "article": "de"
+  },
+  {
+    "id": "n815",
+    "word": "streek",
+    "translation": "region; trick",
+    "article": "de"
+  },
+  {
+    "id": "n816",
+    "word": "strijd",
+    "translation": "struggle, fight",
+    "article": "de"
+  },
+  {
+    "id": "n817",
+    "word": "stroom",
+    "translation": "stream; electricity",
+    "article": "de"
+  },
+  {
+    "id": "n818",
+    "word": "structuur",
+    "translation": "structure",
+    "article": "de"
+  },
+  {
+    "id": "n819",
+    "word": "student",
+    "translation": "student",
+    "article": "de"
+  },
+  {
+    "id": "n820",
+    "word": "studie",
+    "translation": "study",
+    "article": "de"
+  },
+  {
+    "id": "n821",
+    "word": "stuk",
+    "translation": "piece",
+    "article": "het"
+  },
+  {
+    "id": "n822",
+    "word": "succes",
+    "translation": "success",
+    "article": "het"
+  },
+  {
+    "id": "n823",
+    "word": "symbool",
+    "translation": "symbol",
+    "article": "het"
+  },
+  {
+    "id": "n824",
+    "word": "sympathie",
+    "translation": "sympathy",
+    "article": "de"
+  },
+  {
+    "id": "n825",
+    "word": "systeem",
+    "translation": "system",
+    "article": "het"
+  },
+  {
+    "id": "n826",
+    "word": "taak",
+    "translation": "task",
+    "article": "de"
+  },
+  {
+    "id": "n827",
+    "word": "taal",
+    "translation": "language",
+    "article": "de"
+  },
+  {
+    "id": "n828",
+    "word": "tafel",
+    "translation": "table",
+    "article": "de"
+  },
+  {
+    "id": "n829",
+    "word": "tak",
+    "translation": "branch",
+    "article": "de"
+  },
+  {
+    "id": "n830",
+    "word": "tand",
+    "translation": "tooth",
+    "article": "de"
+  },
+  {
+    "id": "n831",
+    "word": "tante",
+    "translation": "aunt",
+    "article": "de"
+  },
+  {
+    "id": "n832",
+    "word": "techniek",
+    "translation": "technique; technology",
+    "article": "de"
+  },
+  {
+    "id": "n833",
+    "word": "technologie",
+    "translation": "technology",
+    "article": "de"
+  },
+  {
+    "id": "n834",
+    "word": "teen",
+    "translation": "toe",
+    "article": "de"
+  },
+  {
+    "id": "n835",
+    "word": "tegenstand",
+    "translation": "resistance",
+    "article": "de"
+  },
+  {
+    "id": "n836",
+    "word": "tegenstander",
+    "translation": "opponent",
+    "article": "de"
+  },
+  {
+    "id": "n837",
+    "word": "tegenstelling",
+    "translation": "contrast",
+    "article": "de"
+  },
+  {
+    "id": "n838",
+    "word": "teken",
+    "translation": "sign",
+    "article": "het"
+  },
+  {
+    "id": "n839",
+    "word": "tekening",
+    "translation": "drawing",
+    "article": "de"
+  },
+  {
+    "id": "n840",
+    "word": "tekort",
+    "translation": "shortage",
+    "article": "het"
+  },
+  {
+    "id": "n841",
+    "word": "tekst",
+    "translation": "text",
+    "article": "de"
+  },
+  {
+    "id": "n842",
+    "word": "telefoon",
+    "translation": "telephone",
+    "article": "de"
+  },
+  {
+    "id": "n843",
+    "word": "teleurstelling",
+    "translation": "disappointment",
+    "article": "de"
+  },
+  {
+    "id": "n844",
+    "word": "tempel",
+    "translation": "temple",
+    "article": "de"
+  },
+  {
+    "id": "n845",
+    "word": "temperatuur",
+    "translation": "temperature",
+    "article": "de"
+  },
+  {
+    "id": "n846",
+    "word": "tent",
+    "translation": "tent",
+    "article": "de"
+  },
+  {
+    "id": "n847",
+    "word": "tentoonstelling",
+    "translation": "exhibition",
+    "article": "de"
+  },
+  {
+    "id": "n848",
+    "word": "terrein",
+    "translation": "terrain; field",
+    "article": "het"
+  },
+  {
+    "id": "n849",
+    "word": "terreur",
+    "translation": "terror",
+    "article": "de"
+  },
+  {
+    "id": "n850",
+    "word": "tevredenheid",
+    "translation": "satisfaction",
+    "article": "de"
+  },
+  {
+    "id": "n851",
+    "word": "theater",
+    "translation": "theater",
+    "article": "het"
+  },
+  {
+    "id": "n852",
+    "word": "thema",
+    "translation": "theme",
+    "article": "het"
+  },
+  {
+    "id": "n853",
+    "word": "theorie",
+    "translation": "theory",
+    "article": "de"
+  },
+  {
+    "id": "n854",
+    "word": "tij",
+    "translation": "tide",
+    "article": "het"
+  },
+  {
+    "id": "n855",
+    "word": "tijd",
+    "translation": "time",
+    "article": "de"
+  },
+  {
+    "id": "n856",
+    "word": "tijdperk",
+    "translation": "era, period",
+    "article": "het"
+  },
+  {
+    "id": "n857",
+    "word": "tijdschrift",
+    "translation": "magazine",
+    "article": "het"
+  },
+  {
+    "id": "n858",
+    "word": "tocht",
+    "translation": "trip; draft (air)",
+    "article": "de"
+  },
+  {
+    "id": "n859",
+    "word": "toegang",
+    "translation": "access, entrance",
+    "article": "de"
+  },
+  {
+    "id": "n860",
+    "word": "toekomst",
+    "translation": "future",
+    "article": "de"
+  },
+  {
+    "id": "n861",
+    "word": "toepassing",
+    "translation": "application",
+    "article": "de"
+  },
+  {
+    "id": "n862",
+    "word": "toer",
+    "translation": "tour; trick",
+    "article": "de"
+  },
+  {
+    "id": "n863",
+    "word": "toestand",
+    "translation": "situation, condition",
+    "article": "de"
+  },
+  {
+    "id": "n864",
+    "word": "toestemming",
+    "translation": "permission",
+    "article": "de"
+  },
+  {
+    "id": "n865",
+    "word": "ton",
+    "translation": "ton; barrel",
+    "article": "de"
+  },
+  {
+    "id": "n866",
+    "word": "toneel",
+    "translation": "stage; theater",
+    "article": "het"
+  },
+  {
+    "id": "n867",
+    "word": "tong",
+    "translation": "tongue",
+    "article": "de"
+  },
+  {
+    "id": "n868",
+    "word": "toon",
+    "translation": "tone",
+    "article": "de"
+  },
+  {
+    "id": "n869",
+    "word": "top",
+    "translation": "top; summit",
+    "article": "de"
+  },
+  {
+    "id": "n870",
+    "word": "toren",
+    "translation": "tower",
+    "article": "de"
+  },
+  {
+    "id": "n871",
+    "word": "traan",
+    "translation": "tear",
+    "article": "de"
+  },
+  {
+    "id": "n872",
+    "word": "traditie",
+    "translation": "tradition",
+    "article": "de"
+  },
+  {
+    "id": "n873",
+    "word": "trend",
+    "translation": "trend",
+    "article": "de"
+  },
+  {
+    "id": "n874",
+    "word": "troon",
+    "translation": "throne",
+    "article": "de"
+  },
+  {
+    "id": "n875",
+    "word": "tuin",
+    "translation": "garden",
+    "article": "de"
+  },
+  {
+    "id": "n876",
+    "word": "tunnel",
+    "translation": "tunnel",
+    "article": "de"
+  },
+  {
+    "id": "n877",
+    "word": "twijfel",
+    "translation": "doubt",
+    "article": "de"
+  },
+  {
+    "id": "n878",
+    "word": "type",
+    "translation": "type",
+    "article": "het"
+  },
+  {
+    "id": "n879",
+    "word": "uitbreiding",
+    "translation": "expansion",
+    "article": "de"
+  },
+  {
+    "id": "n880",
+    "word": "uitdaging",
+    "translation": "challenge",
+    "article": "de"
+  },
+  {
+    "id": "n881",
+    "word": "uitdrukking",
+    "translation": "expression",
+    "article": "de"
+  },
+  {
+    "id": "n882",
+    "word": "uiterlijk",
+    "translation": "appearance; at the latest",
+    "article": "het"
+  },
+  {
+    "id": "n883",
+    "word": "uitgangspunt",
+    "translation": "starting point",
+    "article": "het"
+  },
+  {
+    "id": "n884",
+    "word": "uitgave",
+    "translation": "edition; expense",
+    "article": "de"
+  },
+  {
+    "id": "n885",
+    "word": "uitkering",
+    "translation": "benefit, payment",
+    "article": "de"
+  },
+  {
+    "id": "n886",
+    "word": "uitslag",
+    "translation": "result; rash",
+    "article": "de"
+  },
+  {
+    "id": "n887",
+    "word": "uitspraak",
+    "translation": "pronunciation; verdict",
+    "article": "de"
+  },
+  {
+    "id": "n888",
+    "word": "uitvoering",
+    "translation": "execution; performance",
+    "article": "de"
+  },
+  {
+    "id": "n889",
+    "word": "uitwerking",
+    "translation": "effect",
+    "article": "de"
+  },
+  {
+    "id": "n890",
+    "word": "uitzicht",
+    "translation": "view; prospect",
+    "article": "het"
+  },
+  {
+    "id": "n891",
+    "word": "uitzondering",
+    "translation": "exception",
+    "article": "de"
+  },
+  {
+    "id": "n892",
+    "word": "universiteit",
+    "translation": "university",
+    "article": "de"
+  },
+  {
+    "id": "n893",
+    "word": "uur",
+    "translation": "hour",
+    "article": "het"
+  },
+  {
+    "id": "n894",
+    "word": "vaardigheid",
+    "translation": "skill",
+    "article": "de"
+  },
+  {
+    "id": "n895",
+    "word": "vader",
+    "translation": "father",
+    "article": "de"
+  },
+  {
+    "id": "n896",
+    "word": "vakantie",
+    "translation": "vacation",
+    "article": "de"
+  },
+  {
+    "id": "n897",
+    "word": "vakbond",
+    "translation": "trade union",
+    "article": "de"
+  },
+  {
+    "id": "n898",
+    "word": "veiligheid",
+    "translation": "safety, security",
+    "article": "de"
+  },
+  {
+    "id": "n899",
+    "word": "veld",
+    "translation": "field",
+    "article": "het"
+  },
+  {
+    "id": "n900",
+    "word": "verandering",
+    "translation": "change",
+    "article": "de"
+  },
+  {
+    "id": "n901",
+    "word": "verantwoordelijkheid",
+    "translation": "responsibility",
+    "article": "de"
+  },
+  {
+    "id": "n902",
+    "word": "verband",
+    "translation": "connection; bandage",
+    "article": "het"
+  },
+  {
+    "id": "n903",
+    "word": "verbeelding",
+    "translation": "imagination",
+    "article": "de"
+  },
+  {
+    "id": "n904",
+    "word": "verbetering",
+    "translation": "improvement",
+    "article": "de"
+  },
+  {
+    "id": "n905",
+    "word": "verbinding",
+    "translation": "connection",
+    "article": "de"
+  },
+  {
+    "id": "n906",
+    "word": "verblijf",
+    "translation": "stay; residence",
+    "article": "het"
+  },
+  {
+    "id": "n907",
+    "word": "verdediging",
+    "translation": "defense",
+    "article": "de"
+  },
+  {
+    "id": "n908",
+    "word": "verdieping",
+    "translation": "floor, story",
+    "article": "de"
+  },
+  {
+    "id": "n909",
+    "word": "verdrag",
+    "translation": "treaty",
+    "article": "het"
+  },
+  {
+    "id": "n910",
+    "word": "vereniging",
+    "translation": "association, union",
+    "article": "de"
+  },
+  {
+    "id": "n911",
+    "word": "vergadering",
+    "translation": "meeting",
+    "article": "de"
+  },
+  {
+    "id": "n912",
+    "word": "vergelijking",
+    "translation": "comparison",
+    "article": "de"
+  },
+  {
+    "id": "n913",
+    "word": "vergoeding",
+    "translation": "compensation",
+    "article": "de"
+  },
+  {
+    "id": "n914",
+    "word": "vergunning",
+    "translation": "permit",
+    "article": "de"
+  },
+  {
+    "id": "n915",
+    "word": "verhaal",
+    "translation": "story",
+    "article": "het"
+  },
+  {
+    "id": "n916",
+    "word": "verhouding",
+    "translation": "ratio; relationship",
+    "article": "de"
+  },
+  {
+    "id": "n917",
+    "word": "verkeer",
+    "translation": "traffic",
+    "article": "het"
+  },
+  {
+    "id": "n918",
+    "word": "verkiezing",
+    "translation": "election",
+    "article": "de"
+  },
+  {
+    "id": "n919",
+    "word": "verklaring",
+    "translation": "explanation; statement",
+    "article": "de"
+  },
+  {
+    "id": "n920",
+    "word": "verleden",
+    "translation": "past",
+    "article": "het"
+  },
+  {
+    "id": "n921",
+    "word": "verlies",
+    "translation": "loss",
+    "article": "het"
+  },
+  {
+    "id": "n922",
+    "word": "vermogen",
+    "translation": "ability; fortune",
+    "article": "het"
+  },
+  {
+    "id": "n923",
+    "word": "verplichting",
+    "translation": "obligation",
+    "article": "de"
+  },
+  {
+    "id": "n924",
+    "word": "verrassing",
+    "translation": "surprise",
+    "article": "de"
+  },
+  {
+    "id": "n925",
+    "word": "verschijning",
+    "translation": "appearance; phenomenon",
+    "article": "de"
+  },
+  {
+    "id": "n926",
+    "word": "verschijnsel",
+    "translation": "phenomenon",
+    "article": "het"
+  },
+  {
+    "id": "n927",
+    "word": "verschil",
+    "translation": "difference",
+    "article": "het"
+  },
+  {
+    "id": "n928",
+    "word": "verslag",
+    "translation": "report",
+    "article": "het"
+  },
+  {
+    "id": "n929",
+    "word": "verstand",
+    "translation": "mind; sense",
+    "article": "het"
+  },
+  {
+    "id": "n930",
+    "word": "vertegenwoordiger",
+    "translation": "representative",
+    "article": "de"
+  },
+  {
+    "id": "n931",
+    "word": "vertrouwen",
+    "translation": "trust, confidence",
+    "article": "het"
+  },
+  {
+    "id": "n932",
+    "word": "vervoer",
+    "translation": "transport",
+    "article": "het"
+  },
+  {
+    "id": "n933",
+    "word": "verwachting",
+    "translation": "expectation",
+    "article": "de"
+  },
+  {
+    "id": "n934",
+    "word": "verzameling",
+    "translation": "collection",
+    "article": "de"
+  },
+  {
+    "id": "n935",
+    "word": "verzekering",
+    "translation": "insurance",
+    "article": "de"
+  },
+  {
+    "id": "n936",
+    "word": "verzet",
+    "translation": "resistance",
+    "article": "het"
+  },
+  {
+    "id": "n937",
+    "word": "verzoek",
+    "translation": "request",
+    "article": "het"
+  },
+  {
+    "id": "n938",
+    "word": "verzorging",
+    "translation": "care",
+    "article": "de"
+  },
+  {
+    "id": "n939",
+    "word": "vest",
+    "translation": "vest; waistcoat",
+    "article": "het"
+  },
+  {
+    "id": "n940",
+    "word": "vijand",
+    "translation": "enemy",
+    "article": "de"
+  },
+  {
+    "id": "n941",
+    "word": "vinger",
+    "translation": "finger",
+    "article": "de"
+  },
+  {
+    "id": "n942",
+    "word": "vlam",
+    "translation": "flame",
+    "article": "de"
+  },
+  {
+    "id": "n943",
+    "word": "vlees",
+    "translation": "meat",
+    "article": "het"
+  },
+  {
+    "id": "n944",
+    "word": "vliegtuig",
+    "translation": "airplane",
+    "article": "het"
+  },
+  {
+    "id": "n945",
+    "word": "vloer",
+    "translation": "floor",
+    "article": "de"
+  },
+  {
+    "id": "n946",
+    "word": "vlucht",
+    "translation": "flight; escape",
+    "article": "de"
+  },
+  {
+    "id": "n947",
+    "word": "vluchteling",
+    "translation": "refugee",
+    "article": "de"
+  },
+  {
+    "id": "n948",
+    "word": "voedsel",
+    "translation": "food",
+    "article": "het"
+  },
+  {
+    "id": "n949",
+    "word": "voet",
+    "translation": "foot",
+    "article": "de"
+  },
+  {
+    "id": "n950",
+    "word": "voetbal",
+    "translation": "football, soccer",
+    "article": "het"
+  },
+  {
+    "id": "n951",
+    "word": "vogel",
+    "translation": "bird",
+    "article": "de"
+  },
+  {
+    "id": "n952",
+    "word": "volk",
+    "translation": "people, nation",
+    "article": "het"
+  },
+  {
+    "id": "n953",
+    "word": "volume",
+    "translation": "volume",
+    "article": "het"
+  },
+  {
+    "id": "n954",
+    "word": "vonnis",
+    "translation": "verdict",
+    "article": "het"
+  },
+  {
+    "id": "n955",
+    "word": "voorbeeld",
+    "translation": "example",
+    "article": "het"
+  },
+  {
+    "id": "n956",
+    "word": "voordeel",
+    "translation": "advantage",
+    "article": "het"
+  },
+  {
+    "id": "n957",
+    "word": "voordracht",
+    "translation": "presentation; nomination",
+    "article": "de"
+  },
+  {
+    "id": "n958",
+    "word": "voornemen",
+    "translation": "intention",
+    "article": "het"
+  },
+  {
+    "id": "n959",
+    "word": "voorstander",
+    "translation": "proponent",
+    "article": "de"
+  },
+  {
+    "id": "n960",
+    "word": "voorstel",
+    "translation": "proposal",
+    "article": "het"
+  },
+  {
+    "id": "n961",
+    "word": "voorstelling",
+    "translation": "performance; idea",
+    "article": "de"
+  },
+  {
+    "id": "n962",
+    "word": "voortgang",
+    "translation": "progress",
+    "article": "de"
+  },
+  {
+    "id": "n963",
+    "word": "vooruitgang",
+    "translation": "progress",
+    "article": "de"
+  },
+  {
+    "id": "n964",
+    "word": "voorwaarde",
+    "translation": "condition",
+    "article": "de"
+  },
+  {
+    "id": "n965",
+    "word": "voorwerp",
+    "translation": "object",
+    "article": "het"
+  },
+  {
+    "id": "n966",
+    "word": "voorzitter",
+    "translation": "chairman",
+    "article": "de"
+  },
+  {
+    "id": "n967",
+    "word": "vordering",
+    "translation": "progress; claim",
+    "article": "de"
+  },
+  {
+    "id": "n968",
+    "word": "vorm",
+    "translation": "form, shape",
+    "article": "de"
+  },
+  {
+    "id": "n969",
+    "word": "vorst",
+    "translation": "ruler; frost",
+    "article": "de"
+  },
+  {
+    "id": "n970",
+    "word": "vraag",
+    "translation": "question; demand",
+    "article": "de"
+  },
+  {
+    "id": "n971",
+    "word": "vrede",
+    "translation": "peace",
+    "article": "de"
+  },
+  {
+    "id": "n972",
+    "word": "vreemde",
+    "translation": "stranger",
+    "article": "de"
+  },
+  {
+    "id": "n973",
+    "word": "vreemden",
+    "translation": "strangers",
+    "article": "de"
+  },
+  {
+    "id": "n974",
+    "word": "vrees",
+    "translation": "fear",
+    "article": "de"
+  },
+  {
+    "id": "n975",
+    "word": "vriend",
+    "translation": "friend",
+    "article": "de"
+  },
+  {
+    "id": "n976",
+    "word": "vriendschap",
+    "translation": "friendship",
+    "article": "de"
+  },
+  {
+    "id": "n977",
+    "word": "vrijdag",
+    "translation": "Friday",
+    "article": "de"
+  },
+  {
+    "id": "n978",
+    "word": "vrijheid",
+    "translation": "freedom",
+    "article": "de"
+  },
+  {
+    "id": "n979",
+    "word": "vrouw",
+    "translation": "woman; wife",
+    "article": "de"
+  },
+  {
+    "id": "n980",
+    "word": "vrucht",
+    "translation": "fruit",
+    "article": "de"
+  },
+  {
+    "id": "n981",
+    "word": "vuur",
+    "translation": "fire",
+    "article": "het"
+  },
+  {
+    "id": "n982",
+    "word": "waarde",
+    "translation": "value",
+    "article": "de"
+  },
+  {
+    "id": "n983",
+    "word": "waardering",
+    "translation": "appreciation",
+    "article": "de"
+  },
+  {
+    "id": "n984",
+    "word": "waarheid",
+    "translation": "truth",
+    "article": "de"
+  },
+  {
+    "id": "n985",
+    "word": "waarneming",
+    "translation": "observation",
+    "article": "de"
+  },
+  {
+    "id": "n986",
+    "word": "waarschuwing",
+    "translation": "warning",
+    "article": "de"
+  },
+  {
+    "id": "n987",
+    "word": "wand",
+    "translation": "wall (interior)",
+    "article": "de"
+  },
+  {
+    "id": "n988",
+    "word": "wapen",
+    "translation": "weapon",
+    "article": "het"
+  },
+  {
+    "id": "n989",
+    "word": "warmte",
+    "translation": "warmth, heat",
+    "article": "de"
+  },
+  {
+    "id": "n990",
+    "word": "water",
+    "translation": "water",
+    "article": "het"
+  },
+  {
+    "id": "n991",
+    "word": "wedstrijd",
+    "translation": "match, competition",
+    "article": "de"
+  },
+  {
+    "id": "n992",
+    "word": "week",
+    "translation": "week",
+    "article": "de"
+  },
+  {
+    "id": "n993",
+    "word": "weer",
+    "translation": "weather; again",
+    "article": "het"
+  },
+  {
+    "id": "n994",
+    "word": "weerstand",
+    "translation": "resistance",
+    "article": "de"
+  },
+  {
+    "id": "n995",
+    "word": "weg",
+    "translation": "road, way",
+    "article": "de"
+  },
+  {
+    "id": "n996",
+    "word": "wens",
+    "translation": "wish",
+    "article": "de"
+  },
+  {
+    "id": "n997",
+    "word": "wereld",
+    "translation": "world",
+    "article": "de"
+  },
+  {
+    "id": "n998",
+    "word": "wereldoorlog",
+    "translation": "world war",
+    "article": "de"
+  },
+  {
+    "id": "n999",
+    "word": "werk",
+    "translation": "work",
+    "article": "het"
+  },
+  {
+    "id": "n1000",
+    "word": "werkelijkheid",
+    "translation": "reality",
+    "article": "de"
+  },
+  {
+    "id": "n1001",
+    "word": "werker",
+    "translation": "worker",
+    "article": "de"
+  },
+  {
+    "id": "n1002",
+    "word": "werkgever",
+    "translation": "employer",
+    "article": "de"
+  },
+  {
+    "id": "n1003",
+    "word": "werking",
+    "translation": "functioning, effect",
+    "article": "de"
+  },
+  {
+    "id": "n1004",
+    "word": "werknemer",
+    "translation": "employee",
+    "article": "de"
+  },
+  {
+    "id": "n1005",
+    "word": "werkzaamheid",
+    "translation": "activity, work",
+    "article": "de"
+  },
+  {
+    "id": "n1006",
+    "word": "wet",
+    "translation": "law",
+    "article": "de"
+  },
+  {
+    "id": "n1007",
+    "word": "wetenschap",
+    "translation": "science",
+    "article": "de"
+  },
+  {
+    "id": "n1008",
+    "word": "wetenschapper",
+    "translation": "scientist",
+    "article": "de"
+  },
+  {
+    "id": "n1009",
+    "word": "wetgeving",
+    "translation": "legislation",
+    "article": "de"
+  },
+  {
+    "id": "n1010",
+    "word": "wethouder",
+    "translation": "alderman",
+    "article": "de"
+  },
+  {
+    "id": "n1011",
+    "word": "wezen",
+    "translation": "being; essence",
+    "article": "het"
+  },
+  {
+    "id": "n1012",
+    "word": "wijk",
+    "translation": "neighborhood, district",
+    "article": "de"
+  },
+  {
+    "id": "n1013",
+    "word": "wijn",
+    "translation": "wine",
+    "article": "de"
+  },
+  {
+    "id": "n1014",
+    "word": "wijze",
+    "translation": "way, manner; wise person",
+    "article": "de"
+  },
+  {
+    "id": "n1015",
+    "word": "wijziging",
+    "translation": "change, modification",
+    "article": "de"
+  },
+  {
+    "id": "n1016",
+    "word": "wil",
+    "translation": "will",
+    "article": "de"
+  },
+  {
+    "id": "n1017",
+    "word": "wind",
+    "translation": "wind",
+    "article": "de"
+  },
+  {
+    "id": "n1018",
+    "word": "winkel",
+    "translation": "shop, store",
+    "article": "de"
+  },
+  {
+    "id": "n1019",
+    "word": "winst",
+    "translation": "profit",
+    "article": "de"
+  },
+  {
+    "id": "n1020",
+    "word": "winter",
+    "translation": "winter",
+    "article": "de"
+  },
+  {
+    "id": "n1021",
+    "word": "woning",
+    "translation": "dwelling, house",
+    "article": "de"
+  },
+  {
+    "id": "n1022",
+    "word": "woord",
+    "translation": "word",
+    "article": "het"
+  },
+  {
+    "id": "n1023",
+    "word": "woordvoerder",
+    "translation": "spokesperson",
+    "article": "de"
+  },
+  {
+    "id": "n1024",
+    "word": "woud",
+    "translation": "forest",
+    "article": "het"
+  },
+  {
+    "id": "n1025",
+    "word": "wraak",
+    "translation": "revenge",
+    "article": "de"
+  },
+  {
+    "id": "n1026",
+    "word": "zaak",
+    "translation": "matter; business; case",
+    "article": "de"
+  },
+  {
+    "id": "n1027",
+    "word": "zaal",
+    "translation": "hall, room",
+    "article": "de"
+  },
+  {
+    "id": "n1028",
+    "word": "zak",
+    "translation": "bag; pocket",
+    "article": "de"
+  },
+  {
+    "id": "n1029",
+    "word": "zand",
+    "translation": "sand",
+    "article": "het"
+  },
+  {
+    "id": "n1030",
+    "word": "zee",
+    "translation": "sea",
+    "article": "de"
+  },
+  {
+    "id": "n1031",
+    "word": "zeeman",
+    "translation": "sailor",
+    "article": "de"
+  },
+  {
+    "id": "n1032",
+    "word": "zegen",
+    "translation": "blessing",
+    "article": "de"
+  },
+  {
+    "id": "n1033",
+    "word": "zeil",
+    "translation": "sail",
+    "article": "het"
+  },
+  {
+    "id": "n1034",
+    "word": "zekerheid",
+    "translation": "certainty; security",
+    "article": "de"
+  },
+  {
+    "id": "n1035",
+    "word": "zenuw",
+    "translation": "nerve",
+    "article": "de"
+  },
+  {
+    "id": "n1036",
+    "word": "zicht",
+    "translation": "sight, view",
+    "article": "het"
+  },
+  {
+    "id": "n1037",
+    "word": "zieke",
+    "translation": "sick person",
+    "article": "de"
+  },
+  {
+    "id": "n1038",
+    "word": "ziekenhuis",
+    "translation": "hospital",
+    "article": "het"
+  },
+  {
+    "id": "n1039",
+    "word": "ziekte",
+    "translation": "illness, disease",
+    "article": "de"
+  },
+  {
+    "id": "n1040",
+    "word": "ziel",
+    "translation": "soul",
+    "article": "de"
+  },
+  {
+    "id": "n1041",
+    "word": "zilver",
+    "translation": "silver",
+    "article": "het"
+  },
+  {
+    "id": "n1042",
+    "word": "zin",
+    "translation": "sentence; sense; desire",
+    "article": "de"
+  },
+  {
+    "id": "n1043",
+    "word": "zomer",
+    "translation": "summer",
+    "article": "de"
+  },
+  {
+    "id": "n1044",
+    "word": "zon",
+    "translation": "sun",
+    "article": "de"
+  },
+  {
+    "id": "n1045",
+    "word": "zondag",
+    "translation": "Sunday",
+    "article": "de"
+  },
+  {
+    "id": "n1046",
+    "word": "zonde",
+    "translation": "sin; pity",
+    "article": "de"
+  },
+  {
+    "id": "n1047",
+    "word": "zonlicht",
+    "translation": "sunlight",
+    "article": "het"
+  },
+  {
+    "id": "n1048",
+    "word": "zoon",
+    "translation": "son",
+    "article": "de"
+  },
+  {
+    "id": "n1049",
+    "word": "zorg",
+    "translation": "care; worry",
+    "article": "de"
+  },
+  {
+    "id": "n1050",
+    "word": "zout",
+    "translation": "salt",
+    "article": "het"
+  },
+  {
+    "id": "n1051",
+    "word": "zucht",
+    "translation": "sigh",
+    "article": "de"
+  },
+  {
+    "id": "n1052",
+    "word": "zuiden",
+    "translation": "south",
+    "article": "het"
+  },
+  {
+    "id": "n1053",
+    "word": "zuigeling",
+    "translation": "infant",
+    "article": "de"
+  },
+  {
+    "id": "n1054",
+    "word": "zuil",
+    "translation": "column, pillar",
+    "article": "de"
+  },
+  {
+    "id": "n1055",
+    "word": "zuster",
+    "translation": "sister; nurse",
+    "article": "de"
+  },
+  {
+    "id": "n1056",
+    "word": "zuurstof",
+    "translation": "oxygen",
+    "article": "de"
+  },
+  {
+    "id": "n1057",
+    "word": "zwaard",
+    "translation": "sword",
+    "article": "het"
+  },
+  {
+    "id": "n1058",
+    "word": "zwangerschap",
+    "translation": "pregnancy",
+    "article": "de"
+  },
+  {
+    "id": "n1059",
+    "word": "zweet",
+    "translation": "sweat",
+    "article": "het"
+  },
+  {
+    "id": "n1060",
+    "word": "zwembad",
+    "translation": "swimming pool",
+    "article": "het"
+  }
 ]
