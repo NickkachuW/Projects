@@ -1,0 +1,12 @@
+[
+  { "id": "a1", "word": "groot", "translation": "big" },
+  { "id": "a2", "word": "klein", "translation": "small" },
+  { "id": "a3", "word": "goed", "translation": "good" },
+  { "id": "a4", "word": "slecht", "translation": "bad" },
+  { "id": "a5", "word": "oud", "translation": "old" },
+  { "id": "a6", "word": "nieuw", "translation": "new" },
+  { "id": "a7", "word": "mooi", "translation": "beautiful" },
+  { "id": "a8", "word": "lelijk", "translation": "ugly" },
+  { "id": "a9", "word": "snel", "translation": "fast" },
+  { "id": "a10", "word": "langzaam", "translation": "slow" }
+]

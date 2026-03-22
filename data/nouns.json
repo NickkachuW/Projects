@@ -1,0 +1,12 @@
+[
+  { "id": "n1", "word": "huis", "translation": "house", "article": "het" },
+  { "id": "n2", "word": "boek", "translation": "book", "article": "het" },
+  { "id": "n3", "word": "man", "translation": "man", "article": "de" },
+  { "id": "n4", "word": "vrouw", "translation": "woman", "article": "de" },
+  { "id": "n5", "word": "kind", "translation": "child", "article": "het" },
+  { "id": "n6", "word": "school", "translation": "school", "article": "de" },
+  { "id": "n7", "word": "water", "translation": "water", "article": "het" },
+  { "id": "n8", "word": "stad", "translation": "city", "article": "de" },
+  { "id": "n9", "word": "auto", "translation": "car", "article": "de" },
+  { "id": "n10", "word": "dag", "translation": "day", "article": "de" }
+]
