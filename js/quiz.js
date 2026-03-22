@@ -2,7 +2,7 @@ const Quiz = (() => {
   const PERSONS = ['ik', 'jij', 'u', 'hij/zij', 'wij', 'jullie', 'zij_plural'];
   const TENSES = ['present', 'past'];
 
-  let session = null; // { mode, questions, currentIndex, results, endless }
+  let session = null; // { mode, questions, currentIndex, results, endless, multipleChoice }
 
   function init() {
     renderSetup();
@@ -18,11 +18,11 @@ const Quiz = (() => {
           <div class="quiz-type-grid">
             <label class="checkbox-card">
               <input type="checkbox" name="quiz-type" value="dutch-to-english" checked>
-              <span>Dutch → English</span>
+              <span>Dutch &rarr; English</span>
             </label>
             <label class="checkbox-card">
               <input type="checkbox" name="quiz-type" value="english-to-dutch">
-              <span>English → Dutch</span>
+              <span>English &rarr; Dutch</span>
             </label>
             <label class="checkbox-card">
               <input type="checkbox" name="quiz-type" value="de-het">
@@ -31,6 +31,23 @@ const Quiz = (() => {
             <label class="checkbox-card">
               <input type="checkbox" name="quiz-type" value="conjugation">
               <span>Conjugation</span>
+            </label>
+          </div>
+        </div>
+        <div class="form-group">
+          <label>Answer Mode</label>
+          <div class="quiz-type-grid">
+            <label class="checkbox-card">
+              <input type="radio" name="answer-mode" value="multiple-choice" checked>
+              <span>Multiple Choice</span>
+            </label>
+            <label class="checkbox-card">
+              <input type="radio" name="answer-mode" value="typed">
+              <span>Type Answer</span>
+            </label>
+            <label class="checkbox-card">
+              <input type="radio" name="answer-mode" value="mixed">
+              <span>Mix Both</span>
             </label>
           </div>
         </div>
@@ -67,9 +84,10 @@ const Quiz = (() => {
       return;
     }
 
+    const answerMode = document.querySelector('input[name="answer-mode"]:checked')?.value || 'multiple-choice';
     const lengthVal = document.querySelector('input[name="session-length"]:checked')?.value || '10';
     const endless = lengthVal === 'endless';
-    const count = endless ? 10 : parseInt(lengthVal); // For endless, generate 10 at a time
+    const count = endless ? 10 : parseInt(lengthVal);
 
     const questions = generateQuestions(selectedTypes, count);
     if (questions.length === 0) {
@@ -79,6 +97,7 @@ const Quiz = (() => {
 
     session = {
       types: selectedTypes,
+      answerMode,
       questions,
       currentIndex: 0,
       results: [],
@@ -90,11 +109,64 @@ const Quiz = (() => {
     renderQuestion();
   }
 
+  // Should this question use multiple choice?
+  function useMultipleChoice(q) {
+    if (session.answerMode === 'multiple-choice') return true;
+    if (session.answerMode === 'typed') return false;
+    // mixed: randomly pick, but de-het is always buttons anyway
+    if (q.type === 'de-het') return true;
+    return Math.random() < 0.5;
+  }
+
+  // Get wrong options for multiple choice
+  function getDistractors(q, count) {
+    const distractors = [];
+    let pool = [];
+
+    if (q.type === 'dutch-to-english') {
+      // Get other translations as wrong answers
+      const allWords = [...Store.getAll('nouns'), ...Store.getAll('verbs'), ...Store.getAll('adjectives')];
+      pool = allWords.filter(w => w.id !== q.wordId).map(w => w.translation);
+    } else if (q.type === 'english-to-dutch') {
+      const allWords = [...Store.getAll('nouns'), ...Store.getAll('verbs'), ...Store.getAll('adjectives')];
+      pool = allWords.filter(w => w.id !== q.wordId).map(w => w.word);
+    } else if (q.type === 'conjugation') {
+      // Get other conjugations of different verbs
+      const verbs = Store.getAll('verbs').filter(v =>
+        v.id !== q.wordId && v.conjugations && v.conjugations[q.tense] && v.conjugations[q.tense][q.person]
+      );
+      pool = verbs.map(v => v.conjugations[q.tense][q.person]).filter(c => c);
+    }
+
+    // Shuffle and pick unique distractors
+    shuffleArray(pool);
+    const correctAnswer = getCorrectAnswer(q).toLowerCase();
+
+    for (const item of pool) {
+      if (distractors.length >= count) break;
+      const itemLower = item.toLowerCase();
+      if (itemLower !== correctAnswer && !distractors.some(d => d.toLowerCase() === itemLower)) {
+        distractors.push(item);
+      }
+    }
+
+    return distractors;
+  }
+
+  function getCorrectAnswer(q) {
+    switch (q.type) {
+      case 'dutch-to-english': return q.word.translation;
+      case 'english-to-dutch': return q.word.word;
+      case 'de-het': return q.word.article;
+      case 'conjugation': return q.word.conjugations[q.tense]?.[q.person] || '';
+      default: return '';
+    }
+  }
+
   function generateQuestions(types, count) {
     const questions = [];
     const allWordIds = [];
 
-    // Collect eligible word IDs per type
     const pools = {};
 
     if (types.includes('dutch-to-english') || types.includes('english-to-dutch')) {
@@ -114,7 +186,6 @@ const Quiz = (() => {
       );
     }
 
-    // Build candidate questions
     const candidates = [];
 
     if (types.includes('dutch-to-english') && pools.translation) {
@@ -134,7 +205,6 @@ const Quiz = (() => {
     }
     if (types.includes('conjugation') && pools.conjugation) {
       for (const v of pools.conjugation) {
-        // Create a question for a random person+tense combo
         const person = PERSONS[Math.floor(Math.random() * PERSONS.length)];
         const tense = TENSES[Math.floor(Math.random() * TENSES.length)];
         candidates.push({ type: 'conjugation', wordId: v.id, word: v, person, tense });
@@ -143,16 +213,13 @@ const Quiz = (() => {
 
     if (candidates.length === 0) return [];
 
-    // Prioritize by spaced repetition
     const wordIds = [...new Set(candidates.map(c => c.wordId))];
     const prioritized = SpacedRepetition.getNextWords(wordIds, wordIds.length);
 
-    // Sort candidates by priority order
     const priorityMap = {};
     prioritized.forEach((id, i) => priorityMap[id] = i);
     candidates.sort((a, b) => (priorityMap[a.wordId] ?? 999) - (priorityMap[b.wordId] ?? 999));
 
-    // Pick top N, but add some randomness within priority tiers
     const selected = candidates.slice(0, count * 2);
     shuffleArray(selected);
     return selected.slice(0, count);
@@ -163,7 +230,6 @@ const Quiz = (() => {
 
     if (session.currentIndex >= session.questions.length) {
       if (session.endless) {
-        // Generate more questions
         const more = generateQuestions(session.types, 10);
         if (more.length === 0) {
           renderSummary();
@@ -182,25 +248,44 @@ const Quiz = (() => {
       ? `Question ${session.totalAnswered + 1}`
       : `Question ${session.currentIndex + 1} / ${session.questions.length}`;
 
+    const mc = useMultipleChoice(q);
     let questionHtml = '';
 
     switch (q.type) {
       case 'dutch-to-english':
-        questionHtml = `
-          <p class="quiz-prompt">What is the English translation of:</p>
-          <p class="quiz-word">${esc(q.word.word)}</p>
-          <input type="text" id="quiz-answer" class="quiz-input" placeholder="Type the English translation..." autofocus
-            onkeydown="if(event.key==='Enter')Quiz.submitAnswer()">
-        `;
+        if (mc) {
+          questionHtml = renderMCQuestion(
+            'What is the English translation of:',
+            q.word.word,
+            null,
+            q
+          );
+        } else {
+          questionHtml = `
+            <p class="quiz-prompt">What is the English translation of:</p>
+            <p class="quiz-word">${esc(q.word.word)}</p>
+            <input type="text" id="quiz-answer" class="quiz-input" placeholder="Type the English translation..." autofocus
+              onkeydown="if(event.key==='Enter')Quiz.submitAnswer()">
+          `;
+        }
         break;
 
       case 'english-to-dutch':
-        questionHtml = `
-          <p class="quiz-prompt">What is the Dutch translation of:</p>
-          <p class="quiz-word">${esc(q.word.translation)}</p>
-          <input type="text" id="quiz-answer" class="quiz-input" placeholder="Type the Dutch word..." autofocus
-            onkeydown="if(event.key==='Enter')Quiz.submitAnswer()">
-        `;
+        if (mc) {
+          questionHtml = renderMCQuestion(
+            'What is the Dutch translation of:',
+            q.word.translation,
+            null,
+            q
+          );
+        } else {
+          questionHtml = `
+            <p class="quiz-prompt">What is the Dutch translation of:</p>
+            <p class="quiz-word">${esc(q.word.translation)}</p>
+            <input type="text" id="quiz-answer" class="quiz-input" placeholder="Type the Dutch word..." autofocus
+              onkeydown="if(event.key==='Enter')Quiz.submitAnswer()">
+          `;
+        }
         break;
 
       case 'de-het':
@@ -216,13 +301,22 @@ const Quiz = (() => {
         break;
 
       case 'conjugation':
-        questionHtml = `
-          <p class="quiz-prompt">Conjugate <strong>${esc(q.word.word)}</strong> (${esc(q.word.translation)})</p>
-          <p class="quiz-word">${personDisplay(q.person)} ___</p>
-          <p class="quiz-hint">${q.tense} tense</p>
-          <input type="text" id="quiz-answer" class="quiz-input" placeholder="Type the conjugation..." autofocus
-            onkeydown="if(event.key==='Enter')Quiz.submitAnswer()">
-        `;
+        if (mc) {
+          questionHtml = renderMCQuestion(
+            `Conjugate <strong>${esc(q.word.word)}</strong> (${esc(q.word.translation)})`,
+            `${personDisplay(q.person)} ___`,
+            q.tense + ' tense',
+            q
+          );
+        } else {
+          questionHtml = `
+            <p class="quiz-prompt">Conjugate <strong>${esc(q.word.word)}</strong> (${esc(q.word.translation)})</p>
+            <p class="quiz-word">${personDisplay(q.person)} ___</p>
+            <p class="quiz-hint">${q.tense} tense</p>
+            <input type="text" id="quiz-answer" class="quiz-input" placeholder="Type the conjugation..." autofocus
+              onkeydown="if(event.key==='Enter')Quiz.submitAnswer()">
+          `;
+        }
         break;
     }
 
@@ -235,12 +329,98 @@ const Quiz = (() => {
         </div>
         <div class="quiz-card">
           ${questionHtml}
-          ${q.type !== 'de-het' ? '<button class="btn btn-primary" onclick="Quiz.submitAnswer()">Check</button>' : ''}
+          ${q.type !== 'de-het' && !mc ? '<button class="btn btn-primary" onclick="Quiz.submitAnswer()">Check</button>' : ''}
         </div>
       </div>
     `;
 
     document.getElementById('quiz-answer')?.focus();
+  }
+
+  function renderMCQuestion(prompt, word, hint, q) {
+    const correctAnswer = getCorrectAnswer(q);
+    const distractors = getDistractors(q, 3);
+    const options = [correctAnswer, ...distractors];
+    shuffleArray(options);
+
+    // Store correct index for keyboard shortcuts
+    q._mcOptions = options;
+    q._mcCorrect = correctAnswer;
+
+    return `
+      <p class="quiz-prompt">${prompt}</p>
+      <p class="quiz-word">${esc(word)}</p>
+      ${hint ? `<p class="quiz-hint">${esc(hint)}</p>` : ''}
+      <div class="mc-options">
+        ${options.map((opt, i) => `
+          <button class="btn mc-btn" onclick="Quiz.submitMC(${i})" data-index="${i}">
+            <span class="mc-key">${i + 1}</span>
+            ${esc(opt)}
+          </button>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  function submitMC(index) {
+    const q = session.questions[session.currentIndex];
+    if (!q._mcOptions) return;
+
+    const userAnswer = q._mcOptions[index];
+    const correctAnswer = q._mcCorrect;
+    const correct = checkAnswer(userAnswer, correctAnswer);
+
+    // Highlight the buttons
+    const buttons = document.querySelectorAll('.mc-btn');
+    buttons.forEach((btn, i) => {
+      btn.disabled = true;
+      if (q._mcOptions[i] === correctAnswer) {
+        btn.classList.add('mc-correct');
+      } else if (i === index && !correct) {
+        btn.classList.add('mc-wrong');
+      }
+    });
+
+    // Short delay then show feedback
+    setTimeout(() => {
+      processResult(q, correct, userAnswer, correctAnswer);
+    }, 600);
+  }
+
+  // Handle keyboard shortcuts 1-4 for MC
+  document.addEventListener('keydown', (e) => {
+    if (!session) return;
+    const q = session.questions?.[session.currentIndex];
+    if (!q?._mcOptions) return;
+
+    const key = parseInt(e.key);
+    if (key >= 1 && key <= 4 && key <= q._mcOptions.length) {
+      // Check buttons aren't already disabled (already answered)
+      const btn = document.querySelector(`.mc-btn[data-index="${key - 1}"]`);
+      if (btn && !btn.disabled) {
+        submitMC(key - 1);
+      }
+    }
+  });
+
+  function checkAnswer(userAnswer, correctAnswer) {
+    const user = userAnswer.toLowerCase().trim();
+    const correct = correctAnswer.toLowerCase().trim();
+
+    // Exact match
+    if (user === correct) return true;
+
+    // For translations with multiple meanings like "arm; poor" or "house, home"
+    // Accept if the user typed any one of them
+    const meanings = correct.split(/[;,]/).map(m => m.trim().toLowerCase());
+    if (meanings.includes(user)) return true;
+
+    // Also check if user's answer is contained in any meaning
+    for (const meaning of meanings) {
+      if (meaning === user) return true;
+    }
+
+    return false;
   }
 
   function submitAnswer() {
@@ -250,23 +430,8 @@ const Quiz = (() => {
     if (!answer) return;
 
     const q = session.questions[session.currentIndex];
-    let correct = false;
-    let correctAnswer = '';
-
-    switch (q.type) {
-      case 'dutch-to-english':
-        correctAnswer = q.word.translation;
-        correct = answer.toLowerCase() === correctAnswer.toLowerCase();
-        break;
-      case 'english-to-dutch':
-        correctAnswer = q.word.word;
-        correct = answer.toLowerCase() === correctAnswer.toLowerCase();
-        break;
-      case 'conjugation':
-        correctAnswer = q.word.conjugations[q.tense]?.[q.person] || '';
-        correct = answer.toLowerCase() === correctAnswer.toLowerCase();
-        break;
-    }
+    const correctAnswer = getCorrectAnswer(q);
+    const correct = checkAnswer(answer, correctAnswer);
 
     processResult(q, correct, answer, correctAnswer);
   }
@@ -285,14 +450,15 @@ const Quiz = (() => {
     session.results.push({ question: q, correct, userAnswer, correctAnswer });
     SpacedRepetition.recordAnswer(q.wordId, correct);
 
-    // If wrong and not endless, re-add a similar question later
+    // If wrong, re-add a similar question later
     if (!correct) {
       const retry = { ...q };
+      delete retry._mcOptions;
+      delete retry._mcCorrect;
       if (q.type === 'conjugation') {
         retry.person = PERSONS[Math.floor(Math.random() * PERSONS.length)];
         retry.tense = TENSES[Math.floor(Math.random() * TENSES.length)];
       }
-      // Insert retry 3-5 questions later
       const insertAt = Math.min(session.currentIndex + 3 + Math.floor(Math.random() * 3), session.questions.length);
       session.questions.splice(insertAt, 0, retry);
     }
@@ -303,7 +469,7 @@ const Quiz = (() => {
   function showFeedback(correct, userAnswer, correctAnswer, q) {
     const container = document.getElementById('quiz-content');
     const feedbackClass = correct ? 'feedback-correct' : 'feedback-wrong';
-    const icon = correct ? '✓' : '✗';
+    const icon = correct ? '&#10003;' : '&#10007;';
 
     let detail = '';
     if (!correct) {
@@ -331,7 +497,6 @@ const Quiz = (() => {
       </div>
     `;
 
-    // Auto-focus the continue button
     container.querySelector('.btn-primary')?.focus();
   }
 
@@ -351,7 +516,6 @@ const Quiz = (() => {
     const mistakes = session.results.filter(r => !r.correct);
     let mistakesList = '';
     if (mistakes.length > 0) {
-      // Deduplicate by wordId
       const seen = new Set();
       const unique = mistakes.filter(m => {
         if (seen.has(m.question.wordId + m.question.type)) return false;
@@ -394,8 +558,8 @@ const Quiz = (() => {
 
   function quizTypeLabel(type) {
     const labels = {
-      'dutch-to-english': 'NL → EN',
-      'english-to-dutch': 'EN → NL',
+      'dutch-to-english': 'NL &rarr; EN',
+      'english-to-dutch': 'EN &rarr; NL',
       'de-het': 'De/Het',
       'conjugation': 'Conjugation'
     };
@@ -419,5 +583,5 @@ const Quiz = (() => {
     }
   }
 
-  return { init, start, submitAnswer, submitDeHet, nextQuestion, endSession, renderSetup };
+  return { init, start, submitAnswer, submitDeHet, submitMC, nextQuestion, endSession, renderSetup };
 })();

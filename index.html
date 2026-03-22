@@ -11,6 +11,7 @@
     <span class="app-title">Dutch Learning</span>
     <button class="nav-btn active" id="nav-manager" onclick="switchView('manager')">Manager</button>
     <button class="nav-btn" id="nav-quiz" onclick="switchView('quiz')">Quiz</button>
+    <button class="nav-btn" id="nav-progress" onclick="switchView('progress')">Progress</button>
     <button class="nav-btn" id="nav-data" onclick="switchView('data')">Data</button>
   </nav>
 
@@ -21,6 +22,10 @@
 
     <div id="view-quiz" class="view">
       <div id="quiz-content"></div>
+    </div>
+
+    <div id="view-progress" class="view">
+      <div id="progress-content"></div>
     </div>
 
     <div id="view-data" class="view">
@@ -53,6 +58,7 @@
   <script src="js/store.js"></script>
   <script src="js/manager.js"></script>
   <script src="js/quiz.js"></script>
+  <script src="js/progress.js"></script>
   <script>
     function switchView(view) {
       document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
@@ -62,6 +68,7 @@
 
       if (view === 'manager') Manager.init();
       if (view === 'quiz') Quiz.init();
+      if (view === 'progress') Progress.init();
     }
 
     function exportData() {
