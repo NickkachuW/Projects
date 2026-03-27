@@ -13843,7 +13843,7 @@ const SEED_DATA = {
           "jullie": "duidden aan",
           "zij_plural": "duidden aan"
         },
-        "perfect": "aangeduidd",
+        "perfect": "aangeduid",
         "separable": true,
         "prefix": "aan"
       }
@@ -14207,7 +14207,7 @@ const SEED_DATA = {
           "jullie": "raadden aan",
           "zij_plural": "raadden aan"
         },
-        "perfect": "aangeraadd",
+        "perfect": "aangeraad",
         "separable": true,
         "prefix": "aan"
       }
@@ -14319,7 +14319,7 @@ const SEED_DATA = {
           "jullie": "tastten aan",
           "zij_plural": "tastten aan"
         },
-        "perfect": "aangetastt",
+        "perfect": "aangetast",
         "separable": true,
         "prefix": "aan"
       }
@@ -14431,7 +14431,7 @@ const SEED_DATA = {
           "jullie": "vaardden aan",
           "zij_plural": "vaardden aan"
         },
-        "perfect": "aangevaardd",
+        "perfect": "aangevaard",
         "separable": true,
         "prefix": "aan"
       }
@@ -14571,7 +14571,7 @@ const SEED_DATA = {
           "jullie": "wendden aan",
           "zij_plural": "wendden aan"
         },
-        "perfect": "aangewendd",
+        "perfect": "aangewend",
         "separable": true,
         "prefix": "aan"
       }
@@ -14627,7 +14627,7 @@ const SEED_DATA = {
           "jullie": "zetten aan",
           "zij_plural": "zetten aan"
         },
-        "perfect": "aangezett",
+        "perfect": "aangezet",
         "separable": true,
         "prefix": "aan"
       }
@@ -14707,7 +14707,7 @@ const SEED_DATA = {
           "jullie": "achtten",
           "zij_plural": "achtten"
         },
-        "perfect": "geachtt"
+        "perfect": "geacht"
       }
     },
     {
@@ -14893,7 +14893,7 @@ const SEED_DATA = {
           "jullie": "beeldden af",
           "zij_plural": "beeldden af"
         },
-        "perfect": "afgebeeldd",
+        "perfect": "afgebeeld",
         "separable": true,
         "prefix": "af"
       }
@@ -15089,7 +15089,7 @@ const SEED_DATA = {
           "jullie": "leidden af",
           "zij_plural": "leidden af"
         },
-        "perfect": "afgeleidd",
+        "perfect": "afgeleid",
         "separable": true,
         "prefix": "af"
       }
@@ -15397,7 +15397,7 @@ const SEED_DATA = {
           "jullie": "wachtten af",
           "zij_plural": "wachtten af"
         },
-        "perfect": "afgewachtt",
+        "perfect": "afgewacht",
         "separable": true,
         "prefix": "af"
       }
@@ -15481,7 +15481,7 @@ const SEED_DATA = {
           "jullie": "zetten af",
           "zij_plural": "zetten af"
         },
-        "perfect": "afgezett",
+        "perfect": "afgezet",
         "separable": true,
         "prefix": "af"
       }
@@ -15561,7 +15561,7 @@ const SEED_DATA = {
           "jullie": "antwoordden",
           "zij_plural": "antwoordden"
         },
-        "perfect": "geantwoordd"
+        "perfect": "geantwoord"
       }
     },
     {
@@ -15665,7 +15665,7 @@ const SEED_DATA = {
           "jullie": "baadden",
           "zij_plural": "baadden"
         },
-        "perfect": "gebaadd"
+        "perfect": "gebaad"
       }
     },
     {
@@ -15743,7 +15743,7 @@ const SEED_DATA = {
           "jullie": "barstten",
           "zij_plural": "barstten"
         },
-        "perfect": "gebarstt"
+        "perfect": "gebarst"
       }
     },
     {
@@ -15795,7 +15795,7 @@ const SEED_DATA = {
           "jullie": "beantwoordden",
           "zij_plural": "beantwoordden"
         },
-        "perfect": "beantwoordd"
+        "perfect": "beantwoord"
       }
     },
     {
@@ -16159,7 +16159,7 @@ const SEED_DATA = {
           "jullie": "begeleidden",
           "zij_plural": "begeleidden"
         },
-        "perfect": "begeleidd"
+        "perfect": "begeleid"
       }
     },
     {
@@ -16341,7 +16341,7 @@ const SEED_DATA = {
           "jullie": "begroetten",
           "zij_plural": "begroetten"
         },
-        "perfect": "begroett"
+        "perfect": "begroet"
       }
     },
     {
@@ -16497,7 +16497,7 @@ const SEED_DATA = {
           "jullie": "behoudden",
           "zij_plural": "behoudden"
         },
-        "perfect": "behoudd"
+        "perfect": "behoud"
       }
     },
     {
@@ -16601,7 +16601,7 @@ const SEED_DATA = {
           "jullie": "bekleedden",
           "zij_plural": "bekleedden"
         },
-        "perfect": "bekleedd"
+        "perfect": "bekleed"
       }
     },
     {
@@ -16679,7 +16679,7 @@ const SEED_DATA = {
           "jullie": "belandden",
           "zij_plural": "belandden"
         },
-        "perfect": "belandd"
+        "perfect": "beland"
       }
     },
     {
@@ -16705,7 +16705,7 @@ const SEED_DATA = {
           "jullie": "belastten",
           "zij_plural": "belastten"
         },
-        "perfect": "belastt"
+        "perfect": "belast"
       }
     },
     {
@@ -16783,7 +16783,7 @@ const SEED_DATA = {
           "jullie": "beletten",
           "zij_plural": "beletten"
         },
-        "perfect": "belett"
+        "perfect": "belet"
       }
     },
     {
@@ -17017,7 +17017,7 @@ const SEED_DATA = {
           "jullie": "benutten",
           "zij_plural": "benutten"
         },
-        "perfect": "benutt"
+        "perfect": "benut"
       }
     },
     {
@@ -17173,7 +17173,7 @@ const SEED_DATA = {
           "jullie": "bepleitten",
           "zij_plural": "bepleitten"
         },
-        "perfect": "bepleitt"
+        "perfect": "bepleit"
       }
     },
     {
@@ -17199,7 +17199,7 @@ const SEED_DATA = {
           "jullie": "bereidden",
           "zij_plural": "bereidden"
         },
-        "perfect": "bereidd"
+        "perfect": "bereid"
       }
     },
     {
@@ -17381,7 +17381,7 @@ const SEED_DATA = {
           "jullie": "berustten",
           "zij_plural": "berustten"
         },
-        "perfect": "berustt"
+        "perfect": "berust"
       }
     },
     {
@@ -17719,7 +17719,7 @@ const SEED_DATA = {
           "jullie": "besteedden",
           "zij_plural": "besteedden"
         },
-        "perfect": "besteedd"
+        "perfect": "besteed"
       }
     },
     {
@@ -17979,7 +17979,7 @@ const SEED_DATA = {
           "jullie": "betreedden",
           "zij_plural": "betreedden"
         },
-        "perfect": "betreedd"
+        "perfect": "betreed"
       }
     },
     {
@@ -18135,7 +18135,7 @@ const SEED_DATA = {
           "jullie": "bevatten",
           "zij_plural": "bevatten"
         },
-        "perfect": "bevatt"
+        "perfect": "bevat"
       }
     },
     {
@@ -18239,7 +18239,7 @@ const SEED_DATA = {
           "jullie": "bevindden",
           "zij_plural": "bevindden"
         },
-        "perfect": "bevindd"
+        "perfect": "bevind"
       }
     },
     {
@@ -18343,7 +18343,7 @@ const SEED_DATA = {
           "jullie": "bevrijdden",
           "zij_plural": "bevrijdden"
         },
-        "perfect": "bevrijdd"
+        "perfect": "bevrijd"
       }
     },
     {
@@ -18603,7 +18603,7 @@ const SEED_DATA = {
           "jullie": "bezetten",
           "zij_plural": "bezetten"
         },
-        "perfect": "bezett"
+        "perfect": "bezet"
       }
     },
     {
@@ -18655,7 +18655,7 @@ const SEED_DATA = {
           "jullie": "bezighoudden",
           "zij_plural": "bezighoudden"
         },
-        "perfect": "bezighoudd"
+        "perfect": "bezighoud"
       }
     },
     {
@@ -18681,7 +18681,7 @@ const SEED_DATA = {
           "jullie": "bezitten",
           "zij_plural": "bezitten"
         },
-        "perfect": "bezitt"
+        "perfect": "bezit"
       }
     },
     {
@@ -18811,7 +18811,7 @@ const SEED_DATA = {
           "jullie": "beïnvloedden",
           "zij_plural": "beïnvloedden"
         },
-        "perfect": "beïnvloedd"
+        "perfect": "beïnvloed"
       }
     },
     {
@@ -18837,7 +18837,7 @@ const SEED_DATA = {
           "jullie": "bidden",
           "zij_plural": "bidden"
         },
-        "perfect": "gebidd"
+        "perfect": "gebid"
       }
     },
     {
@@ -19211,7 +19211,7 @@ const SEED_DATA = {
           "jullie": "bloedden",
           "zij_plural": "bloedden"
         },
-        "perfect": "gebloedd"
+        "perfect": "gebloed"
       }
     },
     {
@@ -19471,7 +19471,7 @@ const SEED_DATA = {
           "jullie": "brandden",
           "zij_plural": "brandden"
         },
-        "perfect": "gebrandd"
+        "perfect": "gebrand"
       }
     },
     {
@@ -20303,7 +20303,7 @@ const SEED_DATA = {
           "jullie": "doodden",
           "zij_plural": "doodden"
         },
-        "perfect": "gedoodd"
+        "perfect": "gedood"
       }
     },
     {
@@ -21019,7 +21019,7 @@ const SEED_DATA = {
           "jullie": "duidden",
           "zij_plural": "duidden"
         },
-        "perfect": "geduidd"
+        "perfect": "geduid"
       }
     },
     {
@@ -21071,7 +21071,7 @@ const SEED_DATA = {
           "jullie": "duldden",
           "zij_plural": "duldden"
         },
-        "perfect": "geduldd"
+        "perfect": "geduld"
       }
     },
     {
@@ -21539,7 +21539,7 @@ const SEED_DATA = {
           "jullie": "fluitten",
           "zij_plural": "fluitten"
         },
-        "perfect": "gefluitt"
+        "perfect": "gefluit"
       }
     },
     {
@@ -21851,7 +21851,7 @@ const SEED_DATA = {
           "jullie": "gebiedden",
           "zij_plural": "gebiedden"
         },
-        "perfect": "gebiedd"
+        "perfect": "gebied"
       }
     },
     {
@@ -21955,7 +21955,7 @@ const SEED_DATA = {
           "jullie": "geldden",
           "zij_plural": "geldden"
         },
-        "perfect": "geldd"
+        "perfect": "geld"
       }
     },
     {
@@ -22137,7 +22137,7 @@ const SEED_DATA = {
           "jullie": "geschiedden",
           "zij_plural": "geschiedden"
         },
-        "perfect": "geschiedd"
+        "perfect": "geschied"
       }
     },
     {
@@ -22397,7 +22397,7 @@ const SEED_DATA = {
           "jullie": "glijdden",
           "zij_plural": "glijdden"
         },
-        "perfect": "geglijdd"
+        "perfect": "geglijd"
       }
     },
     {
@@ -22787,7 +22787,7 @@ const SEED_DATA = {
           "jullie": "groetten",
           "zij_plural": "groetten"
         },
-        "perfect": "gegroett"
+        "perfect": "gegroet"
       }
     },
     {
@@ -22865,7 +22865,7 @@ const SEED_DATA = {
           "jullie": "haastten",
           "zij_plural": "haastten"
         },
-        "perfect": "gehaastt"
+        "perfect": "gehaast"
       }
     },
     {
@@ -23073,7 +23073,7 @@ const SEED_DATA = {
           "jullie": "haatten",
           "zij_plural": "haatten"
         },
-        "perfect": "gehaatt"
+        "perfect": "gehaat"
       }
     },
     {
@@ -23125,7 +23125,7 @@ const SEED_DATA = {
           "jullie": "hechtten",
           "zij_plural": "hechtten"
         },
-        "perfect": "gehechtt"
+        "perfect": "gehecht"
       }
     },
     {
@@ -23359,7 +23359,7 @@ const SEED_DATA = {
           "jullie": "heetten",
           "zij_plural": "heetten"
         },
-        "perfect": "geheett"
+        "perfect": "geheet"
       }
     },
     {
@@ -23463,7 +23463,7 @@ const SEED_DATA = {
           "jullie": "hoestten",
           "zij_plural": "hoestten"
         },
-        "perfect": "gehoestt"
+        "perfect": "gehoest"
       }
     },
     {
@@ -24023,7 +24023,7 @@ const SEED_DATA = {
           "jullie": "lichtten in",
           "zij_plural": "lichtten in"
         },
-        "perfect": "ingelichtt",
+        "perfect": "ingelicht",
         "separable": true,
         "prefix": "in"
       }
@@ -24079,7 +24079,7 @@ const SEED_DATA = {
           "jullie": "richtten in",
           "zij_plural": "richtten in"
         },
-        "perfect": "ingerichtt",
+        "perfect": "ingericht",
         "separable": true,
         "prefix": "in"
       }
@@ -24443,7 +24443,7 @@ const SEED_DATA = {
           "jullie": "zetten in",
           "zij_plural": "zetten in"
         },
-        "perfect": "ingezett",
+        "perfect": "ingezet",
         "separable": true,
         "prefix": "in"
       }
@@ -24915,7 +24915,7 @@ const SEED_DATA = {
           "jullie": "kleedden",
           "zij_plural": "kleedden"
         },
-        "perfect": "gekleedd"
+        "perfect": "gekleed"
       }
     },
     {
@@ -25851,7 +25851,7 @@ const SEED_DATA = {
           "jullie": "landden",
           "zij_plural": "landden"
         },
-        "perfect": "gelandd"
+        "perfect": "geland"
       }
     },
     {
@@ -25929,7 +25929,7 @@ const SEED_DATA = {
           "jullie": "leidden",
           "zij_plural": "leidden"
         },
-        "perfect": "geleidd"
+        "perfect": "geleid"
       }
     },
     {
@@ -26007,7 +26007,7 @@ const SEED_DATA = {
           "jullie": "letten",
           "zij_plural": "letten"
         },
-        "perfect": "gelett"
+        "perfect": "gelet"
       }
     },
     {
@@ -26111,7 +26111,7 @@ const SEED_DATA = {
           "jullie": "lichtten",
           "zij_plural": "lichtten"
         },
-        "perfect": "gelichtt"
+        "perfect": "gelicht"
       }
     },
     {
@@ -26449,7 +26449,7 @@ const SEED_DATA = {
           "jullie": "loslatten",
           "zij_plural": "loslatten"
         },
-        "perfect": "geloslatt"
+        "perfect": "geloslat"
       }
     },
     {
@@ -26527,7 +26527,7 @@ const SEED_DATA = {
           "jullie": "luchtten",
           "zij_plural": "luchtten"
         },
-        "perfect": "geluchtt"
+        "perfect": "gelucht"
       }
     },
     {
@@ -26553,7 +26553,7 @@ const SEED_DATA = {
           "jullie": "luidden",
           "zij_plural": "luidden"
         },
-        "perfect": "geluidd"
+        "perfect": "geluid"
       }
     },
     {
@@ -26957,7 +26957,7 @@ const SEED_DATA = {
           "jullie": "meldden",
           "zij_plural": "meldden"
         },
-        "perfect": "gemeldd"
+        "perfect": "gemeld"
       }
     },
     {
@@ -27087,7 +27087,7 @@ const SEED_DATA = {
           "jullie": "misleidden",
           "zij_plural": "misleidden"
         },
-        "perfect": "gemisleidd"
+        "perfect": "gemisleid"
       }
     },
     {
@@ -27465,7 +27465,7 @@ const SEED_DATA = {
           "jullie": "zetten neer",
           "zij_plural": "zetten neer"
         },
-        "perfect": "neergezett",
+        "perfect": "neergezet",
         "separable": true,
         "prefix": "neer"
       }
@@ -27623,7 +27623,7 @@ const SEED_DATA = {
           "jullie": "noodden",
           "zij_plural": "noodden"
         },
-        "perfect": "genoodd"
+        "perfect": "genood"
       }
     },
     {
@@ -27995,7 +27995,7 @@ const SEED_DATA = {
           "jullie": "omvatten",
           "zij_plural": "omvatten"
         },
-        "perfect": "geomvatt"
+        "perfect": "geomvat"
       }
     },
     {
@@ -28021,7 +28021,7 @@ const SEED_DATA = {
           "jullie": "zetten om",
           "zij_plural": "zetten om"
         },
-        "perfect": "omgezett",
+        "perfect": "omgezet",
         "separable": true,
         "prefix": "om"
       }
@@ -28183,7 +28183,7 @@ const SEED_DATA = {
           "jullie": "onderhoudden",
           "zij_plural": "onderhoudden"
         },
-        "perfect": "geonderhoudd"
+        "perfect": "geonderhoud"
       }
     },
     {
@@ -28263,7 +28263,7 @@ const SEED_DATA = {
           "jullie": "onderschatten",
           "zij_plural": "onderschatten"
         },
-        "perfect": "geonderschatt"
+        "perfect": "geonderschat"
       }
     },
     {
@@ -28289,7 +28289,7 @@ const SEED_DATA = {
           "jullie": "onderscheidden",
           "zij_plural": "onderscheidden"
         },
-        "perfect": "geonderscheidd"
+        "perfect": "geonderscheid"
       }
     },
     {
@@ -28367,7 +28367,7 @@ const SEED_DATA = {
           "jullie": "ondervindden",
           "zij_plural": "ondervindden"
         },
-        "perfect": "geondervindd"
+        "perfect": "geondervind"
       }
     },
     {
@@ -28577,7 +28577,7 @@ const SEED_DATA = {
           "jullie": "onthoudden",
           "zij_plural": "onthoudden"
         },
-        "perfect": "onthoudd"
+        "perfect": "onthoud"
       }
     },
     {
@@ -28707,7 +28707,7 @@ const SEED_DATA = {
           "jullie": "ontmoetten",
           "zij_plural": "ontmoetten"
         },
-        "perfect": "ontmoett"
+        "perfect": "ontmoet"
       }
     },
     {
@@ -29071,7 +29071,7 @@ const SEED_DATA = {
           "jullie": "ontzetten",
           "zij_plural": "ontzetten"
         },
-        "perfect": "ontzett"
+        "perfect": "ontzet"
       }
     },
     {
@@ -29795,7 +29795,7 @@ const SEED_DATA = {
           "jullie": "leidden op",
           "zij_plural": "leidden op"
         },
-        "perfect": "opgeleidd",
+        "perfect": "opgeleid",
         "separable": true,
         "prefix": "op"
       }
@@ -29823,7 +29823,7 @@ const SEED_DATA = {
           "jullie": "letten op",
           "zij_plural": "letten op"
         },
-        "perfect": "opgelett",
+        "perfect": "opgelet",
         "separable": true,
         "prefix": "op"
       }
@@ -29935,7 +29935,7 @@ const SEED_DATA = {
           "jullie": "luchtten op",
           "zij_plural": "luchtten op"
         },
-        "perfect": "opgeluchtt",
+        "perfect": "opgelucht",
         "separable": true,
         "prefix": "op"
       }
@@ -30103,7 +30103,7 @@ const SEED_DATA = {
           "jullie": "richtten op",
           "zij_plural": "richtten op"
         },
-        "perfect": "opgerichtt",
+        "perfect": "opgericht",
         "separable": true,
         "prefix": "op"
       }
@@ -30411,7 +30411,7 @@ const SEED_DATA = {
           "jullie": "treedden op",
           "zij_plural": "treedden op"
         },
-        "perfect": "opgetreedd",
+        "perfect": "opgetreed",
         "separable": true,
         "prefix": "op"
       }
@@ -30523,7 +30523,7 @@ const SEED_DATA = {
           "jullie": "vatten op",
           "zij_plural": "vatten op"
         },
-        "perfect": "opgevatt",
+        "perfect": "opgevat",
         "separable": true,
         "prefix": "op"
       }
@@ -30551,7 +30551,7 @@ const SEED_DATA = {
           "jullie": "voedden op",
           "zij_plural": "voedden op"
         },
-        "perfect": "opgevoedd",
+        "perfect": "opgevoed",
         "separable": true,
         "prefix": "op"
       }
@@ -30663,7 +30663,7 @@ const SEED_DATA = {
           "jullie": "windden op",
           "zij_plural": "windden op"
         },
-        "perfect": "opgewindd",
+        "perfect": "opgewind",
         "separable": true,
         "prefix": "op"
       }
@@ -30691,7 +30691,7 @@ const SEED_DATA = {
           "jullie": "zetten op",
           "zij_plural": "zetten op"
         },
-        "perfect": "opgezett",
+        "perfect": "opgezet",
         "separable": true,
         "prefix": "op"
       }
@@ -31267,7 +31267,7 @@ const SEED_DATA = {
           "jullie": "overschrijdden",
           "zij_plural": "overschrijdden"
         },
-        "perfect": "geoverschrijdd"
+        "perfect": "geoverschrijd"
       }
     },
     {
@@ -31795,7 +31795,7 @@ const SEED_DATA = {
           "jullie": "plaatsvindden",
           "zij_plural": "plaatsvindden"
         },
-        "perfect": "geplaatsvindd"
+        "perfect": "geplaatsvind"
       }
     },
     {
@@ -31873,7 +31873,7 @@ const SEED_DATA = {
           "jullie": "plantten",
           "zij_plural": "plantten"
         },
-        "perfect": "geplantt"
+        "perfect": "geplant"
       }
     },
     {
@@ -31925,7 +31925,7 @@ const SEED_DATA = {
           "jullie": "pleitten",
           "zij_plural": "pleitten"
         },
-        "perfect": "gepleitt"
+        "perfect": "gepleit"
       }
     },
     {
@@ -32029,7 +32029,7 @@ const SEED_DATA = {
           "jullie": "praatten",
           "zij_plural": "praatten"
         },
-        "perfect": "gepraatt"
+        "perfect": "gepraat"
       }
     },
     {
@@ -32367,7 +32367,7 @@ const SEED_DATA = {
           "jullie": "putten",
           "zij_plural": "putten"
         },
-        "perfect": "geputt"
+        "perfect": "geput"
       }
     },
     {
@@ -32419,7 +32419,7 @@ const SEED_DATA = {
           "jullie": "raadden",
           "zij_plural": "raadden"
         },
-        "perfect": "geraadd"
+        "perfect": "geraad"
       }
     },
     {
@@ -32653,7 +32653,7 @@ const SEED_DATA = {
           "jullie": "redden",
           "zij_plural": "redden"
         },
-        "perfect": "geredd"
+        "perfect": "gered"
       }
     },
     {
@@ -33069,7 +33069,7 @@ const SEED_DATA = {
           "jullie": "richtten",
           "zij_plural": "richtten"
         },
-        "perfect": "gerichtt"
+        "perfect": "gericht"
       }
     },
     {
@@ -33589,7 +33589,7 @@ const SEED_DATA = {
           "jullie": "rustten",
           "zij_plural": "rustten"
         },
-        "perfect": "gerustt"
+        "perfect": "gerust"
       }
     },
     {
@@ -33671,7 +33671,7 @@ const SEED_DATA = {
           "jullie": "vatten samen",
           "zij_plural": "vatten samen"
         },
-        "perfect": "samengevatt",
+        "perfect": "samengevat",
         "separable": true,
         "prefix": "samen"
       }
@@ -33805,7 +33805,7 @@ const SEED_DATA = {
           "jullie": "schatten",
           "zij_plural": "schatten"
         },
-        "perfect": "geschatt"
+        "perfect": "geschat"
       }
     },
     {
@@ -33831,7 +33831,7 @@ const SEED_DATA = {
           "jullie": "scheidden",
           "zij_plural": "scheidden"
         },
-        "perfect": "gescheidd"
+        "perfect": "gescheid"
       }
     },
     {
@@ -34429,7 +34429,7 @@ const SEED_DATA = {
           "jullie": "schudden",
           "zij_plural": "schudden"
         },
-        "perfect": "geschudd"
+        "perfect": "geschud"
       }
     },
     {
@@ -35027,7 +35027,7 @@ const SEED_DATA = {
           "jullie": "smijtten",
           "zij_plural": "smijtten"
         },
-        "perfect": "gesmijtt"
+        "perfect": "gesmijt"
       }
     },
     {
@@ -35261,7 +35261,7 @@ const SEED_DATA = {
           "jullie": "spatten",
           "zij_plural": "spatten"
         },
-        "perfect": "gespatt"
+        "perfect": "gespat"
       }
     },
     {
@@ -35313,7 +35313,7 @@ const SEED_DATA = {
           "jullie": "spijtten",
           "zij_plural": "spijtten"
         },
-        "perfect": "gespijtt"
+        "perfect": "gespijt"
       }
     },
     {
@@ -35391,7 +35391,7 @@ const SEED_DATA = {
           "jullie": "spotten",
           "zij_plural": "spotten"
         },
-        "perfect": "gespott"
+        "perfect": "gespot"
       }
     },
     {
@@ -35417,7 +35417,7 @@ const SEED_DATA = {
           "jullie": "spreidden",
           "zij_plural": "spreidden"
         },
-        "perfect": "gespreidd"
+        "perfect": "gespreid"
       }
     },
     {
@@ -35495,7 +35495,7 @@ const SEED_DATA = {
           "jullie": "spuitten",
           "zij_plural": "spuitten"
         },
-        "perfect": "gespuitt"
+        "perfect": "gespuit"
       }
     },
     {
@@ -35703,7 +35703,7 @@ const SEED_DATA = {
           "jullie": "startten",
           "zij_plural": "startten"
         },
-        "perfect": "gestartt"
+        "perfect": "gestart"
       }
     },
     {
@@ -35885,7 +35885,7 @@ const SEED_DATA = {
           "jullie": "stichtten",
           "zij_plural": "stichtten"
         },
-        "perfect": "gestichtt"
+        "perfect": "gesticht"
       }
     },
     {
@@ -36119,7 +36119,7 @@ const SEED_DATA = {
           "jullie": "stortten",
           "zij_plural": "stortten"
         },
-        "perfect": "gestortt"
+        "perfect": "gestort"
       }
     },
     {
@@ -36145,7 +36145,7 @@ const SEED_DATA = {
           "jullie": "stootten",
           "zij_plural": "stootten"
         },
-        "perfect": "gestoott"
+        "perfect": "gestoot"
       }
     },
     {
@@ -36301,7 +36301,7 @@ const SEED_DATA = {
           "jullie": "strijdden",
           "zij_plural": "strijdden"
         },
-        "perfect": "gestrijdd"
+        "perfect": "gestrijd"
       }
     },
     {
@@ -36457,7 +36457,7 @@ const SEED_DATA = {
           "jullie": "stuitten",
           "zij_plural": "stuitten"
         },
-        "perfect": "gestuitt"
+        "perfect": "gestuit"
       }
     },
     {
@@ -36561,7 +36561,7 @@ const SEED_DATA = {
           "jullie": "tastten",
           "zij_plural": "tastten"
         },
-        "perfect": "getastt"
+        "perfect": "getast"
       }
     },
     {
@@ -36915,7 +36915,7 @@ const SEED_DATA = {
           "jullie": "testten",
           "zij_plural": "testten"
         },
-        "perfect": "getestt"
+        "perfect": "getest"
       }
     },
     {
@@ -37517,7 +37517,7 @@ const SEED_DATA = {
           "jullie": "trachtten",
           "zij_plural": "trachtten"
         },
-        "perfect": "getrachtt"
+        "perfect": "getracht"
       }
     },
     {
@@ -37569,7 +37569,7 @@ const SEED_DATA = {
           "jullie": "treedden",
           "zij_plural": "treedden"
         },
-        "perfect": "getreedd"
+        "perfect": "getreed"
       }
     },
     {
@@ -37673,7 +37673,7 @@ const SEED_DATA = {
           "jullie": "troostten",
           "zij_plural": "troostten"
         },
-        "perfect": "getroostt"
+        "perfect": "getroost"
       }
     },
     {
@@ -37803,7 +37803,7 @@ const SEED_DATA = {
           "jullie": "breidden uit",
           "zij_plural": "breidden uit"
         },
-        "perfect": "uitgebreidd",
+        "perfect": "uitgebreid",
         "separable": true,
         "prefix": "uit"
       }
@@ -37971,7 +37971,7 @@ const SEED_DATA = {
           "jullie": "eenzetten uit",
           "zij_plural": "eenzetten uit"
         },
-        "perfect": "uitgeeenzett",
+        "perfect": "uitgeeenzet",
         "separable": true,
         "prefix": "uit"
       }
@@ -37999,7 +37999,7 @@ const SEED_DATA = {
           "jullie": "uitten",
           "zij_plural": "uitten"
         },
-        "perfect": "geuitt"
+        "perfect": "geuit"
       }
     },
     {
@@ -38389,7 +38389,7 @@ const SEED_DATA = {
           "jullie": "putten uit",
           "zij_plural": "putten uit"
         },
-        "perfect": "uitgeputt",
+        "perfect": "uitgeput",
         "separable": true,
         "prefix": "uit"
       }
@@ -38445,7 +38445,7 @@ const SEED_DATA = {
           "jullie": "rustten uit",
           "zij_plural": "rustten uit"
         },
-        "perfect": "uitgerustt",
+        "perfect": "uitgerust",
         "separable": true,
         "prefix": "uit"
       }
@@ -39053,7 +39053,7 @@ const SEED_DATA = {
           "jullie": "vatten",
           "zij_plural": "vatten"
         },
-        "perfect": "gevatt"
+        "perfect": "gevat"
       }
     },
     {
@@ -39079,7 +39079,7 @@ const SEED_DATA = {
           "jullie": "vechtten",
           "zij_plural": "vechtten"
         },
-        "perfect": "gevechtt"
+        "perfect": "gevecht"
       }
     },
     {
@@ -39209,7 +39209,7 @@ const SEED_DATA = {
           "jullie": "verantwoordden",
           "zij_plural": "verantwoordden"
         },
-        "perfect": "verantwoordd"
+        "perfect": "verantwoord"
       }
     },
     {
@@ -39261,7 +39261,7 @@ const SEED_DATA = {
           "jullie": "verbeeldden",
           "zij_plural": "verbeeldden"
         },
-        "perfect": "verbeeldd"
+        "perfect": "verbeeld"
       }
     },
     {
@@ -39417,7 +39417,7 @@ const SEED_DATA = {
           "jullie": "verblindden",
           "zij_plural": "verblindden"
         },
-        "perfect": "verblindd"
+        "perfect": "verblind"
       }
     },
     {
@@ -39469,7 +39469,7 @@ const SEED_DATA = {
           "jullie": "verbrandden",
           "zij_plural": "verbrandden"
         },
-        "perfect": "verbrandd"
+        "perfect": "verbrand"
       }
     },
     {
@@ -40119,7 +40119,7 @@ const SEED_DATA = {
           "jullie": "vergrootten",
           "zij_plural": "vergrootten"
         },
-        "perfect": "vergroott"
+        "perfect": "vergroot"
       }
     },
     {
@@ -40509,7 +40509,7 @@ const SEED_DATA = {
           "jullie": "verlaatten",
           "zij_plural": "verlaatten"
         },
-        "perfect": "verlaatt"
+        "perfect": "verlaat"
       }
     },
     {
@@ -40535,7 +40535,7 @@ const SEED_DATA = {
           "jullie": "verleidden",
           "zij_plural": "verleidden"
         },
-        "perfect": "verleidd"
+        "perfect": "verleid"
       }
     },
     {
@@ -40613,7 +40613,7 @@ const SEED_DATA = {
           "jullie": "verlichtten",
           "zij_plural": "verlichtten"
         },
-        "perfect": "verlichtt"
+        "perfect": "verlicht"
       }
     },
     {
@@ -40717,7 +40717,7 @@ const SEED_DATA = {
           "jullie": "vermeldden",
           "zij_plural": "vermeldden"
         },
-        "perfect": "vermeldd"
+        "perfect": "vermeld"
       }
     },
     {
@@ -40769,7 +40769,7 @@ const SEED_DATA = {
           "jullie": "vermijdden",
           "zij_plural": "vermijdden"
         },
-        "perfect": "vermijdd"
+        "perfect": "vermijd"
       }
     },
     {
@@ -40821,7 +40821,7 @@ const SEED_DATA = {
           "jullie": "vermoedden",
           "zij_plural": "vermoedden"
         },
-        "perfect": "vermoedd"
+        "perfect": "vermoed"
       }
     },
     {
@@ -40873,7 +40873,7 @@ const SEED_DATA = {
           "jullie": "vermoordden",
           "zij_plural": "vermoordden"
         },
-        "perfect": "vermoordd"
+        "perfect": "vermoord"
       }
     },
     {
@@ -41211,7 +41211,7 @@ const SEED_DATA = {
           "jullie": "verplichtten",
           "zij_plural": "verplichtten"
         },
-        "perfect": "verplichtt"
+        "perfect": "verplicht"
       }
     },
     {
@@ -41237,7 +41237,7 @@ const SEED_DATA = {
           "jullie": "verraadden",
           "zij_plural": "verraadden"
         },
-        "perfect": "verraadd"
+        "perfect": "verraad"
       }
     },
     {
@@ -41289,7 +41289,7 @@ const SEED_DATA = {
           "jullie": "verrichtten",
           "zij_plural": "verrichtten"
         },
-        "perfect": "verrichtt"
+        "perfect": "verricht"
       }
     },
     {
@@ -41523,7 +41523,7 @@ const SEED_DATA = {
           "jullie": "verspreidden",
           "zij_plural": "verspreidden"
         },
-        "perfect": "verspreidd"
+        "perfect": "verspreid"
       }
     },
     {
@@ -42121,7 +42121,7 @@ const SEED_DATA = {
           "jullie": "verwachtten",
           "zij_plural": "verwachtten"
         },
-        "perfect": "verwachtt"
+        "perfect": "verwacht"
       }
     },
     {
@@ -42355,7 +42355,7 @@ const SEED_DATA = {
           "jullie": "verwijtten",
           "zij_plural": "verwijtten"
         },
-        "perfect": "verwijtt"
+        "perfect": "verwijt"
       }
     },
     {
@@ -42511,7 +42511,7 @@ const SEED_DATA = {
           "jullie": "verzetten",
           "zij_plural": "verzetten"
         },
-        "perfect": "verzett"
+        "perfect": "verzet"
       }
     },
     {
@@ -42901,7 +42901,7 @@ const SEED_DATA = {
           "jullie": "vluchtten",
           "zij_plural": "vluchtten"
         },
-        "perfect": "gevluchtt"
+        "perfect": "gevlucht"
       }
     },
     {
@@ -42927,7 +42927,7 @@ const SEED_DATA = {
           "jullie": "voedden",
           "zij_plural": "voedden"
         },
-        "perfect": "gevoedd"
+        "perfect": "gevoed"
       }
     },
     {
@@ -43083,7 +43083,7 @@ const SEED_DATA = {
           "jullie": "volhoudden",
           "zij_plural": "volhoudden"
         },
-        "perfect": "gevolhoudd"
+        "perfect": "gevolhoud"
       }
     },
     {
@@ -43241,7 +43241,7 @@ const SEED_DATA = {
           "jullie": "bereidden voor",
           "zij_plural": "bereidden voor"
         },
-        "perfect": "voorgebereidd",
+        "perfect": "voorgebereid",
         "separable": true,
         "prefix": "voor"
       }
@@ -43629,7 +43629,7 @@ const SEED_DATA = {
           "jullie": "zetten voort",
           "zij_plural": "zetten voort"
         },
-        "perfect": "voortgezett",
+        "perfect": "voortgezet",
         "separable": true,
         "prefix": "voort"
       }
@@ -43787,7 +43787,7 @@ const SEED_DATA = {
           "jullie": "vreetten",
           "zij_plural": "vreetten"
         },
-        "perfect": "gevreett"
+        "perfect": "gevreet"
       }
     },
     {
@@ -44047,7 +44047,7 @@ const SEED_DATA = {
           "jullie": "wachtten",
           "zij_plural": "wachtten"
         },
-        "perfect": "gewachtt"
+        "perfect": "gewacht"
       }
     },
     {
@@ -44307,7 +44307,7 @@ const SEED_DATA = {
           "jullie": "weerhoudden",
           "zij_plural": "weerhoudden"
         },
-        "perfect": "geweerhoudd"
+        "perfect": "geweerhoud"
       }
     },
     {
@@ -44575,7 +44575,7 @@ const SEED_DATA = {
           "jullie": "wendden",
           "zij_plural": "wendden"
         },
-        "perfect": "gewendd"
+        "perfect": "gewend"
       }
     },
     {
@@ -44809,7 +44809,7 @@ const SEED_DATA = {
           "jullie": "wetten",
           "zij_plural": "wetten"
         },
-        "perfect": "gewett"
+        "perfect": "gewet"
       }
     },
     {
@@ -44861,7 +44861,7 @@ const SEED_DATA = {
           "jullie": "wijdden",
           "zij_plural": "wijdden"
         },
-        "perfect": "gewijdd"
+        "perfect": "gewijd"
       }
     },
     {
@@ -44913,7 +44913,7 @@ const SEED_DATA = {
           "jullie": "wijtten",
           "zij_plural": "wijtten"
         },
-        "perfect": "gewijtt"
+        "perfect": "gewijt"
       }
     },
     {
@@ -45121,7 +45121,7 @@ const SEED_DATA = {
           "jullie": "woedden",
           "zij_plural": "woedden"
         },
-        "perfect": "gewoedd"
+        "perfect": "gewoed"
       }
     },
     {
@@ -45433,7 +45433,7 @@ const SEED_DATA = {
           "jullie": "zetten",
           "zij_plural": "zetten"
         },
-        "perfect": "gezett"
+        "perfect": "gezet"
       }
     },
     {
@@ -45745,7 +45745,7 @@ const SEED_DATA = {
           "jullie": "zuchtten",
           "zij_plural": "zuchtten"
         },
-        "perfect": "gezuchtt"
+        "perfect": "gezucht"
       }
     },
     {
@@ -45953,7 +45953,7 @@ const SEED_DATA = {
           "jullie": "zweetten",
           "zij_plural": "zweetten"
         },
-        "perfect": "gezweett"
+        "perfect": "gezweet"
       }
     },
     {

@@ -271,12 +271,18 @@ def conjugate_regular(infinitive):
         }
 
     # Perfect participle
+    # Rule: ge + stem + t (if 't kofschip) or + d (otherwise)
+    # But don't double: if stem already ends in 'd', don't add another 'd'
+    # Same for 't' — if stem ends in 't', don't add another 't'
+    def make_perfect_suffix(stem):
+        if stem.endswith('ch') or stem[-1] in tkofschip:
+            return stem if stem.endswith('t') else stem + 't'
+        else:
+            return stem if stem.endswith('d') else stem + 'd'
+
     if is_sep:
         # Separable: prefix + ge + stem + t/d → "opgebeld", "aangekomen"
-        if stem.endswith('ch') or stem[-1] in tkofschip:
-            perfect = sep_prefix + 'ge' + stem + 't'
-        else:
-            perfect = sep_prefix + 'ge' + stem + 'd'
+        perfect = sep_prefix + 'ge' + make_perfect_suffix(stem)
     else:
         prefix = 'ge'
         # Inseparable prefixes don't get 'ge-'
@@ -291,10 +297,7 @@ def conjugate_regular(infinitive):
                     prefix = ''
                     break
 
-        if stem.endswith('ch') or stem[-1] in tkofschip:
-            perfect = prefix + stem + 't'
-        else:
-            perfect = prefix + stem + 'd'
+        perfect = prefix + make_perfect_suffix(stem)
 
         # Fix double 'ge' for verbs starting with 'ge'
         if perfect.startswith('gege'):

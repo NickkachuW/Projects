@@ -190,7 +190,7 @@
         "jullie": "duidden aan",
         "zij_plural": "duidden aan"
       },
-      "perfect": "aangeduidd",
+      "perfect": "aangeduid",
       "separable": true,
       "prefix": "aan"
     }
@@ -554,7 +554,7 @@
         "jullie": "raadden aan",
         "zij_plural": "raadden aan"
       },
-      "perfect": "aangeraadd",
+      "perfect": "aangeraad",
       "separable": true,
       "prefix": "aan"
     }
@@ -666,7 +666,7 @@
         "jullie": "tastten aan",
         "zij_plural": "tastten aan"
       },
-      "perfect": "aangetastt",
+      "perfect": "aangetast",
       "separable": true,
       "prefix": "aan"
     }
@@ -778,7 +778,7 @@
         "jullie": "vaardden aan",
         "zij_plural": "vaardden aan"
       },
-      "perfect": "aangevaardd",
+      "perfect": "aangevaard",
       "separable": true,
       "prefix": "aan"
     }
@@ -918,7 +918,7 @@
         "jullie": "wendden aan",
         "zij_plural": "wendden aan"
       },
-      "perfect": "aangewendd",
+      "perfect": "aangewend",
       "separable": true,
       "prefix": "aan"
     }
@@ -974,7 +974,7 @@
         "jullie": "zetten aan",
         "zij_plural": "zetten aan"
       },
-      "perfect": "aangezett",
+      "perfect": "aangezet",
       "separable": true,
       "prefix": "aan"
     }
@@ -1054,7 +1054,7 @@
         "jullie": "achtten",
         "zij_plural": "achtten"
       },
-      "perfect": "geachtt"
+      "perfect": "geacht"
     }
   },
   {
@@ -1240,7 +1240,7 @@
         "jullie": "beeldden af",
         "zij_plural": "beeldden af"
       },
-      "perfect": "afgebeeldd",
+      "perfect": "afgebeeld",
       "separable": true,
       "prefix": "af"
     }
@@ -1436,7 +1436,7 @@
         "jullie": "leidden af",
         "zij_plural": "leidden af"
       },
-      "perfect": "afgeleidd",
+      "perfect": "afgeleid",
       "separable": true,
       "prefix": "af"
     }
@@ -1744,7 +1744,7 @@
         "jullie": "wachtten af",
         "zij_plural": "wachtten af"
       },
-      "perfect": "afgewachtt",
+      "perfect": "afgewacht",
       "separable": true,
       "prefix": "af"
     }
@@ -1828,7 +1828,7 @@
         "jullie": "zetten af",
         "zij_plural": "zetten af"
       },
-      "perfect": "afgezett",
+      "perfect": "afgezet",
       "separable": true,
       "prefix": "af"
     }
@@ -1908,7 +1908,7 @@
         "jullie": "antwoordden",
         "zij_plural": "antwoordden"
       },
-      "perfect": "geantwoordd"
+      "perfect": "geantwoord"
     }
   },
   {
@@ -2012,7 +2012,7 @@
         "jullie": "baadden",
         "zij_plural": "baadden"
       },
-      "perfect": "gebaadd"
+      "perfect": "gebaad"
     }
   },
   {
@@ -2090,7 +2090,7 @@
         "jullie": "barstten",
         "zij_plural": "barstten"
       },
-      "perfect": "gebarstt"
+      "perfect": "gebarst"
     }
   },
   {
@@ -2142,7 +2142,7 @@
         "jullie": "beantwoordden",
         "zij_plural": "beantwoordden"
       },
-      "perfect": "beantwoordd"
+      "perfect": "beantwoord"
     }
   },
   {
@@ -2506,7 +2506,7 @@
         "jullie": "begeleidden",
         "zij_plural": "begeleidden"
       },
-      "perfect": "begeleidd"
+      "perfect": "begeleid"
     }
   },
   {
@@ -2688,7 +2688,7 @@
         "jullie": "begroetten",
         "zij_plural": "begroetten"
       },
-      "perfect": "begroett"
+      "perfect": "begroet"
     }
   },
   {
@@ -2844,7 +2844,7 @@
         "jullie": "behoudden",
         "zij_plural": "behoudden"
       },
-      "perfect": "behoudd"
+      "perfect": "behoud"
     }
   },
   {
@@ -2948,7 +2948,7 @@
         "jullie": "bekleedden",
         "zij_plural": "bekleedden"
       },
-      "perfect": "bekleedd"
+      "perfect": "bekleed"
     }
   },
   {
@@ -3026,7 +3026,7 @@
         "jullie": "belandden",
         "zij_plural": "belandden"
       },
-      "perfect": "belandd"
+      "perfect": "beland"
     }
   },
   {
@@ -3052,7 +3052,7 @@
         "jullie": "belastten",
         "zij_plural": "belastten"
       },
-      "perfect": "belastt"
+      "perfect": "belast"
     }
   },
   {
@@ -3130,7 +3130,7 @@
         "jullie": "beletten",
         "zij_plural": "beletten"
       },
-      "perfect": "belett"
+      "perfect": "belet"
     }
   },
   {
@@ -3364,7 +3364,7 @@
         "jullie": "benutten",
         "zij_plural": "benutten"
       },
-      "perfect": "benutt"
+      "perfect": "benut"
     }
   },
   {
@@ -3520,7 +3520,7 @@
         "jullie": "bepleitten",
         "zij_plural": "bepleitten"
       },
-      "perfect": "bepleitt"
+      "perfect": "bepleit"
     }
   },
   {
@@ -3546,7 +3546,7 @@
         "jullie": "bereidden",
         "zij_plural": "bereidden"
       },
-      "perfect": "bereidd"
+      "perfect": "bereid"
     }
   },
   {
@@ -3728,7 +3728,7 @@
         "jullie": "berustten",
         "zij_plural": "berustten"
       },
-      "perfect": "berustt"
+      "perfect": "berust"
     }
   },
   {
@@ -4066,7 +4066,7 @@
         "jullie": "besteedden",
         "zij_plural": "besteedden"
       },
-      "perfect": "besteedd"
+      "perfect": "besteed"
     }
   },
   {
@@ -4326,7 +4326,7 @@
         "jullie": "betreedden",
         "zij_plural": "betreedden"
       },
-      "perfect": "betreedd"
+      "perfect": "betreed"
     }
   },
   {
@@ -4482,7 +4482,7 @@
         "jullie": "bevatten",
         "zij_plural": "bevatten"
       },
-      "perfect": "bevatt"
+      "perfect": "bevat"
     }
   },
   {
@@ -4586,7 +4586,7 @@
         "jullie": "bevindden",
         "zij_plural": "bevindden"
       },
-      "perfect": "bevindd"
+      "perfect": "bevind"
     }
   },
   {
@@ -4690,7 +4690,7 @@
         "jullie": "bevrijdden",
         "zij_plural": "bevrijdden"
       },
-      "perfect": "bevrijdd"
+      "perfect": "bevrijd"
     }
   },
   {
@@ -4950,7 +4950,7 @@
         "jullie": "bezetten",
         "zij_plural": "bezetten"
       },
-      "perfect": "bezett"
+      "perfect": "bezet"
     }
   },
   {
@@ -5002,7 +5002,7 @@
         "jullie": "bezighoudden",
         "zij_plural": "bezighoudden"
       },
-      "perfect": "bezighoudd"
+      "perfect": "bezighoud"
     }
   },
   {
@@ -5028,7 +5028,7 @@
         "jullie": "bezitten",
         "zij_plural": "bezitten"
       },
-      "perfect": "bezitt"
+      "perfect": "bezit"
     }
   },
   {
@@ -5158,7 +5158,7 @@
         "jullie": "beïnvloedden",
         "zij_plural": "beïnvloedden"
       },
-      "perfect": "beïnvloedd"
+      "perfect": "beïnvloed"
     }
   },
   {
@@ -5184,7 +5184,7 @@
         "jullie": "bidden",
         "zij_plural": "bidden"
       },
-      "perfect": "gebidd"
+      "perfect": "gebid"
     }
   },
   {
@@ -5558,7 +5558,7 @@
         "jullie": "bloedden",
         "zij_plural": "bloedden"
       },
-      "perfect": "gebloedd"
+      "perfect": "gebloed"
     }
   },
   {
@@ -5818,7 +5818,7 @@
         "jullie": "brandden",
         "zij_plural": "brandden"
       },
-      "perfect": "gebrandd"
+      "perfect": "gebrand"
     }
   },
   {
@@ -6650,7 +6650,7 @@
         "jullie": "doodden",
         "zij_plural": "doodden"
       },
-      "perfect": "gedoodd"
+      "perfect": "gedood"
     }
   },
   {
@@ -7366,7 +7366,7 @@
         "jullie": "duidden",
         "zij_plural": "duidden"
       },
-      "perfect": "geduidd"
+      "perfect": "geduid"
     }
   },
   {
@@ -7418,7 +7418,7 @@
         "jullie": "duldden",
         "zij_plural": "duldden"
       },
-      "perfect": "geduldd"
+      "perfect": "geduld"
     }
   },
   {
@@ -7886,7 +7886,7 @@
         "jullie": "fluitten",
         "zij_plural": "fluitten"
       },
-      "perfect": "gefluitt"
+      "perfect": "gefluit"
     }
   },
   {
@@ -8198,7 +8198,7 @@
         "jullie": "gebiedden",
         "zij_plural": "gebiedden"
       },
-      "perfect": "gebiedd"
+      "perfect": "gebied"
     }
   },
   {
@@ -8302,7 +8302,7 @@
         "jullie": "geldden",
         "zij_plural": "geldden"
       },
-      "perfect": "geldd"
+      "perfect": "geld"
     }
   },
   {
@@ -8484,7 +8484,7 @@
         "jullie": "geschiedden",
         "zij_plural": "geschiedden"
       },
-      "perfect": "geschiedd"
+      "perfect": "geschied"
     }
   },
   {
@@ -8744,7 +8744,7 @@
         "jullie": "glijdden",
         "zij_plural": "glijdden"
       },
-      "perfect": "geglijdd"
+      "perfect": "geglijd"
     }
   },
   {
@@ -9134,7 +9134,7 @@
         "jullie": "groetten",
         "zij_plural": "groetten"
       },
-      "perfect": "gegroett"
+      "perfect": "gegroet"
     }
   },
   {
@@ -9212,7 +9212,7 @@
         "jullie": "haastten",
         "zij_plural": "haastten"
       },
-      "perfect": "gehaastt"
+      "perfect": "gehaast"
     }
   },
   {
@@ -9420,7 +9420,7 @@
         "jullie": "haatten",
         "zij_plural": "haatten"
       },
-      "perfect": "gehaatt"
+      "perfect": "gehaat"
     }
   },
   {
@@ -9472,7 +9472,7 @@
         "jullie": "hechtten",
         "zij_plural": "hechtten"
       },
-      "perfect": "gehechtt"
+      "perfect": "gehecht"
     }
   },
   {
@@ -9706,7 +9706,7 @@
         "jullie": "heetten",
         "zij_plural": "heetten"
       },
-      "perfect": "geheett"
+      "perfect": "geheet"
     }
   },
   {
@@ -9810,7 +9810,7 @@
         "jullie": "hoestten",
         "zij_plural": "hoestten"
       },
-      "perfect": "gehoestt"
+      "perfect": "gehoest"
     }
   },
   {
@@ -10370,7 +10370,7 @@
         "jullie": "lichtten in",
         "zij_plural": "lichtten in"
       },
-      "perfect": "ingelichtt",
+      "perfect": "ingelicht",
       "separable": true,
       "prefix": "in"
     }
@@ -10426,7 +10426,7 @@
         "jullie": "richtten in",
         "zij_plural": "richtten in"
       },
-      "perfect": "ingerichtt",
+      "perfect": "ingericht",
       "separable": true,
       "prefix": "in"
     }
@@ -10790,7 +10790,7 @@
         "jullie": "zetten in",
         "zij_plural": "zetten in"
       },
-      "perfect": "ingezett",
+      "perfect": "ingezet",
       "separable": true,
       "prefix": "in"
     }
@@ -11262,7 +11262,7 @@
         "jullie": "kleedden",
         "zij_plural": "kleedden"
       },
-      "perfect": "gekleedd"
+      "perfect": "gekleed"
     }
   },
   {
@@ -12198,7 +12198,7 @@
         "jullie": "landden",
         "zij_plural": "landden"
       },
-      "perfect": "gelandd"
+      "perfect": "geland"
     }
   },
   {
@@ -12276,7 +12276,7 @@
         "jullie": "leidden",
         "zij_plural": "leidden"
       },
-      "perfect": "geleidd"
+      "perfect": "geleid"
     }
   },
   {
@@ -12354,7 +12354,7 @@
         "jullie": "letten",
         "zij_plural": "letten"
       },
-      "perfect": "gelett"
+      "perfect": "gelet"
     }
   },
   {
@@ -12458,7 +12458,7 @@
         "jullie": "lichtten",
         "zij_plural": "lichtten"
       },
-      "perfect": "gelichtt"
+      "perfect": "gelicht"
     }
   },
   {
@@ -12796,7 +12796,7 @@
         "jullie": "loslatten",
         "zij_plural": "loslatten"
       },
-      "perfect": "geloslatt"
+      "perfect": "geloslat"
     }
   },
   {
@@ -12874,7 +12874,7 @@
         "jullie": "luchtten",
         "zij_plural": "luchtten"
       },
-      "perfect": "geluchtt"
+      "perfect": "gelucht"
     }
   },
   {
@@ -12900,7 +12900,7 @@
         "jullie": "luidden",
         "zij_plural": "luidden"
       },
-      "perfect": "geluidd"
+      "perfect": "geluid"
     }
   },
   {
@@ -13304,7 +13304,7 @@
         "jullie": "meldden",
         "zij_plural": "meldden"
       },
-      "perfect": "gemeldd"
+      "perfect": "gemeld"
     }
   },
   {
@@ -13434,7 +13434,7 @@
         "jullie": "misleidden",
         "zij_plural": "misleidden"
       },
-      "perfect": "gemisleidd"
+      "perfect": "gemisleid"
     }
   },
   {
@@ -13812,7 +13812,7 @@
         "jullie": "zetten neer",
         "zij_plural": "zetten neer"
       },
-      "perfect": "neergezett",
+      "perfect": "neergezet",
       "separable": true,
       "prefix": "neer"
     }
@@ -13970,7 +13970,7 @@
         "jullie": "noodden",
         "zij_plural": "noodden"
       },
-      "perfect": "genoodd"
+      "perfect": "genood"
     }
   },
   {
@@ -14342,7 +14342,7 @@
         "jullie": "omvatten",
         "zij_plural": "omvatten"
       },
-      "perfect": "geomvatt"
+      "perfect": "geomvat"
     }
   },
   {
@@ -14368,7 +14368,7 @@
         "jullie": "zetten om",
         "zij_plural": "zetten om"
       },
-      "perfect": "omgezett",
+      "perfect": "omgezet",
       "separable": true,
       "prefix": "om"
     }
@@ -14530,7 +14530,7 @@
         "jullie": "onderhoudden",
         "zij_plural": "onderhoudden"
       },
-      "perfect": "geonderhoudd"
+      "perfect": "geonderhoud"
     }
   },
   {
@@ -14610,7 +14610,7 @@
         "jullie": "onderschatten",
         "zij_plural": "onderschatten"
       },
-      "perfect": "geonderschatt"
+      "perfect": "geonderschat"
     }
   },
   {
@@ -14636,7 +14636,7 @@
         "jullie": "onderscheidden",
         "zij_plural": "onderscheidden"
       },
-      "perfect": "geonderscheidd"
+      "perfect": "geonderscheid"
     }
   },
   {
@@ -14714,7 +14714,7 @@
         "jullie": "ondervindden",
         "zij_plural": "ondervindden"
       },
-      "perfect": "geondervindd"
+      "perfect": "geondervind"
     }
   },
   {
@@ -14924,7 +14924,7 @@
         "jullie": "onthoudden",
         "zij_plural": "onthoudden"
       },
-      "perfect": "onthoudd"
+      "perfect": "onthoud"
     }
   },
   {
@@ -15054,7 +15054,7 @@
         "jullie": "ontmoetten",
         "zij_plural": "ontmoetten"
       },
-      "perfect": "ontmoett"
+      "perfect": "ontmoet"
     }
   },
   {
@@ -15418,7 +15418,7 @@
         "jullie": "ontzetten",
         "zij_plural": "ontzetten"
       },
-      "perfect": "ontzett"
+      "perfect": "ontzet"
     }
   },
   {
@@ -16142,7 +16142,7 @@
         "jullie": "leidden op",
         "zij_plural": "leidden op"
       },
-      "perfect": "opgeleidd",
+      "perfect": "opgeleid",
       "separable": true,
       "prefix": "op"
     }
@@ -16170,7 +16170,7 @@
         "jullie": "letten op",
         "zij_plural": "letten op"
       },
-      "perfect": "opgelett",
+      "perfect": "opgelet",
       "separable": true,
       "prefix": "op"
     }
@@ -16282,7 +16282,7 @@
         "jullie": "luchtten op",
         "zij_plural": "luchtten op"
       },
-      "perfect": "opgeluchtt",
+      "perfect": "opgelucht",
       "separable": true,
       "prefix": "op"
     }
@@ -16450,7 +16450,7 @@
         "jullie": "richtten op",
         "zij_plural": "richtten op"
       },
-      "perfect": "opgerichtt",
+      "perfect": "opgericht",
       "separable": true,
       "prefix": "op"
     }
@@ -16758,7 +16758,7 @@
         "jullie": "treedden op",
         "zij_plural": "treedden op"
       },
-      "perfect": "opgetreedd",
+      "perfect": "opgetreed",
       "separable": true,
       "prefix": "op"
     }
@@ -16870,7 +16870,7 @@
         "jullie": "vatten op",
         "zij_plural": "vatten op"
       },
-      "perfect": "opgevatt",
+      "perfect": "opgevat",
       "separable": true,
       "prefix": "op"
     }
@@ -16898,7 +16898,7 @@
         "jullie": "voedden op",
         "zij_plural": "voedden op"
       },
-      "perfect": "opgevoedd",
+      "perfect": "opgevoed",
       "separable": true,
       "prefix": "op"
     }
@@ -17010,7 +17010,7 @@
         "jullie": "windden op",
         "zij_plural": "windden op"
       },
-      "perfect": "opgewindd",
+      "perfect": "opgewind",
       "separable": true,
       "prefix": "op"
     }
@@ -17038,7 +17038,7 @@
         "jullie": "zetten op",
         "zij_plural": "zetten op"
       },
-      "perfect": "opgezett",
+      "perfect": "opgezet",
       "separable": true,
       "prefix": "op"
     }
@@ -17614,7 +17614,7 @@
         "jullie": "overschrijdden",
         "zij_plural": "overschrijdden"
       },
-      "perfect": "geoverschrijdd"
+      "perfect": "geoverschrijd"
     }
   },
   {
@@ -18142,7 +18142,7 @@
         "jullie": "plaatsvindden",
         "zij_plural": "plaatsvindden"
       },
-      "perfect": "geplaatsvindd"
+      "perfect": "geplaatsvind"
     }
   },
   {
@@ -18220,7 +18220,7 @@
         "jullie": "plantten",
         "zij_plural": "plantten"
       },
-      "perfect": "geplantt"
+      "perfect": "geplant"
     }
   },
   {
@@ -18272,7 +18272,7 @@
         "jullie": "pleitten",
         "zij_plural": "pleitten"
       },
-      "perfect": "gepleitt"
+      "perfect": "gepleit"
     }
   },
   {
@@ -18376,7 +18376,7 @@
         "jullie": "praatten",
         "zij_plural": "praatten"
       },
-      "perfect": "gepraatt"
+      "perfect": "gepraat"
     }
   },
   {
@@ -18714,7 +18714,7 @@
         "jullie": "putten",
         "zij_plural": "putten"
       },
-      "perfect": "geputt"
+      "perfect": "geput"
     }
   },
   {
@@ -18766,7 +18766,7 @@
         "jullie": "raadden",
         "zij_plural": "raadden"
       },
-      "perfect": "geraadd"
+      "perfect": "geraad"
     }
   },
   {
@@ -19000,7 +19000,7 @@
         "jullie": "redden",
         "zij_plural": "redden"
       },
-      "perfect": "geredd"
+      "perfect": "gered"
     }
   },
   {
@@ -19416,7 +19416,7 @@
         "jullie": "richtten",
         "zij_plural": "richtten"
       },
-      "perfect": "gerichtt"
+      "perfect": "gericht"
     }
   },
   {
@@ -19936,7 +19936,7 @@
         "jullie": "rustten",
         "zij_plural": "rustten"
       },
-      "perfect": "gerustt"
+      "perfect": "gerust"
     }
   },
   {
@@ -20018,7 +20018,7 @@
         "jullie": "vatten samen",
         "zij_plural": "vatten samen"
       },
-      "perfect": "samengevatt",
+      "perfect": "samengevat",
       "separable": true,
       "prefix": "samen"
     }
@@ -20152,7 +20152,7 @@
         "jullie": "schatten",
         "zij_plural": "schatten"
       },
-      "perfect": "geschatt"
+      "perfect": "geschat"
     }
   },
   {
@@ -20178,7 +20178,7 @@
         "jullie": "scheidden",
         "zij_plural": "scheidden"
       },
-      "perfect": "gescheidd"
+      "perfect": "gescheid"
     }
   },
   {
@@ -20776,7 +20776,7 @@
         "jullie": "schudden",
         "zij_plural": "schudden"
       },
-      "perfect": "geschudd"
+      "perfect": "geschud"
     }
   },
   {
@@ -21374,7 +21374,7 @@
         "jullie": "smijtten",
         "zij_plural": "smijtten"
       },
-      "perfect": "gesmijtt"
+      "perfect": "gesmijt"
     }
   },
   {
@@ -21608,7 +21608,7 @@
         "jullie": "spatten",
         "zij_plural": "spatten"
       },
-      "perfect": "gespatt"
+      "perfect": "gespat"
     }
   },
   {
@@ -21660,7 +21660,7 @@
         "jullie": "spijtten",
         "zij_plural": "spijtten"
       },
-      "perfect": "gespijtt"
+      "perfect": "gespijt"
     }
   },
   {
@@ -21738,7 +21738,7 @@
         "jullie": "spotten",
         "zij_plural": "spotten"
       },
-      "perfect": "gespott"
+      "perfect": "gespot"
     }
   },
   {
@@ -21764,7 +21764,7 @@
         "jullie": "spreidden",
         "zij_plural": "spreidden"
       },
-      "perfect": "gespreidd"
+      "perfect": "gespreid"
     }
   },
   {
@@ -21842,7 +21842,7 @@
         "jullie": "spuitten",
         "zij_plural": "spuitten"
       },
-      "perfect": "gespuitt"
+      "perfect": "gespuit"
     }
   },
   {
@@ -22050,7 +22050,7 @@
         "jullie": "startten",
         "zij_plural": "startten"
       },
-      "perfect": "gestartt"
+      "perfect": "gestart"
     }
   },
   {
@@ -22232,7 +22232,7 @@
         "jullie": "stichtten",
         "zij_plural": "stichtten"
       },
-      "perfect": "gestichtt"
+      "perfect": "gesticht"
     }
   },
   {
@@ -22466,7 +22466,7 @@
         "jullie": "stortten",
         "zij_plural": "stortten"
       },
-      "perfect": "gestortt"
+      "perfect": "gestort"
     }
   },
   {
@@ -22492,7 +22492,7 @@
         "jullie": "stootten",
         "zij_plural": "stootten"
       },
-      "perfect": "gestoott"
+      "perfect": "gestoot"
     }
   },
   {
@@ -22648,7 +22648,7 @@
         "jullie": "strijdden",
         "zij_plural": "strijdden"
       },
-      "perfect": "gestrijdd"
+      "perfect": "gestrijd"
     }
   },
   {
@@ -22804,7 +22804,7 @@
         "jullie": "stuitten",
         "zij_plural": "stuitten"
       },
-      "perfect": "gestuitt"
+      "perfect": "gestuit"
     }
   },
   {
@@ -22908,7 +22908,7 @@
         "jullie": "tastten",
         "zij_plural": "tastten"
       },
-      "perfect": "getastt"
+      "perfect": "getast"
     }
   },
   {
@@ -23262,7 +23262,7 @@
         "jullie": "testten",
         "zij_plural": "testten"
       },
-      "perfect": "getestt"
+      "perfect": "getest"
     }
   },
   {
@@ -23864,7 +23864,7 @@
         "jullie": "trachtten",
         "zij_plural": "trachtten"
       },
-      "perfect": "getrachtt"
+      "perfect": "getracht"
     }
   },
   {
@@ -23916,7 +23916,7 @@
         "jullie": "treedden",
         "zij_plural": "treedden"
       },
-      "perfect": "getreedd"
+      "perfect": "getreed"
     }
   },
   {
@@ -24020,7 +24020,7 @@
         "jullie": "troostten",
         "zij_plural": "troostten"
       },
-      "perfect": "getroostt"
+      "perfect": "getroost"
     }
   },
   {
@@ -24150,7 +24150,7 @@
         "jullie": "breidden uit",
         "zij_plural": "breidden uit"
       },
-      "perfect": "uitgebreidd",
+      "perfect": "uitgebreid",
       "separable": true,
       "prefix": "uit"
     }
@@ -24318,7 +24318,7 @@
         "jullie": "eenzetten uit",
         "zij_plural": "eenzetten uit"
       },
-      "perfect": "uitgeeenzett",
+      "perfect": "uitgeeenzet",
       "separable": true,
       "prefix": "uit"
     }
@@ -24346,7 +24346,7 @@
         "jullie": "uitten",
         "zij_plural": "uitten"
       },
-      "perfect": "geuitt"
+      "perfect": "geuit"
     }
   },
   {
@@ -24736,7 +24736,7 @@
         "jullie": "putten uit",
         "zij_plural": "putten uit"
       },
-      "perfect": "uitgeputt",
+      "perfect": "uitgeput",
       "separable": true,
       "prefix": "uit"
     }
@@ -24792,7 +24792,7 @@
         "jullie": "rustten uit",
         "zij_plural": "rustten uit"
       },
-      "perfect": "uitgerustt",
+      "perfect": "uitgerust",
       "separable": true,
       "prefix": "uit"
     }
@@ -25400,7 +25400,7 @@
         "jullie": "vatten",
         "zij_plural": "vatten"
       },
-      "perfect": "gevatt"
+      "perfect": "gevat"
     }
   },
   {
@@ -25426,7 +25426,7 @@
         "jullie": "vechtten",
         "zij_plural": "vechtten"
       },
-      "perfect": "gevechtt"
+      "perfect": "gevecht"
     }
   },
   {
@@ -25556,7 +25556,7 @@
         "jullie": "verantwoordden",
         "zij_plural": "verantwoordden"
       },
-      "perfect": "verantwoordd"
+      "perfect": "verantwoord"
     }
   },
   {
@@ -25608,7 +25608,7 @@
         "jullie": "verbeeldden",
         "zij_plural": "verbeeldden"
       },
-      "perfect": "verbeeldd"
+      "perfect": "verbeeld"
     }
   },
   {
@@ -25764,7 +25764,7 @@
         "jullie": "verblindden",
         "zij_plural": "verblindden"
       },
-      "perfect": "verblindd"
+      "perfect": "verblind"
     }
   },
   {
@@ -25816,7 +25816,7 @@
         "jullie": "verbrandden",
         "zij_plural": "verbrandden"
       },
-      "perfect": "verbrandd"
+      "perfect": "verbrand"
     }
   },
   {
@@ -26466,7 +26466,7 @@
         "jullie": "vergrootten",
         "zij_plural": "vergrootten"
       },
-      "perfect": "vergroott"
+      "perfect": "vergroot"
     }
   },
   {
@@ -26856,7 +26856,7 @@
         "jullie": "verlaatten",
         "zij_plural": "verlaatten"
       },
-      "perfect": "verlaatt"
+      "perfect": "verlaat"
     }
   },
   {
@@ -26882,7 +26882,7 @@
         "jullie": "verleidden",
         "zij_plural": "verleidden"
       },
-      "perfect": "verleidd"
+      "perfect": "verleid"
     }
   },
   {
@@ -26960,7 +26960,7 @@
         "jullie": "verlichtten",
         "zij_plural": "verlichtten"
       },
-      "perfect": "verlichtt"
+      "perfect": "verlicht"
     }
   },
   {
@@ -27064,7 +27064,7 @@
         "jullie": "vermeldden",
         "zij_plural": "vermeldden"
       },
-      "perfect": "vermeldd"
+      "perfect": "vermeld"
     }
   },
   {
@@ -27116,7 +27116,7 @@
         "jullie": "vermijdden",
         "zij_plural": "vermijdden"
       },
-      "perfect": "vermijdd"
+      "perfect": "vermijd"
     }
   },
   {
@@ -27168,7 +27168,7 @@
         "jullie": "vermoedden",
         "zij_plural": "vermoedden"
       },
-      "perfect": "vermoedd"
+      "perfect": "vermoed"
     }
   },
   {
@@ -27220,7 +27220,7 @@
         "jullie": "vermoordden",
         "zij_plural": "vermoordden"
       },
-      "perfect": "vermoordd"
+      "perfect": "vermoord"
     }
   },
   {
@@ -27558,7 +27558,7 @@
         "jullie": "verplichtten",
         "zij_plural": "verplichtten"
       },
-      "perfect": "verplichtt"
+      "perfect": "verplicht"
     }
   },
   {
@@ -27584,7 +27584,7 @@
         "jullie": "verraadden",
         "zij_plural": "verraadden"
       },
-      "perfect": "verraadd"
+      "perfect": "verraad"
     }
   },
   {
@@ -27636,7 +27636,7 @@
         "jullie": "verrichtten",
         "zij_plural": "verrichtten"
       },
-      "perfect": "verrichtt"
+      "perfect": "verricht"
     }
   },
   {
@@ -27870,7 +27870,7 @@
         "jullie": "verspreidden",
         "zij_plural": "verspreidden"
       },
-      "perfect": "verspreidd"
+      "perfect": "verspreid"
     }
   },
   {
@@ -28468,7 +28468,7 @@
         "jullie": "verwachtten",
         "zij_plural": "verwachtten"
       },
-      "perfect": "verwachtt"
+      "perfect": "verwacht"
     }
   },
   {
@@ -28702,7 +28702,7 @@
         "jullie": "verwijtten",
         "zij_plural": "verwijtten"
       },
-      "perfect": "verwijtt"
+      "perfect": "verwijt"
     }
   },
   {
@@ -28858,7 +28858,7 @@
         "jullie": "verzetten",
         "zij_plural": "verzetten"
       },
-      "perfect": "verzett"
+      "perfect": "verzet"
     }
   },
   {
@@ -29248,7 +29248,7 @@
         "jullie": "vluchtten",
         "zij_plural": "vluchtten"
       },
-      "perfect": "gevluchtt"
+      "perfect": "gevlucht"
     }
   },
   {
@@ -29274,7 +29274,7 @@
         "jullie": "voedden",
         "zij_plural": "voedden"
       },
-      "perfect": "gevoedd"
+      "perfect": "gevoed"
     }
   },
   {
@@ -29430,7 +29430,7 @@
         "jullie": "volhoudden",
         "zij_plural": "volhoudden"
       },
-      "perfect": "gevolhoudd"
+      "perfect": "gevolhoud"
     }
   },
   {
@@ -29588,7 +29588,7 @@
         "jullie": "bereidden voor",
         "zij_plural": "bereidden voor"
       },
-      "perfect": "voorgebereidd",
+      "perfect": "voorgebereid",
       "separable": true,
       "prefix": "voor"
     }
@@ -29976,7 +29976,7 @@
         "jullie": "zetten voort",
         "zij_plural": "zetten voort"
       },
-      "perfect": "voortgezett",
+      "perfect": "voortgezet",
       "separable": true,
       "prefix": "voort"
     }
@@ -30134,7 +30134,7 @@
         "jullie": "vreetten",
         "zij_plural": "vreetten"
       },
-      "perfect": "gevreett"
+      "perfect": "gevreet"
     }
   },
   {
@@ -30394,7 +30394,7 @@
         "jullie": "wachtten",
         "zij_plural": "wachtten"
       },
-      "perfect": "gewachtt"
+      "perfect": "gewacht"
     }
   },
   {
@@ -30654,7 +30654,7 @@
         "jullie": "weerhoudden",
         "zij_plural": "weerhoudden"
       },
-      "perfect": "geweerhoudd"
+      "perfect": "geweerhoud"
     }
   },
   {
@@ -30922,7 +30922,7 @@
         "jullie": "wendden",
         "zij_plural": "wendden"
       },
-      "perfect": "gewendd"
+      "perfect": "gewend"
     }
   },
   {
@@ -31156,7 +31156,7 @@
         "jullie": "wetten",
         "zij_plural": "wetten"
       },
-      "perfect": "gewett"
+      "perfect": "gewet"
     }
   },
   {
@@ -31208,7 +31208,7 @@
         "jullie": "wijdden",
         "zij_plural": "wijdden"
       },
-      "perfect": "gewijdd"
+      "perfect": "gewijd"
     }
   },
   {
@@ -31260,7 +31260,7 @@
         "jullie": "wijtten",
         "zij_plural": "wijtten"
       },
-      "perfect": "gewijtt"
+      "perfect": "gewijt"
     }
   },
   {
@@ -31468,7 +31468,7 @@
         "jullie": "woedden",
         "zij_plural": "woedden"
       },
-      "perfect": "gewoedd"
+      "perfect": "gewoed"
     }
   },
   {
@@ -31780,7 +31780,7 @@
         "jullie": "zetten",
         "zij_plural": "zetten"
       },
-      "perfect": "gezett"
+      "perfect": "gezet"
     }
   },
   {
@@ -32092,7 +32092,7 @@
         "jullie": "zuchtten",
         "zij_plural": "zuchtten"
       },
-      "perfect": "gezuchtt"
+      "perfect": "gezucht"
     }
   },
   {
@@ -32300,7 +32300,7 @@
         "jullie": "zweetten",
         "zij_plural": "zweetten"
       },
-      "perfect": "gezweett"
+      "perfect": "gezweet"
     }
   },
   {
