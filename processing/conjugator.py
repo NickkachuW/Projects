@@ -933,6 +933,271 @@ IRREGULAR_VERBS = {
         'past': {'ik': 'scheidde', 'jij': 'scheidde', 'u': 'scheidde', 'hij/zij': 'scheidde', 'wij': 'scheidden', 'jullie': 'scheidden', 'zij_plural': 'scheidden'},
         'perfect': 'gescheiden'
     },
+    'bakken': {
+        'present': {'ik': 'bak', 'jij': 'bakt', 'u': 'bakt', 'hij/zij': 'bakt', 'wij': 'bakken', 'jullie': 'bakken', 'zij_plural': 'bakken'},
+        'past': {'ik': 'bakte', 'jij': 'bakte', 'u': 'bakte', 'hij/zij': 'bakte', 'wij': 'bakten', 'jullie': 'bakten', 'zij_plural': 'bakten'},
+        'perfect': 'gebakken'
+    },
+    'barsten': {
+        'present': {'ik': 'barst', 'jij': 'barst', 'u': 'barst', 'hij/zij': 'barst', 'wij': 'barsten', 'jullie': 'barsten', 'zij_plural': 'barsten'},
+        'past': {'ik': 'barstte', 'jij': 'barstte', 'u': 'barstte', 'hij/zij': 'barstte', 'wij': 'barstten', 'jullie': 'barstten', 'zij_plural': 'barstten'},
+        'perfect': 'gebarsten'
+    },
+    'bergen': {
+        'present': {'ik': 'berg', 'jij': 'bergt', 'u': 'bergt', 'hij/zij': 'bergt', 'wij': 'bergen', 'jullie': 'bergen', 'zij_plural': 'bergen'},
+        'past': {'ik': 'borg', 'jij': 'borg', 'u': 'borg', 'hij/zij': 'borg', 'wij': 'borgen', 'jullie': 'borgen', 'zij_plural': 'borgen'},
+        'perfect': 'geborgen'
+    },
+    'blinken': {
+        'present': {'ik': 'blink', 'jij': 'blinkt', 'u': 'blinkt', 'hij/zij': 'blinkt', 'wij': 'blinken', 'jullie': 'blinken', 'zij_plural': 'blinken'},
+        'past': {'ik': 'blonk', 'jij': 'blonk', 'u': 'blonk', 'hij/zij': 'blonk', 'wij': 'blonken', 'jullie': 'blonken', 'zij_plural': 'blonken'},
+        'perfect': 'geblonken'
+    },
+    'delven': {
+        'present': {'ik': 'delf', 'jij': 'delft', 'u': 'delft', 'hij/zij': 'delft', 'wij': 'delven', 'jullie': 'delven', 'zij_plural': 'delven'},
+        'past': {'ik': 'dolf', 'jij': 'dolf', 'u': 'dolf', 'hij/zij': 'dolf', 'wij': 'dolven', 'jullie': 'dolven', 'zij_plural': 'dolven'},
+        'perfect': 'gedolven'
+    },
+    'duiken': {
+        'present': {'ik': 'duik', 'jij': 'duikt', 'u': 'duikt', 'hij/zij': 'duikt', 'wij': 'duiken', 'jullie': 'duiken', 'zij_plural': 'duiken'},
+        'past': {'ik': 'dook', 'jij': 'dook', 'u': 'dook', 'hij/zij': 'dook', 'wij': 'doken', 'jullie': 'doken', 'zij_plural': 'doken'},
+        'perfect': 'gedoken'
+    },
+    'fluiten': {
+        'present': {'ik': 'fluit', 'jij': 'fluit', 'u': 'fluit', 'hij/zij': 'fluit', 'wij': 'fluiten', 'jullie': 'fluiten', 'zij_plural': 'fluiten'},
+        'past': {'ik': 'floot', 'jij': 'floot', 'u': 'floot', 'hij/zij': 'floot', 'wij': 'floten', 'jullie': 'floten', 'zij_plural': 'floten'},
+        'perfect': 'gefloten'
+    },
+    'heffen': {
+        'present': {'ik': 'hef', 'jij': 'heft', 'u': 'heft', 'hij/zij': 'heft', 'wij': 'heffen', 'jullie': 'heffen', 'zij_plural': 'heffen'},
+        'past': {'ik': 'hief', 'jij': 'hief', 'u': 'hief', 'hij/zij': 'hief', 'wij': 'hieven', 'jullie': 'hieven', 'zij_plural': 'hieven'},
+        'perfect': 'geheven'
+    },
+    'klinken': {
+        'present': {'ik': 'klink', 'jij': 'klinkt', 'u': 'klinkt', 'hij/zij': 'klinkt', 'wij': 'klinken', 'jullie': 'klinken', 'zij_plural': 'klinken'},
+        'past': {'ik': 'klonk', 'jij': 'klonk', 'u': 'klonk', 'hij/zij': 'klonk', 'wij': 'klonken', 'jullie': 'klonken', 'zij_plural': 'klonken'},
+        'perfect': 'geklonken'
+    },
+    'kruipen': {
+        'present': {'ik': 'kruip', 'jij': 'kruipt', 'u': 'kruipt', 'hij/zij': 'kruipt', 'wij': 'kruipen', 'jullie': 'kruipen', 'zij_plural': 'kruipen'},
+        'past': {'ik': 'kroop', 'jij': 'kroop', 'u': 'kroop', 'hij/zij': 'kroop', 'wij': 'kropen', 'jullie': 'kropen', 'zij_plural': 'kropen'},
+        'perfect': 'gekropen'
+    },
+    'lijken': {
+        'present': {'ik': 'lijk', 'jij': 'lijkt', 'u': 'lijkt', 'hij/zij': 'lijkt', 'wij': 'lijken', 'jullie': 'lijken', 'zij_plural': 'lijken'},
+        'past': {'ik': 'leek', 'jij': 'leek', 'u': 'leek', 'hij/zij': 'leek', 'wij': 'leken', 'jullie': 'leken', 'zij_plural': 'leken'},
+        'perfect': 'geleken'
+    },
+    'rijzen': {
+        'present': {'ik': 'rijs', 'jij': 'rijst', 'u': 'rijst', 'hij/zij': 'rijst', 'wij': 'rijzen', 'jullie': 'rijzen', 'zij_plural': 'rijzen'},
+        'past': {'ik': 'rees', 'jij': 'rees', 'u': 'rees', 'hij/zij': 'rees', 'wij': 'rezen', 'jullie': 'rezen', 'zij_plural': 'rezen'},
+        'perfect': 'gerezen'
+    },
+    'ruiken': {
+        'present': {'ik': 'ruik', 'jij': 'ruikt', 'u': 'ruikt', 'hij/zij': 'ruikt', 'wij': 'ruiken', 'jullie': 'ruiken', 'zij_plural': 'ruiken'},
+        'past': {'ik': 'rook', 'jij': 'rook', 'u': 'rook', 'hij/zij': 'rook', 'wij': 'roken', 'jullie': 'roken', 'zij_plural': 'roken'},
+        'perfect': 'geroken'
+    },
+    'schrikken': {
+        'present': {'ik': 'schrik', 'jij': 'schrikt', 'u': 'schrikt', 'hij/zij': 'schrikt', 'wij': 'schrikken', 'jullie': 'schrikken', 'zij_plural': 'schrikken'},
+        'past': {'ik': 'schrok', 'jij': 'schrok', 'u': 'schrok', 'hij/zij': 'schrok', 'wij': 'schrokken', 'jullie': 'schrokken', 'zij_plural': 'schrokken'},
+        'perfect': 'geschrokken'
+    },
+    'spijten': {
+        'present': {'ik': 'spijt', 'jij': 'spijt', 'u': 'spijt', 'hij/zij': 'spijt', 'wij': 'spijten', 'jullie': 'spijten', 'zij_plural': 'spijten'},
+        'past': {'ik': 'speet', 'jij': 'speet', 'u': 'speet', 'hij/zij': 'speet', 'wij': 'speten', 'jullie': 'speten', 'zij_plural': 'speten'},
+        'perfect': 'gespeten'
+    },
+    'stinken': {
+        'present': {'ik': 'stink', 'jij': 'stinkt', 'u': 'stinkt', 'hij/zij': 'stinkt', 'wij': 'stinken', 'jullie': 'stinken', 'zij_plural': 'stinken'},
+        'past': {'ik': 'stonk', 'jij': 'stonk', 'u': 'stonk', 'hij/zij': 'stonk', 'wij': 'stonken', 'jullie': 'stonken', 'zij_plural': 'stonken'},
+        'perfect': 'gestonken'
+    },
+    'vangen': {
+        'present': {'ik': 'vang', 'jij': 'vangt', 'u': 'vangt', 'hij/zij': 'vangt', 'wij': 'vangen', 'jullie': 'vangen', 'zij_plural': 'vangen'},
+        'past': {'ik': 'ving', 'jij': 'ving', 'u': 'ving', 'hij/zij': 'ving', 'wij': 'vingen', 'jullie': 'vingen', 'zij_plural': 'vingen'},
+        'perfect': 'gevangen'
+    },
+    'vouwen': {
+        'present': {'ik': 'vouw', 'jij': 'vouwt', 'u': 'vouwt', 'hij/zij': 'vouwt', 'wij': 'vouwen', 'jullie': 'vouwen', 'zij_plural': 'vouwen'},
+        'past': {'ik': 'vouwde', 'jij': 'vouwde', 'u': 'vouwde', 'hij/zij': 'vouwde', 'wij': 'vouwden', 'jullie': 'vouwden', 'zij_plural': 'vouwden'},
+        'perfect': 'gevouwen'
+    },
+    'zinken': {
+        'present': {'ik': 'zink', 'jij': 'zinkt', 'u': 'zinkt', 'hij/zij': 'zinkt', 'wij': 'zinken', 'jullie': 'zinken', 'zij_plural': 'zinken'},
+        'past': {'ik': 'zonk', 'jij': 'zonk', 'u': 'zonk', 'hij/zij': 'zonk', 'wij': 'zonken', 'jullie': 'zonken', 'zij_plural': 'zonken'},
+        'perfect': 'gezonken'
+    },
+    'zuigen': {
+        'present': {'ik': 'zuig', 'jij': 'zuigt', 'u': 'zuigt', 'hij/zij': 'zuigt', 'wij': 'zuigen', 'jullie': 'zuigen', 'zij_plural': 'zuigen'},
+        'past': {'ik': 'zoog', 'jij': 'zoog', 'u': 'zoog', 'hij/zij': 'zoog', 'wij': 'zogen', 'jullie': 'zogen', 'zij_plural': 'zogen'},
+        'perfect': 'gezogen'
+    },
+    'zwellen': {
+        'present': {'ik': 'zwel', 'jij': 'zwelt', 'u': 'zwelt', 'hij/zij': 'zwelt', 'wij': 'zwellen', 'jullie': 'zwellen', 'zij_plural': 'zwellen'},
+        'past': {'ik': 'zwol', 'jij': 'zwol', 'u': 'zwol', 'hij/zij': 'zwol', 'wij': 'zwollen', 'jullie': 'zwollen', 'zij_plural': 'zwollen'},
+        'perfect': 'gezwollen'
+    },
+    'zwerven': {
+        'present': {'ik': 'zwerf', 'jij': 'zwerft', 'u': 'zwerft', 'hij/zij': 'zwerft', 'wij': 'zwerven', 'jullie': 'zwerven', 'zij_plural': 'zwerven'},
+        'past': {'ik': 'zwierf', 'jij': 'zwierf', 'u': 'zwierf', 'hij/zij': 'zwierf', 'wij': 'zwierven', 'jullie': 'zwierven', 'zij_plural': 'zwierven'},
+        'perfect': 'gezworven'
+    },
+    'zwijgen': {
+        'present': {'ik': 'zwijg', 'jij': 'zwijgt', 'u': 'zwijgt', 'hij/zij': 'zwijgt', 'wij': 'zwijgen', 'jullie': 'zwijgen', 'zij_plural': 'zwijgen'},
+        'past': {'ik': 'zweeg', 'jij': 'zweeg', 'u': 'zweeg', 'hij/zij': 'zweeg', 'wij': 'zwegen', 'jullie': 'zwegen', 'zij_plural': 'zwegen'},
+        'perfect': 'gezwegen'
+    },
+    'begrijpen': {
+        'present': {'ik': 'begrijp', 'jij': 'begrijpt', 'u': 'begrijpt', 'hij/zij': 'begrijpt', 'wij': 'begrijpen', 'jullie': 'begrijpen', 'zij_plural': 'begrijpen'},
+        'past': {'ik': 'begreep', 'jij': 'begreep', 'u': 'begreep', 'hij/zij': 'begreep', 'wij': 'begrepen', 'jullie': 'begrepen', 'zij_plural': 'begrepen'},
+        'perfect': 'begrepen'
+    },
+    'behouden': {
+        'present': {'ik': 'behoud', 'jij': 'behoudt', 'u': 'behoudt', 'hij/zij': 'behoudt', 'wij': 'behouden', 'jullie': 'behouden', 'zij_plural': 'behouden'},
+        'past': {'ik': 'behield', 'jij': 'behield', 'u': 'behield', 'hij/zij': 'behield', 'wij': 'behielden', 'jullie': 'behielden', 'zij_plural': 'behielden'},
+        'perfect': 'behouden'
+    },
+    'bevinden': {
+        'present': {'ik': 'bevind', 'jij': 'bevindt', 'u': 'bevindt', 'hij/zij': 'bevindt', 'wij': 'bevinden', 'jullie': 'bevinden', 'zij_plural': 'bevinden'},
+        'past': {'ik': 'bevond', 'jij': 'bevond', 'u': 'bevond', 'hij/zij': 'bevond', 'wij': 'bevonden', 'jullie': 'bevonden', 'zij_plural': 'bevonden'},
+        'perfect': 'bevonden'
+    },
+    'blijken': {
+        'present': {'ik': 'blijk', 'jij': 'blijkt', 'u': 'blijkt', 'hij/zij': 'blijkt', 'wij': 'blijken', 'jullie': 'blijken', 'zij_plural': 'blijken'},
+        'past': {'ik': 'bleek', 'jij': 'bleek', 'u': 'bleek', 'hij/zij': 'bleek', 'wij': 'bleken', 'jullie': 'bleken', 'zij_plural': 'bleken'},
+        'perfect': 'gebleken'
+    },
+    'hijsen': {
+        'present': {'ik': 'hijs', 'jij': 'hijst', 'u': 'hijst', 'hij/zij': 'hijst', 'wij': 'hijsen', 'jullie': 'hijsen', 'zij_plural': 'hijsen'},
+        'past': {'ik': 'hees', 'jij': 'hees', 'u': 'hees', 'hij/zij': 'hees', 'wij': 'hesen', 'jullie': 'hesen', 'zij_plural': 'hesen'},
+        'perfect': 'gehesen'
+    },
+    'krimpen': {
+        'present': {'ik': 'krimp', 'jij': 'krimpt', 'u': 'krimpt', 'hij/zij': 'krimpt', 'wij': 'krimpen', 'jullie': 'krimpen', 'zij_plural': 'krimpen'},
+        'past': {'ik': 'kromp', 'jij': 'kromp', 'u': 'kromp', 'hij/zij': 'kromp', 'wij': 'krompen', 'jullie': 'krompen', 'zij_plural': 'krompen'},
+        'perfect': 'gekrompen'
+    },
+    'lachen': {
+        'present': {'ik': 'lach', 'jij': 'lacht', 'u': 'lacht', 'hij/zij': 'lacht', 'wij': 'lachen', 'jullie': 'lachen', 'zij_plural': 'lachen'},
+        'past': {'ik': 'lachte', 'jij': 'lachte', 'u': 'lachte', 'hij/zij': 'lachte', 'wij': 'lachten', 'jullie': 'lachten', 'zij_plural': 'lachten'},
+        'perfect': 'gelachen'
+    },
+    'liegen': {
+        'present': {'ik': 'lieg', 'jij': 'liegt', 'u': 'liegt', 'hij/zij': 'liegt', 'wij': 'liegen', 'jullie': 'liegen', 'zij_plural': 'liegen'},
+        'past': {'ik': 'loog', 'jij': 'loog', 'u': 'loog', 'hij/zij': 'loog', 'wij': 'logen', 'jullie': 'logen', 'zij_plural': 'logen'},
+        'perfect': 'gelogen'
+    },
+    'mijden': {
+        'present': {'ik': 'mijd', 'jij': 'mijdt', 'u': 'mijdt', 'hij/zij': 'mijdt', 'wij': 'mijden', 'jullie': 'mijden', 'zij_plural': 'mijden'},
+        'past': {'ik': 'meed', 'jij': 'meed', 'u': 'meed', 'hij/zij': 'meed', 'wij': 'meden', 'jullie': 'meden', 'zij_plural': 'meden'},
+        'perfect': 'gemeden'
+    },
+    'ondernemen': {
+        'present': {'ik': 'onderneem', 'jij': 'onderneemt', 'u': 'onderneemt', 'hij/zij': 'onderneemt', 'wij': 'ondernemen', 'jullie': 'ondernemen', 'zij_plural': 'ondernemen'},
+        'past': {'ik': 'ondernam', 'jij': 'ondernam', 'u': 'ondernam', 'hij/zij': 'ondernam', 'wij': 'ondernamen', 'jullie': 'ondernamen', 'zij_plural': 'ondernamen'},
+        'perfect': 'ondernomen'
+    },
+    'onderscheiden': {
+        'present': {'ik': 'onderscheid', 'jij': 'onderscheidt', 'u': 'onderscheidt', 'hij/zij': 'onderscheidt', 'wij': 'onderscheiden', 'jullie': 'onderscheiden', 'zij_plural': 'onderscheiden'},
+        'past': {'ik': 'onderscheidde', 'jij': 'onderscheidde', 'u': 'onderscheidde', 'hij/zij': 'onderscheidde', 'wij': 'onderscheidden', 'jullie': 'onderscheidden', 'zij_plural': 'onderscheidden'},
+        'perfect': 'onderscheiden'
+    },
+    'ondervinden': {
+        'present': {'ik': 'ondervind', 'jij': 'ondervindt', 'u': 'ondervindt', 'hij/zij': 'ondervindt', 'wij': 'ondervinden', 'jullie': 'ondervinden', 'zij_plural': 'ondervinden'},
+        'past': {'ik': 'ondervond', 'jij': 'ondervond', 'u': 'ondervond', 'hij/zij': 'ondervond', 'wij': 'ondervonden', 'jullie': 'ondervonden', 'zij_plural': 'ondervonden'},
+        'perfect': 'ondervonden'
+    },
+    'onthouden': {
+        'present': {'ik': 'onthoud', 'jij': 'onthoudt', 'u': 'onthoudt', 'hij/zij': 'onthoudt', 'wij': 'onthouden', 'jullie': 'onthouden', 'zij_plural': 'onthouden'},
+        'past': {'ik': 'onthield', 'jij': 'onthield', 'u': 'onthield', 'hij/zij': 'onthield', 'wij': 'onthielden', 'jullie': 'onthielden', 'zij_plural': 'onthielden'},
+        'perfect': 'onthouden'
+    },
+    'overlijden': {
+        'present': {'ik': 'overlijd', 'jij': 'overlijdt', 'u': 'overlijdt', 'hij/zij': 'overlijdt', 'wij': 'overlijden', 'jullie': 'overlijden', 'zij_plural': 'overlijden'},
+        'past': {'ik': 'overleed', 'jij': 'overleed', 'u': 'overleed', 'hij/zij': 'overleed', 'wij': 'overleden', 'jullie': 'overleden', 'zij_plural': 'overleden'},
+        'perfect': 'overleden'
+    },
+    'overwegen': {
+        'present': {'ik': 'overweeg', 'jij': 'overweegt', 'u': 'overweegt', 'hij/zij': 'overweegt', 'wij': 'overwegen', 'jullie': 'overwegen', 'zij_plural': 'overwegen'},
+        'past': {'ik': 'overwoog', 'jij': 'overwoog', 'u': 'overwoog', 'hij/zij': 'overwoog', 'wij': 'overwogen', 'jullie': 'overwogen', 'zij_plural': 'overwogen'},
+        'perfect': 'overwogen'
+    },
+    'overwinnen': {
+        'present': {'ik': 'overwin', 'jij': 'overwint', 'u': 'overwint', 'hij/zij': 'overwint', 'wij': 'overwinnen', 'jullie': 'overwinnen', 'zij_plural': 'overwinnen'},
+        'past': {'ik': 'overwon', 'jij': 'overwon', 'u': 'overwon', 'hij/zij': 'overwon', 'wij': 'overwonnen', 'jullie': 'overwonnen', 'zij_plural': 'overwonnen'},
+        'perfect': 'overwonnen'
+    },
+    'prijzen': {
+        'present': {'ik': 'prijs', 'jij': 'prijst', 'u': 'prijst', 'hij/zij': 'prijst', 'wij': 'prijzen', 'jullie': 'prijzen', 'zij_plural': 'prijzen'},
+        'past': {'ik': 'prees', 'jij': 'prees', 'u': 'prees', 'hij/zij': 'prees', 'wij': 'prezen', 'jullie': 'prezen', 'zij_plural': 'prezen'},
+        'perfect': 'geprezen'
+    },
+    'raden': {
+        'present': {'ik': 'raad', 'jij': 'raadt', 'u': 'raadt', 'hij/zij': 'raadt', 'wij': 'raden', 'jullie': 'raden', 'zij_plural': 'raden'},
+        'past': {'ik': 'ried', 'jij': 'ried', 'u': 'ried', 'hij/zij': 'ried', 'wij': 'rieden', 'jullie': 'rieden', 'zij_plural': 'rieden'},
+        'perfect': 'geraden'
+    },
+    'schuiven': {
+        'present': {'ik': 'schuif', 'jij': 'schuift', 'u': 'schuift', 'hij/zij': 'schuift', 'wij': 'schuiven', 'jullie': 'schuiven', 'zij_plural': 'schuiven'},
+        'past': {'ik': 'schoof', 'jij': 'schoof', 'u': 'schoof', 'hij/zij': 'schoof', 'wij': 'schoven', 'jullie': 'schoven', 'zij_plural': 'schoven'},
+        'perfect': 'geschoven'
+    },
+    'spuiten': {
+        'present': {'ik': 'spuit', 'jij': 'spuit', 'u': 'spuit', 'hij/zij': 'spuit', 'wij': 'spuiten', 'jullie': 'spuiten', 'zij_plural': 'spuiten'},
+        'past': {'ik': 'spoot', 'jij': 'spoot', 'u': 'spoot', 'hij/zij': 'spoot', 'wij': 'spoten', 'jullie': 'spoten', 'zij_plural': 'spoten'},
+        'perfect': 'gespoten'
+    },
+    'stijgen': {
+        'present': {'ik': 'stijg', 'jij': 'stijgt', 'u': 'stijgt', 'hij/zij': 'stijgt', 'wij': 'stijgen', 'jullie': 'stijgen', 'zij_plural': 'stijgen'},
+        'past': {'ik': 'steeg', 'jij': 'steeg', 'u': 'steeg', 'hij/zij': 'steeg', 'wij': 'stegen', 'jullie': 'stegen', 'zij_plural': 'stegen'},
+        'perfect': 'gestegen'
+    },
+    'strijken': {
+        'present': {'ik': 'strijk', 'jij': 'strijkt', 'u': 'strijkt', 'hij/zij': 'strijkt', 'wij': 'strijken', 'jullie': 'strijken', 'zij_plural': 'strijken'},
+        'past': {'ik': 'streek', 'jij': 'streek', 'u': 'streek', 'hij/zij': 'streek', 'wij': 'streken', 'jullie': 'streken', 'zij_plural': 'streken'},
+        'perfect': 'gestreken'
+    },
+    'treden': {
+        'present': {'ik': 'treed', 'jij': 'treedt', 'u': 'treedt', 'hij/zij': 'treedt', 'wij': 'treden', 'jullie': 'treden', 'zij_plural': 'treden'},
+        'past': {'ik': 'trad', 'jij': 'trad', 'u': 'trad', 'hij/zij': 'trad', 'wij': 'traden', 'jullie': 'traden', 'zij_plural': 'traden'},
+        'perfect': 'getreden'
+    },
+    'varen': {
+        'present': {'ik': 'vaar', 'jij': 'vaart', 'u': 'vaart', 'hij/zij': 'vaart', 'wij': 'varen', 'jullie': 'varen', 'zij_plural': 'varen'},
+        'past': {'ik': 'voer', 'jij': 'voer', 'u': 'voer', 'hij/zij': 'voer', 'wij': 'voeren', 'jullie': 'voeren', 'zij_plural': 'voeren'},
+        'perfect': 'gevaren'
+    },
+    'verwerven': {
+        'present': {'ik': 'verwerf', 'jij': 'verwerft', 'u': 'verwerft', 'hij/zij': 'verwerft', 'wij': 'verwerven', 'jullie': 'verwerven', 'zij_plural': 'verwerven'},
+        'past': {'ik': 'verwierf', 'jij': 'verwierf', 'u': 'verwierf', 'hij/zij': 'verwierf', 'wij': 'verwierven', 'jullie': 'verwierven', 'zij_plural': 'verwierven'},
+        'perfect': 'verworven'
+    },
+    'vragen': {
+        'present': {'ik': 'vraag', 'jij': 'vraagt', 'u': 'vraagt', 'hij/zij': 'vraagt', 'wij': 'vragen', 'jullie': 'vragen', 'zij_plural': 'vragen'},
+        'past': {'ik': 'vroeg', 'jij': 'vroeg', 'u': 'vroeg', 'hij/zij': 'vroeg', 'wij': 'vroegen', 'jullie': 'vroegen', 'zij_plural': 'vroegen'},
+        'perfect': 'gevraagd'
+    },
+    'vriezen': {
+        'present': {'ik': 'vries', 'jij': 'vriest', 'u': 'vriest', 'hij/zij': 'vriest', 'wij': 'vriezen', 'jullie': 'vriezen', 'zij_plural': 'vriezen'},
+        'past': {'ik': 'vroor', 'jij': 'vroor', 'u': 'vroor', 'hij/zij': 'vroor', 'wij': 'vroren', 'jullie': 'vroren', 'zij_plural': 'vroren'},
+        'perfect': 'gevroren'
+    },
+    'wijken': {
+        'present': {'ik': 'wijk', 'jij': 'wijkt', 'u': 'wijkt', 'hij/zij': 'wijkt', 'wij': 'wijken', 'jullie': 'wijken', 'zij_plural': 'wijken'},
+        'past': {'ik': 'week', 'jij': 'week', 'u': 'week', 'hij/zij': 'week', 'wij': 'weken', 'jullie': 'weken', 'zij_plural': 'weken'},
+        'perfect': 'geweken'
+    },
+    'wringen': {
+        'present': {'ik': 'wring', 'jij': 'wringt', 'u': 'wringt', 'hij/zij': 'wringt', 'wij': 'wringen', 'jullie': 'wringen', 'zij_plural': 'wringen'},
+        'past': {'ik': 'wrong', 'jij': 'wrong', 'u': 'wrong', 'hij/zij': 'wrong', 'wij': 'wrongen', 'jullie': 'wrongen', 'zij_plural': 'wrongen'},
+        'perfect': 'gewrongen'
+    },
+    'overleven': {
+        'present': {'ik': 'overleef', 'jij': 'overleeft', 'u': 'overleeft', 'hij/zij': 'overleeft', 'wij': 'overleven', 'jullie': 'overleven', 'zij_plural': 'overleven'},
+        'past': {'ik': 'overleefde', 'jij': 'overleefde', 'u': 'overleefde', 'hij/zij': 'overleefde', 'wij': 'overleefden', 'jullie': 'overleefden', 'zij_plural': 'overleefden'},
+        'perfect': 'overleefd'
+    },
     'glijden': {
         'present': {'ik': 'glijd', 'jij': 'glijdt', 'u': 'glijdt', 'hij/zij': 'glijdt', 'wij': 'glijden', 'jullie': 'glijden', 'zij_plural': 'glijden'},
         'past': {'ik': 'gleed', 'jij': 'gleed', 'u': 'gleed', 'hij/zij': 'gleed', 'wij': 'gleden', 'jullie': 'gleden', 'zij_plural': 'gleden'},

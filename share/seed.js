@@ -14199,15 +14199,15 @@ const SEED_DATA = {
           "zij_plural": "raden aan"
         },
         "past": {
-          "ik": "raadde aan",
-          "jij": "raadde aan",
-          "u": "raadde aan",
-          "hij/zij": "raadde aan",
-          "wij": "raadden aan",
-          "jullie": "raadden aan",
-          "zij_plural": "raadden aan"
+          "ik": "ried aan",
+          "jij": "ried aan",
+          "u": "ried aan",
+          "hij/zij": "ried aan",
+          "wij": "rieden aan",
+          "jullie": "rieden aan",
+          "zij_plural": "rieden aan"
         },
-        "perfect": "aangeraad",
+        "perfect": "aangeraden",
         "separable": true,
         "prefix": "aan"
       }
@@ -15361,13 +15361,13 @@ const SEED_DATA = {
           "zij_plural": "vragen af"
         },
         "past": {
-          "ik": "vraagde af",
-          "jij": "vraagde af",
-          "u": "vraagde af",
-          "hij/zij": "vraagde af",
-          "wij": "vraagden af",
-          "jullie": "vraagden af",
-          "zij_plural": "vraagden af"
+          "ik": "vroeg af",
+          "jij": "vroeg af",
+          "u": "vroeg af",
+          "hij/zij": "vroeg af",
+          "wij": "vroegen af",
+          "jullie": "vroegen af",
+          "zij_plural": "vroegen af"
         },
         "perfect": "afgevraagd",
         "separable": true,
@@ -15417,15 +15417,15 @@ const SEED_DATA = {
           "zij_plural": "wijken af"
         },
         "past": {
-          "ik": "wijkte af",
-          "jij": "wijkte af",
-          "u": "wijkte af",
-          "hij/zij": "wijkte af",
-          "wij": "wijkten af",
-          "jullie": "wijkten af",
-          "zij_plural": "wijkten af"
+          "ik": "week af",
+          "jij": "week af",
+          "u": "week af",
+          "hij/zij": "week af",
+          "wij": "weken af",
+          "jullie": "weken af",
+          "zij_plural": "weken af"
         },
-        "perfect": "afgewijkt",
+        "perfect": "afgeweken",
         "separable": true,
         "prefix": "af"
       }
@@ -15691,7 +15691,7 @@ const SEED_DATA = {
           "jullie": "bakten",
           "zij_plural": "bakten"
         },
-        "perfect": "gebakt"
+        "perfect": "gebakken"
       }
     },
     {
@@ -15743,7 +15743,7 @@ const SEED_DATA = {
           "jullie": "barstten",
           "zij_plural": "barstten"
         },
-        "perfect": "gebarst"
+        "perfect": "gebarsten"
       }
     },
     {
@@ -16307,15 +16307,15 @@ const SEED_DATA = {
           "zij_plural": "begrijpen"
         },
         "past": {
-          "ik": "begrijpte",
-          "jij": "begrijpte",
-          "u": "begrijpte",
-          "hij/zij": "begrijpte",
-          "wij": "begrijpten",
-          "jullie": "begrijpten",
-          "zij_plural": "begrijpten"
+          "ik": "begreep",
+          "jij": "begreep",
+          "u": "begreep",
+          "hij/zij": "begreep",
+          "wij": "begrepen",
+          "jullie": "begrepen",
+          "zij_plural": "begrepen"
         },
-        "perfect": "begrijpt"
+        "perfect": "begrepen"
       }
     },
     {
@@ -16489,15 +16489,15 @@ const SEED_DATA = {
           "zij_plural": "behouden"
         },
         "past": {
-          "ik": "behoudde",
-          "jij": "behoudde",
-          "u": "behoudde",
-          "hij/zij": "behoudde",
-          "wij": "behoudden",
-          "jullie": "behoudden",
-          "zij_plural": "behoudden"
+          "ik": "behield",
+          "jij": "behield",
+          "u": "behield",
+          "hij/zij": "behield",
+          "wij": "behielden",
+          "jullie": "behielden",
+          "zij_plural": "behielden"
         },
-        "perfect": "behoud"
+        "perfect": "behouden"
       }
     },
     {
@@ -17269,15 +17269,15 @@ const SEED_DATA = {
           "zij_plural": "bergen"
         },
         "past": {
-          "ik": "bergde",
-          "jij": "bergde",
-          "u": "bergde",
-          "hij/zij": "bergde",
-          "wij": "bergden",
-          "jullie": "bergden",
-          "zij_plural": "bergden"
+          "ik": "borg",
+          "jij": "borg",
+          "u": "borg",
+          "hij/zij": "borg",
+          "wij": "borgen",
+          "jullie": "borgen",
+          "zij_plural": "borgen"
         },
-        "perfect": "gebergd"
+        "perfect": "geborgen"
       }
     },
     {
@@ -18231,15 +18231,15 @@ const SEED_DATA = {
           "zij_plural": "bevinden"
         },
         "past": {
-          "ik": "bevindde",
-          "jij": "bevindde",
-          "u": "bevindde",
-          "hij/zij": "bevindde",
-          "wij": "bevindden",
-          "jullie": "bevindden",
-          "zij_plural": "bevindden"
+          "ik": "bevond",
+          "jij": "bevond",
+          "u": "bevond",
+          "hij/zij": "bevond",
+          "wij": "bevonden",
+          "jullie": "bevonden",
+          "zij_plural": "bevonden"
         },
-        "perfect": "bevind"
+        "perfect": "bevonden"
       }
     },
     {
@@ -19125,15 +19125,15 @@ const SEED_DATA = {
           "zij_plural": "blijken"
         },
         "past": {
-          "ik": "blijkte",
-          "jij": "blijkte",
-          "u": "blijkte",
-          "hij/zij": "blijkte",
-          "wij": "blijkten",
-          "jullie": "blijkten",
-          "zij_plural": "blijkten"
+          "ik": "bleek",
+          "jij": "bleek",
+          "u": "bleek",
+          "hij/zij": "bleek",
+          "wij": "bleken",
+          "jullie": "bleken",
+          "zij_plural": "bleken"
         },
-        "perfect": "geblijkt"
+        "perfect": "gebleken"
       }
     },
     {
@@ -19177,15 +19177,15 @@ const SEED_DATA = {
           "zij_plural": "blinken"
         },
         "past": {
-          "ik": "blinkte",
-          "jij": "blinkte",
-          "u": "blinkte",
-          "hij/zij": "blinkte",
-          "wij": "blinkten",
-          "jullie": "blinkten",
-          "zij_plural": "blinkten"
+          "ik": "blonk",
+          "jij": "blonk",
+          "u": "blonk",
+          "hij/zij": "blonk",
+          "wij": "blonken",
+          "jullie": "blonken",
+          "zij_plural": "blonken"
         },
-        "perfect": "geblinkt"
+        "perfect": "geblonken"
       }
     },
     {
@@ -20139,15 +20139,15 @@ const SEED_DATA = {
           "zij_plural": "delven"
         },
         "past": {
-          "ik": "delfte",
-          "jij": "delfte",
-          "u": "delfte",
-          "hij/zij": "delfte",
-          "wij": "delften",
-          "jullie": "delften",
-          "zij_plural": "delften"
+          "ik": "dolf",
+          "jij": "dolf",
+          "u": "dolf",
+          "hij/zij": "dolf",
+          "wij": "dolven",
+          "jullie": "dolven",
+          "zij_plural": "dolven"
         },
-        "perfect": "gedelft"
+        "perfect": "gedolven"
       }
     },
     {
@@ -21037,15 +21037,15 @@ const SEED_DATA = {
           "zij_plural": "duiken"
         },
         "past": {
-          "ik": "duikte",
-          "jij": "duikte",
-          "u": "duikte",
-          "hij/zij": "duikte",
-          "wij": "duikten",
-          "jullie": "duikten",
-          "zij_plural": "duikten"
+          "ik": "dook",
+          "jij": "dook",
+          "u": "dook",
+          "hij/zij": "dook",
+          "wij": "doken",
+          "jullie": "doken",
+          "zij_plural": "doken"
         },
-        "perfect": "geduikt"
+        "perfect": "gedoken"
       }
     },
     {
@@ -21531,15 +21531,15 @@ const SEED_DATA = {
           "zij_plural": "fluiten"
         },
         "past": {
-          "ik": "fluitte",
-          "jij": "fluitte",
-          "u": "fluitte",
-          "hij/zij": "fluitte",
-          "wij": "fluitten",
-          "jullie": "fluitten",
-          "zij_plural": "fluitten"
+          "ik": "floot",
+          "jij": "floot",
+          "u": "floot",
+          "hij/zij": "floot",
+          "wij": "floten",
+          "jullie": "floten",
+          "zij_plural": "floten"
         },
-        "perfect": "gefluit"
+        "perfect": "gefloten"
       }
     },
     {
@@ -23195,15 +23195,15 @@ const SEED_DATA = {
           "zij_plural": "heffen"
         },
         "past": {
-          "ik": "hefte",
-          "jij": "hefte",
-          "u": "hefte",
-          "hij/zij": "hefte",
-          "wij": "heften",
-          "jullie": "heften",
-          "zij_plural": "heften"
+          "ik": "hief",
+          "jij": "hief",
+          "u": "hief",
+          "hij/zij": "hief",
+          "wij": "hieven",
+          "jullie": "hieven",
+          "zij_plural": "hieven"
         },
-        "perfect": "geheft"
+        "perfect": "geheven"
       }
     },
     {
@@ -23403,15 +23403,15 @@ const SEED_DATA = {
           "zij_plural": "hijsen"
         },
         "past": {
-          "ik": "hijste",
-          "jij": "hijste",
-          "u": "hijste",
-          "hij/zij": "hijste",
-          "wij": "hijsten",
-          "jullie": "hijsten",
-          "zij_plural": "hijsten"
+          "ik": "hees",
+          "jij": "hees",
+          "u": "hees",
+          "hij/zij": "hees",
+          "wij": "hesen",
+          "jullie": "hesen",
+          "zij_plural": "hesen"
         },
-        "perfect": "gehijst"
+        "perfect": "gehesen"
       }
     },
     {
@@ -25063,15 +25063,15 @@ const SEED_DATA = {
           "zij_plural": "klinken"
         },
         "past": {
-          "ik": "klinkte",
-          "jij": "klinkte",
-          "u": "klinkte",
-          "hij/zij": "klinkte",
-          "wij": "klinkten",
-          "jullie": "klinkten",
-          "zij_plural": "klinkten"
+          "ik": "klonk",
+          "jij": "klonk",
+          "u": "klonk",
+          "hij/zij": "klonk",
+          "wij": "klonken",
+          "jullie": "klonken",
+          "zij_plural": "klonken"
         },
-        "perfect": "geklinkt"
+        "perfect": "geklonken"
       }
     },
     {
@@ -25531,15 +25531,15 @@ const SEED_DATA = {
           "zij_plural": "krimpen"
         },
         "past": {
-          "ik": "krimpte",
-          "jij": "krimpte",
-          "u": "krimpte",
-          "hij/zij": "krimpte",
-          "wij": "krimpten",
-          "jullie": "krimpten",
-          "zij_plural": "krimpten"
+          "ik": "kromp",
+          "jij": "kromp",
+          "u": "kromp",
+          "hij/zij": "kromp",
+          "wij": "krompen",
+          "jullie": "krompen",
+          "zij_plural": "krompen"
         },
-        "perfect": "gekrimpt"
+        "perfect": "gekrompen"
       }
     },
     {
@@ -25583,15 +25583,15 @@ const SEED_DATA = {
           "zij_plural": "kruipen"
         },
         "past": {
-          "ik": "kruipte",
-          "jij": "kruipte",
-          "u": "kruipte",
-          "hij/zij": "kruipte",
-          "wij": "kruipten",
-          "jullie": "kruipten",
-          "zij_plural": "kruipten"
+          "ik": "kroop",
+          "jij": "kroop",
+          "u": "kroop",
+          "hij/zij": "kroop",
+          "wij": "kropen",
+          "jullie": "kropen",
+          "zij_plural": "kropen"
         },
-        "perfect": "gekruipt"
+        "perfect": "gekropen"
       }
     },
     {
@@ -25773,7 +25773,7 @@ const SEED_DATA = {
           "jullie": "lachten",
           "zij_plural": "lachten"
         },
-        "perfect": "gelacht"
+        "perfect": "gelachen"
       }
     },
     {
@@ -26155,15 +26155,15 @@ const SEED_DATA = {
           "zij_plural": "liegen"
         },
         "past": {
-          "ik": "liegde",
-          "jij": "liegde",
-          "u": "liegde",
-          "hij/zij": "liegde",
-          "wij": "liegden",
-          "jullie": "liegden",
-          "zij_plural": "liegden"
+          "ik": "loog",
+          "jij": "loog",
+          "u": "loog",
+          "hij/zij": "loog",
+          "wij": "logen",
+          "jullie": "logen",
+          "zij_plural": "logen"
         },
-        "perfect": "geliegd"
+        "perfect": "gelogen"
       }
     },
     {
@@ -26233,15 +26233,15 @@ const SEED_DATA = {
           "zij_plural": "lijken"
         },
         "past": {
-          "ik": "lijkte",
-          "jij": "lijkte",
-          "u": "lijkte",
-          "hij/zij": "lijkte",
-          "wij": "lijkten",
-          "jullie": "lijkten",
-          "zij_plural": "lijkten"
+          "ik": "leek",
+          "jij": "leek",
+          "u": "leek",
+          "hij/zij": "leek",
+          "wij": "leken",
+          "jullie": "leken",
+          "zij_plural": "leken"
         },
-        "perfect": "gelijkt"
+        "perfect": "geleken"
       }
     },
     {
@@ -28220,24 +28220,24 @@ const SEED_DATA = {
       "translation": "to undertake",
       "conjugations": {
         "present": {
-          "ik": "ondernem",
-          "jij": "ondernemt",
-          "u": "ondernemt",
-          "hij/zij": "ondernemt",
+          "ik": "onderneem",
+          "jij": "onderneemt",
+          "u": "onderneemt",
+          "hij/zij": "onderneemt",
           "wij": "ondernemen",
           "jullie": "ondernemen",
           "zij_plural": "ondernemen"
         },
         "past": {
-          "ik": "ondernemde",
-          "jij": "ondernemde",
-          "u": "ondernemde",
-          "hij/zij": "ondernemde",
-          "wij": "ondernemden",
-          "jullie": "ondernemden",
-          "zij_plural": "ondernemden"
+          "ik": "ondernam",
+          "jij": "ondernam",
+          "u": "ondernam",
+          "hij/zij": "ondernam",
+          "wij": "ondernamen",
+          "jullie": "ondernamen",
+          "zij_plural": "ondernamen"
         },
-        "perfect": "geondernemd"
+        "perfect": "ondernomen"
       }
     },
     {
@@ -28289,7 +28289,7 @@ const SEED_DATA = {
           "jullie": "onderscheidden",
           "zij_plural": "onderscheidden"
         },
-        "perfect": "geonderscheid"
+        "perfect": "onderscheiden"
       }
     },
     {
@@ -28359,15 +28359,15 @@ const SEED_DATA = {
           "zij_plural": "ondervinden"
         },
         "past": {
-          "ik": "ondervindde",
-          "jij": "ondervindde",
-          "u": "ondervindde",
-          "hij/zij": "ondervindde",
-          "wij": "ondervindden",
-          "jullie": "ondervindden",
-          "zij_plural": "ondervindden"
+          "ik": "ondervond",
+          "jij": "ondervond",
+          "u": "ondervond",
+          "hij/zij": "ondervond",
+          "wij": "ondervonden",
+          "jullie": "ondervonden",
+          "zij_plural": "ondervonden"
         },
-        "perfect": "geondervind"
+        "perfect": "ondervonden"
       }
     },
     {
@@ -28569,15 +28569,15 @@ const SEED_DATA = {
           "zij_plural": "onthouden"
         },
         "past": {
-          "ik": "onthoudde",
-          "jij": "onthoudde",
-          "u": "onthoudde",
-          "hij/zij": "onthoudde",
-          "wij": "onthoudden",
-          "jullie": "onthoudden",
-          "zij_plural": "onthoudden"
+          "ik": "onthield",
+          "jij": "onthield",
+          "u": "onthield",
+          "hij/zij": "onthield",
+          "wij": "onthielden",
+          "jullie": "onthielden",
+          "zij_plural": "onthielden"
         },
-        "perfect": "onthoud"
+        "perfect": "onthouden"
       }
     },
     {
@@ -29143,15 +29143,15 @@ const SEED_DATA = {
           "zij_plural": "bergen op"
         },
         "past": {
-          "ik": "bergde op",
-          "jij": "bergde op",
-          "u": "bergde op",
-          "hij/zij": "bergde op",
-          "wij": "bergden op",
-          "jullie": "bergden op",
-          "zij_plural": "bergden op"
+          "ik": "borg op",
+          "jij": "borg op",
+          "u": "borg op",
+          "hij/zij": "borg op",
+          "wij": "borgen op",
+          "jullie": "borgen op",
+          "zij_plural": "borgen op"
         },
-        "perfect": "opgebergd",
+        "perfect": "opgeborgen",
         "separable": true,
         "prefix": "op"
       }
@@ -29311,15 +29311,15 @@ const SEED_DATA = {
           "zij_plural": "duiken op"
         },
         "past": {
-          "ik": "duikte op",
-          "jij": "duikte op",
-          "u": "duikte op",
-          "hij/zij": "duikte op",
-          "wij": "duikten op",
-          "jullie": "duikten op",
-          "zij_plural": "duikten op"
+          "ik": "dook op",
+          "jij": "dook op",
+          "u": "dook op",
+          "hij/zij": "dook op",
+          "wij": "doken op",
+          "jullie": "doken op",
+          "zij_plural": "doken op"
         },
-        "perfect": "opgeduikt",
+        "perfect": "opgedoken",
         "separable": true,
         "prefix": "op"
       }
@@ -29647,15 +29647,15 @@ const SEED_DATA = {
           "zij_plural": "heffen op"
         },
         "past": {
-          "ik": "hefte op",
-          "jij": "hefte op",
-          "u": "hefte op",
-          "hij/zij": "hefte op",
-          "wij": "heften op",
-          "jullie": "heften op",
-          "zij_plural": "heften op"
+          "ik": "hief op",
+          "jij": "hief op",
+          "u": "hief op",
+          "hij/zij": "hief op",
+          "wij": "hieven op",
+          "jullie": "hieven op",
+          "zij_plural": "hieven op"
         },
-        "perfect": "opgeheft",
+        "perfect": "opgeheven",
         "separable": true,
         "prefix": "op"
       }
@@ -30123,15 +30123,15 @@ const SEED_DATA = {
           "zij_plural": "rijzen op"
         },
         "past": {
-          "ik": "rijste op",
-          "jij": "rijste op",
-          "u": "rijste op",
-          "hij/zij": "rijste op",
-          "wij": "rijsten op",
-          "jullie": "rijsten op",
-          "zij_plural": "rijsten op"
+          "ik": "rees op",
+          "jij": "rees op",
+          "u": "rees op",
+          "hij/zij": "rees op",
+          "wij": "rezen op",
+          "jullie": "rezen op",
+          "zij_plural": "rezen op"
         },
-        "perfect": "opgerijst",
+        "perfect": "opgerezen",
         "separable": true,
         "prefix": "op"
       }
@@ -30375,15 +30375,15 @@ const SEED_DATA = {
           "zij_plural": "stijgen op"
         },
         "past": {
-          "ik": "stijgde op",
-          "jij": "stijgde op",
-          "u": "stijgde op",
-          "hij/zij": "stijgde op",
-          "wij": "stijgden op",
-          "jullie": "stijgden op",
-          "zij_plural": "stijgden op"
+          "ik": "steeg op",
+          "jij": "steeg op",
+          "u": "steeg op",
+          "hij/zij": "steeg op",
+          "wij": "stegen op",
+          "jullie": "stegen op",
+          "zij_plural": "stegen op"
         },
-        "perfect": "opgestijgd",
+        "perfect": "opgestegen",
         "separable": true,
         "prefix": "op"
       }
@@ -30403,15 +30403,15 @@ const SEED_DATA = {
           "zij_plural": "treden op"
         },
         "past": {
-          "ik": "treedde op",
-          "jij": "treedde op",
-          "u": "treedde op",
-          "hij/zij": "treedde op",
-          "wij": "treedden op",
-          "jullie": "treedden op",
-          "zij_plural": "treedden op"
+          "ik": "trad op",
+          "jij": "trad op",
+          "u": "trad op",
+          "hij/zij": "trad op",
+          "wij": "traden op",
+          "jullie": "traden op",
+          "zij_plural": "traden op"
         },
-        "perfect": "opgetreed",
+        "perfect": "opgetreden",
         "separable": true,
         "prefix": "op"
       }
@@ -30487,15 +30487,15 @@ const SEED_DATA = {
           "zij_plural": "vangen op"
         },
         "past": {
-          "ik": "vangde op",
-          "jij": "vangde op",
-          "u": "vangde op",
-          "hij/zij": "vangde op",
-          "wij": "vangden op",
-          "jullie": "vangden op",
-          "zij_plural": "vangden op"
+          "ik": "ving op",
+          "jij": "ving op",
+          "u": "ving op",
+          "hij/zij": "ving op",
+          "wij": "vingen op",
+          "jullie": "vingen op",
+          "zij_plural": "vingen op"
         },
-        "perfect": "opgevangd",
+        "perfect": "opgevangen",
         "separable": true,
         "prefix": "op"
       }
@@ -31140,24 +31140,24 @@ const SEED_DATA = {
       "translation": "to survive",
       "conjugations": {
         "present": {
-          "ik": "overlef",
-          "jij": "overleft",
-          "u": "overleft",
-          "hij/zij": "overleft",
+          "ik": "overleef",
+          "jij": "overleeft",
+          "u": "overleeft",
+          "hij/zij": "overleeft",
           "wij": "overleven",
           "jullie": "overleven",
           "zij_plural": "overleven"
         },
         "past": {
-          "ik": "overlefte",
-          "jij": "overlefte",
-          "u": "overlefte",
-          "hij/zij": "overlefte",
-          "wij": "overleften",
-          "jullie": "overleften",
-          "zij_plural": "overleften"
+          "ik": "overleefde",
+          "jij": "overleefde",
+          "u": "overleefde",
+          "hij/zij": "overleefde",
+          "wij": "overleefden",
+          "jullie": "overleefden",
+          "zij_plural": "overleefden"
         },
-        "perfect": "geoverleft"
+        "perfect": "overleefd"
       }
     },
     {
@@ -31194,24 +31194,24 @@ const SEED_DATA = {
       "translation": "to pass away",
       "conjugations": {
         "present": {
-          "ik": "lijd over",
-          "jij": "lijdt over",
-          "u": "lijdt over",
-          "hij/zij": "lijdt over",
-          "wij": "lijden over",
-          "jullie": "lijden over",
-          "zij_plural": "lijden over"
+          "ik": "overlijd",
+          "jij": "overlijdt",
+          "u": "overlijdt",
+          "hij/zij": "overlijdt",
+          "wij": "overlijden",
+          "jullie": "overlijden",
+          "zij_plural": "overlijden"
         },
         "past": {
-          "ik": "leed over",
-          "jij": "leed over",
-          "u": "leed over",
-          "hij/zij": "leed over",
-          "wij": "leden over",
-          "jullie": "leden over",
-          "zij_plural": "leden over"
+          "ik": "overleed",
+          "jij": "overleed",
+          "u": "overleed",
+          "hij/zij": "overleed",
+          "wij": "overleden",
+          "jullie": "overleden",
+          "zij_plural": "overleden"
         },
-        "perfect": "overgeleden",
+        "perfect": "overleden",
         "separable": true,
         "prefix": "over"
       }
@@ -31412,24 +31412,24 @@ const SEED_DATA = {
       "translation": "to consider",
       "conjugations": {
         "present": {
-          "ik": "overweg",
-          "jij": "overwegt",
-          "u": "overwegt",
-          "hij/zij": "overwegt",
+          "ik": "overweeg",
+          "jij": "overweegt",
+          "u": "overweegt",
+          "hij/zij": "overweegt",
           "wij": "overwegen",
           "jullie": "overwegen",
           "zij_plural": "overwegen"
         },
         "past": {
-          "ik": "overwegde",
-          "jij": "overwegde",
-          "u": "overwegde",
-          "hij/zij": "overwegde",
-          "wij": "overwegden",
-          "jullie": "overwegden",
-          "zij_plural": "overwegden"
+          "ik": "overwoog",
+          "jij": "overwoog",
+          "u": "overwoog",
+          "hij/zij": "overwoog",
+          "wij": "overwogen",
+          "jullie": "overwogen",
+          "zij_plural": "overwogen"
         },
-        "perfect": "geoverwegd"
+        "perfect": "overwogen"
       }
     },
     {
@@ -31447,15 +31447,15 @@ const SEED_DATA = {
           "zij_plural": "overwinnen"
         },
         "past": {
-          "ik": "overwinde",
-          "jij": "overwinde",
-          "u": "overwinde",
-          "hij/zij": "overwinde",
-          "wij": "overwinden",
-          "jullie": "overwinden",
-          "zij_plural": "overwinden"
+          "ik": "overwon",
+          "jij": "overwon",
+          "u": "overwon",
+          "hij/zij": "overwon",
+          "wij": "overwonnen",
+          "jullie": "overwonnen",
+          "zij_plural": "overwonnen"
         },
-        "perfect": "geoverwind"
+        "perfect": "overwonnen"
       }
     },
     {
@@ -32099,15 +32099,15 @@ const SEED_DATA = {
           "zij_plural": "prijzen"
         },
         "past": {
-          "ik": "prijste",
-          "jij": "prijste",
-          "u": "prijste",
-          "hij/zij": "prijste",
-          "wij": "prijsten",
-          "jullie": "prijsten",
-          "zij_plural": "prijsten"
+          "ik": "prees",
+          "jij": "prees",
+          "u": "prees",
+          "hij/zij": "prees",
+          "wij": "prezen",
+          "jullie": "prezen",
+          "zij_plural": "prezen"
         },
-        "perfect": "geprijst"
+        "perfect": "geprezen"
       }
     },
     {
@@ -32411,15 +32411,15 @@ const SEED_DATA = {
           "zij_plural": "raden"
         },
         "past": {
-          "ik": "raadde",
-          "jij": "raadde",
-          "u": "raadde",
-          "hij/zij": "raadde",
-          "wij": "raadden",
-          "jullie": "raadden",
-          "zij_plural": "raadden"
+          "ik": "ried",
+          "jij": "ried",
+          "u": "ried",
+          "hij/zij": "ried",
+          "wij": "rieden",
+          "jullie": "rieden",
+          "zij_plural": "rieden"
         },
-        "perfect": "geraad"
+        "perfect": "geraden"
       }
     },
     {
@@ -33165,15 +33165,15 @@ const SEED_DATA = {
           "zij_plural": "rijzen"
         },
         "past": {
-          "ik": "rijste",
-          "jij": "rijste",
-          "u": "rijste",
-          "hij/zij": "rijste",
-          "wij": "rijsten",
-          "jullie": "rijsten",
-          "zij_plural": "rijsten"
+          "ik": "rees",
+          "jij": "rees",
+          "u": "rees",
+          "hij/zij": "rees",
+          "wij": "rezen",
+          "jullie": "rezen",
+          "zij_plural": "rezen"
         },
-        "perfect": "gerijst"
+        "perfect": "gerezen"
       }
     },
     {
@@ -33451,15 +33451,15 @@ const SEED_DATA = {
           "zij_plural": "ruiken"
         },
         "past": {
-          "ik": "ruikte",
-          "jij": "ruikte",
-          "u": "ruikte",
-          "hij/zij": "ruikte",
-          "wij": "ruikten",
-          "jullie": "ruikten",
-          "zij_plural": "ruikten"
+          "ik": "rook",
+          "jij": "rook",
+          "u": "rook",
+          "hij/zij": "rook",
+          "wij": "roken",
+          "jullie": "roken",
+          "zij_plural": "roken"
         },
-        "perfect": "geruikt"
+        "perfect": "geroken"
       }
     },
     {
@@ -34395,15 +34395,15 @@ const SEED_DATA = {
           "zij_plural": "schrikken"
         },
         "past": {
-          "ik": "schrikte",
-          "jij": "schrikte",
-          "u": "schrikte",
-          "hij/zij": "schrikte",
-          "wij": "schrikten",
-          "jullie": "schrikten",
-          "zij_plural": "schrikten"
+          "ik": "schrok",
+          "jij": "schrok",
+          "u": "schrok",
+          "hij/zij": "schrok",
+          "wij": "schrokken",
+          "jullie": "schrokken",
+          "zij_plural": "schrokken"
         },
-        "perfect": "geschrikt"
+        "perfect": "geschrokken"
       }
     },
     {
@@ -34499,15 +34499,15 @@ const SEED_DATA = {
           "zij_plural": "schuiven"
         },
         "past": {
-          "ik": "schuifte",
-          "jij": "schuifte",
-          "u": "schuifte",
-          "hij/zij": "schuifte",
-          "wij": "schuiften",
-          "jullie": "schuiften",
-          "zij_plural": "schuiften"
+          "ik": "schoof",
+          "jij": "schoof",
+          "u": "schoof",
+          "hij/zij": "schoof",
+          "wij": "schoven",
+          "jullie": "schoven",
+          "zij_plural": "schoven"
         },
-        "perfect": "geschuift"
+        "perfect": "geschoven"
       }
     },
     {
@@ -35305,15 +35305,15 @@ const SEED_DATA = {
           "zij_plural": "spijten"
         },
         "past": {
-          "ik": "spijtte",
-          "jij": "spijtte",
-          "u": "spijtte",
-          "hij/zij": "spijtte",
-          "wij": "spijtten",
-          "jullie": "spijtten",
-          "zij_plural": "spijtten"
+          "ik": "speet",
+          "jij": "speet",
+          "u": "speet",
+          "hij/zij": "speet",
+          "wij": "speten",
+          "jullie": "speten",
+          "zij_plural": "speten"
         },
-        "perfect": "gespijt"
+        "perfect": "gespeten"
       }
     },
     {
@@ -35487,15 +35487,15 @@ const SEED_DATA = {
           "zij_plural": "spuiten"
         },
         "past": {
-          "ik": "spuitte",
-          "jij": "spuitte",
-          "u": "spuitte",
-          "hij/zij": "spuitte",
-          "wij": "spuitten",
-          "jullie": "spuitten",
-          "zij_plural": "spuitten"
+          "ik": "spoot",
+          "jij": "spoot",
+          "u": "spoot",
+          "hij/zij": "spoot",
+          "wij": "spoten",
+          "jullie": "spoten",
+          "zij_plural": "spoten"
         },
-        "perfect": "gespuit"
+        "perfect": "gespoten"
       }
     },
     {
@@ -35903,15 +35903,15 @@ const SEED_DATA = {
           "zij_plural": "stijgen"
         },
         "past": {
-          "ik": "stijgde",
-          "jij": "stijgde",
-          "u": "stijgde",
-          "hij/zij": "stijgde",
-          "wij": "stijgden",
-          "jullie": "stijgden",
-          "zij_plural": "stijgden"
+          "ik": "steeg",
+          "jij": "steeg",
+          "u": "steeg",
+          "hij/zij": "steeg",
+          "wij": "stegen",
+          "jullie": "stegen",
+          "zij_plural": "stegen"
         },
-        "perfect": "gestijgd"
+        "perfect": "gestegen"
       }
     },
     {
@@ -36007,15 +36007,15 @@ const SEED_DATA = {
           "zij_plural": "stinken"
         },
         "past": {
-          "ik": "stinkte",
-          "jij": "stinkte",
-          "u": "stinkte",
-          "hij/zij": "stinkte",
-          "wij": "stinkten",
-          "jullie": "stinkten",
-          "zij_plural": "stinkten"
+          "ik": "stonk",
+          "jij": "stonk",
+          "u": "stonk",
+          "hij/zij": "stonk",
+          "wij": "stonken",
+          "jullie": "stonken",
+          "zij_plural": "stonken"
         },
-        "perfect": "gestinkt"
+        "perfect": "gestonken"
       }
     },
     {
@@ -36319,15 +36319,15 @@ const SEED_DATA = {
           "zij_plural": "strijken"
         },
         "past": {
-          "ik": "strijkte",
-          "jij": "strijkte",
-          "u": "strijkte",
-          "hij/zij": "strijkte",
-          "wij": "strijkten",
-          "jullie": "strijkten",
-          "zij_plural": "strijkten"
+          "ik": "streek",
+          "jij": "streek",
+          "u": "streek",
+          "hij/zij": "streek",
+          "wij": "streken",
+          "jullie": "streken",
+          "zij_plural": "streken"
         },
-        "perfect": "gestrijkt"
+        "perfect": "gestreken"
       }
     },
     {
@@ -37561,15 +37561,15 @@ const SEED_DATA = {
           "zij_plural": "treden"
         },
         "past": {
-          "ik": "treedde",
-          "jij": "treedde",
-          "u": "treedde",
-          "hij/zij": "treedde",
-          "wij": "treedden",
-          "jullie": "treedden",
-          "zij_plural": "treedden"
+          "ik": "trad",
+          "jij": "trad",
+          "u": "trad",
+          "hij/zij": "trad",
+          "wij": "traden",
+          "jullie": "traden",
+          "zij_plural": "traden"
         },
-        "perfect": "getreed"
+        "perfect": "getreden"
       }
     },
     {
@@ -38883,15 +38883,15 @@ const SEED_DATA = {
           "zij_plural": "vangen"
         },
         "past": {
-          "ik": "vangde",
-          "jij": "vangde",
-          "u": "vangde",
-          "hij/zij": "vangde",
-          "wij": "vangden",
-          "jullie": "vangden",
-          "zij_plural": "vangden"
+          "ik": "ving",
+          "jij": "ving",
+          "u": "ving",
+          "hij/zij": "ving",
+          "wij": "vingen",
+          "jullie": "vingen",
+          "zij_plural": "vingen"
         },
-        "perfect": "gevangd"
+        "perfect": "gevangen"
       }
     },
     {
@@ -38909,15 +38909,15 @@ const SEED_DATA = {
           "zij_plural": "varen"
         },
         "past": {
-          "ik": "vaarde",
-          "jij": "vaarde",
-          "u": "vaarde",
-          "hij/zij": "vaarde",
-          "wij": "vaarden",
-          "jullie": "vaarden",
-          "zij_plural": "vaarden"
+          "ik": "voer",
+          "jij": "voer",
+          "u": "voer",
+          "hij/zij": "voer",
+          "wij": "voeren",
+          "jullie": "voeren",
+          "zij_plural": "voeren"
         },
-        "perfect": "gevaard"
+        "perfect": "gevaren"
       }
     },
     {
@@ -42269,15 +42269,15 @@ const SEED_DATA = {
           "zij_plural": "verwerven"
         },
         "past": {
-          "ik": "verwerfte",
-          "jij": "verwerfte",
-          "u": "verwerfte",
-          "hij/zij": "verwerfte",
-          "wij": "verwerften",
-          "jullie": "verwerften",
-          "zij_plural": "verwerften"
+          "ik": "verwierf",
+          "jij": "verwierf",
+          "u": "verwierf",
+          "hij/zij": "verwierf",
+          "wij": "verwierven",
+          "jullie": "verwierven",
+          "zij_plural": "verwierven"
         },
-        "perfect": "verwerft"
+        "perfect": "verworven"
       }
     },
     {
@@ -43735,7 +43735,7 @@ const SEED_DATA = {
           "jullie": "vouwden",
           "zij_plural": "vouwden"
         },
-        "perfect": "gevouwd"
+        "perfect": "gevouwen"
       }
     },
     {
@@ -43753,13 +43753,13 @@ const SEED_DATA = {
           "zij_plural": "vragen"
         },
         "past": {
-          "ik": "vraagde",
-          "jij": "vraagde",
-          "u": "vraagde",
-          "hij/zij": "vraagde",
-          "wij": "vraagden",
-          "jullie": "vraagden",
-          "zij_plural": "vraagden"
+          "ik": "vroeg",
+          "jij": "vroeg",
+          "u": "vroeg",
+          "hij/zij": "vroeg",
+          "wij": "vroegen",
+          "jullie": "vroegen",
+          "zij_plural": "vroegen"
         },
         "perfect": "gevraagd"
       }
@@ -43831,15 +43831,15 @@ const SEED_DATA = {
           "zij_plural": "vriezen"
         },
         "past": {
-          "ik": "vrieste",
-          "jij": "vrieste",
-          "u": "vrieste",
-          "hij/zij": "vrieste",
-          "wij": "vriesten",
-          "jullie": "vriesten",
-          "zij_plural": "vriesten"
+          "ik": "vroor",
+          "jij": "vroor",
+          "u": "vroor",
+          "hij/zij": "vroor",
+          "wij": "vroren",
+          "jullie": "vroren",
+          "zij_plural": "vroren"
         },
-        "perfect": "gevriest"
+        "perfect": "gevroren"
       }
     },
     {
@@ -44879,15 +44879,15 @@ const SEED_DATA = {
           "zij_plural": "wijken"
         },
         "past": {
-          "ik": "wijkte",
-          "jij": "wijkte",
-          "u": "wijkte",
-          "hij/zij": "wijkte",
-          "wij": "wijkten",
-          "jullie": "wijkten",
-          "zij_plural": "wijkten"
+          "ik": "week",
+          "jij": "week",
+          "u": "week",
+          "hij/zij": "week",
+          "wij": "weken",
+          "jullie": "weken",
+          "zij_plural": "weken"
         },
-        "perfect": "gewijkt"
+        "perfect": "geweken"
       }
     },
     {
@@ -45243,15 +45243,15 @@ const SEED_DATA = {
           "zij_plural": "wringen"
         },
         "past": {
-          "ik": "wringde",
-          "jij": "wringde",
-          "u": "wringde",
-          "hij/zij": "wringde",
-          "wij": "wringden",
-          "jullie": "wringden",
-          "zij_plural": "wringden"
+          "ik": "wrong",
+          "jij": "wrong",
+          "u": "wrong",
+          "hij/zij": "wrong",
+          "wij": "wrongen",
+          "jullie": "wrongen",
+          "zij_plural": "wrongen"
         },
-        "perfect": "gewringd"
+        "perfect": "gewrongen"
       }
     },
     {
@@ -45555,15 +45555,15 @@ const SEED_DATA = {
           "zij_plural": "zinken"
         },
         "past": {
-          "ik": "zinkte",
-          "jij": "zinkte",
-          "u": "zinkte",
-          "hij/zij": "zinkte",
-          "wij": "zinkten",
-          "jullie": "zinkten",
-          "zij_plural": "zinkten"
+          "ik": "zonk",
+          "jij": "zonk",
+          "u": "zonk",
+          "hij/zij": "zonk",
+          "wij": "zonken",
+          "jullie": "zonken",
+          "zij_plural": "zonken"
         },
-        "perfect": "gezinkt"
+        "perfect": "gezonken"
       }
     },
     {
@@ -45763,15 +45763,15 @@ const SEED_DATA = {
           "zij_plural": "zuigen"
         },
         "past": {
-          "ik": "zuigde",
-          "jij": "zuigde",
-          "u": "zuigde",
-          "hij/zij": "zuigde",
-          "wij": "zuigden",
-          "jullie": "zuigden",
-          "zij_plural": "zuigden"
+          "ik": "zoog",
+          "jij": "zoog",
+          "u": "zoog",
+          "hij/zij": "zoog",
+          "wij": "zogen",
+          "jullie": "zogen",
+          "zij_plural": "zogen"
         },
-        "perfect": "gezuigd"
+        "perfect": "gezogen"
       }
     },
     {
@@ -45841,15 +45841,15 @@ const SEED_DATA = {
           "zij_plural": "zwellen"
         },
         "past": {
-          "ik": "zwelde",
-          "jij": "zwelde",
-          "u": "zwelde",
-          "hij/zij": "zwelde",
-          "wij": "zwelden",
-          "jullie": "zwelden",
-          "zij_plural": "zwelden"
+          "ik": "zwol",
+          "jij": "zwol",
+          "u": "zwol",
+          "hij/zij": "zwol",
+          "wij": "zwollen",
+          "jullie": "zwollen",
+          "zij_plural": "zwollen"
         },
-        "perfect": "gezweld"
+        "perfect": "gezwollen"
       }
     },
     {
@@ -45919,15 +45919,15 @@ const SEED_DATA = {
           "zij_plural": "zwerven"
         },
         "past": {
-          "ik": "zwerfte",
-          "jij": "zwerfte",
-          "u": "zwerfte",
-          "hij/zij": "zwerfte",
-          "wij": "zwerften",
-          "jullie": "zwerften",
-          "zij_plural": "zwerften"
+          "ik": "zwierf",
+          "jij": "zwierf",
+          "u": "zwierf",
+          "hij/zij": "zwierf",
+          "wij": "zwierven",
+          "jullie": "zwierven",
+          "zij_plural": "zwierven"
         },
-        "perfect": "gezwerft"
+        "perfect": "gezworven"
       }
     },
     {
@@ -45997,15 +45997,15 @@ const SEED_DATA = {
           "zij_plural": "zwijgen"
         },
         "past": {
-          "ik": "zwijgde",
-          "jij": "zwijgde",
-          "u": "zwijgde",
-          "hij/zij": "zwijgde",
-          "wij": "zwijgden",
-          "jullie": "zwijgden",
-          "zij_plural": "zwijgden"
+          "ik": "zweeg",
+          "jij": "zweeg",
+          "u": "zweeg",
+          "hij/zij": "zweeg",
+          "wij": "zwegen",
+          "jullie": "zwegen",
+          "zij_plural": "zwegen"
         },
-        "perfect": "gezwijgd"
+        "perfect": "gezwegen"
       }
     }
   ],
