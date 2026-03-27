@@ -133,6 +133,7 @@ body {
 .badge { padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; }
 .badge-ok { background: rgba(46, 204, 113, 0.2); color: var(--success); }
 .badge-missing { background: rgba(231, 76, 60, 0.2); color: var(--danger); }
+.badge-sep { background: rgba(52, 152, 219, 0.2); color: #3498db; cursor: help; }
 
 .empty-msg { color: var(--text-muted); text-align: center; padding: 3rem; }
 

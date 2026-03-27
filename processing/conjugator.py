@@ -1,7 +1,108 @@
 """
 Dutch verb conjugation engine.
 Handles regular verbs automatically; irregular verbs are specified manually.
+Supports scheidbare werkwoorden (separable verbs).
 """
+
+# Separable prefixes in Dutch, ordered longest-first to avoid false matches
+SEPARABLE_PREFIXES = [
+    'terug', 'samen', 'tegen', 'tussen',
+    'achter', 'binnen', 'boven', 'buiten', 'onder', 'over', 'voort', 'voorbij',
+    'aan', 'af', 'bij', 'door', 'in', 'mee', 'na', 'neer', 'om', 'op', 'over',
+    'toe', 'uit', 'vast', 'voor', 'weg',
+]
+
+# Inseparable prefixes — these NEVER split
+INSEPARABLE_PREFIXES = ('be', 'er', 'ge', 'her', 'ont', 'ver')
+
+# Some prefixes can be BOTH separable and inseparable depending on the verb
+# e.g. "overleggen" (inseparable: to consult) vs "overlopen" (separable: to overflow)
+# We handle known ambiguous cases with a manual override list
+FORCE_INSEPARABLE = {
+    'overleggen', 'ondergaan', 'ondernemen', 'ondervinden', 'onderzoeken',
+    'onderscheiden', 'ondersteunen', 'onderbreken', 'onderhouden', 'onderdrukken',
+    'ondervragen', 'ondertekenen', 'onderschatten', 'onderverdelen',
+    'doorgronden', 'doorstaan', 'doorkruisen',
+    'omhelzen', 'omringen', 'omschrijven', 'omvatten',
+    'voorkomen', 'voorzien', 'voorspellen', 'voorkomen',
+    'overtuigen', 'overwegen', 'overleven', 'overwinnen', 'overschrijden',
+    'overtreden', 'overtreffen', 'overheersen',
+    'achtervolgen', 'achterhalen',
+}
+
+FORCE_SEPARABLE = {
+    'aankomen', 'aanbieden', 'aanbrengen', 'aandoen', 'aandringen', 'aangaan',
+    'aangeven', 'aanhouden', 'aankijken', 'aanleggen', 'aannemen', 'aanpassen',
+    'aanraken', 'aansluiten', 'aanspreken', 'aantasten', 'aantonen', 'aanwijzen',
+    'aanzetten', 'afbreken', 'afdoen', 'afgaan', 'afhangen', 'afkomen', 'afleggen',
+    'afleiden', 'aflopen', 'afmaken', 'afnemen', 'afschaffen', 'afsluiten',
+    'afspelen', 'afspreken', 'afwijken', 'afwijzen', 'afzetten',
+    'bijdragen', 'bijhouden', 'bijstaan', 'bijkomen',
+    'doorbreken', 'doorbrengen', 'doorgaan', 'doorlopen', 'doormaken', 'doorvoeren',
+    'doorwerken', 'doorzetten',
+    'ingaan', 'ingrijpen', 'inrichten', 'instellen', 'invoeren', 'inzien',
+    'inzetten', 'inleiden', 'innemen', 'inschrijven', 'inspelen', 'instappen',
+    'meebrengen', 'meedelen', 'meekomen', 'meemaken', 'meenemen', 'meewerken',
+    'meevallen',
+    'nagaan', 'nakijken', 'nalaten', 'nastreven',
+    'neerkomen', 'neerleggen', 'neerzetten',
+    'omgaan', 'omkomen', 'omzetten', 'omdraaien',
+    'opgaan', 'opgeven', 'opkomen', 'opletten', 'opleveren', 'oplopen',
+    'opmerken', 'opnemen', 'oprichten', 'oproepen', 'opruimen', 'opslaan',
+    'opstaan', 'opstellen', 'optreden', 'opvallen', 'opvatten', 'opvoeden',
+    'opvangen', 'opzoeken',
+    'terugkeren', 'terugkomen', 'terugvinden', 'teruggaan', 'terugbrengen',
+    'toelaten', 'toepassen', 'toevoegen', 'toenemen', 'toekomen', 'toekennen',
+    'uitgaan', 'uitgeven', 'uitkomen', 'uitmaken', 'uitnodigen', 'uitoefenen',
+    'uitspreken', 'uitstellen', 'uitvoeren', 'uitwerken', 'uitwijzen', 'uitzetten',
+    'uitbreiden', 'uitleggen', 'uitlopen', 'uitpakken', 'uitschakelen', 'uitsluiten',
+    'uitsteken', 'uittrekken', 'uitvallen', 'uitvinden', 'uitwisselen', 'uitzien',
+    'vaststellen', 'vasthouden', 'vastleggen', 'vastzetten',
+    'voordoen', 'voorleggen', 'voornemen', 'voorstellen', 'voortbrengen',
+    'voortduren', 'voortzetten',
+    'weggaan', 'weglopen', 'wegnemen', 'wegvallen',
+    'samenkomen', 'samenwerken', 'samenstellen', 'samenvallen', 'samenhangen',
+    'tegenspreken', 'tegenkomen', 'tegenhouden', 'tegenvallen',
+}
+
+
+def is_separable(infinitive):
+    """Check if a verb is separable (scheidbaar werkwoord)."""
+    if infinitive in FORCE_INSEPARABLE:
+        return False
+    if infinitive in FORCE_SEPARABLE:
+        return True
+
+    # Check if it starts with an inseparable prefix
+    for prefix in INSEPARABLE_PREFIXES:
+        if infinitive.startswith(prefix) and len(infinitive) > len(prefix) + 2:
+            return False
+
+    # Check if it starts with a separable prefix
+    for prefix in SEPARABLE_PREFIXES:
+        if infinitive.startswith(prefix):
+            remainder = infinitive[len(prefix):]
+            # The remainder should be a valid verb (ends in -en or -n)
+            if len(remainder) >= 3 and (remainder.endswith('en') or remainder.endswith('n')):
+                return True
+
+    return False
+
+
+def split_separable(infinitive):
+    """Split a separable verb into (prefix, base_verb). Returns (None, infinitive) if not separable."""
+    if not is_separable(infinitive):
+        return None, infinitive
+
+    # Try longest prefix first
+    for prefix in sorted(SEPARABLE_PREFIXES, key=len, reverse=True):
+        if infinitive.startswith(prefix):
+            remainder = infinitive[len(prefix):]
+            if len(remainder) >= 3 and (remainder.endswith('en') or remainder.endswith('n')):
+                return prefix, remainder
+
+    return None, infinitive
+
 
 def get_stem(infinitive):
     """Get the verb stem from the infinitive."""
@@ -12,11 +113,11 @@ def get_stem(infinitive):
     else:
         return infinitive
 
-    # Dutch spelling rules: double vowel in open syllable
-    # If stem ends in double vowel + consonant pattern, it might need adjustment
-    # E.g., 'maken' -> 'maak' (not 'mak')
-    # E.g., 'lopen' -> 'loop' (not 'lop')
-    # But 'werken' -> 'werk'
+    # Reduce double final consonants: "bell" -> "bel", "stell" -> "stel"
+    # In Dutch, double consonants at the end of a word are reduced to single
+    # (they were doubled to keep the preceding vowel short in the infinitive)
+    if len(stem) >= 3 and stem[-1] == stem[-2] and stem[-1] not in 'aeiou':
+        stem = stem[:-1]
 
     return stem
 
@@ -25,41 +126,64 @@ def apply_spelling_rules(stem, infinitive):
     """
     Apply Dutch spelling rules to get the correct stem.
     In Dutch, long vowels in closed syllables need doubling.
+    Key insight: check the ORIGINAL infinitive to determine if a vowel is long or short.
+    - Single consonant before 'en' = long vowel (open syllable): ma-ken → maak
+    - Double consonant before 'en' = short vowel (closed syllable): bel-len → bel
     """
     if len(stem) < 2:
         return stem
 
-    # If the infinitive has a single vowel between consonants (CVC pattern in stem),
-    # but the infinitive spelling shows it's a long vowel (open syllable in infinitive),
-    # we need to double the vowel in the stem.
-    # E.g., 'ma-ken' has open syllable 'ma' -> stem needs 'aa' -> 'maak'
-    # E.g., 'lo-pen' has open syllable 'lo' -> stem needs 'oo' -> 'loop'
-
     vowels = 'aeiou'
 
-    # Check if stem ends with consonant and has single vowel before it
-    if len(stem) >= 2 and stem[-1] not in vowels:
-        # Find the last vowel cluster
-        i = len(stem) - 2
-        while i >= 0 and stem[i] not in vowels:
-            i -= 1
+    # Determine from the infinitive whether the vowel before the ending is long or short.
+    # Strip the -en/-n ending to get the raw infinitive stem (before our consonant reduction)
+    if infinitive.endswith('en'):
+        raw_inf_stem = infinitive[:-2]
+    elif infinitive.endswith('n'):
+        raw_inf_stem = infinitive[:-1]
+    else:
+        raw_inf_stem = infinitive
 
-        if i >= 0 and stem[i] in vowels:
-            # Check if it's a single vowel (not already doubled)
-            if i == 0 or stem[i-1] not in vowels:
-                # Check if in the infinitive this was an open syllable
-                # (the vowel is followed by a single consonant then 'en')
-                inf_vowel_pos = i
-                consonants_after = 0
-                for j in range(i+1, len(stem)):
-                    if stem[j] not in vowels:
-                        consonants_after += 1
+    # Check if raw_inf_stem ends with double consonant → short vowel, do NOT double
+    has_double_consonant = (len(raw_inf_stem) >= 2
+                           and raw_inf_stem[-1] == raw_inf_stem[-2]
+                           and raw_inf_stem[-1] not in vowels)
 
-                if consonants_after == 1:
-                    # This was likely an open syllable in the infinitive
-                    # Double the vowel
-                    vowel = stem[i]
-                    stem = stem[:i] + vowel + stem[i:]
+    if not has_double_consonant:
+        # Check if stem ends with consonant and has single vowel before it
+        if len(stem) >= 2 and stem[-1] not in vowels:
+            # Find the last vowel
+            i = len(stem) - 2
+            while i >= 0 and stem[i] not in vowels:
+                i -= 1
+
+            if i >= 0 and stem[i] in vowels:
+                # Check if it's a single vowel (not already doubled)
+                if i == 0 or stem[i-1] not in vowels:
+                    # Only double for monosyllabic base stems.
+                    # Polysyllabic stems like "nodig" should NOT get doubling.
+                    # But for inseparable prefix verbs (betalen→betal), ignore the
+                    # prefix vowel — check only the base verb portion.
+                    check_from = 0
+                    for pfx in INSEPARABLE_PREFIXES:
+                        if stem.startswith(pfx):
+                            remainder_root = stem[len(pfx):]
+                            # Only treat as prefix if remainder has a vowel
+                            if any(c in vowels for c in remainder_root):
+                                check_from = len(pfx)
+                                break
+                    has_earlier_vowel = any(c in vowels for c in stem[check_from:i])
+
+                    # Count consonants after the vowel in the stem
+                    consonants_after = 0
+                    for j in range(i+1, len(stem)):
+                        if stem[j] not in vowels:
+                            consonants_after += 1
+
+                    if consonants_after == 1 and not has_earlier_vowel:
+                        # Open syllable in infinitive → long vowel → double it
+                        vowel = stem[i]
+                        stem = stem[:i] + vowel + stem[i:]
 
     # Handle 'z' -> 's' and 'v' -> 'f' at end of stem
     if stem.endswith('z'):
@@ -73,31 +197,49 @@ def apply_spelling_rules(stem, infinitive):
 def conjugate_regular(infinitive):
     """
     Conjugate a regular Dutch verb.
-    Returns conjugation dict with present, past, and perfect.
+    Returns conjugation dict with present, past, perfect, and separable flag.
+    Handles scheidbare werkwoorden (separable verbs).
     """
-    raw_stem = get_stem(infinitive)
-    stem = apply_spelling_rules(raw_stem, infinitive)
+    sep_prefix, base_verb = split_separable(infinitive)
+    is_sep = sep_prefix is not None
+
+    # Conjugate the base verb (without the separable prefix)
+    verb_to_conjugate = base_verb if is_sep else infinitive
+    raw_stem = get_stem(verb_to_conjugate)
+    stem = apply_spelling_rules(raw_stem, verb_to_conjugate)
 
     # Present tense
-    present = {
-        'ik': stem,
-        'jij': stem + 't',
-        'u': stem + 't',
-        'hij/zij': stem + 't',
-        'wij': infinitive,
-        'jullie': infinitive,
-        'zij_plural': infinitive
-    }
-
-    # Fix: if stem already ends in 't', don't add another
-    if stem.endswith('t'):
-        present['jij'] = stem
-        present['u'] = stem
-        present['hij/zij'] = stem
+    if is_sep:
+        # Separable: "ik bel op", "jij belt op"
+        present = {
+            'ik': stem + ' ' + sep_prefix,
+            'jij': stem + 't ' + sep_prefix,
+            'u': stem + 't ' + sep_prefix,
+            'hij/zij': stem + 't ' + sep_prefix,
+            'wij': base_verb + ' ' + sep_prefix,
+            'jullie': base_verb + ' ' + sep_prefix,
+            'zij_plural': base_verb + ' ' + sep_prefix,
+        }
+        if stem.endswith('t'):
+            present['jij'] = stem + ' ' + sep_prefix
+            present['u'] = stem + ' ' + sep_prefix
+            present['hij/zij'] = stem + ' ' + sep_prefix
+    else:
+        present = {
+            'ik': stem,
+            'jij': stem + 't',
+            'u': stem + 't',
+            'hij/zij': stem + 't',
+            'wij': infinitive,
+            'jullie': infinitive,
+            'zij_plural': infinitive
+        }
+        if stem.endswith('t'):
+            present['jij'] = stem
+            present['u'] = stem
+            present['hij/zij'] = stem
 
     # Past tense: 't kofschip rule
-    # If stem ends in t, k, f, s, ch, p -> add 'te/ten'
-    # Otherwise -> add 'de/den'
     tkofschip = ('t', 'k', 'f', 's', 'p')
 
     if stem.endswith('ch') or stem[-1] in tkofschip:
@@ -107,41 +249,68 @@ def conjugate_regular(infinitive):
         past_singular = stem + 'de'
         past_plural = stem + 'den'
 
-    past = {
-        'ik': past_singular,
-        'jij': past_singular,
-        'u': past_singular,
-        'hij/zij': past_singular,
-        'wij': past_plural,
-        'jullie': past_plural,
-        'zij_plural': past_plural
-    }
+    if is_sep:
+        past = {
+            'ik': past_singular + ' ' + sep_prefix,
+            'jij': past_singular + ' ' + sep_prefix,
+            'u': past_singular + ' ' + sep_prefix,
+            'hij/zij': past_singular + ' ' + sep_prefix,
+            'wij': past_plural + ' ' + sep_prefix,
+            'jullie': past_plural + ' ' + sep_prefix,
+            'zij_plural': past_plural + ' ' + sep_prefix,
+        }
+    else:
+        past = {
+            'ik': past_singular,
+            'jij': past_singular,
+            'u': past_singular,
+            'hij/zij': past_singular,
+            'wij': past_plural,
+            'jullie': past_plural,
+            'zij_plural': past_plural
+        }
 
     # Perfect participle
-    # ge + stem + t/d (same t kofschip rule)
-    prefix = 'ge'
-
-    # Inseparable prefixes don't get 'ge-'
-    inseparable = ('be', 'er', 'ge', 'her', 'ont', 'ver')
-    for p in inseparable:
-        if infinitive.startswith(p) and len(infinitive) > len(p) + 2:
-            prefix = ''
-            break
-
-    if stem.endswith('ch') or stem[-1] in tkofschip:
-        perfect = prefix + stem + 't'
+    if is_sep:
+        # Separable: prefix + ge + stem + t/d → "opgebeld", "aangekomen"
+        if stem.endswith('ch') or stem[-1] in tkofschip:
+            perfect = sep_prefix + 'ge' + stem + 't'
+        else:
+            perfect = sep_prefix + 'ge' + stem + 'd'
     else:
-        perfect = prefix + stem + 'd'
+        prefix = 'ge'
+        # Inseparable prefixes don't get 'ge-'
+        # The remainder must look like a real verb: ≥4 chars, ends in -en,
+        # and has a vowel before the -en ending (so "llen" from "bellen" is rejected)
+        insep_vowels = 'aeiou'
+        for p in INSEPARABLE_PREFIXES:
+            if infinitive.startswith(p):
+                remainder = infinitive[len(p):]
+                root = remainder[:-2] if remainder.endswith('en') else remainder[:-1] if remainder.endswith('n') else ''
+                if len(remainder) >= 4 and remainder.endswith('en') and any(c in insep_vowels for c in root):
+                    prefix = ''
+                    break
 
-    # Fix double 'ge' for verbs starting with 'ge'
-    if perfect.startswith('gege'):
-        perfect = perfect[2:]
+        if stem.endswith('ch') or stem[-1] in tkofschip:
+            perfect = prefix + stem + 't'
+        else:
+            perfect = prefix + stem + 'd'
 
-    return {
+        # Fix double 'ge' for verbs starting with 'ge'
+        if perfect.startswith('gege'):
+            perfect = perfect[2:]
+
+    result = {
         'present': present,
         'past': past,
         'perfect': perfect
     }
+
+    if is_sep:
+        result['separable'] = True
+        result['prefix'] = sep_prefix
+
+    return result
 
 
 # Irregular verbs - manually specified
@@ -661,11 +830,146 @@ IRREGULAR_VERBS = {
         'past': {'ik': 'laadde', 'jij': 'laadde', 'u': 'laadde', 'hij/zij': 'laadde', 'wij': 'laadden', 'jullie': 'laadden', 'zij_plural': 'laadden'},
         'perfect': 'geladen'
     },
+    'bezoeken': {
+        'present': {'ik': 'bezoek', 'jij': 'bezoekt', 'u': 'bezoekt', 'hij/zij': 'bezoekt', 'wij': 'bezoeken', 'jullie': 'bezoeken', 'zij_plural': 'bezoeken'},
+        'past': {'ik': 'bezocht', 'jij': 'bezocht', 'u': 'bezocht', 'hij/zij': 'bezocht', 'wij': 'bezochten', 'jullie': 'bezochten', 'zij_plural': 'bezochten'},
+        'perfect': 'bezocht'
+    },
+    'beschrijven': {
+        'present': {'ik': 'beschrijf', 'jij': 'beschrijft', 'u': 'beschrijft', 'hij/zij': 'beschrijft', 'wij': 'beschrijven', 'jullie': 'beschrijven', 'zij_plural': 'beschrijven'},
+        'past': {'ik': 'beschreef', 'jij': 'beschreef', 'u': 'beschreef', 'hij/zij': 'beschreef', 'wij': 'beschreven', 'jullie': 'beschreven', 'zij_plural': 'beschreven'},
+        'perfect': 'beschreven'
+    },
+    'besluiten': {
+        'present': {'ik': 'besluit', 'jij': 'besluit', 'u': 'besluit', 'hij/zij': 'besluit', 'wij': 'besluiten', 'jullie': 'besluiten', 'zij_plural': 'besluiten'},
+        'past': {'ik': 'besloot', 'jij': 'besloot', 'u': 'besloot', 'hij/zij': 'besloot', 'wij': 'besloten', 'jullie': 'besloten', 'zij_plural': 'besloten'},
+        'perfect': 'besloten'
+    },
+    'bespreken': {
+        'present': {'ik': 'bespreek', 'jij': 'bespreekt', 'u': 'bespreekt', 'hij/zij': 'bespreekt', 'wij': 'bespreken', 'jullie': 'bespreken', 'zij_plural': 'bespreken'},
+        'past': {'ik': 'besprak', 'jij': 'besprak', 'u': 'besprak', 'hij/zij': 'besprak', 'wij': 'bespraken', 'jullie': 'bespraken', 'zij_plural': 'bespraken'},
+        'perfect': 'besproken'
+    },
+    'bestrijden': {
+        'present': {'ik': 'bestrijd', 'jij': 'bestrijdt', 'u': 'bestrijdt', 'hij/zij': 'bestrijdt', 'wij': 'bestrijden', 'jullie': 'bestrijden', 'zij_plural': 'bestrijden'},
+        'past': {'ik': 'bestreed', 'jij': 'bestreed', 'u': 'bestreed', 'hij/zij': 'bestreed', 'wij': 'bestreden', 'jullie': 'bestreden', 'zij_plural': 'bestreden'},
+        'perfect': 'bestreden'
+    },
+    'bedrijven': {
+        'present': {'ik': 'bedrijf', 'jij': 'bedrijft', 'u': 'bedrijft', 'hij/zij': 'bedrijft', 'wij': 'bedrijven', 'jullie': 'bedrijven', 'zij_plural': 'bedrijven'},
+        'past': {'ik': 'bedreef', 'jij': 'bedreef', 'u': 'bedreef', 'hij/zij': 'bedreef', 'wij': 'bedreven', 'jullie': 'bedreven', 'zij_plural': 'bedreven'},
+        'perfect': 'bedreven'
+    },
+    'bederven': {
+        'present': {'ik': 'bederf', 'jij': 'bederft', 'u': 'bederft', 'hij/zij': 'bederft', 'wij': 'bederven', 'jullie': 'bederven', 'zij_plural': 'bederven'},
+        'past': {'ik': 'bedierf', 'jij': 'bedierf', 'u': 'bedierf', 'hij/zij': 'bedierf', 'wij': 'bedierven', 'jullie': 'bedierven', 'zij_plural': 'bedierven'},
+        'perfect': 'bedorven'
+    },
+    'bedwingen': {
+        'present': {'ik': 'bedwing', 'jij': 'bedwingt', 'u': 'bedwingt', 'hij/zij': 'bedwingt', 'wij': 'bedwingen', 'jullie': 'bedwingen', 'zij_plural': 'bedwingen'},
+        'past': {'ik': 'bedwong', 'jij': 'bedwong', 'u': 'bedwong', 'hij/zij': 'bedwong', 'wij': 'bedwongen', 'jullie': 'bedwongen', 'zij_plural': 'bedwongen'},
+        'perfect': 'bedwongen'
+    },
+    'bevallen': {
+        'present': {'ik': 'beval', 'jij': 'bevalt', 'u': 'bevalt', 'hij/zij': 'bevalt', 'wij': 'bevallen', 'jullie': 'bevallen', 'zij_plural': 'bevallen'},
+        'past': {'ik': 'beviel', 'jij': 'beviel', 'u': 'beviel', 'hij/zij': 'beviel', 'wij': 'bevielen', 'jullie': 'bevielen', 'zij_plural': 'bevielen'},
+        'perfect': 'bevallen'
+    },
+    'bewijzen': {
+        'present': {'ik': 'bewijs', 'jij': 'bewijst', 'u': 'bewijst', 'hij/zij': 'bewijst', 'wij': 'bewijzen', 'jullie': 'bewijzen', 'zij_plural': 'bewijzen'},
+        'past': {'ik': 'bewees', 'jij': 'bewees', 'u': 'bewees', 'hij/zij': 'bewees', 'wij': 'bewezen', 'jullie': 'bewezen', 'zij_plural': 'bewezen'},
+        'perfect': 'bewezen'
+    },
+    'verdwijnen': {
+        'present': {'ik': 'verdwijn', 'jij': 'verdwijnt', 'u': 'verdwijnt', 'hij/zij': 'verdwijnt', 'wij': 'verdwijnen', 'jullie': 'verdwijnen', 'zij_plural': 'verdwijnen'},
+        'past': {'ik': 'verdween', 'jij': 'verdween', 'u': 'verdween', 'hij/zij': 'verdween', 'wij': 'verdwenen', 'jullie': 'verdwenen', 'zij_plural': 'verdwenen'},
+        'perfect': 'verdwenen'
+    },
+    'verschijnen': {
+        'present': {'ik': 'verschijn', 'jij': 'verschijnt', 'u': 'verschijnt', 'hij/zij': 'verschijnt', 'wij': 'verschijnen', 'jullie': 'verschijnen', 'zij_plural': 'verschijnen'},
+        'past': {'ik': 'verscheen', 'jij': 'verscheen', 'u': 'verscheen', 'hij/zij': 'verscheen', 'wij': 'verschenen', 'jullie': 'verschenen', 'zij_plural': 'verschenen'},
+        'perfect': 'verschenen'
+    },
+    'verliezen': {
+        'present': {'ik': 'verlies', 'jij': 'verliest', 'u': 'verliest', 'hij/zij': 'verliest', 'wij': 'verliezen', 'jullie': 'verliezen', 'zij_plural': 'verliezen'},
+        'past': {'ik': 'verloor', 'jij': 'verloor', 'u': 'verloor', 'hij/zij': 'verloor', 'wij': 'verloren', 'jullie': 'verloren', 'zij_plural': 'verloren'},
+        'perfect': 'verloren'
+    },
+    'ontbreken': {
+        'present': {'ik': 'ontbreek', 'jij': 'ontbreekt', 'u': 'ontbreekt', 'hij/zij': 'ontbreekt', 'wij': 'ontbreken', 'jullie': 'ontbreken', 'zij_plural': 'ontbreken'},
+        'past': {'ik': 'ontbrak', 'jij': 'ontbrak', 'u': 'ontbrak', 'hij/zij': 'ontbrak', 'wij': 'ontbraken', 'jullie': 'ontbraken', 'zij_plural': 'ontbraken'},
+        'perfect': 'ontbroken'
+    },
+    'ontvangen': {
+        'present': {'ik': 'ontvang', 'jij': 'ontvangt', 'u': 'ontvangt', 'hij/zij': 'ontvangt', 'wij': 'ontvangen', 'jullie': 'ontvangen', 'zij_plural': 'ontvangen'},
+        'past': {'ik': 'ontving', 'jij': 'ontving', 'u': 'ontving', 'hij/zij': 'ontving', 'wij': 'ontvingen', 'jullie': 'ontvingen', 'zij_plural': 'ontvingen'},
+        'perfect': 'ontvangen'
+    },
+    'verbinden': {
+        'present': {'ik': 'verbind', 'jij': 'verbindt', 'u': 'verbindt', 'hij/zij': 'verbindt', 'wij': 'verbinden', 'jullie': 'verbinden', 'zij_plural': 'verbinden'},
+        'past': {'ik': 'verbond', 'jij': 'verbond', 'u': 'verbond', 'hij/zij': 'verbond', 'wij': 'verbonden', 'jullie': 'verbonden', 'zij_plural': 'verbonden'},
+        'perfect': 'verbonden'
+    },
+    'vergelijken': {
+        'present': {'ik': 'vergelijk', 'jij': 'vergelijkt', 'u': 'vergelijkt', 'hij/zij': 'vergelijkt', 'wij': 'vergelijken', 'jullie': 'vergelijken', 'zij_plural': 'vergelijken'},
+        'past': {'ik': 'vergeleek', 'jij': 'vergeleek', 'u': 'vergeleek', 'hij/zij': 'vergeleek', 'wij': 'vergeleken', 'jullie': 'vergeleken', 'zij_plural': 'vergeleken'},
+        'perfect': 'vergeleken'
+    },
+    'vernemen': {
+        'present': {'ik': 'verneem', 'jij': 'verneemt', 'u': 'verneemt', 'hij/zij': 'verneemt', 'wij': 'vernemen', 'jullie': 'vernemen', 'zij_plural': 'vernemen'},
+        'past': {'ik': 'vernam', 'jij': 'vernam', 'u': 'vernam', 'hij/zij': 'vernam', 'wij': 'vernamen', 'jullie': 'vernamen', 'zij_plural': 'vernamen'},
+        'perfect': 'vernomen'
+    },
+    'verstaan': {
+        'present': {'ik': 'versta', 'jij': 'verstaat', 'u': 'verstaat', 'hij/zij': 'verstaat', 'wij': 'verstaan', 'jullie': 'verstaan', 'zij_plural': 'verstaan'},
+        'past': {'ik': 'verstond', 'jij': 'verstond', 'u': 'verstond', 'hij/zij': 'verstond', 'wij': 'verstonden', 'jullie': 'verstonden', 'zij_plural': 'verstonden'},
+        'perfect': 'verstaan'
+    },
 }
 
 
 def conjugate(infinitive):
-    """Get conjugation for a verb - irregular if known, otherwise regular."""
+    """
+    Get conjugation for a verb.
+    Handles: irregular verbs, separable verbs with irregular bases, and regular verbs.
+    """
+    # Direct irregular match
     if infinitive in IRREGULAR_VERBS:
-        return IRREGULAR_VERBS[infinitive]
+        result = IRREGULAR_VERBS[infinitive]
+        # Check if this irregular verb is also separable
+        sep_prefix, base = split_separable(infinitive)
+        if sep_prefix and 'separable' not in result:
+            result['separable'] = True
+            result['prefix'] = sep_prefix
+        return result
+
+    # Separable verb with irregular base?
+    # e.g., "aankomen" -> prefix="aan", base="komen" (irregular)
+    sep_prefix, base_verb = split_separable(infinitive)
+    if sep_prefix and base_verb in IRREGULAR_VERBS:
+        base_conj = IRREGULAR_VERBS[base_verb]
+        # Build separable conjugation from the irregular base
+        present = {}
+        past = {}
+        for person in base_conj['present']:
+            present[person] = base_conj['present'][person] + ' ' + sep_prefix
+        for person in base_conj['past']:
+            past[person] = base_conj['past'][person] + ' ' + sep_prefix
+
+        # Perfect: prefix + ge + base_perfect (but remove 'ge' from base if present)
+        base_perfect = base_conj['perfect']
+        if base_perfect.startswith('ge'):
+            perfect = sep_prefix + base_perfect  # aan + gekomen = aangekomen
+        else:
+            perfect = sep_prefix + 'ge' + base_perfect
+
+        return {
+            'present': present,
+            'past': past,
+            'perfect': perfect,
+            'separable': True,
+            'prefix': sep_prefix
+        }
+
+    # Regular verb (possibly separable - handled inside conjugate_regular)
     return conjugate_regular(infinitive)

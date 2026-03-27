@@ -79,13 +79,16 @@ const Manager = (() => {
 
   function renderVerbTable(items) {
     return `<table class="word-table">
-      <thead><tr><th>Dutch</th><th>English</th><th>Conjugated</th><th>Actions</th></tr></thead>
+      <thead><tr><th>Dutch</th><th>English</th><th>Type</th><th>Conjugated</th><th>Actions</th></tr></thead>
       <tbody>${items.map(w => {
         const hasConj = w.conjugations && w.conjugations.present && w.conjugations.present.ik;
+        const isSep = w.conjugations && w.conjugations.separable;
+        const prefix = w.conjugations && w.conjugations.prefix ? w.conjugations.prefix : '';
         return `
         <tr>
           <td>${esc(w.word)}</td>
           <td>${esc(w.translation)}</td>
+          <td>${isSep ? `<span class="badge badge-sep" title="Scheidbaar werkwoord: ${esc(prefix)}+">sep</span>` : ''}</td>
           <td>${hasConj ? '<span class="badge badge-ok">Yes</span>' : '<span class="badge badge-missing">No</span>'}</td>
           <td class="actions">
             <button class="btn btn-sm" onclick="Manager.editWord('${w.id}')">Edit</button>
@@ -148,6 +151,8 @@ const Manager = (() => {
       `;
     } else if (currentTab === 'verbs') {
       const conj = existing?.conjugations || { present: {}, past: {}, perfect: '' };
+      const isSep = conj.separable || false;
+      const sepPrefix = conj.prefix || '';
       formFields = `
         <div class="form-group">
           <label>Dutch infinitive</label>
@@ -156,6 +161,16 @@ const Manager = (() => {
         <div class="form-group">
           <label>English translation</label>
           <input type="text" id="form-translation" value="${esc(existing?.translation || '')}">
+        </div>
+        <div class="form-group">
+          <label>
+            <input type="checkbox" id="form-separable" ${isSep ? 'checked' : ''}>
+            Scheidbaar werkwoord (separable verb)
+          </label>
+          <div style="margin-top: 0.3rem;">
+            <label style="font-size: 0.8rem;">Prefix</label>
+            <input type="text" id="form-sep-prefix" value="${esc(sepPrefix)}" placeholder="e.g. op, aan, uit..." style="width: 120px;">
+          </div>
         </div>
         <div class="form-group">
           <label>Conjugations</label>
@@ -240,6 +255,15 @@ const Manager = (() => {
         conjugations[tense][person] = input.value.trim();
       });
       conjugations.perfect = document.getElementById('form-perfect')?.value.trim() || '';
+      const isSep = document.getElementById('form-separable')?.checked || false;
+      const sepPrefix = document.getElementById('form-sep-prefix')?.value.trim() || '';
+      if (isSep && sepPrefix) {
+        conjugations.separable = true;
+        conjugations.prefix = sepPrefix;
+      } else {
+        delete conjugations.separable;
+        delete conjugations.prefix;
+      }
       const item = { word, translation, conjugations };
       if (existingId) {
         Store.update('verbs', existingId, item);
