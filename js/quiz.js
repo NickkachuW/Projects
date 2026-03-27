@@ -131,11 +131,42 @@ const Quiz = (() => {
       const allWords = [...Store.getAll('nouns'), ...Store.getAll('verbs'), ...Store.getAll('adjectives')];
       pool = allWords.filter(w => w.id !== q.wordId).map(w => w.word);
     } else if (q.type === 'conjugation') {
-      // Get other conjugations of different verbs
-      const verbs = Store.getAll('verbs').filter(v =>
-        v.id !== q.wordId && v.conjugations && v.conjugations[q.tense] && v.conjugations[q.tense][q.person]
-      );
-      pool = verbs.map(v => v.conjugations[q.tense][q.person]).filter(c => c);
+      // Use other conjugations of the SAME verb as distractors
+      // This forces the learner to know the exact form for person+tense
+      const conj = q.word.conjugations || {};
+      const correctAnswer = getCorrectAnswer(q).toLowerCase();
+      const allForms = new Set();
+
+      // Collect all conjugation forms from this verb (both tenses)
+      for (const tense of ['present', 'past']) {
+        if (conj[tense]) {
+          for (const person of Object.keys(conj[tense])) {
+            const form = conj[tense][person];
+            if (form && form.toLowerCase() !== correctAnswer) {
+              allForms.add(form);
+            }
+          }
+        }
+      }
+      // Also add the perfect participle and infinitive as tricky options
+      if (conj.perfect && conj.perfect.toLowerCase() !== correctAnswer) {
+        allForms.add(conj.perfect);
+      }
+      if (q.word.word.toLowerCase() !== correctAnswer) {
+        allForms.add(q.word.word);
+      }
+
+      pool = [...allForms];
+
+      // If not enough same-verb distractors, add some from similar verbs as fallback
+      if (pool.length < count) {
+        const verbs = Store.getAll('verbs').filter(v =>
+          v.id !== q.wordId && v.conjugations && v.conjugations[q.tense] && v.conjugations[q.tense][q.person]
+        );
+        const extraPool = verbs.map(v => v.conjugations[q.tense][q.person]).filter(c => c);
+        shuffleArray(extraPool);
+        pool.push(...extraPool);
+      }
     }
 
     // Shuffle and pick unique distractors
