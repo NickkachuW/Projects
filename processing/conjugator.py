@@ -928,6 +928,51 @@ IRREGULAR_VERBS = {
         'past': {'ik': 'verstond', 'jij': 'verstond', 'u': 'verstond', 'hij/zij': 'verstond', 'wij': 'verstonden', 'jullie': 'verstonden', 'zij_plural': 'verstonden'},
         'perfect': 'verstaan'
     },
+    'scheiden': {
+        'present': {'ik': 'scheid', 'jij': 'scheidt', 'u': 'scheidt', 'hij/zij': 'scheidt', 'wij': 'scheiden', 'jullie': 'scheiden', 'zij_plural': 'scheiden'},
+        'past': {'ik': 'scheidde', 'jij': 'scheidde', 'u': 'scheidde', 'hij/zij': 'scheidde', 'wij': 'scheidden', 'jullie': 'scheidden', 'zij_plural': 'scheidden'},
+        'perfect': 'gescheiden'
+    },
+    'glijden': {
+        'present': {'ik': 'glijd', 'jij': 'glijdt', 'u': 'glijdt', 'hij/zij': 'glijdt', 'wij': 'glijden', 'jullie': 'glijden', 'zij_plural': 'glijden'},
+        'past': {'ik': 'gleed', 'jij': 'gleed', 'u': 'gleed', 'hij/zij': 'gleed', 'wij': 'gleden', 'jullie': 'gleden', 'zij_plural': 'gleden'},
+        'perfect': 'gegleden'
+    },
+    'vermijden': {
+        'present': {'ik': 'vermijd', 'jij': 'vermijdt', 'u': 'vermijdt', 'hij/zij': 'vermijdt', 'wij': 'vermijden', 'jullie': 'vermijden', 'zij_plural': 'vermijden'},
+        'past': {'ik': 'vermeed', 'jij': 'vermeed', 'u': 'vermeed', 'hij/zij': 'vermeed', 'wij': 'vermeden', 'jullie': 'vermeden', 'zij_plural': 'vermeden'},
+        'perfect': 'vermeden'
+    },
+    'strijden': {
+        'present': {'ik': 'strijd', 'jij': 'strijdt', 'u': 'strijdt', 'hij/zij': 'strijdt', 'wij': 'strijden', 'jullie': 'strijden', 'zij_plural': 'strijden'},
+        'past': {'ik': 'streed', 'jij': 'streed', 'u': 'streed', 'hij/zij': 'streed', 'wij': 'streden', 'jullie': 'streden', 'zij_plural': 'streden'},
+        'perfect': 'gestreden'
+    },
+    'bidden': {
+        'present': {'ik': 'bid', 'jij': 'bidt', 'u': 'bidt', 'hij/zij': 'bidt', 'wij': 'bidden', 'jullie': 'bidden', 'zij_plural': 'bidden'},
+        'past': {'ik': 'bad', 'jij': 'bad', 'u': 'bad', 'hij/zij': 'bad', 'wij': 'baden', 'jullie': 'baden', 'zij_plural': 'baden'},
+        'perfect': 'gebeden'
+    },
+    'schudden': {
+        'present': {'ik': 'schud', 'jij': 'schudt', 'u': 'schudt', 'hij/zij': 'schudt', 'wij': 'schudden', 'jullie': 'schudden', 'zij_plural': 'schudden'},
+        'past': {'ik': 'schudde', 'jij': 'schudde', 'u': 'schudde', 'hij/zij': 'schudde', 'wij': 'schudden', 'jullie': 'schudden', 'zij_plural': 'schudden'},
+        'perfect': 'geschud'
+    },
+    'betreden': {
+        'present': {'ik': 'betreed', 'jij': 'betreedt', 'u': 'betreedt', 'hij/zij': 'betreedt', 'wij': 'betreden', 'jullie': 'betreden', 'zij_plural': 'betreden'},
+        'past': {'ik': 'betrad', 'jij': 'betrad', 'u': 'betrad', 'hij/zij': 'betrad', 'wij': 'betraden', 'jullie': 'betraden', 'zij_plural': 'betraden'},
+        'perfect': 'betreden'
+    },
+    'bevriezen': {
+        'present': {'ik': 'bevries', 'jij': 'bevriest', 'u': 'bevriest', 'hij/zij': 'bevriest', 'wij': 'bevriezen', 'jullie': 'bevriezen', 'zij_plural': 'bevriezen'},
+        'past': {'ik': 'bevroor', 'jij': 'bevroor', 'u': 'bevroor', 'hij/zij': 'bevroor', 'wij': 'bevroren', 'jullie': 'bevroren', 'zij_plural': 'bevroren'},
+        'perfect': 'bevroren'
+    },
+    'gelden': {
+        'present': {'ik': 'geld', 'jij': 'geldt', 'u': 'geldt', 'hij/zij': 'geldt', 'wij': 'gelden', 'jullie': 'gelden', 'zij_plural': 'gelden'},
+        'past': {'ik': 'gold', 'jij': 'gold', 'u': 'gold', 'hij/zij': 'gold', 'wij': 'golden', 'jullie': 'golden', 'zij_plural': 'golden'},
+        'perfect': 'gegolden'
+    },
 }
 
 

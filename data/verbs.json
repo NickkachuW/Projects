@@ -4318,15 +4318,15 @@
         "zij_plural": "betreden"
       },
       "past": {
-        "ik": "betreedde",
-        "jij": "betreedde",
-        "u": "betreedde",
-        "hij/zij": "betreedde",
-        "wij": "betreedden",
-        "jullie": "betreedden",
-        "zij_plural": "betreedden"
+        "ik": "betrad",
+        "jij": "betrad",
+        "u": "betrad",
+        "hij/zij": "betrad",
+        "wij": "betraden",
+        "jullie": "betraden",
+        "zij_plural": "betraden"
       },
-      "perfect": "betreed"
+      "perfect": "betreden"
     }
   },
   {
@@ -4656,15 +4656,15 @@
         "zij_plural": "bevriezen"
       },
       "past": {
-        "ik": "bevrieste",
-        "jij": "bevrieste",
-        "u": "bevrieste",
-        "hij/zij": "bevrieste",
-        "wij": "bevriesten",
-        "jullie": "bevriesten",
-        "zij_plural": "bevriesten"
+        "ik": "bevroor",
+        "jij": "bevroor",
+        "u": "bevroor",
+        "hij/zij": "bevroor",
+        "wij": "bevroren",
+        "jullie": "bevroren",
+        "zij_plural": "bevroren"
       },
-      "perfect": "bevriest"
+      "perfect": "bevroren"
     }
   },
   {
@@ -5176,15 +5176,15 @@
         "zij_plural": "bidden"
       },
       "past": {
-        "ik": "bidde",
-        "jij": "bidde",
-        "u": "bidde",
-        "hij/zij": "bidde",
-        "wij": "bidden",
-        "jullie": "bidden",
-        "zij_plural": "bidden"
+        "ik": "bad",
+        "jij": "bad",
+        "u": "bad",
+        "hij/zij": "bad",
+        "wij": "baden",
+        "jullie": "baden",
+        "zij_plural": "baden"
       },
-      "perfect": "gebid"
+      "perfect": "gebeden"
     }
   },
   {
@@ -8294,15 +8294,15 @@
         "zij_plural": "gelden"
       },
       "past": {
-        "ik": "geldde",
-        "jij": "geldde",
-        "u": "geldde",
-        "hij/zij": "geldde",
-        "wij": "geldden",
-        "jullie": "geldden",
-        "zij_plural": "geldden"
+        "ik": "gold",
+        "jij": "gold",
+        "u": "gold",
+        "hij/zij": "gold",
+        "wij": "golden",
+        "jullie": "golden",
+        "zij_plural": "golden"
       },
-      "perfect": "geld"
+      "perfect": "gegolden"
     }
   },
   {
@@ -8736,15 +8736,15 @@
         "zij_plural": "glijden"
       },
       "past": {
-        "ik": "glijdde",
-        "jij": "glijdde",
-        "u": "glijdde",
-        "hij/zij": "glijdde",
-        "wij": "glijdden",
-        "jullie": "glijdden",
-        "zij_plural": "glijdden"
+        "ik": "gleed",
+        "jij": "gleed",
+        "u": "gleed",
+        "hij/zij": "gleed",
+        "wij": "gleden",
+        "jullie": "gleden",
+        "zij_plural": "gleden"
       },
-      "perfect": "geglijd"
+      "perfect": "gegleden"
     }
   },
   {
@@ -20178,7 +20178,7 @@
         "jullie": "scheidden",
         "zij_plural": "scheidden"
       },
-      "perfect": "gescheid"
+      "perfect": "gescheiden"
     }
   },
   {
@@ -22640,15 +22640,15 @@
         "zij_plural": "strijden"
       },
       "past": {
-        "ik": "strijdde",
-        "jij": "strijdde",
-        "u": "strijdde",
-        "hij/zij": "strijdde",
-        "wij": "strijdden",
-        "jullie": "strijdden",
-        "zij_plural": "strijdden"
+        "ik": "streed",
+        "jij": "streed",
+        "u": "streed",
+        "hij/zij": "streed",
+        "wij": "streden",
+        "jullie": "streden",
+        "zij_plural": "streden"
       },
-      "perfect": "gestrijd"
+      "perfect": "gestreden"
     }
   },
   {
@@ -27108,15 +27108,15 @@
         "zij_plural": "vermijden"
       },
       "past": {
-        "ik": "vermijdde",
-        "jij": "vermijdde",
-        "u": "vermijdde",
-        "hij/zij": "vermijdde",
-        "wij": "vermijdden",
-        "jullie": "vermijdden",
-        "zij_plural": "vermijdden"
+        "ik": "vermeed",
+        "jij": "vermeed",
+        "u": "vermeed",
+        "hij/zij": "vermeed",
+        "wij": "vermeden",
+        "jullie": "vermeden",
+        "zij_plural": "vermeden"
       },
-      "perfect": "vermijd"
+      "perfect": "vermeden"
     }
   },
   {
