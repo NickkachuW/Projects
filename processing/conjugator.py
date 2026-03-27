@@ -956,10 +956,15 @@ def conjugate(infinitive):
         for person in base_conj['past']:
             past[person] = base_conj['past'][person] + ' ' + sep_prefix
 
-        # Perfect: prefix + ge + base_perfect (but remove 'ge' from base if present)
+        # Perfect: prefix + base_perfect (with 'ge' handling)
+        # - If base already has 'ge': aan + gekomen = aangekomen
+        # - If base has inseparable prefix (no 'ge'): aan + bevolen = aanbevolen
+        # - Otherwise: op + ge + beld = opgebeld
         base_perfect = base_conj['perfect']
         if base_perfect.startswith('ge'):
             perfect = sep_prefix + base_perfect  # aan + gekomen = aangekomen
+        elif any(base_verb.startswith(p) for p in INSEPARABLE_PREFIXES if len(base_verb) > len(p) + 2):
+            perfect = sep_prefix + base_perfect  # aan + bevolen = aanbevolen (no extra ge)
         else:
             perfect = sep_prefix + 'ge' + base_perfect
 

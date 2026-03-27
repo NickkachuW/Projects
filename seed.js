@@ -13675,7 +13675,7 @@ const SEED_DATA = {
           "jullie": "bevalen aan",
           "zij_plural": "bevalen aan"
         },
-        "perfect": "aangebevolen",
+        "perfect": "aanbevolen",
         "separable": true,
         "prefix": "aan"
       }
